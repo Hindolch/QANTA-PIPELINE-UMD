@@ -39,7 +39,6 @@ qb_converter/
 │   └── json_to_qanta.py               # Converts JSON → QANTA CSV + downloads wiki text
 │
 ├── data/
-│   ├── input/                         # DOCX tournament packets
 │   ├── output/                        # Per-round JSON + CSV in QANTA format
 │   └── wiki/                          # Local cache of downloaded Wikipedia articles
 │
