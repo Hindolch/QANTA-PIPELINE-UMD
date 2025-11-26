@@ -1,0 +1,442 @@
+Les préludes ("Preludes" or "The Beginnings"), S.97, is the third of Franz Liszt's thirteen symphonic poems. The music was composed between 1845 and 1854, and began as an overture to Liszt's choral cycle Les quatre élémens (The Four Elements), then revised as a stand-alone concert overture, with a new title referring to a poem by Alphonse de Lamartine.
+Its premiere was on 23 February 1854, conducted by Liszt himself. The score was published in 1856 by Breitkopf & Härtel. Les préludes is the earliest example of an orchestral work entitled "Symphonic Poem" (German: Symphonische Dichtung or French: Poème symphonique).
+
+
+== Genesis ==
+Les préludes is the final revision of an overture initially written for a choral cycle Les quatre éléments (The Four Elements, 1844–48), on 4 poems by the French author Joseph Autran: La Terre (The Earth), Les Aquilons (The north Winds), Les Flots (The Waves), Les Astres (The Stars).
+The chorus Les Aquilons was composed and created in a version for male chorus with 2 pianos accompaniment in Marseille in 1844, and the first sketches of the Ouverture des quatre élémens date from 1845, during Liszt's tour through Spain and Portugal. A manuscript of the overture from 1849 to 1850 shows that the work had by then reached its almost definitive structure and thematic content.
+After being partially orchestrated, the choral cycle project was abandoned. The overture was revised in 1853–54 as a stand-alone piece, with a new title inspired by an ode by the French poet Alphonse de Lamartine, Les préludes.
+Both the title and the reference to Lamartine's poem as a suggestion for a programme were added only after the work was almost complete. Contrary to an idea that is still sometimes widespread today, the work was neither written nor even revised after Lamartine: there were no addition of new themes, no addition or suppression or changes in the order of episodes, not even changes of the tonal structure within the episodes, between the last stage of the manuscript of the Ouverture des quatre élémens, and the final revision of 1853-54 under the title Les préludes. The evidence provided in 1986 by musicologist Andrew Bonner has since been agreed by, among others, two musicologists who have devoted book-length studies to Liszt's symphonic poems, Keith T. Johns and Joanne Cormac.
+Les préludes is written for a large orchestra of strings, woodwind, brass (including tuba and bass trombone), harp and a variety of percussion instruments (timpani, side drum, bass drum and cymbals). To realize the orchestration, Liszt was helped by two composers: first by Joachim Raff for the manuscripts of 1849–50, then by Hans von Bronsart for the revision in 1853-54 and for minor corrections before publication by Breitkopf in 1856.
+Although the orchestration was 'four-handed', studies on the Raff-Liszt collaboration on the Prometheus Overture, contemporary with the progress of Les quatre élémens, has revealed that Liszt drew up very detailed sketches, rejected or modified almost all of Raff's proposals, and sought in particular to achieve more transparent textures and more subtle variations in orchestral density.
+
+
+== Musical analysis ==
+This analysis is limited to a factual observation of the score and the links with the choruses Les quatre élémens, from which all the themes of Les preludes are derived. For the possibilities of interpretation according to a programme added later, linked to Lamartine or to the preface by Carolyne zu Sayn-Wittgenstein, see the next paragraph.
+
+
+=== Form ===
+The form of Les préludes corresponds to both:
+• A "synopsis overture", the most common form of overture in the Romantic period. That is, a presentation of the main themes of the forthcoming work, arranged in contrasting episodes, so as to convey an overview of the drama  or story. The slow introduction, as well as the brilliant finale, marked by a triumphant return of earlier themes and sometimes described as an apotheosis, are also among the "standard component of romantic overtures".
+• A cyclical form, i.e. a construction where a single musical cell gives rise to all the themes, and/or where themes recur cyclically between the beginning and end of the work 
+The plan based on tempo indications and thematic material is as follows:
+
+(Division into 5 main sections as proposed by Taruskin. Other divisions have also been described : see. paragraph "The first symphonic poem")
+
+
+=== Detailed analysis ===
+1. Andante - Andante maestoso
+
+1a. Andante (Introduction)
+After 2 pizzicati, the strings intone a phrase which is nothing other than the vocal theme sung by the Stars at the beginning of the chorus Les Astres, underlined by the celli and bassi, then extended by an ascending arpeggio of violins and violas (example 1).
+ "Hommes épars sur le globe qui roule / (Enveloppé là-bas de nos rayons)."
+"Scattered men on the rolling globe / (Wrapped up there in our rays)".
+This "theme of the Stars" is also headed by a 'three-note cell', which unify all the thematic material of Les préludes, as it already did in the original choruses (cyclic form).
+The theme is first presented as a sketch emerging from silence and returning to silence, with Liszt creating "a sense of rhythmic disorientation" (pizzicati and attacks are systematically shifted to weak beats) and "harmonic ambiguity" (the melody is in aeolian mode, creating ambivalence between C major and A minor, and resolved by woodwinds in A major)
+The ensemble is taken up a tone higher, and then the music begins to gain forward momentum, with a woodwind ostinato accompanying closer and closer repetitions of the theme in the strings, in an ascending chromatic sequence creating increasing tension up to the dominant of C major, while the trombones reaffirm the 3-note motive by increasing the intervals, more and more insistently.
+Note that some editions of the score display a molto ritenuto just before the andante maestoso, while others do not. Both version can be heard till today, without it being possible to know what Liszt would have wanted.
+1b. Andante Maestoso ("Les Astres")
+Mm.35-46
+
+The return to a luminous C major finally resolves the harmonic tension accumulated earlier. The music here comes entirely from the beginning of the chorus Les Astres (The Stars), where it introduced the peremptory song of the "heavenly powers" addressing humans:
+
+The harmonic scheme, proceeding in descending thirds before returning to C major, is strictly that of the instrumental introduction to the chorus (I - VI - IV - II - bVII - V- I - VI -IV - I - VI - IV - I)
+The chorale-like writing in held notes in woodwinds, trumpets and horns was the main melodic line in the instrumental introduction.
+The waves of sharply articulated arpeggios in the violins and violas also appeared in a similar form in the introduction, even in the piano part.
+The aforementioned theme of the Stars is now declaimed in the trombones, tuba, bassoons and low strings, with a new rhythmic pattern that will be reaffirmed by the timpani. This theme, which in the original chorus appeared only at the entrance of the voices, is here superimposed and adapted to the musical elements of the introduction, providing a melodic and rhythmic counterpoint to the other elements (this addition date from the 1853–54 revision: the 1850 manuscript still had the choral line as its main material).
+Note that the trombone and tuba parts are indicated simply f, not ff like the rest of the orchestra, which seems to mean that Liszt was keen on a balance between the 3 musical elements, not an overwhelming predominance of the trombones.
+
+2. L'istesso Tempo ("Love")
+Continuing with the same pulse, but with a tender and lyrical expression, the new section includes musical material that was explicitly associated with poetic images of love in the 2 choruses Les Astres and La Terre (The Earth).
+2a.
+Mm.47–69
+The theme played by the celli is the exact quote of a theme from the 2d section of the Chorus Les Astres,  associated with the notion of heavenly/divine love :
+"Seul astre pur qui parfois illumine / Comme un de nous vos ténébreux chemins / [...]""Couples heureux, pleins d’extase divine / Vous soupirez, en vous tenant les mains"
+"Only pure star that sometimes illuminates / Like one of us your dark paths /[...]""Happy couples, full of divine ecstasy / You sigh, holding hands."
+
+This "love theme" is itself virtually a transposition from the 1st to a 3d degree of the initial theme of Les Astres, and therefore also contains the original 3-note cell. (Example 3)
+The harmonic pattern is strictly identical (transposed 1/2 ton higher) to that of the corresponding passage in Les Astres, including a tonic pedal (here in double-bass pizzicati: see Example 3).
+The 1st violins accompany softly this theme with a sixteenth-note formula, which derives directly from the last descending arpeggios in the previous Andante maestoso : the principle of thematic transformation thus extends to the secondary voices, and reinforces the continuity already specified by l'istesso tempo.
+Finally, the 3-note motive appears in syncopated rhythm on the double basses, which energizes the phrase and avoids any effect of languidness (provided the section is played andante and not adagio).
+The theme is then resumed in a subtle combination of solo horn and 2d violins, this time in E major, and continues with a section in minor (mm. 63.ff) which also comes entirely from the same chorus.
+
+2b.
+Mm.69–108
+The new theme in E major, carried by a combination of 4 horns and violas "espressivo ma tranquillo", derives from a four-part theme sung by the Trees in the chorus La Terre, this time associated with the notion of love linked with spring, or "earthly love" :
+"Des ivresses unanimes, voici les moments heureux / De nos pieds jusqu’à nos cimes / S’élancent en nœuds intimes / Tous les êtres amoureux"
+"Of unanimous voluptuousness, here are the happy moments / From our feet to our peaks / All beings in love are thrown into intimate knots"
+Although no longer resembling to the themes seen previously, this 2d "love theme" also turns out to be a variation on the 3-notes cell, as shown by Taruskin (Example 4).
+In addition, this theme punctuated by harp chords displays the typical sway of a barcarolle, which also seems to originate from Les quatre élémens: an example barcarolle appeared in the chorus Les Flots to accompany the following lines:
+"Puis [la mer] promène en silence / La barque frêle qui balance / Un couple d’enfants amoureux."
+"Then [the sea] silently carries / The frail boat that rocks / A couple of children in love."
+
+This 2d "love theme" is then resumed in a dialogue between winds and strings (mm.79ff), and gives rise to passionate impulses (some editions indicate poco a poco accelerando), alternating fiery outbursts from the violins in the high register, sudden suspensions, sensual woodwinds sighs, in direct lineage with the Rêveries-passions of the Symphonie fantastique, or the Scène d'amour of Romeo and Juliette, a work of which Liszt had been an enthusiastic admirer since 1846, and which he was to conduct highlights several times in Weimar in 1853, shortly before the last revision of Les préludes. And if certain 9th chords, supported by prominent horns, seem reminiscent of Tristan und Isolde (mm. 89 and 93), this is rather a foreshadowing: Wagner did not complete his opera until 1859.
+The return to calm after this obviously suggestive page is accompanied by a reprise of the first "love theme", before woodwind 7th chords set up a new harmonic tension, punctuated by the harp's harmonics, creating an atmosphere of questioning expectation.
+
+3. Allegro ma non troppo - Allegro tempestoso ("Storm")
+A characteristic example of the legacy of Sturm und Drang in Liszt's work, this short but intense episode brings together musical material associated with the evocation of sea storms and shipwrecks in the two choruses Les Aquilons (The North Winds) and Les Flots (The Waves), in the service of a highly figurative orchestral writing.
+
+3a. Allegro ma non troppo
+Mm. 109-130:
+An ominous chromatic motif, again derived from the 3-note cell, evokes the first tremors of wind or waves, which quickly intensify and accelerate, carried by swirling string tremolos on diminished seventh chord, cancelling out any harmonic marker.
+
+3b. Allegro tempestuoso
+Mm. 131–160
+The storm breaks on a thematic material based on:
+
+The 3-note cell, repeated and hammered
+A raging eighth-note line in the strings, each beat of which is violently accentuated by the brass, and which in fact derives from the first vocal lines of the chorus Les Aquilons (The North Winds) (Example 6):
+The strings take up exactly the same rhythmic pattern as the voices, on a different melodic line at the beginning, but identical at the end.
+The brass takes up virtually the melodic scheme of the voices.
+The figure is repeated twice, creating the same harmonic progression by ascending semi-tones in Les Flots and in Les préludes.
+"Peuple orageux qui des antres sauvages / Sort en fureur, / De toutes parts nous semons les ravages / Et la terreur" […]
+("Des vastes mers qui séparent le monde / Troublant les eaux / Sur les écueils nous déchirons les ondes / Et les vaisseaux.")
+"Stormy people who from the wilderness / Come out in fury, / On all sides we spread devastation / And terror" […]
+("From the vast seas that separate the world / Disturbing the waters / On the reefs we tear the waves / And the ships.")
+Liszt uses here all classical elements of "storm music" figuralism, and perhaps creates new ones:
+
+Thunderous rolling of the timpani.
+Shrill cries from the woodwinds in the high register.
+Alternance of 4-beat build and 6-beat build phrases, that create rhythmic instability in the 4/4 signature and seem to overflow (mm.131-138).
+Orchestral waves that begin "piano", rise rapidly, hang for a moment, then crash with all their might (ff with timpani) (mm. 141–147)
+A harmonic struggle between an attempt to escape from the initial A minor to a B major/G minor pole (140-141 then 145–146) and the return in A minor (violently reassessed with half-cadences)
+Distortions of the 3-note motive, that appears inverted at mm. 140–141, while the acceleration of the tempo leads to a frantic panic (indication molto agitato ed accelerando).
+Orchestral assaults at mm.149-154, which can be played molto pesante as indicated in some editions, or a tempo, then taking the form of an evil laugh: perhaps the joy of the Elements that revel in the terror of the sailors, as in the chorus Les Flots (see the corresponding verses just below)
+Lastly, an immense chromatic descent of woodwinds and high strings, progressively submerged by an ascending arpeggio of brass and low strings, in which one might be tempted to see the "sinking ship" evoked by Autran in Les Flots (m. 155).
+
+Mm. 160-181:
+The key stabilizes into A minor (reaffirmed in a Beethovenian way by the timpani: E-E-E-A), with music derived directly from the introduction of the chorus Les Flots: 
+
+A trumpet motif in repeated notes, which was already present in the piano part (Example 7), for which Liszt had very early noted a sketch of orchestration on additional staves, and which was also present in a close form in the vocal parts:
+"Nous aimons voir briller dans l’ombre / l’éclair aux ardents javelots / Nous aimons le vaisseau qui sombre / en jetant à la grève sombre / le dernier cri des matelots" 
+"We like to see the lightning shining in the shadows / with its fiery javelins / we like the sinking ship / throwing to the dark shore / the last cry of the sailors."
+
+Arpeggiated motives played by the strings, which were also present in a close form in the piano introduction of the chorus. The 3-note cell, absent for once from the main motif, is now present in the strings formulas.
+The significance of the trumpet motif, an allusion to the Last Judgement awaiting the sailors, is clear from the text of the chorus whose thematic material was set out just before, Les Aquilons:
+"Avec fracas promenons les tempêtes / Au firmament / Nous mugissons ainsi que les trompettes / Du jugement."
+"With noise let's walk the storms / In the firmament / We roar like the trumpets / Of judgment."
+Even if it is anecdotal, it may be noted that the music of Les quatre élémens was largely composed during Liszt's stays in port cities (Marseille, Valencia, Malaga, Lisbon), places where stories of shipwrecks were very real.
+4. Un poco più moderato - Allegretto pastorale ("Pastoral picture")
+The succession of a storm description and a peaceful pastoral scene is an already proven musical effect (see Beethoven's 6th Symphony, Rossini's Overture of Guillaume Tell). Moreover, such a juxtaposition also appears in the text of the chorus Les Aquilons (even if the music associated with country nature is here different from that in Les préludes).
+"Avec fracas promenons les tempêtes / Au firmament / Nous mugissons ainsi que les trompettes / Du jugement." "Brises du soir, vents de l’aube naissante / Faibles et doux […]/ Vous effleurez de vos ailes bénies / Les fleurs des champs"
+"With a roar let's drive the storms / Into the firmament / We howl like the trumpets / Of judgment.""Evening breezes, winds of the dawning dawn / Weak and gentle […]/ You touch with your blessed wings / The flowers of the fields".
+
+4a. Un poco più moderato
+Mm. 182–200.
+The calm returns with a reprise of the first "love theme", which was also the last theme heard just before the storm, revealing a cyclical construction in which the storm was the central point. First freely intoned by the oboe classically associated with pastoral evocations, the theme is then adorned with the soft light of a combination of divisi violins and harp.
+Note that Liszt insists on a progressive slowing of the pulse (poco rallentando, un poco più moderato), thus seeking to preserve a certain rhythmic continuity despite the change in character.
+
+4b. Allegretto pastorale (Allegro moderato)
+Mm. 201–260.
+A new fresh and graceful theme gives rise to playful exchanges between the various wind soloists and the strings, on the 6/8 rhythm traditionally associated with peasant dances and pastoral scenes, while the new tonal centre stabilises in A major.
+This "pastoral theme" is in fact a reprise of a decorative line heard in the Love section, which itself derives from the 2nd "love theme" (Example 9).
+4c: Poco a poco più di moto sino al Allegro marziale
+From measure 260, the first "love theme" and the "Pastoral theme" are now combined, accelerated very gradually, creating an increasing momentum with the return to the key of C major, and supported by an orchestration with increasingly military overtones (tuba and timpani mes. 316).
+No parallel can be established between any verse of the poems of Autran (nor any part of Lamartine's ode), and this joyful and exuberant progression, whose raison d'être seems especially musical, in order to make a transition to the finale.
+5: Allegro marziale animato - Andante maestoso ("Triumphal finale")
+5a. Allegro marziale animato
+This highly virtuosic page, indicated alla breve, continues the principle of thematic transformation:
+
+Mm. 344-355:
+The first "love theme" is transformed into a triumphant fanfare in C major for trumpets and horns (Example 10), accompanied by strings scale-runs, while the bass trombones and tuba respond with the beginning of the "theme of the Stars". (Note that the idea of a reprise of the love theme in a glorious statement in C major, already existed in the chorus Les Astres, in the instrumental part before the last stanza)
+
+Mm. 356–369.
+The writing superimposes vivid dotted rhythms in the winds, feverish tremolos in the strings, suddenly accentuated scale-runs, accompanied by a trumpet signal with the appearance of a cavalry bugle, processes traditionally associated with ideas of battle, but in major keys that maintain an enthusiastic and jubilant expression. The "3-note cell" is this time played as a trilled motif by the alti and cello (Example 11).
+
+Mm. 370-385:
+The 2nd "love theme" (the former barcarolle) is transformed into a triumphal march (Example 12), accompanied by military percussion — or a cavalcade, depending on the tempo adopted (some editions have a tempo di marcia indication, which may encourage a momentary 4/4 decomposition and broadening of the tempo, others do not, suggesting that the tempo alla breve be retained). The modulations one-upmanship by ascending thirds (C major - E major - G♭ major/F#major - B major) create a growing sense of exaltation, and the reprise of the previous fanfare in F♯ major (marked più maestoso in some editions - but not in all), introduces a maximum tension in relation to the basic C-major (tritone relation), which may have been associated with an idea of challenge.
+Mm. 386-404:
+Repetition of the same procedures, on a harmonic path preparing the return to C major.
+There is no description of a "battle" or "victory" in Autran's poems that could have motivated such a demonstrative page. With the exception of a brief evocation of the navy in the chorus Les Flots, which Liszt accompanied with a marching rhythm, but which lasts only a few seconds.
+"C’est nous qui portons sur cîmes / les messagers des Nations / Vaisseaux de bronze aux flancs sublimes…"
+"We carry on the crest / the messengers of the Nations / Bronze vessels with sublime sides..."
+And as said before, no new episode was added between the 1850 Ouverture des Quatre élémens and the final version, making the idea of a battle episode inspired by Lamartine impossible. On the other hand, the use of triumphant music with military accents as a finale is far from exceptional in opera overtures and concert overtures of this period (see examples below)
+5b: Andante maestoso (Recapitulation)
+After more or less pronounced ritardendo (the indication varies from "poco" to "molto" ritardendo depending on the editions of the score), the andante maestoso is entirely re-exposed, as the conclusion of a cyclic construction, with reinforced dynamics and additional percussion (snare drum, bass drum and cymbals), and followed by a brief coda ending in a plagal cadence.
+
+
+=== Unifying features ===
+Despite the sequence of highly contrasting episodes, the work is unified by several musical processes.
+First, the cyclic form.
+After Berlioz and the "idée fixe" motif in the Symphonie Fantastique, Liszt gives here another example of continuous thematic transformation: as it has been described above, all themes derive from each other or are interconnected by a same founding cell, even in certain accompanying formulas.
+It has often been observed  that the beginning of the Symphonie en ré mineur by César Franck (1888), a famous example of a cyclical work, uses a three-note cell very similar to the founding cell of Les Preludes.
+Next, the harmonic structure:
+The third relation, which characterises the founding cell C-(b)-E, also governs the harmonic scheme of the work, on several scales:
+Third relations on the scale of the whole work : 
+
+Section 1: Unstable then C major
+Section 2: Key centre = C major then E major (a third above)
+Section 3: Unstable then a minor (a third below)
+Section 4: Unstable, then A major, then C major
+Section 5: C major
+Third relations within sections:
+
+Introduction: the initial phrase begins in C major and ends in A major.
+Andante maestoso: the music is built on a descending third sequence, the same as the introduction of the chorus Les astres : I (C major) - VI (a minor) - IV (F major) - II (d minor) - bVII (B♭ major) -V (G major) - I
+Section 2a: the section begins in C major, then rises to E major (mes. 54), goes down for a brief page in key c minor (mes. 63) before returning to E major.
+Section 2b: at the end of the section, the woodwinds create a tension between the main E major and alternately C major (mes. 91–92) and G major (mes. 95–96)
+Section 4a: all the section from m.181 to m.200 is built on a descending thirds sequence: B♭ major - G major - E major - C#major - A major
+Section 4c: in the middle of a sequence in C major, Liszt introduces a local climax in A♭ major (flat VI degree), with the only fff in the entire score, before returning to C (mm. 332–344)
+Sequence 5a: the first fanfare begins in C major and ends in E major (mm. 344–355)
+Sequence 5a: the "march" and the fanfare follow each other on ascending minor thirds: A major - E♭ major - G♭ major/F♯ major - B♭ major  (m. 370–385)
+It has been noticed that the tonic-mediant relationship, which is often favoured in Liszt's work rather than the tonic-dominant relationship, can be found in particular in other of his scores beginning in C, like Orpheus, Tasso, or the first movement of the Faust Symphony
+Finally, a rhythmic continuity :
+The first half of the work, from the introduction to the end of the Love section, is unified with one overall andante tempo (Liszt indicates « l’istesso tempo » several times), with only variations in expression and a few agogic indications.
+In the second half:
+
+The allegro ma non troppo is gradually accelerated, and continues with the allegro tempestuoso with an equivalence [alla breve - 12/8].
+At the end of the storm, the allegro tempestuoso is gradually slowed down — but not to much — to a pastoral allegretto that is also indicated allegro moderato.
+At the end of the "pastoral episode", the allegretto is gradually accelerated, and continues with the allegro marziale animato through an equivalence [6/8 - alla breve] that mirrors the equivalence at the beginning of the storm, before the return of the concluding andante maestoso.
+All theses changes should be seamless. The work is thus supposed to be animated by a continuous forward movement: there is not a single adagio or largo in the entire score, and just a brief suspension before the storm.
+Respect for tempi (notably an andante that does not turn into an adagio, and an allegretto that should retain a dance-like character), and for equivalences (the transition from the allegretto pastorale to the allegro marziale animato poses real challenge to the performers, as attested to by the very different options of the conductors), is probably one of the keys to preserving the work's cohesion.
+
+
+=== Possible influences ===
+Richard Taruskin pointed out that the sections of Les préludes "[correspond] to the movements of a conventional symphony if not in the most conventional order". He adds that  "the music, whilst heavily indebted in concept to Berlioz, self-consciously advertises its descent from Beethoven even as it flaunts its freedom from the formal constraints to which Beethoven had submitted [...] The standard "there and back" construction that had controlled musical discourse since at least the time of the old dance suite continues to impress its general shape on the sequence of programmatically derived events."
+Even if other authors underline the distance that Liszt takes towards certain Beethovenian characteristics (the thematic duality, the sonata form...), links can be made with Beethoven's 5th Symphony, another example of cyclic form ending with an iconic triumphal finale in C major, and with Beethoven's 6th Symphony, where a musical storm is followed by a pastoral scene : Liszt even occasionally requested that Les Préludes be played in concert preceded with Beethoven's 6th.
+Apart from the Beethovenian model, many Romantic Overtures that predate Les préludes have characteristics found in Liszt's score:
+An introduction where the music gradually emerges from the silence:
+Weber: Der Freischutz, 1821 (transcribed by Liszt in 1846, S.574), Oberon, 1826 (transcribed by Liszt in 1843, S.574)
+Spohr: Jessonda, 1822, Macbeth, 1825 (Liszt frequented Spohr in the 1845s)
+Schubert: Fierrabras, 1823 (Liszt would later conduct Schubert's Alfonso und Estrella in Weimar)
+Rossini: Guillaume Tell, 1829 (transcribed by Liszt in 1838, S.552)
+Marschner: Hans Heiling, 1929 (Liszt knew Marschner personally, and the work was popular at the time )
+Wagner: Faust ouverture, 1840, a work that also incorporates thematic transformations (Liszt would later conduct the work in Weimar in 1952)
+Wagner: Rienzi, 1842 (known by Liszt since a performance in 1844 in Dresde)
+
+The sequence of a storm and a bucolic scene:
+Rossini: Guillaume Tell (1829)
+
+A finale with military overtones, featuring brass fanfare and percussion:
+Spontini: Fernand Cortez, 1809, Olimpie (1819) (Liszt wrote a Paraphrase on themes from the opera, 1824, S. 150)
+Weber: Jubel-Ouvertüre, 1818 (transcribed by Liszt in 1846, S.575)
+Marschner: Prinz Friedrich von Homburg, 1821
+Auber: La muette de Portici, 1828 (Liszt wrote a Paraphrase on themes from the opera, 1846, S. 386), Fra diavolo, 1830
+Rossini: Guillaume Tell, 1829 
+Berlioz: Les Francs-Juges, 1828 (transcribed by Liszt in 1833, S.471)
+Berlioz: Benvenuto Cellini, 1838 / Ouverture d’un Carnaval Romain, 1844 (transcribed by Liszt in the 1840s, S. 741) 
+Mendelssohn: Ruy Blas, 1839
+Wagner: Rienzi, 1842 
+
+A final apotheosis, in which a theme from the beginning of the overture is taken over a reinforced orchestration. The procedure is common in the Romantic Overture, but there are some particularly striking examples in the use of trombones and tuba, which shortly precede the writing of Les Préludes:
+Der fliegende Holländer, 1843
+Tannhäuser, 1845 (transcribed by Liszt in 1948, S. 442, precisely at the time when he was working on the Ouvertüre des Quatre élémens)
+Benvenuto Cellini, 1938 / Ouverture d’un Carnaval Romain, 1844 (transcribed by Liszt in 1844-49?, S. 741, lost)
+Finally,  the work that represents the most similarity in structure to the Préludes is an overture that Liszt transcribed in 1838: Rossini's Guillaume Tell Overture."Ironically, Les Preludes owes more to the William Tell Overture than to Leonore no.3, and conductors who fail to understand this don't do well with the work." The musical vocabulary is of course different, but with the exception of the two occurrences of the andante maestoso, the structure is virtually identical:
+
+Introduction : Andante, motif in ascending arpeggio interspersed with rests, repeated a second time starting a tone above
+(...)
+Lyrical episode
+Storm
+Bucolic calm
+Military finale with cavalry charge and triumphal end.
+
+
+== The programme ==
+The full title of the piece, "Les préludes (d'après Lamartine)" refers to an Ode from the Alphonse de Lamartine's Nouvelles méditations poétiques of 1823.
+The final version thus no longer contains any reference to Autran or to the Chorus cycle Les quatre élémens. Moreover, it seems that Liszt took steps to obscure the origin of the piece, and that this included the destruction of the original overture's title page, and the re-ascription of the piece to Lamartine's poem. 
+Lamartine's ode does indeed contain several similarities with some sections in Autran's poems: an amorous elegy, a sea storm, a bucolic scene, which, as long as one sticks to archetypal images without being too careful about the detail and order of the sequences, can serve as a vague programme.
+Several hypotheses have been put forward for this re-ascription, with no certainty: reject by Liszt of a poetry which it would have finally judged too weak with the profit of a more famous author, influence of Liszt's companion Princess Carolyne zu Sayn-Wittgenstein and her taste for Lamartine (Liszt having then complied more or less willingly), need to integrate Les préludes into the collection of Poèmes Symphoniques which are all accompanied by a literary support, copyright problems linked to the fact that Autran's poems were not yet all published...
+The 1856 published score includes a text preface, which however is not from Lamartine.
+
+What else is our life but a series of preludes to that unknown Hymn, the first and solemn note of which is intoned by Death?—Love is the glowing dawn of all existence; but what is the fate where the first delights of happiness are not interrupted by some storm, the mortal blast of which dissipates its fine illusions, the fatal lightning of which consumes its altar; and where is the cruelly wounded soul which, on issuing from one of these tempests, does not endeavour to rest his recollection in the calm serenity of life in the fields? Nevertheless man hardly gives himself up for long to the enjoyment of the beneficent stillness which at first he has shared in Nature's bosom, and when "the trumpet sounds the alarm", he hastens, to the dangerous post, whatever the war may be, which calls him to its ranks, in order at last to recover in the combat full consciousness of himself and entire possession of his energy.
+The earliest version of this preface was written in March 1854 by Carolyne zu Sayn-Wittgenstein. This version comprises voluminous reflections of the Princess, into which some lines of quotations from the ode by Lamartine are incorporated. It was drastically shortened for publication in April 1856 as part of the score; there only the sentence, "the trumpet sounds the alarm" and the title "Les préludes", survive from Lamartine's poem.
+A different version of the preface was written for the occasion of a performance of Les préludes on 6 December 1855, in Berlin. In the 1855 version the connection with Lamartine is reduced to his alleged query, "What else is our life but a series of preludes to that unknown Hymn, the first and solemn note of which is intoned by Death?" However this sentence was actually written not by Lamartine, but by Princess Wittgenstein.
+For the occasion of a performance of Les préludes on 30 April 1860, in Prague a further version of the preface was made. This version was probably written by Hans von Bülow who directed the performance. It is rather short and contains no reference to Lamartine at all. According to this version, Les préludes illustrates the development of a man from his early youth to maturity. In this interpretation, Les préludes may be taken as part of a sketched musical autobiography.
+Nevertheless, no specific statement by Liszt himself has been found in favour of a particular programme. In a letter to his uncle Eduard List, dated 26 March 1857, he refers to his préludes as: "my preludes (which, by the way, are only the prelude to my path of composition)...", which seems to mean nothing more than the beginning of his interest in cyclical form and new orchestration techniques : the rest of the letter contains indeed only technical considerations on the principle of thematic transformation in his 1st piano concerto, and a plea for percussion instruments despite the reproaches of many other musicians.
+
+
+== The first symphonic poem ==
+With the first performance of the work a new genre was introduced. Les préludes is the earliest example for an orchestral work that was performed as "symphonic poem". In a letter to Franz Brendel of 20 February 1854, Liszt simply called it "a new orchestral work of mine (Les préludes)". Two days later, in the announcement in the Weimarische Zeitung of 22 February 1854, of the concert on 23 February, it was called "Symphonische Dichtung".
+The term "symphonic poem" was thus invented. And with it, the question of the extent to which recourse to a programme or to extra-musical ideas is necessary—or not—in order to appreciate the work, a question that remains relevant today.
+Many commentators have proposed a division of the work based on the ode by Lamartine, or on the preface by Carolyne zu Sayn-Wittgenstein, or on the more general philosophical ideas associated with it. Here are 4 examples:
+
+The "love", "storm" and "pastoral" sections reach a consensus, and do not raise any concerns about interpretation, as they are based on musical themes that were explicitly associated with poetic images of love, storm and countryside in the choruses "Les quatre élémens".
+More, as these are archetypal topi of Romanticism, and as Liszt "involved himself with the archetypal rather than with the purely narrative", the association with a text by Lamartine that deals with same archetypes as a programme can work... as well as any literary or pictorial work from the same period on the same subjects.
+Love Elegy under the Stars:
+
+Storm and shipwrecking:
+
+Calm of nature:
+
+In contrast, the diversity of proposals for the introduction and the first andante maestoso shows that there is no consensus on any interpretation.
+According to Haraszti, the famous "question" about Life and Death ("What is our life but a series of preludes...") should be considered only as a personal reflection of the Countess Carolyne zu Sayn-Wittgenstein, which Liszt would not have wished to contradict for the sake of their relationship.
+Conversely, Taruskin maintains the reference to this "Question" as a programmatic lead for the introduction, but acknowledges that no section of Lamartine's text can be linked to such a question 
+According to Johns, the legitimacy of such a Life and Death theme would be more to be sought in a general theme of Autran's poems, and in particular in the first stanza of the poem Les Astres:
+"Hommes épars sur ce globe qui roule 
+Enveloppé là-bas de nos rayons. 
+Peuples errants que la mort chasse en foule 
+Et précipite à la tombe où s’écoule 
+Le long torrent des générations."
+
+"Scattered men on this turning globe
+Envelopped the by the rays of hope
+An errant people which is hunted in crowd by death
+And hurried to the tomb
+Into which falls the long torrent of the generations."
+This pessimistic view would justify setting the introduction to Les préludes on the theme of a reflection on death and the futility of existence.
+Conversely, for Main as well as other commentators, the interpretation, if there is one, is rather to be found in the beginning of Lamartine's ode. This initially hesitant music, which emerges from silence, gradually unfolds, and finally asserts itself in all its grandeur, is not linked to a question about life and death, but would be a rendering of the poet invoking the muse, and of the poet's exaltation when the muse responds:
+"La nuit, pour rafraîchir la nature embrasée,
+De ses cheveux d’ébène exprimant la rosée,
+Pose au sommet des monts ses pieds silencieux […]"
+"Que ce calme lui pèse ! Ô lyre! ô mon génie ! 
+Musique intérieure, ineffable harmonie, 
+Harpes, que j'entendais résonner dans les airs 
+Comme un écho lointain des célestes concerts, 
+Pendant qu'il en est temps, pendant qu'il vibre encore, 
+Venez, venez bercer ce cœur qui vous implore. 
+Et toi qui donnes l'âme à mon luth inspiré, 
+Esprit capricieux, viens, prélude à ton gré ! [...] 
+Il descend! il descend!..."
+ 
+"The night, to refresh nature ablaze,
+Of her ebony hair expressing the dew,
+Places its silent feet on the summit of the mountains […]".
+"How this calm weighs on him! O lyre! O my genius! 
+Inner music, ineffable harmony, 
+Harps, which I heard resounding in the air 
+Like a distant echo of celestial concerts, 
+While it is time, while it still vibrates, 
+Come, come and cradle this heart that implores you. 
+And you who give soul to my inspired lute, 
+Whimsical spirit, come, prelude as you please! [...]
+He's coming down! He's coming down..." 
+Even if, contrary to what Main sought to demonstrate, it is now proven that the introduction as well as the rest of the work was not written in reference to Lamartine, and that these links are merely coincidental, the possibility of such an association may have contributed to Liszt's choice to use Lamartine's text as a substitute programme. All the more so since Autran's poem Les Astres contained a stanza with images very similar to those at the beginning of Lamartine's ode: the night, the silence of the peaks, the heavenly harp:
+"Quand vient la nuit vous couvrir de son aile 
+Si vous montiez sur les sommets déserts, 
+Vous entendriez sous la voûte éternelle 
+Une musique auguste et solennelle 
+Qui de nos chœurs s’épanche dans les airs. [...]
+Nos lyres d’or vous chanteraient la gloire/ De Jéhova..."
+
+"When night comes to cover you with its wing 
+If you would climb the deserted peaks, 
+You would hear under the eternal vault 
+An august and solemn music 
+Which from our choirs pours forth into the air. […]
+Our golden lyres would sing you the glory/ Of Jehovah..."
+Although speculative, these suggested readings, which refer to the "birth of inspiration" or more generally to the "birth of a music", are in any case compatible with the actual musical content of the introduction: "a continuous transition leading from the seemingly amorphous opening, with its displaced meter, irregular phrasing, and harmonic ambiguity, through a very strong dominant preparation, to the C-major theme (mm. 35-46) with its regular rhythm and phrasing, clear melodic profile, and definite expository character".
+Note also that the introduction is not marked adagio, or largo, or grave, which would have made more sense if Liszt had wanted to depict a sombre reflection on death, but simply andante.
+Lastly, regarding the "allegro marziale animato" section:
+There is nothing close to a "battle and victory" in Autran's poems. Lamartine does describe a battle in his ode, but it is actually a bloody mass grave, littered with mutilated corpses, the sight of which prompts the poet to withdraw from the world. 
+"The one perishes whole; the other on the dust,
+Like a trunk whose boughs the axe has cut,
+Of its scattered limbs sees the shreds fly,
+And, dragging himself still on the dampened earth,
+Marks in streams of blood his bloody trail.[…]
+Suddenly the sun, dispelling the cloud,
+Shines with horror on the scene of the slaughter;
+And its pale ray, on the slippery earth,
+Uncovers to our eyes long streams of blood,
+Broken steeds and chariots in the quarry,
+Mutilated limbs scattered on the dust,
+The confused debris of arms and bodies,
+And flags thrown on heaps of the dead."
+Except for two verses evoking earlier a trumpet signal, including the one used by Carolyne Zu Sayn-Wittgenstein in her preface, it is difficult to draw a parallel between this gruesome massacre and Liszt's glorious music in C major. If this section were to be entitled "battle and victory", then it is more of a general idea of the triumph of the romantic artist against adversity, or the achievement of the artist's self-realization along Hegelian lines, the reference model always being the finale of Beethoven's 5th symphony. In addition to the heroic-looking themes and military orchestration, certain harmonic processes such as the tritone relationship and the successive modulations in ascending thirds (whereas other sequences proceeded rather in descending thirds, especially the Andante maestoso and the calm after the storm), can indeed be associated with an idea of defiance, of struggle against adversity, of triumph of the will.
+But it may also correspond more prosaically to Liszt's desire, with this disguised overture which is also one of his very first orchestral scores, to compete with the most spectacular overtures of the time (Berlioz Benvenuto Cellini / Carnaval Romain, 1838–44, Wagner Rienzi, 1842), or simply reveal Liszt's taste for martial, finales whether it is "programme music" or not (cf. Piano Concerto No.1, Piano Concerto No.2, Hungaria, Mazeppa).
+The musicologist Alan Walker, author of a 3-volume biography of Liszt, summarises the discussion as follows:
+"First, the prefaces were written after the music was composed [...]: in such circonstances, one might with equal logic talk of "programmes about music". Secondly, there is evidence that Princess Carolyne had a hand in their formulation. The conclusion seams clear enough. Posterity has probably overestimated the importance of the extra-musical thought in Liszt's symphonic poems [...] We should not follow them slavishly, for the simple reason that the symphonic poems do not follow them slavishly either."
+
+
+== Critical reception ==
+Shortly after the creation, the critic Eduard Hanslick, who believed in 'absolute music', lambasted Les préludes. In an 1857 article, following a performance in Vienna, he denounced the idea of a 'symphonic poem' as a contradiction in terms. He also denied that music was in any way a 'language' that could express anything, and mocked Liszt's assertion that it could translate concrete ideas or assertions. The aggrieved Liszt wrote to his cousin Eduard "The doctrinaire Hanslick could not be favourable to me; his article is perfidious". Other critics, such as Felix Draeseke, were more supportive.
+
+Early performances in America were not appreciated by conservative critics there. At an 1857 performance of the piano duet arrangement, the critic of Dwight's Journal of Music wrote:What shall we say of The Preludes, a Poésie Symphonique by Liszt [...] The poetry we listened for in vain. It was lost as it were in the smoke and stunning tumult of a battlefield. There were here and there brief, fleeting fragments of something delicate and sweet to ear and mind, but these were quickly swallowed up in one long, monotonous, fatiguing melée of convulsive, crashing, startling masses of tone, flung back and forth as if in rivalry from instrument to instrument. We must have been very stupid listeners; but we felt after it as if we had been stoned, and beaten, and trampled under foot, and in all ways evilly entreated. 
+Nowadays, opinions remain divided between some music critics, who still accuse certain pages of vulgarity (Berry: "If the brass section could not entirely escape vulgarity, that is Liszt's responsibility"), and musicologists who praise the inventiveness of the writing (Tranchefort: "Ductile and sumptuous, the orchestra demonstrates a variety of colours and movements the likes of which have not been heard since Beethoven"), who highlight "many technical innovations" and "the use of chamber-music textures, in which small groups of soloists periodically emerge from the orchestral mass, forming contrasts among themselves"(Walker ), or who emphasize the rigour of a structure based on "a complex pattern of key and motivic relationships" (Johns ).
+In any case, Les préludes is undoubtedly "the most popular of Liszt's 13 symphonic poems", as both musicologists and Liszt specialist interpreters such as Leslie Howard have attested.
+
+
+== Arrangements ==
+In the beginning of 1859 Les préludes was successfully performed in New York City. Karl Klauser, New York, made a piano arrangement, which in 1863 was submitted to Liszt. In a letter to Franz Brendel of 7 September 1863, Liszt wrote that Les préludes in Klauser's arrangement was a hackneyed piece, but he had played it through again, to touch up the closing movement of Klauser's arrangement and give it new figuration. Liszt sent Klauser's revised arrangement to the music publisher Julius Schuberth of Leipzig, who was able to publish it in America. In Germany, due to the legal situation of that time, Breitkopf & Härtel as original publishers of Les préludes owned all rights on all kinds of arrangements. For this reason, in 1865 or 1866 Klauser's arrangement was published not by Schuberth but by Breitkopf & Härtel.
+Besides Klauser's arrangement there were further piano arrangements by August Stradal and Karl Tausig.  Liszt made his own arrangements for two pianos and for piano duet. There were also arrangements for harmonium and piano by A. Reinhard and for military orchestra by L. Helfer. In recent times Matthew Cameron has prepared his own piano arrangement of Les préludes.
+
+
+== Uses in media ==
+The closing fanfare of Les préludes was used for news bulletins by the Reichs-Rundfunk-Gesellschaft during the Nazi regime. The fanfare would cue the announcer to say, "Das Oberkommando der Wehrmacht gibt bekannt..." ("The supreme command of the armed forces announces...") before relating the Nazis' latest victory. Germans were so conditioned by the militaristic usage of Les préludes that there was a de facto ban on the piece after the war.
+Albert Speer related that he was called into Adolf Hitler's salon during dinner. He had the piece playing and stated "You'll hear that often in the near future because it is going to be our victory fanfare for the Russian campaign. Walther Funk chose it. How do you like it?" Hitler had chosen different musical fanfares for each of the previous victories.
+Flash Gordon Conquers the Universe uses the same concluding fanfare from Les préludes over its iconic opening titles and as a heroic theme during many scenes.
+The concluding fanfare from Les Preludes was used as the introductory theme to Andrew Mollo and Kevin Brownlow's alternate history independent film It Happened Here (1964), which dealt with the invasion and occupation of Great Britain by Nazi Germany after Dunkirk and the failure of the Battle of Britain.
+Parts of Les Preludes were used as background music during scene changes in the 1940s radio series The Lone Ranger.
+The music is used for the intro and outro of the Tom and Jerry episode Tom and Jerry in the Hollywood Bowl.
+In the American English dub of the 1980 anime Astro Boy, Les Preludes plays when Dr. Boynton starts up Astro for the first time. This replaced Also sprach Zarathustra which was used in the original Japanese language broadcast.
+Les Preludes is used throughout Juzo Itami's "ramen western" film Tampopo.
+
+
+== Year's end tradition at Interlochen ==
+A performance of Les préludes concludes each summer camp session at the Interlochen Center for the Arts. In the past, the piece has been conducted by the president of the institution (although this was never a tradition or requirement), and is performed by the camp's large ensembles in the oldest building on the ICA grounds—the Interlochen Bowl—which dates from 1928.
+
+
+== Recordings ==
+
+(*) Recording year, not release year.
+(**) Label may vary with the reissues. Not all recordings are currently available.
+(***) Duration given without blank or applause. For some older recordings, the pitch and the duration may vary depending on the equipment used for the transfer.
+Recordings up to 1956 are in mono, with a sound varying considerably from "historical" in some to "fair" in others. Recordings from 1957 onwards are in stereo, some with excellent definition from the end of the 1950s.
+Conceptions and tempi vary considerably from one version to another, and sometimes for the same conductor in different years. Moreover, the various Breitkopf editions of the score contain a few differences, the 1908 edition including effects which tend to weigh the performance down ("molto ritenuto", "pesante", "tempo di marcia", "più maestoso"…), and of which it is difficult to know whether they come from Liszt's hand or if they were added by the editor: these effects are absent from the 1885 edition, as well as from Liszt's own transcription for 2 pianos, which suggest a more straightforward playing.
+The most lively and fiery versions are generally found in the older recordings, when it was not uncommon to perform Les préludes in 14' to 14'30, sometimes less. For example, Erich Kleiber's 1936 version, "energetic and driving", offering "an absolutely exceptional incandescence, enthusiasm, grandeur without rhetoric and communicativeness", while being one of the most faithful to the score (1885 edition) in the entire discography. Or Monteux in concert in 1950: an amazingly luminous performance despite minor orchestral flaws, freer and more fluid than in studio in 1952, without any added effects and without a trace of bombast. (For the "Mengelberg case", see below)
+In modern sound, Kocsis, with the Hungarian Philharmonic in 2011, is apparently the only conductor among those whose recordings are easily available to dare such a burning and direct approach: "The symphonic discs of this Liszt year are clearly dominated by this feverish concert from the Palace of Arts in Budapest. The excellent pianist Kocsis has become an equally excellent conductor who seems to be fueled by passion." (Not to be confused with a 2014 filmed version with a different orchestra, circulating here and there, less accomplished and dry sounding).
+At the opposite extreme, some conductors broaden tempi far from Liszt's indications to bring out a shimmering of orchestral colours, like Karajan, notably in his 1967 version, which strongly divides the critics: "Both showmanship and refinement characterize Karajan's exciting, gorgeously executed Les Preludes."/ "Karajan drags the music so painfully at times [...] that the excitement of the music is lost."/ "A slow and fabulously traced interpretation, overturned in spectacularity and sonorous beauty, and which therefore falls into grandiloquence and insincerity."/ "Through the spell of nuance, Karajan wraps the piece in a dreamy gauze, giving the epic the distant feel of legend". Karajan's 1958 version is generally considered as more balanced and accurate, but rather cool, and the 1984 version still impressive, but less dreamlike. Other majestic and contemplative versions include, for example, Conlon's reading, which also divides opinions, between boredom and admiration for its "elegance", the "fleshy and balanced sound", the "fusion of timbres", or Oue's, "a finely sustained, noble performance in which the demonstration-quality sonics permit fullness of tone without a trace of bombast".
+Some versions are regularly reported for their emotional strength, like Furtwängler’s, which still has strong supporters, praising its sense of narrative, its "effusiveness" that avoids grandiloquence, the "singing quality" and the "humanistic sense of the phrasing", "the solidity as well of the naturalness of the construction", despite a brass section that sometimes "falls short", and making one regret not having a live recording. Or Mitropoulous' highly effusive but more dark and tragic vision, broad but "incredilbly intense", "spectacular", "occasionally unkempt", but always "a source of excitement". Or, in a more luminous style and sound, Fricsay's version, one of the most frequently recommended: a "stunningly intense" reading, which captivates by accentuating the contrasts rather than the continuity between episodes, with outstanding "effusive, carnal and thrilling phrasings" and a broad gesture that "never compromise the long melodic line" in the lyrical sections, while proving "spectacularly virile" and fiery in the final section.
+Some conductors do not hesitate to multiply effects and to take significant liberties with the rhythm, like Mengelberg in 1929 with the Concertgebouw orchestra, an "impassioned performance" marked by a "flamboyant style", in which some commentators imagine an echo of the freedom of interpretation that could exist in Liszt's time. "Besides huge tempo fluctuations, portamenti, and degrees of orchestral slides and rubato, a terrific tension permeates every bar". Solo instruments "convey a sweet elasticity" in dreamy pages, "the momentum and intensity increase without ruffling the [clarity] of lines", and the climaxes prove to be "absolutely thrilling". (Not to be confused with a version from 1922, with modified instrumentation and an even more rudimentary sound recording). In an equally idiosyncratic but much rougher style, Golovanov conducts in 1953 a white-hot orchestra in a theatrical epic, with a love scene of exacerbated lyricism, and a cataclysmic storm with additional instrumentation. A performance whose « intemperate emotionalism », sonic harshness, and rushed allegretto may however strongly divide opinions.
+Without going to such extremes, some conductors fully embrace the work's demonstrative nature. Van Otterloo takes up some of Mengelberg's rubati and tempo changes in a contrasting and tense reading, without the same charm or singing qualities in the lyrical pages, but highly spectacular and sharp in the virtuoso pages. Celibidache in his early years offers a "staggering" vision, with pages already marked by its legendary slowness and creating hypnotic soundscapes, and others by turns intensely lyrical, wild, martial and epic, making each line sing, and "staging a real drama". Silvestri's "free and rhapsodic" reading, sometimes inventive and refined, at the risk of sounding artificial, sometimes fiery, literally supercharged in the battle section, is particularly ear-catching despite some occasional rough woodwinds playing a version that "stands with the most imaginative and evocative versions available". Bernstein has "thrilling" and "brilliant" moments, but also pages that one might have expected to be more persuasive compared to his burning performance of the Faust Symphony from the same period, including a surprisingly dragging andante maestoso. In contrast Fiedler is often cited for his fanfares, which have seldom had "such bite and majesty", but does not seem as inspired in the lyrical pages. Solti’s 1991 concert, much more lively and coherent than his 1977 studio version, and more flexible and expressive than the 1980 filmed concert, has been particularly appreciated: "There is a special excitement and sense of occasion in this live performance that enhances his very dynamic style and goes well with [this work]." / "The elderly director takes the thorn out of his former studio performance" [and, despite some overdone effects] "the execution is of such a high standard, and the brilliance, color, and plasticity of the baton are so prescient that the maestro and his incredible orchestra ultimately triumph." Pletnev's sharp, uncompromisingly conducting delivers one of the most terrific storms and battles ever recorded, as well as an exceptionally vigorous and biting andante maestoso, and gives the work a perfect unity, but the hasty allegretto that seems to be inherited from Golovanov may again divide opinion. Gergiev also offers a "rip-roaring reading" in an "especially electric" concert in 2011, sometimes lacking the refinement one might have expected from the Vienna Philharmonic (this is an open-air recording), but bursting with energy throughout the second half of the work.
+Other versions stand out rather for their sense of balance, without seeking effects, such as Weingartner's, a reading of absolute fidelity while never allowing the music to sound hackneyed, which "maintains excitement without 'Lisztian' hysteria and gives full due to the lyric sections", supported by a London Symphony in top form. Or Monteux's 1952 studio version, "sharp and luminous, letting the inherent drama shine within a context of lyricism", with better horns and richer strings, but less spontaneity than the 1950 concert (where basses and timpani were also better recorded). Boult offers an "incredibly convincing presentation" of the work, a reading remarkable for its unity, without excess of sentimentality but rich in colour, and where the slightly too Elgarian andante maestoso is counterbalanced by a surprising ardour in the storm and battle sections. Masur's "no-nonsense" version and Haitink's particularly faithful reading, divided the critics, the line being thin between rigour and stiffness or coolness, although Haitink's improves significantly in the second half of the work. More recently, Ivan Fischer's clear, fresh, sometimes chamber-like reading, avoiding any excessive sentimentality, has been particularly appreciated, as well as Neeme Järvi's equally lively and faithful, but more brilliant and "athletic" reading, whose climaxes are nevertheless "accomplished [...] with a seductive warmth".
+Note that in the allegro marziale animato section what might pass for virtuoso exuberance in some conductors is in fact a strict adherence to the challenge Liszt placed in his score, with a gradual acceleration from allegretto pastorale to allegro marziale animato and a suggested equivalence (1 beat of 6/8 = 1 beat of 2/2), logically leading to a tempo well above 100 alla breve, as played by Fried, Kleiber, Ludwig, Muti in 1983, and to a lesser extend André, Dixon, Silvestri, Fricsay, Benzi, Haitink, Solti, Fischer, Gergiev, and a few other. Some conductors opt for a different tempo equivalence (1 bar 6/8 = 1 beat 2/2), frantically accelerating the end of the 6/8 section, then moving on to a more majestic allegro marziale, an option advocated by Mengelberg, and taken up by van Otterloo, Mitropoulos, Karajan, Oue... Some choose an intermediate solution, gradually accelerating the allegretto in a joyful but not frenetic manner, then more or less widening the beginning of the allegro marziale, like Monteux, Furtwängler, Boult, Kocsis... As already mentioned, Golovanov and Pletnev play the allegretto as a quasi allegro from the start, displaying impressive orchestral playing but depriving the episode of its charm.
+Many conductors remain more cautious here, or give priority to the "marziale" over the "animato", or prefer to temper Lisztian virtuosity in favour of more detailed architecture. Some begin the allegretto in a surprisingly slow tempo to maintain a margin of progression, like Paray in 1953, a "dry and uncompromising reading", giving the work the appearance of "a 'relief' in the sculptural sense of the term".
+Some even modify the score by ignoring almost all the indicated acceleration and tempo change between the allegretto and the allegro marziale animato, depriving the page of its sense of excitement, like Ančerl, in a version who seems to abandon any narrative aspect in favour of a study of timbre and architecture, "a probing [reading] focusing more on the work's purely musical values than on its implied rhetoric", especially appreciated for "the Czech musicians’ warm and round tones" and "the brass' refusal to blow to the point of rasping". Or Dorati, in a reading with clear lines, precise accents, and a cheerful, dancing allegretto which curiously segues into a slower allegro marziale : an elegant version that some may have nevertheless judged "animated without great conviction". This is also the option chosen by Neumann in studio in Leipzig, a version otherwise remarkable for its musicality and structural unity — but the conductor offers a much more lively, free and captivating reading in concert in Prague, at least in the first part of the work, while benefiting again from the suggestive colours of the Czech woodwinds. Or by Noseda, whose recording was however praised for his "clarity", "acuity" and absence of bombast.
+Some versions are especially noted for their orchestral qualities: for example, the brilliance (which some may have considered excessive) of the Philadelphia Orchestra with Muti, a highly "controlled reading" that accentuates contrasts between subtle balances in finely chiselled episodes, and "furious tempi" in others. Or the luxurious opulence of the Berlin Philharmonic with Mehta, who achieves a better control here than in his previous recording in Vienna, weighed down by overly Wagnerian trombones. The Vienna Philharmonic, for its part, offers all the sumptuousness of its colours and the magic of its strings with Sinopoli, in a recording which, however, alternates between more or less successful moments. Barenboim's recording with the Chicago Symphony has been highly regarded for its "orchestral perfection" and for its control and architectural achievement. But the conductor offers perhaps more "effusiveness" and "lyrical emotionality" in his 1998 Berlin concert. Or in his 2009 London Concert, where the less sumptuous but enthusiastic young orchestra makes the music "sing and surge with freedom and freshness", and highlights the "lyrical allure" of the work  (in an overall conception that still favours control rather than ardor, at least compared to the more fiery versions).
+Conversely, other versions may be worth a visit for the conductor's personality despite more or less obvious orchestral weaknesses, such as Scherchen's "ardent", "enthusiastic" and highly contrasted reading.
+Lastly, some conductors have proposed recordings on period instruments, favouring the transparency of the textures and highlighting the woodwinds, like van Immerseel, perhaps lacking a more generous string sound in the lyrical moments, more convincing in other pages.
+Note that there are apparently no versions by some conductors who have left notable recordings of other Liszt works, and who might have been expected in this one, such as Toscanini, Reiner, Martinon, Markevitch, and Kubelik.
+Version for 2 pianos (transcription by Liszt) :
+
+Georgia Mangos & Louise Mangos, 1993, Studio, Cédille, 14’03
+Budapest Piano Duet: Tamás Kereskedő & Zoltán Pozsgai, 1995, Studio, Hungaroton, 15’32
+Tami Kanazawa & Yuval Admony, 2007, Studio, Naxos, 15’15
+Martha Argerich & Daniel Rivera, 2010, Live (Lugano), Warner, 15’00
+Marialena Fernandes, Ranko Markovic, 2011, Studio, Gramola, 15’58
+Martha Argerich & Daniel Rivera, 2012, Live (Rosario, Argentina), 15’32
+Leslie Howard & Mattia Ometto, 2016, Live (Padova), Brilliant classics, 14’39
+Giuseppe Bruno & Vincenzo Maxia, 2019 (?), Studio, OnClassical, 16’50
+
+
+== References ==
+Notes
+
+Sources
+Abraham, Gerald: One Hundred Years of Music: After Beethoven and Wagner, Routledge; 3rd edition, 2017
+Berlioz, Hector: Lettre à Joseph d'Ortigues - Prague, 16 avril 1846, in The Project Gutenberg eBook of Correspondance inédite de Hector Berlioz, last accessed 13 August 2022
+Berry, Mark: PROM 48 – Liszt, Wagner, and Berlioz, London, 21.8.2009, concert review, MusicWeb International, 2009.
+Bertagnolli, Paula A.: Amanuensis or Author? The Liszt-Raff Collaboration Revisited, in 19th-Century Music, 26(1):23-51, 2002
+Bonner, Andrew: Liszt's Les préludes et les Quatre Elemens (1986), in 19th-Century Music, 10/2 (1986–87), pp. 95–107
+Cormac, Joanne: Liszt and the Symphonic Poem, Cambridge University Press, 2017
+Haraszti, Emile: Génèse des préludes de Liszt qui n'ont aucun rapport avec Lamartine, in Revue de musicologie 35, 1953, p. 111-140
+Howard, Leslie : Les préludes – Poème symphonique, liner notes for Hyperion Records  CDA67015, 1996, accessed 2 January 2015.
+Johns, Keith T.: A structural analysis of the relationship between programme, harmony and form in the symphonic poems of Franz Liszt, Thesis, University of Wollongong, 1986.
+Johns, Keith T: The Symphonic Poems of Franz Liszt, 2d edition, Pendragon Press, 1997 (1st edition: 1987).
+Jung (ed.): Franz Liszt in seine Briefen, Athenäum, 1988
+La Mara (ed.) Letters of Franz Liszt, Volume 1, “From Paris to Rome: Years of Travel as a Virtuoso, translated into English by Constance Bache.</ref>
+Main, Alexander : Liszt après Lamartine: Les Préludes, Music & Letters, 60/2 (1979), pp. 133–148
+Modollel, Jorge L.: The Critical Reception of Liszt's Symphonic and Choral Works in the United States, 1857-1890, Master's Thesis, University of Miami, 2014, accessed 2 January 2015.
+Moortele, Steven Vande: The Romantic Overture and Musical Form from Rossini to Wagner. Cambridge University Press, 2017.
+Müller-Reuter, Theodor: Lexikon der deutschen Konzertliteratur, 1. Band, Leipzig 1909.
+Raabe, Peter: Liszts Schaffen, Cotta, Stuttgart, Berlin 1931.
+Ramann, Lina: Franz Liszt als Künstler und Mensch, Band 2, Zweite Abteilung (1848-1886), Leipzig 1894.
+Taruskin, Richard: Music in the nineteenth Century. Oxford: Oxford University Press, 2010 ISBN 9780195384833, pp. 411–442
+Taruskin, Richard: Liszt and bad taste, Arti Musices 49(1):3-32, 2018
+Tranchefort, François-René: Franz Liszt - Les Poèmes symphoniques in Guide de la musique symphonique, Fayard, 1986, p. 418-423
+Searle, Humphrey, ed. Alan Walker: "The Orchestral Works", in Franz Liszt: The Man and His Music (New York: Taplinger Publishing Company, 1970).
+Walker, Alan: Franz Liszt, The Virtuoso Years, revised edition, Cornell University Press 1987.
+Walker, Alan: Franz Liszt, The Weimar Years (1848–1861), Cornell University Press 1989.
+Orchestral Scores
+Liszt: Les préludes, Breitkopf, 1885
+Liszt: Les préludes, Breitkopf, 1908, edited by Franz Liszt-Stiftung
+Liszt: Les préludes, Breitkopf, 1908, edited by Otto Taubmann, reprinted by Kalmus
+(Each have slight different tempi or phrasing indications)
+
+Poems
+Autran, Joseph: La Terre, Les Aquilons, Les Flots, Les Astres, in Liszt: Choral Works for Male Voices, CD Hungaroton/HCD 31923.
+Lamartine, Alphonse: Les Préludes, in Œuvres complètes de Lamartine (1860)/Tome 1/Les Préludes, Wikisource, last accessed 13 August 2022
+
+
+== External links ==
+Les préludes (Orchestral version: 3 different editions), (Solo piano version), (Two piano version), (Piano duet version): Scores at the International Music Score Library Project

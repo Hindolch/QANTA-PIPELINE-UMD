@@ -1,0 +1,53 @@
+Degeneracy, degenerate, or degeneration may refer to:
+
+
+== Arts and entertainment ==
+Degenerate (album), a 2010 album by the British band Trigger the Bloodshed
+Degenerate art, a term adopted in the 1920s by the Nazi Party in Germany to describe modern art
+Decadent movement, often associated with degeneracy
+Dégénération, a single by Mylène Farmer
+Degeneration (Nordau), an 1892 book by Max Nordau
+Resident Evil: Degeneration, a 2008 film
+"Degenerate", a song by Blink-182 from the album Dude Ranch
+"Degenerate", a song by Monuments from the album Gnosis
+"Degenerates", a song by A Day to Remember from the album You're Welcome
+"DEGENERATE", a 2024 song by Starset
+
+
+== Science, mathematics, and medicine ==
+
+
+=== Mathematics ===
+Degeneracy (mathematics), a limiting case in which a class of object changes its nature so as to belong to another, usually simpler, class
+Degeneracy (graph theory), a measure of the sparseness of a graph
+Degeneration (algebraic geometry), the act of taking a limit of a family of varieties
+Degenerate bilinear form, a bilinear form on a vector space V whose induced map from V to the dual space of V is not an isomorphism
+Degenerate distribution, the probability distribution of a random variable which only takes a single value
+Degenerate conic, a conic (a second-degree plane curve, the points of which satisfy an equation that is quadratic in one or the other or both variables) that fails to be an irreducible curve
+Degenerate dimension, a dimension key in the fact table that does not have its own dimension table, because all the interesting attributes have been placed in analytic dimensions. The term "degenerate dimension" was originated by Ralph Kimball
+
+
+=== Quantum mechanics ===
+Degenerate energy levels, different arrangements of a physical system which have the same energy
+Degenerate matter, a very highly compressed phase of matter which resists further compression because of quantum mechanical effects
+Degenerate semiconductor, a semiconductor with such a high doping-level that the material starts to act more like a metal than as a semiconductor
+
+
+=== Other uses in science and medicine ===
+Degeneracy (biology), the ability of elements that are structurally different to perform the same function or yield the same output
+Codon degeneracy, in genetics
+Degeneration (medicine)
+Degenerative disease, a disease that causes deterioration over time
+Social degeneration, a late 19th–early 20th century sociological concept
+
+
+== Other uses ==
+Degeneration, a type of semantic change
+
+
+== See also ==
+D-Generation X, also spelled "Degeneration X", a professional wrestling tag team
+Decadence (disambiguation)
+Deterioration (disambiguation)
+Devolution (disambiguation)
+Regeneration (disambiguation) (antonym)

@@ -1,0 +1,601 @@
+In music, notes are distinct and isolatable sounds that act as the most basic building blocks for nearly all of music. This discretization facilitates performance, comprehension, and analysis. Notes may be visually communicated by writing them in musical notation.
+Notes can distinguish the general pitch class or the specific pitch played by a pitched instrument. Although this article focuses on pitch, notes for unpitched percussion instruments distinguish between different percussion instruments (and/or different manners to sound them) instead of pitch. Note value expresses the relative duration of the note in time. Dynamics for a note indicate how loud to play them. Articulations may further indicate how performers should shape the attack and decay of the note and express fluctuations in a note's timbre and pitch. Notes may even distinguish the use of different extended techniques by using special symbols.
+The term note can refer to a specific musical event, for instance when saying the song "Happy Birthday to You", begins with two notes of identical pitch. Or more generally, the term can refer to a class of identically sounding events, for instance when saying "the song begins with the same note repeated twice".
+
+
+== Distinguishing duration ==
+
+A note can have a note value that indicates the note's duration relative to the musical meter. In order of halving duration, these values are:
+
+Longer note values (e.g. the longa) and shorter note values (e.g. the two hundred fifty-sixth note) do exist, but are very rare in modern times. These durations can further be subdivided using tuplets.
+A rhythm is formed from a sequence in time of consecutive notes (without particular focus on pitch) and rests (the time between notes) of various durations.
+
+
+== Distinguishing pitch ==
+
+
+=== Distinguishing pitches of a scale ===
+Music theory in most European countries and others use the solfège naming convention. Fixed do uses the syllables re–mi–fa–sol–la–ti specifically for the C major scale, while movable do labels notes of any major scale with that same order of syllables.
+Alternatively, particularly in English- and some Dutch-speaking regions, and certainly in all of Germany, pitch classes are typically represented by the first seven letters of the Latin alphabet (A, B, C, D, E, F and G), corresponding to the A minor scale. Several European countries, including Germany and Czechia, use H instead of B (see § 12-tone chromatic scale for details). Byzantium used the names Pa–Vu–Ga–Di–Ke–Zo–Ni (Πα–Βου–Γα–Δι–Κε–Ζω–Νη).
+In traditional Indian music, musical notes are called svaras and commonly represented using the seven notes, Sa, Re, Ga, Ma, Pa, Dha and Ni.
+
+
+=== Writing notes on a staff ===
+
+In a score, each note is assigned a specific vertical position on a staff position (a line or space) on the staff, as determined by the clef. Each line or space is assigned a note name. These names are memorized by musicians and allow them to know at a glance the proper pitch to play on their instruments.
+The staff above shows the notes C, D, E, F, G, A, B, C and then in reverse order, with no key signature or accidentals.
+
+
+=== Accidentals ===
+
+Notes that belong to the diatonic scale relevant in a tonal context are called diatonic notes. Notes that do not meet that criterion are called chromatic notes or accidentals. Accidental symbols visually communicate a modification of a note's pitch from its tonal context. Most commonly, the sharp symbol (♯) raises a note by a half step, while the flat symbol (♭) lowers a note by a half step. This half step interval is also known as a semitone (which has an equal temperament frequency ratio of 12√2 ≅ 1.0595). The natural symbol (♮) indicates that any previously applied accidentals should be cancelled. Advanced musicians use the double-sharp symbol () to raise the pitch by two semitones, the double-flat symbol () to lower it by two semitones, and even more advanced accidental symbols (e.g. for quarter tones). Accidental symbols are placed to the right of a note's letter when written in text (e.g. F♯ is F-sharp, B♭ is B-flat, and C♮ is C natural), but are placed to the left of a note's head when drawn on a staff.
+Systematic alterations to any of the 7 lettered pitch classes are communicated using a key signature. When drawn on a staff, accidental symbols are positioned in a key signature to indicate that those alterations apply to all occurrences of the lettered pitch class corresponding to each symbol's position. Additional explicitly-noted accidentals can be drawn next to noteheads to override the key signature for all subsequent notes with the same lettered pitch class in that bar. However, this effect does not accumulate for subsequent accidental symbols for the same pitch class.
+
+
+=== 12-tone chromatic scale ===
+Assuming enharmonicity, accidentals can create pitch equivalences between different notes (e.g. the note B♯ represents the same pitch as the note C). Thus, a 12-note chromatic scale adds 5 pitch classes in addition to the 7 lettered pitch classes.
+The following chart lists names used in different countries for the 12 pitch classes of a chromatic scale built on C. Their corresponding symbols are in parentheses. Differences between German and English notation are highlighted in bold typeface. Although the English and Dutch names are different, the corresponding symbols are identical.
+
+
+=== Distinguishing pitches of different octaves ===
+Two pitches that are any number of octaves apart (i.e. their fundamental frequencies are in a ratio equal to a power of two) are perceived as very similar. Because of that, all notes with these kinds of relations can be grouped under the same pitch class and are often given the same name.
+The top note of a musical scale is the bottom note's second harmonic and has double the bottom note's frequency. Because both notes belong to the same pitch class, they are often called by the same name. That top note may also be referred to as the "octave" of the bottom note, since an octave is the interval between a note and another with double frequency.
+
+
+==== Scientific versus Helmholtz pitch notation ====
+
+Two nomenclature systems for differentiating pitches that have the same pitch class but which fall into different octaves are:
+
+Helmholtz pitch notation, which distinguishes octaves using prime symbols and letter case of the pitch class letter.
+The octave below tenor C is called the "great" octave. Notes in it and are written as upper case letters.
+The next lower octave is named "contra". Notes in it include a prime symbol below the note's letter.
+Names of subsequent lower octaves are preceded with "sub". Notes in each include an additional prime symbol below the note's letter.
+The octave starting at tenor C is called the "small" octave. Notes in it are written as lower case letters, so tenor C itself is written c in Helmholtz notation.
+The next higher octave is called "one-lined". Notes in it include a prime symbol above the note's letter, so middle C is written c′.
+Names of subsequently higher octaves use higher numbers before the "lined". Notes in each include an addition prime symbol above the note's letter.
+Scientific pitch notation, where a pitch class letter (C, D, E, F, G, A, B) is followed by a subscript Arabic numeral designating a specific octave.
+Middle C is named C4 and is the start of the 4th octave.
+Higher octaves use successively higher number and lower octaves use successively lower numbers.
+The lowest note on most pianos is A0, the highest is C8.
+For instance, the standard 440 Hz tuning pitch is named A4 in scientific notation and instead named a′ in Helmholtz notation.
+Meanwhile, the electronic musical instrument standard called MIDI doesn't specifically designate pitch classes, but instead names pitches by counting from its lowest note: number 0 (C−1 ≈ 8.1758 Hz); up chromatically to its highest: number 127 (G9 ≈ 12,544 Hz). (Although the MIDI standard is clear, the octaves actually played by any one MIDI device don't necessarily match the octaves shown below, especially in older instruments.)
+
+
+=== Pitch frequency in hertz ===
+
+Pitch is associated with the frequency of physical oscillations measured in hertz (Hz) representing the number of these oscillations per second. While notes can have any arbitrary frequency, notes in more consonant music tends to have pitches with simpler mathematical ratios to each other.
+Western music defines pitches around a central reference "concert pitch" of A4, currently standardized as 440 Hz. Notes played in tune with the 12 equal temperament system will be an integer number 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ of half-steps above (positive 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+) or below (negative 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+) that reference note, and thus have a frequency of:
+
+  
+    
+      
+        f
+        =
+        
+          2
+          
+            
+              h
+              12
+            
+          
+        
+        ×
+        440
+        
+           Hz
+        
+        
+      
+    
+    {\displaystyle f=2^{\frac {h}{12}}\times 440{\text{ Hz}}\,}
+  
+
+Octaves automatically yield powers of two times the original frequency, since 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ can be expressed as 
+  
+    
+      
+        12
+        v
+      
+    
+    {\displaystyle 12v}
+  
+ when 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ is a multiple of 12 (with 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ being the number of octaves up or down). Thus the above formula reduces to yield a power of 2 multiplied by 440 Hz:
+
+  
+    
+      
+        
+          
+            
+              
+                f
+              
+              
+                
+                =
+                
+                  2
+                  
+                    
+                      
+                        12
+                        v
+                      
+                      12
+                    
+                  
+                
+                ×
+                
+                  440 Hz
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  2
+                  
+                    v
+                  
+                
+                ×
+                
+                  440 Hz
+                
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}f&=2^{\frac {12v}{12}}\times {\text{440 Hz}}\\&=2^{v}\times {\text{440 Hz}}\,.\end{aligned}}}
+  
+
+
+==== Logarithmic scale ====
+The base-2 logarithm of the above frequency–pitch relation conveniently results in a linear relationship with 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ or 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  log
+                  
+                    2
+                  
+                
+                ⁡
+                (
+                f
+                )
+              
+              
+                
+                =
+                
+                  
+                    
+                      h
+                      12
+                    
+                  
+                
+                +
+                
+                  log
+                  
+                    2
+                  
+                
+                ⁡
+                (
+                
+                  440 Hz
+                
+                )
+              
+            
+            
+              
+              
+                
+                =
+                v
+                +
+                
+                  log
+                  
+                    2
+                  
+                
+                ⁡
+                (
+                
+                  440 Hz
+                
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\log _{2}(f)&={\tfrac {h}{12}}+\log _{2}({\text{440 Hz}})\\&=v+\log _{2}({\text{440 Hz}})\end{aligned}}}
+  
+
+When dealing specifically with intervals (rather than absolute frequency), the constant 
+  
+    
+      
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        (
+        
+          440 Hz
+        
+        )
+      
+    
+    {\displaystyle \log _{2}({\text{440 Hz}})}
+  
+ can be conveniently ignored, because the difference between any two frequencies 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+      
+    
+    {\displaystyle f_{1}}
+  
+ and 
+  
+    
+      
+        
+          f
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{2}}
+  
+ in this logarithmic scale simplifies to:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  log
+                  
+                    2
+                  
+                
+                ⁡
+                (
+                
+                  f
+                  
+                    1
+                  
+                
+                )
+                −
+                
+                  log
+                  
+                    2
+                  
+                
+                ⁡
+                (
+                
+                  f
+                  
+                    2
+                  
+                
+                )
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        h
+                        
+                          1
+                        
+                      
+                      12
+                    
+                  
+                
+                −
+                
+                  
+                    
+                      
+                        h
+                        
+                          2
+                        
+                      
+                      12
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  v
+                  
+                    1
+                  
+                
+                −
+                
+                  v
+                  
+                    2
+                  
+                
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\log _{2}(f_{1})-\log _{2}(f_{2})&={\tfrac {h_{1}}{12}}-{\tfrac {h_{2}}{12}}\\&=v_{1}-v_{2}\,.\end{aligned}}}
+  
+
+Cents are a convenient unit for humans to express finer divisions of this logarithmic scale that are 1⁄100th of an equally-tempered semitone. Since one semitone equals 100 cents, one octave equals 12 ⋅ 100 cents = 1200 cents. Cents correspond to a difference in this logarithmic scale, however in the regular linear scale of frequency, adding 1 cent corresponds to multiplying a frequency by 1200√2 (≅ 1.000578).
+
+
+==== MIDI ====
+For use with the MIDI (Musical Instrument Digital Interface) standard, a frequency mapping is defined by:
+
+  
+    
+      
+        p
+        =
+        69
+        +
+        12
+        ×
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        
+          
+            f
+            
+              440
+              
+                 Hz
+              
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle p=69+12\times \log _{2}{\frac {f}{440{\text{ Hz}}}}\,,}
+  
+
+where 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ is the MIDI note number. 69 is the number of semitones between C−1 (MIDI note 0) and A4.
+Conversely, the formula to determine frequency from a MIDI note 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ is:
+
+  
+    
+      
+        f
+        =
+        
+          2
+          
+            
+              
+                p
+                −
+                69
+              
+              12
+            
+          
+        
+        ×
+        440
+        
+           Hz
+        
+        
+        .
+      
+    
+    {\displaystyle f=2^{\frac {p-69}{12}}\times 440{\text{ Hz}}\,.}
+  
+
+
+=== Pitch names and their history ===
+
+Music notation systems have used letters of the alphabet for centuries. The 6th century philosopher Boethius is known to have used the first fourteen letters of the classical Latin alphabet (the letter J did not exist until the 16th century),
+
+A   B   C   D   E   F   G   H   I   K   L   M   N   O
+to signify the notes of the two-octave range that was in use at the time and in modern scientific pitch notation are represented as
+
+A2   B2   C3   D3   E3   F3   G3   A3   B3   C4   D4   E4   F4   G4
+Though it is not known whether this was his devising or common usage at the time, this is nonetheless called Boethian notation. Although Boethius is the first author known to use this nomenclature in the literature, Ptolemy wrote of the two-octave range five centuries before, calling it the perfect system or complete system – as opposed to other, smaller-range note systems that did not contain all possible species of octave (i.e., the seven octaves starting from A, B, C, D, E, F, and G). A modified form of Boethius' notation later appeared in the Dialogus de musica (ca. 1000) by Pseudo-Odo, in a discussion of the division of the monochord.
+Following this, the range (or compass) of used notes was extended to three octaves, and the system of repeating letters A–G in each octave was introduced, these being written as lower-case for the second octave (a–g) and double lower-case letters for the third (aa–gg). When the range was extended down by one note, to a G, that note was denoted using the Greek letter gamma (Γ), the lowest note in Medieval music notation. (It is from this gamma that the French word for scale, gamme derives, and the English word gamut, from "gamma-ut".)
+The remaining five notes of the chromatic scale (the black keys on a piano keyboard) were added gradually; the first being B♭, since B was flattened in certain modes to avoid the dissonant tritone interval. This change was not always shown in notation, but when written, B♭ (B flat) was written as a Latin, cursive "𝒷", and B♮ (B natural) a Gothic script (known as Blackletter) or "hard-edged" 𝔟. These evolved into the modern flat (♭) and natural (♮) symbols respectively. The sharp symbol arose from a ƀ (barred b), called the "cancelled b".
+
+
+==== B♭, B and H ====
+
+In parts of Europe, including Germany, the Czech Republic, Slovakia, Poland, Hungary, Norway, Denmark, Serbia, Croatia, Slovenia, Finland, and Iceland (and Sweden before the 1990s), the Gothic 𝔟 transformed into the letter h (possibly for hart, German for "harsh", as opposed to blatt, German for "planar", or just because the Gothic 𝔟 and 𝔥 resemble each other). Therefore, in current German music notation, H is used instead of B♮ (B natural), and B instead of B♭ (B flat). Occasionally, music written in German for international use will use H for B natural and Bb for B flat (with a modern-script lower-case b, instead of a flat sign, ♭). Since a Bes or B♭ in Northern Europe (notated B in modern convention) is both rare and unorthodox (more likely to be expressed as Heses), it is generally clear what this notation means.
+
+
+==== System "do–re–mi–fa–sol–la–si" ====
+In Italian, Portuguese, Spanish, French, Romanian, Greek, Albanian, Russian, Mongolian, Flemish, Persian, Arabic, Hebrew, Ukrainian, Bulgarian, Turkish and Vietnamese the note names are do–re–mi–fa–sol–la–si rather than C–D–E–F–G–A–B. These names follow the original names reputedly given by Guido d'Arezzo, who had taken them from the first syllables of the first six musical phrases of a Gregorian chant melody Ut queant laxis, whose successive lines began on the appropriate scale degrees. These became the basis of the solfège system. For ease of singing, the name ut was largely replaced by do (most likely from the beginning of Dominus, "Lord"), though ut is still used in some places. It was the Italian musicologist and humanist Giovanni Battista Doni (1595–1647) who successfully promoted renaming the name of the note from ut to do. For the seventh degree, the name si (from Sancte Iohannes, St. John, to whom the hymn is dedicated), though in some regions the seventh is named ti (again, easier to pronounce while singing).
+
+
+== See also ==
+Ghost note
+Grace note
+Letter notation
+Musical tone
+Pensato
+Shape note
+Universal key
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+Nattiez, Jean-Jacques (1990) [1987]. Music and Discourse: Toward a Semiology of Music [Musicologie générale et sémiologie]. Translated by Carolyn Abbate. Princeton University Press. ISBN 0-691-02714-5.
+
+
+== External links ==
+
+Converter: Frequencies to note name, ± cents
+Note names, keyboard positions, frequencies and MIDI numbers
+Music notation systems − Frequencies of equal temperament tuning – The English and American system versus the German system
+Frequencies of musical notes
+Learn How to Read Sheet Music
+Free music paper for printing and downloading

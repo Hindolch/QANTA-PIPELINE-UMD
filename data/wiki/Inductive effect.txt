@@ -1,0 +1,68 @@
+In organic chemistry, the inductive effect in a molecule is a local change in the electron density due to electron-withdrawing or electron-donating groups elsewhere in the molecule, resulting in a permanent dipole in a bond.
+It is present in a σ (sigma) bond, unlike the electromeric effect which is present in a π (pi) bond.
+The halogen atoms in an alkyl halide are electron withdrawing while the alkyl groups have electron donating tendencies. If the electronegative atom (missing an electron, thus having a positive charge) is then joined to a chain of atoms, typically carbon, the positive charge is relayed to the other atoms in the chain. This is the electron-withdrawing inductive effect, also known as the −I effect. In short, alkyl groups tend to donate electrons, leading to the +I effect. Its experimental basis is the ionization constant. It is distinct from and often opposite to the mesomeric effect.
+
+
+== Bond polarization ==
+
+Covalent bonds can be polarized depending on the relative electronegativity of the two atoms forming the bond. The electron cloud in a σ-bond between two unlike atoms is not uniform and is slightly displaced towards the more electronegative of the two atoms. This causes a permanent state of bond polarization, where the more electronegative atoms has a fractional negative charge (δ−) and the less electronegative atom has a fractional positive charge (δ+).
+For example, the water molecule H2O has an electronegative oxygen atom that attracts a negative charge. This is indicated by δ− in the water molecule in the vicinity of the O atom, as well as by a δ+ next to each of the two H atoms. The vector addition of the individual bond dipole moments results in a net dipole moment for the molecule. A polar bond is a covalent bond where there is a separation of charge between one end and the other—i.e. where end is slightly positive and the other slightly negative. Examples include most covalent bonds. The hydrogen–chlorine bond in HCl or the hydrogen–oxygen bonds in water are typical.
+
+
+== Inductive effect ==
+The effect of the sigma electron displacement towards the more electronegative atom by which one end becomes positively charged and the other end negatively charged is known as the inductive effect. The −I effect is a permanent effect & generally represented by an arrow on the bond.
+The inductive effect of alkyl group, has long been a source of misunderstanding. Due to early experimentation, before an understanding of hyperconjugation, results such as the more rapid nitration of toluene compared to benzene, were deduced as being due to an inductively donating effect of alkyl groups. Effects such as the lower acidity of alcohols and higher basicity of substituted amines further deepened the misunderstanding, despite this being due to solvent or polarisability effects.
+As the induced change in polarity is less than the original polarity, the inductive effect rapidly dies out and is significant only over a short distance. Moreover, the inductive effect is permanent but feeble since it involves the shift of strongly held σ-bond electrons and other stronger factors may overshadow this effect.
+Recent research combining wave functional theory calculations with experiment results (gas phase acidities, ion-specific effects in thermoresponsive polymers, and NMR spectroscopy) has re-examined haloacetic acids and salts. The study found that in trihaloacetates, the trichloro group—despite being less electronegative than fluoro groups—reduces the carboxylate oxygen charge density the most. This inversion of the traditional electronegativity–charge density relationship suggests that other factors beyond the simple inductive effect (such as hyperconjugation) may significantly influence acidity trends.
+
+
+== Relative inductive effects ==
+Relative inductive effects have been experimentally measured through the resulting pKas of a nearby carboxylic acid group (see § Carboxylic acids).  In increasing order of −I effect or decreasing order of +I effect, common functional groups are:
+
+−NH+3 > −NO2 > −SO2R > −SO3H > −CN > −CHO > −COR > −COOH > −COCl > −CONH2 > −F > −Cl > −Br > −I > −OR > −OH > −NR2 > −NH2 > −C6H5 > −CH=CH2 > −H.
+Hydrogen substituents also exhibit an isotope effect: relative to the same order,
+
+−T > −D > −H,
+where H is hydrogen, D deuterium, and T tritium.
+The strength of inductive effect is also dependent on the distance between the substituent group and the main group that react; the longer the distance, the weaker the effect.
+Inductive effects can be expressed quantitatively through the Hammett equation, which describes the relationship between reaction rates and equilibrium constants with respect to substituent.
+
+
+== Fragmentation ==
+The inductive effect can be used to determine the stability of a molecule depending on the charge present on the atom and the groups bonded to the atom. For example, if an atom has a positive charge and is attached to a −I group its charge becomes 'amplified' and the molecule becomes more unstable. Similarly, if an atom has a negative charge and is attached to a +I group its charge becomes 'amplified' and the molecule becomes more unstable. In contrast, if an atom has a negative charge and is attached to a −I group its charge becomes 'de-amplified' and the molecule becomes more  stable than if the I-effect was not taken into consideration. Similarly, if an atom has a positive charge and is attached to a +I group its charge becomes 'de-amplified' and the molecule becomes more stable than if the I-effect was not taken into consideration. The explanation for the above is given by the fact that more charge on an atom decreases stability and less charge on an atom increases stability.
+
+
+== Acidity and basicity ==
+The inductive effect also plays a vital role in deciding the acidity and basicity of a molecule. Groups having +I effect (Inductive effect) attached to a molecule increases the overall electron density on the molecule and the molecule is able to donate electrons, making it basic. Similarly, groups having −I effect attached to a molecule decreases the overall electron density on the molecule making it electron deficient which results in its acidity. As the number of −I groups attached to a molecule increases, its acidity increases; as the number of +I groups on a molecule increases, its basicity will increase.
+
+
+== Applications ==
+
+
+=== Carboxylic acids ===
+The strength of a carboxylic acid depends on the extent of its ionization constant: the more ionized it is, the stronger it is. As an acid becomes stronger, the numerical value of its pKa drops.
+In acids, the electron-releasing inductive effect of the alkyl group increases the electron density on oxygen and thus hinders the breaking of the O-H bond, which consequently reduces the ionization. Due to its greater ionization, formic acid (pKa=3.74) is stronger than acetic acid (pKa=4.76). Monochloroacetic acid (pKa=2.82), though, is stronger than formic acid, due to the electron-withdrawing effect of chlorine promoting ionization.
+In benzoic acid, the carbon atoms which are present in the ring are sp2 hybridised. As a result, benzoic acid (pKa=4.20) is a stronger acid than cyclohexanecarboxylic acid (pKa=4.87). Also, in aromatic carboxylic acids, electron-withdrawing groups substituted at the ortho and para positions can enhance the acid strength.
+Since the carboxyl group is itself an electron-withdrawing group, dicarboxylic acids are, in general, stronger acids than their monocarboxyl analogues.
+The Inductive effect will also help in polarization of a bond making certain carbon atom or other atom positions.
+
+
+== Comparison between inductive effect and electromeric effect ==
+
+
+== See also ==
+Mesomeric effect
+Pi backbonding
+Baker–Nathan effect: the observed order in electron-releasing basic substituents is apparently reversed.
+
+
+== References ==
+
+Stock, Leon M. (1972). "The origin of the inductive effect". Journal of Chemical Education. 49 (6): 400. Bibcode:1972JChEd..49..400S. doi:10.1021/ed049p400. ISSN 0021-9584.
+
+
+== External links ==
+
+globalbritannica.com
+auburn.edu (PDF)
+pubs.acs.org

@@ -1,0 +1,222 @@
+In Nordic folklore, the draugr, or draug (Old Norse: draugr; Icelandic: draugur; Faroese: dreygur; Norwegian: draug, drauv; Swedish: drög, dröger; Northern Sami: rávga), is an old archaic term for a malevolent revenant with varying ambiguous traits. In modern times, they are often portrayed as Norse supernatural zombies, as depicted in various video games such as Skyrim and God of War, loosely based on the draugr as described in early medieval Icelandic sagas. However, in myth and folklore, they comprise several complex ideas which change from story to story, especially in surviving Norwegian folklore, where the draugr remains a staple – see § Sea draugr.
+In the Icelandic sagas, from which most modern interest is garnered, draugrs live in their graves or royal palaces, often guarding treasure buried in their burial mound. They are revenants, or animated corpses, rather than ghosts, which possess intangible spiritual bodies.
+
+
+== Etymology ==
+
+
+=== Development ===
+The Old Norse word draugr (initially draugʀ, see ʀ), in the sense of the undead creature, is hypothetically traced to an unrecorded Proto-Germanic: *draugaz, meaning "delusion, illusion, mirage" etc., from *dreuganą ("to mislead, deceive"), ultimately from a Proto-Indo European stem *dʰrowgʰos ("phantom"), from *dʰréwgʰ-s ~ dʰrugʰ-és ("deceive").
+Cognates includes Swedish: bedraga ("to deceive"), Low German: drog ("impostor, scoundrel"), dregen ("to deceive"), Old High German: bitrog ("delusion"), gitrog ("illusion, mirage, ghost"), German: Trug ("deception, delusion, illusion"), Dutch: bedrog ("deceit, deception"), Old Saxon: gidrog ("delusion"), Welsh: drwg ("bad, evil"), Irish: droch ("bad, evil"), drouk ("bad, evil"), Sanskrit: द्रुह्, drúh ("injury, harm, offence"), द्रोघ, drógha ("deceitful, untrue, misleading"), Old Persian: 𐎭𐎼𐎢𐎥, drauga ("deceit, deception"), 𐎭𐎼𐎢𐎩𐎴, draujana ("deceptive, deceitful, misleading"), ultimately from the same root as 'dream', from a Proto-Indo European *dʰrowgʰ-mos ("deceit, illusion").
+
+
+=== Descendants ===
+Recorded descendants of draugr include:
+
+Faroese: dreygur
+Icelandic: draugur
+Norwegian: draug, drøg, drog, also the forms: drauv, drøv, drov, in 1741 recorded as: drau (compare Scots: drow)
+Swedish: drög, dröger, draugr, also the definite forms: dronn, drån (a noa-name for Satan), a contraction of an unrecorded definite form comparable to earlier Norwegian: drauen
+In English, the forms drow (compare 18th century Norwegian: drau) and trow exist, stemming from Shetlandic and Orcadian Scots: drow and trow ("a malignant spirit, troll, gnome"), inherited from an unattested Norn: *drog stemming from Old Norse: draugr, but also Norn: trǫll ("troll") by linguistic and figurative convergence, as troll back in the day was rather ambiguous and rather meant something akin to magical creature of ill will, even being used figuratively for draugr.
+Cognates of the draugr also exist in the Sámi languages (reconstructed Proto-Samic: *rāvkë, *rāvkkē), suggesting a common loan from Proto-Norse.
+
+Southern Sami: raavke: vision, ghost
+Pite Sami: rávvga: analogous to the Norwegian draugr
+Lule Sami: rávgga: analogous to the Norwegian draugr
+Northern Sami: rávga, or čáhcerávga ("water rávga"): analogous to the Norwegian draugr
+Kildin Sami: роа̄ввк (rååvvk): geist; phantom, vision
+Similarly, the reconstructed Proto-Finnic: *raukka may also (at least partially) derive from the same root as Old Norse: draugr and the Sámi cognates (it may also be effected by Swedish: rackare, ”someone dealing with cleaning filth”, for example gravedigger, executioner assistant, skinner, castrator, chimney sweeper; partially derogatory, also meaning ”blighter, gypsy, the devil”, from Middle Low German: racker with similar meaning; from the same root as English rake).
+
+Estonian: rauk: a very old person
+Finnish: raukka: poor thing, wretch; coward, wimp
+Votic: raukkõ: poor thing, wretch
+Compare to the following potentially related words: Danish: drog ("a good-for-nothing"); Scots: draighie, draich, draick ("a lazy, lumpish, useless person"), draich ("slow, spiritless"); Swedish: drög ("nut, idiot").
+
+
+== Terminology ==
+
+
+=== Nonfiction literature ===
+One of the earliest nonfiction literature to mention the draugr is by Danish-Norwegian Hans Egede (1686–1758), during his time as the bishop of Greenland. In his book, The New Perlustration of Greenland (Danish: Det gamle Grønlands nye Perlustration), published in 1741, he describes the Norwegian myth of the Kraken, and follows up with a comment of the sea draugr:
+
+
+=== Dictionaries ===
+One of the earliest dictionaries for draugr, or rather its descendants, was Swedish linguist and priest Johan Ernst Rietz's (1815–1868) dialect dictionary of Swedish vernacular (1862–1867), which listed the Swedish descendants of Old Norse draugr as dröger and drög (compare Icelandic: draugur vs dröger, Norwegian: drøg vs drög), including the archaic form draugr in the province of Närke. He also included Norwegian draug, drauv and drog for comparison, giving the definition for both Swedish and Norwegian as:
+
+"pale, powerless, slow human, striding forward", alternatively just "ghost or undead".
+Around the same time, although published a few years later, English philologist Richard Cleasby (1797–1847), and Icelandic scholar Guðbrandur Vigfússon (1827–1889), in "An Icelandic-English dictionary" (1873), defined Old Norse draugr (old form to draugur) as:
+
+"a ghost, spirit, especially the dead inhabitant of a cairn".
+This description was repeated almost word for word by Icelandic linguist Geir T. Zoëga (1857–1928), in his book "A concise dictionary of old Icelandic" (1910).
+Norwegian journalist, author, and editor Johan Christian Johnsen (1815–1898), in his Norwegian dictionary (1881–1888), gave a different, more specific definition for Norwegian draug than Rietz did in the 1860s, defining it as:
+
+"(really a revenant) in Norwegian folk superstition, a supernatural being that dwells on and by the sea. It appears most frequently as a man dressed in sea clothes with a bundle of seaweed instead of a head, sailing in half a boat, always proclaiming that the person or someone from the boat to whom it appears will perish".
+
+
+=== Written corpus ===
+In the written corpus, the draugr is regarded not so much as a ghost, but a corporeal undead creature, or revenant, i.e., the reanimated corpse of the deceased, for example inside the burial mound or grave (as in the example of Kárr inn gamli in Grettis saga). Commentators extend the term draugr to the undead in medieval literature, even if it is never explicitly referred to as such in the text, and designated them instead as a haugbúi ("barrow-dweller") or an aptrganga ("re-walker") – see Gjenganger. Compare Icelandic: afturganga ("after-walker"), Swedish: gengångare ("again-walker").
+Unlike Kárr inn gamli (Kar the Old) in Grettis saga, who is specifically called a draugr, Glámr the ghost in the same saga is never explicitly called a draugr in the text, though called a "troll" in it. Yet Glámr is still routinely referred to as a draugr by modern scholars. Beings not specifically called draugr, but only referred to as aptrgǫngur "revenants" (pl. of aptrganga) and reimleikar "haunting" in these medieval sagas, are still commonly discussed as a draugr in various scholarly works, or the draugr and the haugbúi are lumped into one.
+A further caveat is that the application of the term draugr may not necessarily follow what the term might have meant in the strict sense during medieval times, but rather follow a modern definition or notion of draugr, specifically such ghostly beings (by whatever names they are called) that occur in Icelandic folktales categorized as "Draugasögur" in Jón Árnason's collection, based on the classification groundwork laid by Konrad Maurer.
+In Old Norse, draugr also meant a tree trunk or dry dead wood (then a cognate of "drought", related to "drain"), which in poetry could refer to a man or warrior, since Old Norse poetry often used terms for trees to represent humans, especially in kennings, referencing the myth that the god Odin and his brothers created the first humans Ask and Embla from trees. There was thus a connection between the idea of a felled tree's trunk and that of a dead man's corpse.
+Also, one of the names for Odin was Draugadróttinn, "Lord of the draugr", in the Ynglinga saga, chapter 7.
+
+
+=== Haugbúi (mound-dweller) ===
+The haugbúi, meaning "mound-dweller" or "howe-dweller" (composite of Old Norse: haugr, "mound", cognate to English "how, howe, height", and búi, "dweller", from búa, "reside"), the dead body living within its tomb, is a variation of the draugr. The notable difference between the two was that the haugbui cannot leave its grave site and only attacks those who trespass upon their territory.
+Beings in British folklore such as Lincolnshire "shag-boys" and Scots "hogboons" derive their names from haugbui.
+A modern rendering is also barrow-wight, popularized by J. R. R. Tolkien in his novels, however, initially used for the draugr in Eiríkur Magnússon's and William Morris' 1869 translation of Grettis saga, long before Tolkien employed the term; rendering Icelandic "Sótti haugbúinn með kappi" as "the barrow-wight setting on with hideous eagerness".
+
+
+== Overall classification ==
+
+
+=== Ghost with physical body ===
+The draugr is a "corporeal ghost" with a physical, tangible body and not an "imago," and in tales, it is often delivered a "second death" by the destruction of the animated corpse.
+
+
+=== Vampire ===
+The draugr has also been conceived of as a type of vampire by folktale anthologist Andrew Lang in late 1897, with the idea further pursued by more modern commentators. The focus here is not on blood-sucking, which is not attested for the draugr, but rather, contagiousness or transmittable nature of vampirism, that is to say, how a vampire begets another by turning his or her attack victim into one of his kind. Sometimes the chain of contagion becomes an outbreak, e.g., the case of Þórólfr bægifótr (Thorolf Lame-foot or Twist-Foot), and even called an "epidemic" regarding Þórgunna (Thorgunna).
+A more speculative case of vampirism is that of Glámr, who was asked to tend sheep for a haunted farmstead and was subsequently found dead with his neck and every bone in his body broken. It has been surmised by commentators that Glámr, by "contamination," was turned into an undead (draugr) by whatever being was haunting the farm.
+
+
+== Physical traits ==
+
+Draugrs usually possess superhuman strength, and are said to be "generally hideous to look at", bearing a necrotic black or blue color, and being associated with a "reek of decay" (a common trait in ghostlore), or more precisely, inhabited haunts that often issued foul stench.
+In the Old Icelandic sagas, Draugrs were said to be either hel-blár ("death-blue") or nár-fölr ("corpse-pale"). Glámr in Grettis saga, when found dead, was described as "blár sem Hel en digr sem naut (black as hell and bloated to the size of a bull)". Þórólfr Lame-foot, when lying dormant, looked "uncorrupted" and also "was black as death [ie, bruised black and blue] and swollen to the size of an ox". The close similarity of these descriptions have been noted. Laxdæla saga describes how bones were dug up belonging to a dead sorceress who had appeared in dreams, and they were "blue and evil looking".
+Þráinn (Thrain), the berserker of Valland, "turned himself into a troll" in Hrómundar saga Gripssonar, was a fiend (dólgr) which was "black and huge.. roaring loudly and blowing fire", and possessed long scratching claws, and the claws stuck in the neck, prompting the hero Hrómundr to refer to the draugur as a sort of cat (Old Norse: kattakyn).
+ The possession of long claws features also in the case of another revenant, Ásviðr (Aswitus) who came to life in the night and attacked his foster-brother Ásmundr (Asmundus) with them, scratching his face and tearing one of his ears.
+Draugrs often give off a morbid stench, not unlike the smell of a decaying body. The mound where Kárr the Old was entombed reeked horribly. In Harðar saga Hörðr Grímkelsson's two underlings die even before entering Sóti the Viking's mound, due to the "gust and stink (ódaun)" wafting out of it.  When enraged Þráinn filled the barrow with an "evil reek."
+
+
+== Magical abilities ==
+Draugrs are noted for having numerous magical abilities referred to as Old Norse: trollskapr (lit. 'troll-ship', roughly "sorcery-ness") resembling those of living witches and wizards, such as hamr-shifting (shapeshifting in Nordic folklore), controlling the weather, and seeing into the future. The prefix, Old Norse: troll-, which is the same word as the creature troll, which initially meant something akin to "malevolent esoteric supernatural being" (demon, devil, ghost, jötunn etc.), was by extension, specifically in compounds, also a word for the sorcery and dark arts of said beings; compare Swedish: trolla ("to perform sorcery"), trolleri ("sorcery"), trollkarl (lit. 'troll-man', "sorcerer"), trollgumma, trollpacka (lit. 'troll-lady', "witch"),
+Icelandic linguist Geir T. Zoëga (1857–1928), in his book "A concise dictionary of old Icelandic" (1910), defined Old Icelandic: trollskapr as:
+
+nature of a troll, witchcraft
+The Swedish Academy gives the following description for the word trollskap in Swedish:
+
+(ability or power to exercise) witchcraft/sorcery; also of (especially evil) action arising from such ability, etc.; earlier also concretely, about objects or tools and the like equipped with or produced by such ability and so on...
+Synonyms to trollskapr and trollskap include: Old Icelandic: trolldómr and Swedish: trolldom, Swedish: trollkonst and trollkraft etc. ("sorcery").
+
+
+=== Shapeshifting ===
+
+The undead Víga-Hrappr Sumarliðason of Laxdaela saga, unlike the typical guardian of a treasure hoard, does not stay put in his burial place but roams around his farmstead of Hrappstaðir, menacing the living. Víga-Hrappr's ghost, it has been suggested, was capable of transforming into the seal with human-like eyes which appeared before Þorsteinn svarti/surt (Thorsteinn the Black) sailing by ship, and was responsible for the sinking of the vessel to prevent the family from reaching Hrappstaðir. The ability to shapeshift has been ascribed to Icelandic ghosts generally, particularly into the shape of a seal.
+A draugr in Icelandic folktales collected in the modern age can also change into a great flayed bull, a grey horse with a broken back but no ears or tail, and a cat that would sit upon a sleeper's chest and grow steadily heavier until their victim suffocated.
+
+
+=== Other magical abilities ===
+Draugrs have the ability to enter into the dreams of the living, and they will frequently leave a gift behind so that "the living person may be assured of the tangible nature of the visit". Draugrs also can curse a victim, as shown in Grettis saga, where Grettir is cursed to be unable to become stronger. Draugrs also brought disease to a village and could create temporary darkness in daylight hours. They preferred to be active during the night, although they did not appear vulnerable to sunlight like some other revenants. Draugr can also kill people with bad luck.
+A draugr's presence might be shown by a great light that glowed from the mound like foxfire. This fire would form a barrier between the land of the living and that of the dead.
+The undead Víga-Hrappr exhibited the ability to sink into the ground to escape from Óláfr Hǫskuldsson the Peacock.
+Some draugrs are immune to weapons, and only a hero has the strength and courage to stand up to a formidable opponent. In legends, the hero often wrestled a draugr back to his grave to defeat them since weapons would do no good. A good example of this is found in Hrómundar saga Gripssonar. Iron could injure a draugr, as with many supernatural creatures, although it would not be sufficient to stop it. Sometimes, the hero must dispose of the body in unconventional ways. The preferred method is to cut off the draugr's head, burn the body, and dump the ashes in the sea—the emphasis being on making sure that the draugr was dead and gone.
+
+
+== Behaviour and character ==
+Any mean, nasty, or greedy person can become a draugr. As Ármann Jakobsson notes, "most medieval Icelandic ghosts are evil or marginal people. If not dissatisfied or evil, they are unpopular".
+
+
+=== Greed ===
+The draugr's motivation was primarily envy and greed. Greed causes it to attack any would-be grave robbers viciously, but the draugr also expresses an innate envy of the living stemming from a longing for the things of life which it once had. They also exhibit an immense and nearly insatiable appetite, as shown in the encounter of Aran and Asmund, sword brothers who swore that, if one died, the other would sit vigil with him for three days inside the burial mound. When Aran died, Asmund brought his possessions into the barrow—banners, armor, hawk, hound, and horse—then set himself to wait the three days:
+
+During the first night, Aran got up from his chair and killed the hawk and hound and ate them. On the second night he got up again from his chair, and killed the horse and tore it into pieces; then he took great bites at the horse-flesh with his teeth, the blood streaming down from his mouth all the while he was eating…. The third night Asmund became very drowsy, and the first thing he knew, Aran had got him by the ears and torn them off.
+
+
+=== Bloodthirst ===
+The draugr's victims were not limited to trespassers in its home. The roaming undead devastated livestock by running the animals to death either by riding them or pursuing them in some hideous, half-flayed form. Shepherds' duties kept them outdoors at night, and they were particular targets for the hunger and hatred of the undead:
+
+The oxen which had been used to haul Thorolf's body were ridden to death by demons, and every single beast that came near his grave went raving mad and howled itself to death. The shepherd at Hvamm often came racing home with Thorolf after him. One day that Fall neither sheep nor shepherd came back to the farm.
+Animals feeding near the grave of a draugr might be driven mad by the creature's influence. They may also die from being driven mad. Thorolf, for example, caused birds to drop dead when they flew over his bowl barrow.
+
+
+=== Sitting posture and evil eye ===
+The main indication that a deceased person will become a draugr is that the corpse is not horizontal. It is found standing upright (as with Víga-Hrappr), or in a sitting position (Þórólfr), indicating that the dead might return. Ármann Jakobsson suggests further that breaking the draugr's posture is a necessary or helpful step in destroying the draugr, but this is fraught with the risk of being inflicted with the evil eye, whether this is explicitly told in the case of Grettir who receives the curse from Glámr, or only implied in the case of Þórólfr, whose son warns the others to beware while they unbend Þórólfr's seated posture.
+
+
+=== Annihilating ===
+The draugr needing to be decapitated to hinder them from further hauntings is a common theme in the family sagas.
+
+
+=== Means of prevention ===
+
+Traditionally in Iceland, a pair of open iron scissors was placed on the chest of the recently deceased, and straws or twigs might be hidden among their clothes. The big toes were tied together or needles were driven through the soles of the feet to keep the dead from being able to walk. Tradition also held that the coffin should be lifted and lowered in three directions as it was carried from the house to confuse a possible draugr's sense of direction.
+The most effective means of preventing the return of the dead was believed to be a corpse door, a special door through which the corpse was carried feet-first with people surrounding it so that the corpse couldn't see where it was going. The door was then bricked up to prevent a return. It is speculated that this belief began in Denmark and spread throughout the Norse culture, founded on the idea that the dead could only leave through the way they entered.
+In the "Eyrbyggja saga," draugrs are driven off by holding a "door-doom." One by one, they are summoned to the door-doom, given judgment, and forced out of the home by this legal method. The home is then purified with holy water to ensure that they never come back.
+
+
+== Folklore ==
+
+
+=== Icelandic sagas ===
+One of the best-known revenants in the sagas is Glámr, who is defeated by the hero in Grettis saga. After Glámr dies on Christmas Eve, "people became aware that Glámr was not resting in peace. He wrought such havoc that some people fainted at the sight of him, while others went out of their minds". After a battle, Grettir eventually gets Glámr on his back. Just before Grettir kills him, Glámr curses Grettir because "Glámr was endowed with more evil force than most other ghosts", and thus he was able to speak and leave Grettir with his curse after his death. (Note that the saga does not actually use the term draugr for Glámr, per above.)
+A somewhat ambivalent, alternative view of the draugr is presented by the example of Gunnar Hámundarson in Njáls saga: "It seemed as though the howe was agape, and that Gunnar had turned within the howe to look upwards at the moon. They thought that they saw four lights within the howe, but not a shadow to be seen. Then they saw that Gunnar was merry, with a joyful face."
+In the Eyrbyggja saga, a shepherd is assaulted by a blue-black draugr. The shepherd's neck is broken during the ensuing scuffle. The shepherd rises the next night as a draugr.
+
+
+=== Norwegian folklore (sea draugr) ===
+
+In contrast to the Icelandic sagas, in later Scandinavian folklore, the term draugr, is described akin to spirits, ghosts or revenants in general, sometimes with no clear distinction at all.
+In Norway, however, the term draugr (Norwegian: draug/drøg/drog, or drauv/drøv/drov) instead became associated with ghosts (and thereof) of people lost at sea, sometimes specified as "sea draugr" (Norwegian: havdraug, sjødraug) relative to "land draugr". The sea draugr occurs in legends along the coast of Norway, either at sea or along the beach. In later folklore, it became common to limit the figure to a ghost of a dead fisherman who had drifted at sea and who was not buried in Christian soil. It was said that he wore a leather jacket or was dressed in oilskin, but had a bundle of seaweed for his head. He sailed in a half-boat with blocked sails (Bø Municipality in Norway has the half-boat in its coat of arms) and announced death for those who saw him or even wanted to pull them down. This trait is common in the northernmost part of Norway, where life and culture was based on fishing more than anywhere else. The reason for this may be that the fishermen often drowned in great numbers, and the stories of restless dead coming in from sea were more common in the north than any other region of the country.
+A recorded legend from Trøndelag tells how a corpse lying on a beach became the object of a quarrel between the two types of draug (headless and seaweed-headed). A similar source even tells of a third type, the gleip, known to hitch themselves to sailors walking ashore and make them slip on the wet rocks.
+Although the draug usually presages death, there is an amusing account in Northern Norway of a northerner who managed to outwit him:
+
+It was Christmas Eve, and Ola went down to his boathouse to get the keg of brandy he had bought for the holidays. When he got in, he noticed a draugr sitting on the keg, staring out to sea. Ola, with great presence of mind and great bravery (it might not be amiss to state that he already had done some drinking), tiptoed up behind the draugr and struck him sharply in the small of the back, so that he went flying out through the window, with sparks hissing around him as he hit the water. Ola knew he had no time to lose, so he set off at a great rate, running through the churchyard which lay between his home and the boathouse. As he ran, he cried, "Up, all you Christian souls, and help me!" Then he heard the sound of fighting between the ghosts and the draugr, who were battling each other with coffin boards and bunches of seaweed. The next morning, when people came to church, the whole yard was strewn with coffin covers, boat boards, and seaweed. After the fight, which the ghosts won, the draugr never came back to that district.
+
+The cultural link between draugrs and Christmas in Norway goes back to the 1800s, probably much earlier. Sea draugrs and drowned people are mentioned as being part of the Wild Hunt in Norway, and the old Nordic Christmas tradition of leaving out food and beer on Christmas night, as to welcome spirits of the deceased, household spirits and thereof into the house, includes draugrs in Norway; the beer left out being called "draug-beer" (Norwegian: drøv-øl, from the form drauv).
+The modern and popular connection between the draug and the sea can be traced back to authors like Jonas Lie and Regine Nordmann, whose works include several books of fairy tales, as well as the drawings of Theodor Kittelsen, who spent some years living in Svolvær. Up north, the tradition of sea draugr is especially vivid.
+Arne Garborg describes land-draugs coming fresh from the graveyards, and the term draug is even used of vampires. The notion of draugrs who live in the mountains is present in the poetic works of Henrik Ibsen (Peer Gynt), and Aasmund Olavsson Vinje.
+
+
+=== Sámi folklore ===
+Cognates of the draugr also exist in Sámi folkore (Southern Sami: raavke; Pite Sami: rávvga; Lule Sami: rávgga; Northern Sami: rávga; Kildin Sami: роа̄ввк, roāvvk), suggesting a common loan from Proto-Norse.
+In Southern Sami (spoken in Central Scandinavia), and Kildin Sámi (spoken on the Kola Peninsula of northwestern Russia), the cognates are said to mean vision, phantom, ghost, geist, which is analog to the Swedish cognates.
+In Pite Sami, Lule Sami, and Northern Sami, the cognates are more analog to the Norwegian sea draugr, in Northern Sami also called čáhcerávga (lit. 'water rávga'). They are said to be the shadows of drowned people, living in a lake or stream. They were considered very dangerous, as they tried to pull the living into the water. Akin to the Nixie in Nordic folklore, these stories are used like the boogieman to scare children from visiting potentially dangerous water areas.
+
+
+== Use in popular culture ==
+
+The exoplanet PSR B1257+12 A has been named "Draugr".
+
+
+=== Literature ===
+The Nynorsk translation of The Lord of the Rings used the term for both Nazgûl and the dead men of Dunharrow. Tolkien's barrow-wights bear obvious similarity to, and were inspired by the haugbúi.
+
+
+=== Video games ===
+In video game series such as The Elder Scrolls, draugr are the undead mummified corpses of fallen warriors that inhabit the ancient burial sites of a Nordic-inspired race of man. They first appeared in the Bloodmoon expansion to The Elder Scrolls III: Morrowind, and would later go on to appear all throughout The Elder Scrolls V: Skyrim.
+Draugrs are a common enemy, the first encountered by the player, in the 2018 video game God of War, with a variety of different powers and abilities.
+In 2019, a spaceship named Draugur was added to the game Eve Online, as the command destroyer of the Triglavian faction. Draugr appear as an enemies in the 2021 early access game Valheim, where they take the more recent, seaweed version of the Draug.
+The Draugr is one of the Norse myth units of the New Gods Pack: Freyr DLC of 2024 video game Age of Mythology: Retold, associated to the god Ullr, fighting with bows and arrows.
+
+
+=== Cinema ===
+Season two episode two of the 2018 TV-series Hilda, entitled "The Draugen", involved draugen as the ghosts of sailors who died at sea. While their form was ghostly, the captain could wear a coat, and had a shock of seaweed for hair.
+In the 2018 film Draug, a group of Viking warriors encounter the draugr while searching for a missing person inside a vast forest. The draugr are depicted as blue-black animated corpses wielding many magical abilities.
+In the 2022 movie The Northman, Amleth enters a burial mound, in search of a magical sword named "Draugr". Amleth encounters an undead Mound Dweller inside the grave chamber, which he has to fight to obtain the blade.
+The 2024 Icelandic horror film The Damned features a draugr tormenting the inhabitants of an isolated, winter, fishing post after they let the survivors of a shipwreck drown.
+
+
+== See also ==
+Gjenganger
+Norse funeral
+Selkolla
+Spriggan
+Wiedergänger
+
+
+== Explanatory notes ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== General and cited references ===
+
+
+==== Primary sources ====
+
+
+==== Secondary sources ====

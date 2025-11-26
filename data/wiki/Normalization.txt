@@ -1,0 +1,52 @@
+Normalization or normalisation refers to a process that makes something more normal or regular.
+
+
+== Science ==
+Normalization process theory, a sociological theory of the implementation of new technologies or innovations
+Normalization model, used in visual neuroscience
+Normalization in quantum mechanics, see Wave function § Normalization condition and normalized solution
+Normalization (sociology) or social normalization, the process through which ideas and behaviors that may fall outside of social norms come to be regarded as "normal"
+
+
+== Mathematics and statistics ==
+Normalization of an algebraic variety, the operation consisting in taking locally the integral closure of the ring of regular functions
+Normalization (statistics), adjustments of values or distributions in statistics
+Quantile normalization, statistical technique for making two distributions identical in statistical properties
+Normalizing (abstract rewriting), an abstract rewriting system in which every object has at least one normal form
+Normalization property (abstract rewriting), a property of a rewrite system in mathematical logic and theoretical computer science
+Normalizing constant, in probability theory a constant to make a non-negative function a probability density function
+Noether normalization lemma, the result of commutative algebra
+Vector normalization
+Normalized number, a number in scientific notation with the decimal point in a consistent position
+Probability amplitude § Normalization
+
+
+== Technology and computer science ==
+A metallurgic process used in annealing
+Normalization (image processing), changing the range of pixel intensity values
+Audio normalization, a process of uniformly increasing or decreasing the amplitude of an audio signal
+Data normalization, general reduction of data to canonical form
+Normal number, a floating point number that has exactly one bit or digit to the left of the radix point
+Database normalization, used in database theory
+Dimensional normalization, or snowflaking, removal of redundant attributes in a dimensional model
+NFD normalization (normalization form canonical decomposition), a normalization form decomposition for Unicode string searches and comparisons in text processing
+Spatial normalization, a step in image processing for neuroimaging
+Text normalization, modifying text to make it consistent
+URL normalization, process to modify URLs in a consistent manner
+Normalization (machine learning), a technique in machine learning to change activation patterns to be on a similar scale.
+Normalized frequency (digital signal processing), unit of frequency cycles/sample in digital signal processing
+
+
+== Other ==
+The process of establishing normal diplomatic relations between two countries
+Normalization (people with disabilities), principle to make conditions of everyday living available to people with disabilities
+Normalization (Czechoslovakia), the restoration of the conditions prevalent before the reform in Czechoslovakia, 1969
+
+
+== See also ==
+Normalized frequency (disambiguation)
+Normal form (disambiguation)
+Normal (disambiguation)
+Renormalization
+All pages with titles containing "normalized"
+All pages with titles containing "normalization"

@@ -1,0 +1,143 @@
+The euphonium (English:  yoo-FOH-nee-əm; Italian: eufonio; Spanish: bombardino) is a tenor- and baritone-voiced valved brass instrument pitched in 9-foot (9′) B♭ an octave below the B♭ trumpet or cornet, employed chiefly in brass, military, and concert bands. The euphonium is a member of the large family of valved bugles, along with the tuba and flugelhorn, characterised by a wide conical bore. Most instruments have four valves, usually compensating piston valves, although instruments with four or five rotary valves are common in Eastern and Central Europe.
+Euphonium repertoire can be notated in concert pitch in the bass clef, or in the treble clef as a transposing instrument in B♭. In British brass bands, it is typically treated as a treble-clef instrument, while in American band music, parts may be written in either treble clef or bass clef, or both. A musician who plays the euphonium is known as a euphoniumist, a euphonist, or simply a euphonium player.
+
+
+== Name ==
+The euphonium derives its name from the Ancient Greek word εὔφωνος (euphōnos), meaning "pleasant-sounding" or "sweet-voiced".
+The euphonium has many relatives in the large and diverse family of valved bugles to which it belongs. The baritone horn found in British brass bands, although similar, has a narrower conical bore, smaller bell, and often lacks a fourth valve. The American baritone with three front-mounted piston valves, a narrower conical bore, and a curved forward-pointing bell, was dominant in American school marching bands throughout most of the 20th century. This instrument, along with the euphonium and similar-looking cylindrical bore instruments like the trombonium, were almost universally lumped together and labelled baritone by both band directors and composers. Band scores and manufacturers have sometimes treated them as the same instrument, or used the word baritone to refer to the euphonium, thus contributing to a confusion of terminology in the United States.
+Ferdinand Sommer's Sommerophone was patented in Berlin in 1844 as the Euphonion, and adopted in Britain as the euphonium after Sommer toured it in the 1850s. The euphonium is sometimes called the tenor tuba particularly by British composers, although this term can also refer to other types of tuba. Names in scores in other languages include the French basse, saxhorn basse, and tuba basse; German Baryton, Tenorbass, and Tenorbasshorn; Italian baritono, bombardino, eufonio, and flicorno basso. In Italy, flicorno tenore refers to the narrower bore baritone, while flicorno baritono and flicorno basso refer to the euphonium with three or four valves, respectively.
+The most common German name, Baryton, may have influenced Americans to adopt the name "baritone" for the instrument, due to the influx of German musicians and instrument makers to the United States in the 19th century.
+
+By the 1890s, American euphoniums were sometimes called the B♭ bass (with only one "B"). The 1894 Lyon & Healy catalog depicts instruments called the B♭ tenor, B♭ baritone, and B♭ bass with the same pitch and overall three-valve construction, differing only in bore and bell widths (while also listing "EE♭ bass" and "BB♭ bass" tubas). In the 1930s, American drum and bugle corps introduced the baritone bugle (or Baro-tone) in G with a single D piston valve, before a euphonium bugle in the same key but with a much wider bore had largely replaced it by the end of the 1960s.
+
+
+== History ==
+
+The history of the euphonium is tied to the history of the tuba, which is itself the search for a practical valved bass-voiced brass instrument suitable for use in bands and orchestras. Before the invention of valves in the 1820s, brass instruments were either restricted to a single harmonic series like the natural trumpet or bugle, or used a slide like the trombone, or used keys and tone holes like the keyed bugle or serpent. For low-pitched brass instruments, none of these solutions were ideal; the bass trombones with slide handles were unwieldy for fast passages, and the timbre of the serpent was often criticised.
+The euphonium can trace its origins partly to the ophicleide, an all-metal, conical bore keyed brass instrument developed by the Paris instrument maker Jean Hilaire Asté in 1817 to extend the keyed bugle into the bass range and replace the serpent. The ophicleide improved on the serpent, in use particularly in France since the late 16th century, by using keys covering larger tone holes sized proportionally to the bore width, in their acoustically correct positions. The wide conical bore of the ophicleide, extrapolated from the keyed bugle, imparted the warm, noble timbre characteristic of the modern euphonium. The ophicleide was widely used in French and British military bands, orchestras, and the emerging civic brass band movement for several decades, even after the invention of valves, and as late as the 1870s.
+
+
+=== The invention of valves ===
+The invention of the Stölzel valve in 1814, the Berlin valve in 1833 used on the 1835 Baß-Tuba and Adolphe Sax's early brass instruments, and especially the modern piston valve by François Périnet in 1839, allowed the construction of brass instruments with an even sound and facility of playing in all registers. Combined with steam power and other advances in manufacturing brought about by the Industrial Revolution, this led to the 19th century becoming a time of intense transformation in brass instrument design.
+As early as 1829 in Berlin, the Prussian military conductor Wilhelm Friedrich Wieprecht required for his trumpet corps a Tenorbasshorn in B♭ with three valves, a name which was later sometimes used for the euphonium. No specimens or images survive, but the historian Clifford Bevan claims it was likely to have been a larger bore version of the Tenorhorn, later often called the Baryton.
+Several instruments appeared in the 1830s and 1840s that fit the broad description of a baritone valved bugle (in B♭ or C) with a wide conical bore. In Vienna, valves were applied to the ophicleide to replace its keyed tone holes, otherwise retaining its bore and shape. The larger versions of these became known as bombardons.
+In 1838, Carl Wilhelm Moritz, son of Johann Gottfried Moritz, who (with Wieprecht) had patented the five-valved Baß-Tuba in F in 1835, built a similar but smaller tenor tuba in B♭ with four valves. In Italy around this time, the Milan instrument maker Giuseppe Pelitti developed his bombardino with four valves based on the larger bombardone, a valved ophicleide in F. While Pelitti preferred to call his instruments Pelittone, other makers in Italy made similar instruments and called them flicorni (pl.; sing. flicorno). Built in B♭ with either three valves as flicorno bombardino or four valves as flicorno basso, they became the equivalent respectively of the modern baritone horn and euphonium.
+
+
+=== The earliest modern euphoniums ===
+
+Ferdinand Sommer, a bandmaster in Weimar, developed his Sommerophone in 1843, which was built and patented as the Euphonion by Franz Bock in Vienna the following year. In Paris at around the same time, Sax invented his family of saxhorns c. 1843–45. Sommer toured his instrument in solo performances, and at the 1851 London Great Exhibition, presented it as both Sommerophone and Euphonion. The latter term was rapidly adopted as the anglicised euphonium, but it was the saxhorn basse en sí bemol (bass saxhorn in B♭) that can be considered the earliest modern euphonium. It had a slightly narrower bore, but was often used interchangeably with the euphonium in British brass bands.
+
+Adolphe Sax's saxhorns became popular in bands in Britain and the United States due largely to the Distin family, who helped popularise the British brass band movement by promoting and performing widely on Sax's brass instruments. By 1850, Distin & Co. was manufacturing them in London, and in New York and Pennsylvania by the 1870s after the London business was purchased by Boosey & Co. The bass saxhorn also formed the basis of the six-valve French tuba in C, the standard tuba used by French composers and orchestras well into the 20th century.
+In Austria-Hungary, the instrument maker Václav František Červený built his Baroxyton, a baritone instrument with four valves, in 1852. Červený developed several instrument families in ophicleide, helicon, and tuba shapes, but is especially notable for his later Kaiser instruments, with rotary valves and large conical bores. These included the Kaiserbaryton, in a distinctive oval shape. This design was quickly adopted by other makers, and has become the standard configuration for euphoniums in central and eastern Europe.
+
+
+=== Modern instruments ===
+With their more consistent timbre and playing facility throughout the range, and simpler fingering using three or four valves, valved brass instruments eventually led to the disappearance of the ophicleide by the end of the 19th century. In Britain, ophiceides were replaced by euphoniums, offered in competitions as prizes for winning ophicleide players.
+The modern "British-style" compensating euphonium was developed in the 1870s by David Blaikley, the factory manager at Boosey & Co. Blaikley, after experimenting with a three-valve compensation system, obtained a patent in 1878 for a four-valve version where the fourth valve returns the airway through the first three valves a second time, adding smaller tubing loops to rectify intonation. Similar designs were patented earlier by Gustave Auguste Besson in 1859, and Pierre-Louis Gautrot's système equitonique, found on his instruments of the period, was patented in 1864. Blaikley's compensation system was the most successful and has since been in continuous use in Britain, little-changed, on instruments by Boosey & Co. (later, Boosey & Hawkes), and Besson after their acquisition by Boosey & Hawkes in the mid-20th century. In 1974, the patent expired, and many euphonium manufacturers added the compensation system to their euphonium models, including Hirsbrunner, Miraphone, Sterling, Willson, and Yamaha.
+Modern euphonium makers have introduced some improvements, such as tapered and wider-bore valve tubing, small adjustments to the compensation tubing to soften some of the sharp bends, and triggers for the main tuning slide. Adams developed an adjustable lead-pipe receiver for their euphoniums, which allows players to customise the timbre and responsiveness of the instrument.
+
+
+== Construction ==
+
+The euphonium, like the tenor trombone, is pitched in 9-foot (9′) B♭ an octave below the trumpet or cornet, and played with a mouthpiece similar to those used on the ophicleide or bass trombone. When no valves are in use, the instrument will produce partials of the B♭ harmonic series which result from the vibrating air column within its 9 feet (2.7 metres) of tubing.
+The euphonium has a wide conical bore, gradually increasing in diameter throughout its length (apart from the necessarily cylindrical valve tubing). The bore ranges from 14.3 to 16.6 millimetres (.563 to .654 in) at the first valve, and the bell ranges from 250 to 300 mm (10 to 12 in). Like the flugelhorn and tuba, the conical bore of the euphonium emphasises lower frequency spectral content by favouring the lower partials, resulting in a mellower tone compared to cylindrical-bore instruments such as the trumpet or trombone.
+The valves each add lengths of tubing to lower the pitch of the instrument, combining to produce a fully chromatic scale and range. Euphoniums commonly have three top-action piston valves, played with the first three fingers of the right hand, plus a fourth valve, generally found midway down the right side of the instrument and played with the left index or middle finger. On most models the fourth valve is a compensating valve which resolves intonation issues below E2. On European instruments with rotary valves, the three or four valves are operated together by the right hand and are non-compensating; some include a fifth valve to allow for alternate intonation fingerings instead. Beginner models often have only the three top-action valves and no fourth valve, while some intermediate models may have a non-compensating fourth top-action valve placed next to the other three and played with the fourth finger of the right hand.
+
+
+=== Compensating valves ===
+The modern compensating euphonium uses four valves, and routes the tubing of the fourth valve back through the other three valves to add an extra set of small correcting tubing loops. This achieves correct intonation in the lower range of the instrument when using the fourth valve, the range being from E2 down to B1.
+Less commonly, there are three-valve compensating euphoniums. Usually older instruments, these have a similar compensating mechanism, but route the tubing of the third valve back through extra loops on the other two valves. This corrects the intonation, of C3 and B2 in particular. This compensating system is also found on some three-valve British style baritone horns.
+
+
+== Types ==
+
+
+=== Double bell euphonium ===
+
+First built as early as 1847 by the Italian maker Giuseppe Pelitti, the double bell euphonium was a creation uniquely popular in the United States in the early 20th century, featuring a second smaller bell in addition to the main one. The player could switch bells for certain passages, or even for individual notes, by use of an additional valve. The smaller bell, using a narrower and more cylindrical bore, was intended to emulate the sound of a trombone. Harry Whittier of the Gilmore Band, and Josef Michele Raffayalo in Sousa's band introduced the instrument to the United States in the late 1880s, and it was used widely in both school and service bands for several decades, as late as the 1960s, built largely by American manufacturers. They were last listed by Conn in the 1940s and King's catalog in the 1960s. They are now rare, chiefly known through their mention in the song "Seventy-Six Trombones" from Meredith Willson's 1957 musical, The Music Man. A model with four compensating valves (and a fifth to switch bells) is made by Wessex Tubas.
+
+
+=== Five-valved euphonium ===
+
+In Britain, a non-compensating five-valve euphonium was manufactured in the late 19th and early 20th centuries by Besson, and Highams of Manchester. The five-valve euphonium improved intonation by providing more valve fingering combinations, and was more economical to build than complex compensating instruments, but they were not widely adopted.
+The Besson five-valved euphonium mounted the first three piston valves horizontally, and an additional two off to the side.
+In central and eastern Europe, euphoniums usually have rotary valves, and an oval form. Červený and other manufacturers make models with five non-compensating rotary valves.
+
+
+=== Marching euphonium ===
+
+Euphoniums built in a horizontal bell-forward configuration are used in the marching arts. Marching euphoniums lack a fourth valve, partly to conserve weight. They are currently produced by B.A.C. Music, Eastman, Jupiter, Dynasty, and Yamaha, as well as by several Chinese-made stencil brands like Schiller, John Packer, and O'Malley.
+In American drum and bugle corps, the Canadian instrument maker Whaley, Royce & Co. introduced the euphonium bugle in the mid-1960s, pitched a third lower in G with two valves. These were mainly made by the American makers Olds, King, Conn, and Kanstul. Whether a drum corps uses marching euphoniums, marching baritones, or a combination of both depends on the preference of the arranger. In mixes, euphoniums will typically play the lower parts and the baritones will play the higher.
+
+
+== Repertoire ==
+
+The euphonium repertoire began in the mid-19th century with adaptations of existing air varié (lit. 'air and variations'), a large body of popular music particularly in France and Britain. Works such as Jean-Baptiste Arban's Fantaisie et variations sur "Le carnaval de Venise" (1864) were quickly adapted for ophicleide, and then euphonium. The earliest surviving solo composition written specifically for euphonium is the Concerto per Flicorno Basso (1872) by the Italian composer Amilcare Ponchielli. The solo and band repertoire grew in the period from around 1880 to 1920, as the euphonium became an important instrument in bands, and exemplified in the United States by the bands and publications of John Philip Sousa and Arthur Pryor.
+American composers writing for the concert band since the mid-20th century continued the British brass and concert band tradition of using the euphonium as the principal tenor-voiced solo instrument, akin to the cello in the string section of the orchestra. A large body of more serious works, including challenging concertos for solo euphonium with brass or concert band accompaniment, has been amassed since 1960 including works from American, German, Scandinavian and British composers. This has also included concertos for euphonium and orchestra, newly commissioned and recorded, as well as existing band concertos newly adapted for orchestra.
+Music for unaccompanied solo euphonium until the late 20th century had been largely adaptations of works for other instruments, often trombone, cornet, tuba, cello, or bassoon. The International Tuba Euphonium Association (ITEA) sponsored new solo works for euphonium through its "GEM Series" published in its journal.
+
+
+=== Orchestral repertoire ===
+Though the euphonium is primarily a brass and symphonic band instrument, it also finds occasional use in orchestral repertoire, where it is often scored as tenor tuba. It appeared as early as 1898 with important excerpts in the tone poems Don Quixote and Ein Heldenleben by Richard Strauss, and it has notable solo appearances in the British composer Gustav Holst's The Planets (1914–1917):
+
+The euphonium is also called for in Leoš Janáček's Sinfonietta (1926), Shostakovich's ballet The Golden Age (1930), and several symphonies by the composers Havergal Brian, Roy Harris, Arnold Bax, and Samuel Barber. Despite the successes of these early works and of its larger tuba cousin, the euphonium has not gained a permanent place in the regular symphony orchestra, although it is commonly used to play parts originally scored for the ophicleide, and sometimes the bass (in F) Wagner tuba.
+
+
+== Performance ==
+Although modern performers and composers are pushing the boundaries of the instrument into other genres, the euphonium remains predominantly a band instrument, with full-time professional positions almost entirely with military bands. This has not deterred new players from learning the instrument, partly due to the increasing worldwide popularity of British-style brass bands, with substantial repertoire that commands much from the euphonium's agility and expressive tone.
+As with the cornet and flugelhorn, the euphonium and baritone horn are easily doubled by one player, with some adjustment of breath and embouchure, since they have essentially identical range and fingering.
+
+
+=== Notation ===
+In British brass bands, all instruments except the bass trombone are transposing instruments using the treble clef notation popularized in France by instrument maker Adolphe Sax for his families of instruments. Thus the euphonium, along with the tenor trombones and baritones, are notated as B♭ instruments in treble clef sounding a major ninth lower than written, like the tenor saxophone and bass clarinet.
+
+In orchestras, concert bands, and US military bands, the euphonium is generally written at concert pitch in the bass clef, treating the euphonium as a non-transposing instrument like the orchestral trombone, with high passages often written in tenor clef. Concert band music often provides the euphonium parts in both bass and B♭ treble clef, to accommodate players from either background, although professional players are usually familiar with either notation. In continental European band music, parts for the euphonium are occasionally written in transposing B♭ in bass clef, sounding a major second lower than written.
+
+
+=== Range ===
+The euphonium has a large range of at least four octaves. The range from E2 to about G4 is easily accessible, but the full working range from contemporary solo repertoire includes the pedal range from B♭1 down to B0, and extends up to at least D5. Higher notes are possible since the upper range is limited only by the fitness of the players' embouchure, although notes above the bell cutoff frequency, around the tenth harmonic in tuba family instruments (D5 on euphonium), are difficult to centre and continuous glissandi are possible, making valve fingering largely redundant.
+
+The lowest notes obtainable depend on the valve set-up of the instrument. All instruments are chromatic down to E2, and four-valved instruments extend that down to at least C2. Non-compensating four-valved instruments suffer from intonation problems in this range and cannot produce low B1. These problems are solved with the modern compensating fourth valve, or with five non-compensating rotary valves on European models, using a flat whole-tone tuning for the fifth valve, as is common on five-valve tubas. Although less satisfactory, a good player can also provide these notes on a three-valve instrument using falset tones, which are more distinct on instruments with wide conical bores and large bells. From B♭1 down lies the pedal range, the fundamentals of the instrument's harmonic series. They are more easily produced on the euphonium and tuba than on other brass instruments, and the extent of the pedal range similarly depends on the instrument.
+
+
+=== Notable players ===
+
+Ferdinand Sommer toured Europe with Jullien's orchestra to promote the Sommerophone he invented in 1843, patented the following year as Euphonion. As a virtuoso soloist, his performances in Britain helped to popularise the euphonium in British brass and military bands. Alfred James Phasey (1834–1888) was a distinguished British ophicleide player who, unlike his fellow ophicleidist Samuel Hughes (1823–1898), switched to euphonium and became just as renowned for his euphonium playing.
+In Brazil, Irineu de Almeida (1863–1916) was an influential musician and professor of the genre of Choro music, composing and performing on ophicleide and bombardino (euphonium). He participated in the first early 20th century recordings of Brazilian music, and he and his influential student Pixinguinha (1897–1973) established and popularized Choro music and its instruments.
+
+
+==== 20th century ====
+In the United States, the Italian-born trombone, baritone and euphonium virtuoso Simone Mantia (1873–1951) toured with the bands of both John Philip Sousa and Arthur Pryor, made some of the first solo euphonium recordings, and helped to popularize the instrument in the United States. Leonard Falcone (1899–1985), also Italian-born, was appointed Director of Bands at Michigan State University in 1927, and, as professor of euphonium, taught many artists until his death in 1985. The Leonard Falcone International Tuba and Euphonium Festival, a principal venue for the instrument in the United States, was established in his honour.
+Arthur ("Art") Lehman (1917–2009), euponiumist with the United States Marine Band, was an early proponent of the double bell euphonium and wrote The Art of Euphonium, a significant pedagogical text. Lehman was a student of Harold Brasch and Simone Mantia, and advanced a rich sound concept with sparing use of vibrato, pioneered by Mantia. Brian Bowman, euphonium soloist with the United States Navy Band and United States Air Force Band, was professor of euphonium at the University of North Texas and co-edited Arban's Method for Trombone and Euphonium, an adaptation of Arban's 1864 method for cornet. Bowman developed a sound based on a fusion of the mellow British sound and Falcone's recordings, and played the first euphonium recital at Carnegie Hall.
+In Japan, the euphonium soloist and clinician Toru Miura was a founding member in 1973 of the International Tuba Euphonium Association (ITEA; founded as TUBA). He is professor of euphonium at the Kunitachi College of Music in Tokyo, and in 2008 was awarded the ITEA Lifetime Achievement Award for his role in promoting the instrument.
+
+
+==== 21st century ====
+In the late 20th century, many players from brass and concert band backgrounds became virtuoso performers and promoters of euphonium music. English soloist Steven Mead, professor at the Royal Northern College of Music, is recognised for advancing the British euphonium sound. He has commissioned many solo works for euphonium, and his extensive discography includes most of the major modern works composed for euphonium. David Thornton, a student of Steven Mead, has won several international competitions, and played principal euphonium in and conducted several prestigious British brass bands. He has also recorded many works, including a CD that won the 2016 ITEA Roger Bobo Award for Excellence in Recording. He is Director of Brass Band Studies at the Royal Northern College of Music.
+The Welsh brothers Robert and Nicholas Childs have recorded and commissioned many works for euphonium, as well as conducting and adjudicating brass bands. Robert's son David Childs is also a euphonium soloist and recording artist, and professor of euphonium at the University of North Texas, succeeding Brian Bowman. He commissioned a euphonium concerto, The Sunne Rising – The King Will Ride (2004), from the Welsh composer Alun Hoddinott, and published and recorded an adaptation of the Vaughan Williams tuba concerto for euphonium and orchestra.
+
+
+==== Jazz and popular music ====
+
+In jazz, Rich Matteson (1929–1993) and Bernard Atwell McKinney, later Kiane Zawadi (1932–2024), were two of the few jazz soloists to use euphonium. Matteson formed the Matteson-Phillips Tubajazz Consort, a big band scored for tubas and euphoniums, with the tuba player Harvey Phillips, founder of the annual Tubachristmas events. Some trombone artists have occasionally used euphonium, such as Gus Mancuso, Bill Reichenbach, and John Allred.
+In popular music, the New Zealand musician Don McGlashan began his musical career as an orchestral horn player, before including euphonium in his switch to popular music with bands such as Blam Blam Blam and The Mutton Birds.
+
+
+== In popular culture ==
+In Japan, the series of popular Sound! Euphonium novels (Japanese: 響け! ユーフォニアム; Hibike! Eūfoniamu) about a student euphonium player, Kumiko, and her high school's concert band has been adapted into manga serials, an anime TV series, and translated into English.
+The Loophonium is a hybrid musical instrument and art installation built in 1960 by the Liverpool-based musician and artist Fritz Spiegl, housed at the Walker Art Gallery.
+
+
+== References ==
+
+
+=== Sources ===
+
+
+== External links ==
+
+ITEA—The International Tuba Euphonium Association
+Euphonium Music Guide—Online list of euphonium literature compiled by David Werden and Denis Winter
+Dave Werden's Euphonium Tuba Forum—Online forum
+History of the Tuba Podcast—Jake Kline & Jack Adler-McKean, also discusses the euphonium

@@ -1,0 +1,47 @@
+An air pump is a pump for pushing air.  Examples include a bicycle pump, pumps that are used to aerate an aquarium or a pond via an airstone; a gas compressor used to power a pneumatic tool, air horn or pipe organ; a bellows used to encourage a fire; a vacuum cleaner and a vacuum pump. All air pumps contain a part that moves (vane, piston, impeller, diaphragm etc.) which drives the flow of air. When the air gets moved, an area of low pressure gets created which fills up with more air.
+Pumps and compressors use very similar mechanisms, and basically perform the same action, but in different fluid regimes. At some point there is a crossover point in terminology, but here are some stereotypes:
+
+Compressors operate on compressible fluids, typically gases. Pumps operate on fluids, typically liquids, approximated as in-compressible.
+Compressors are intended to develop a very high pressure rise against a closed system; pumps are designed to develop relatively little pressure against a free-flowing system with minimal back-pressure.
+Pumps are often used in continuous-flow operation, while many lower-end compressors must have intermittent duty cycles.
+Compressors usually have a feedback sensor to shut off when they reach a desired pressure; pumps have a fixed design and operate freely across their performance curve as conditions change
+
+
+== History ==
+
+In 1649, German scientist and inventor Otto von Guericke invented the spool vacuum air pump. Guericke's vacuum pump decreased any potential leaks between the piston and the cylinder by utilizing washers made from leather. In Britain, the first effective vacuum pump for scientific purposes was constructed in 1658 by English polymath Robert Hooke, on behalf of Anglo-Irish natural philosopher Robert Boyle. Boyle used the term "air pump" (among others) for his own vacuum pump as well as Guericke's, and they have often been referred to as such ever since. 
+In 1705, English scientist Francis Hauksbee, developed a style of a double-barrelled air pump. Hauksbee's double-barrelled air pump was used primarily for scientific research, and had the ability to create a vacuum.
+
+
+== Improvement to human life ==
+The invention of the air pump led to the invention of the vacuum pump and the vacuum tube. The vacuum tube lead to a revelation in many different areas.
+
+Vacuum pumps are used to manufacture light bulbs, in the freeze drying process in the medical, food and biological industries, and in the atomic energy industry.
+Compressed air allowed for better and more powerful pneumatic tools that helped the growth of big cities. Many important buildings in today's society are possible because of these tools, such as skyscrapers, hotels, tenements, and stadiums.
+The use of reciprocating air pumps is vital in the construction of the internal combustion engine.
+
+
+== Types ==
+Air Compressor
+
+An air compressor turns power (gasoline or an electrical motor) into potential energy. This potential energy is stored in a tank and forces air into the tank creating positive pressure. Normally a hose is connected to the tank and then when opened with a valve or switch air is shot out of the hose at high speeds.
+Bellow
+
+One of the oldest ways to pump air. A simple mechanism that consists of a flexible bag that has rigid boards or handles on each side. The bag can be expanded and contracted by working the handles away from each other and together forcing air out of the nozzle. When the bag is inflated or the handles are pulled away from each other a valve is opened on the side allowing air in. When the handles are pushed together that valve is closed and air is forced out the end.
+Bicycle Pump
+
+Through the use of a piston in a cylinder this pump creates pressure by using a one way valve and a piston that is controlled by the handle. The Bicycle pump is a vertical hand pump that is used to inflate bicycle tires. these pumps are very common and can be used to inflate many things with the use of an adapter.
+Diaphragm Pumps
+
+In the case of air pumps, diaphragm pumps are considered to be a type of pump that utilizes positive displacement.  A simple diaphragm pump contains a chamber that acts like a springy diaphragm. When compressed, the air within the diaphragm gets expelled. When the diaphragm is decompressed, the chamber refills with air. A simple example for a diaphragm pump is a foot pump that requires the user to constantly step up and down on the pump to inflate something.
+Engine-driven tire pump
+Several companies developed engine-driven tire pumps in the brass era of the automobile.
+Reciprocating Pumps
+
+A simple reciprocating pump is commonly made up of a cylinder with an inlet, an outlet, and a piston within. The inlet and the outlet are used to direct the flow of air, while the piston is used to generate the flow of air. When the piston is pulled up, air gets sucked into the pump through the inlet. The pump chamber depressurizes as it fills with air. When the piston is forced down, the air becomes compressed and closes the inlet. Then the air flows out from the outlet.
+Rotary Vane Pump
+
+A rotary pump uses gears that mesh together to capture and pressurize air through movement of the gears. This allows a high pressure when discharged.
+
+
+== References ==

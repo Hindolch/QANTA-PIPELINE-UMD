@@ -1,0 +1,55 @@
+"Erlkönig" (German pronunciation: [ˈɛʁlkøːnɪç] ) is a poem by Johann Wolfgang von Goethe. It depicts the death of a child assailed by a supernatural being, the Erlking, a king of the fairies. It was originally written by Goethe as part of a 1782 Singspiel, Die Fischerin.
+"Erlkönig" has been called Goethe's "most famous ballad". The poem has been set to music by several composers, most notably by Franz Schubert.
+
+
+== Summary ==
+An anxious young boy is being carried at night by his father on horseback. To where is not spelled out; German Hof has a rather broad meaning of "yard", "courtyard", "farm", or "(royal) court". The opening line tells that the time is late and that it is windy.
+As the poem unfolds, the son claims to see and hear the "Erlkönig" (Erl-King). His father claims to not see or hear the creature, and he attempts to comfort his son, asserting natural explanations for what the child sees – a wisp of fog, rustling leaves, shimmering willows.
+The Erl-King attempts to lure the child into joining him, promising amusement, rich clothes, and the attentions of his daughters. Finally, the Erl-King declares that he will take the child by force. The boy shrieks that he has been attacked, spurring the father to ride faster to the Hof. Upon reaching the destination, the child is already dead.
+
+
+== Text ==
+
+
+== The legend ==
+The story of the Erlkönig derives from the traditional Danish ballad Elveskud: Goethe's poem was inspired by Johann Gottfried Herder's translation of a variant of the ballad (Danmarks gamle Folkeviser 47B, from Peter Syv's 1695 edition) into German as Erlkönigs Tochter ("The Erl-King's Daughter") in his collection of folk songs, Stimmen der Völker in Liedern (published 1778). Goethe's poem then took on a life of its own, inspiring the Romantic concept of the Erlking. Niels Gade's cantata Elverskud, Op. 30 (1854, text by Chr. K. F. Molbech) was published in translation as Erlkönigs Tochter.
+The Erlkönig's nature has been the subject of some debate. The name translates literally from the German as "Alder King" rather than its common English translation, "Elf King" (which would be rendered as Elfenkönig in German). It has often been suggested that Erlkönig is a mistranslation from the original Danish elverkonge, which does mean "king of the elves". In the original Scandinavian version of the tale, the antagonist was the Erlkönig's daughter rather than the Erlkönig himself.
+
+
+== Settings to music ==
+The poem has often been set to music, with Franz Schubert's rendition, his Opus 1 (D. 328), being the best known. Probably the next-best known is that of Carl Loewe (1818). Other notable settings are by members of Goethe's circle, including actress Corona Schröter (1782), Andreas Romberg (1793), Johann Friedrich Reichardt (1794), and Carl Friedrich Zelter (1797). Ludwig van Beethoven attempted to set it to music, but abandoned the effort; his sketch, however, was full enough to be published in a completion by Reinhold Becker (1897). A few other 19th-century versions are those by Václav Tomášek (1815), Carl Borromäus von Miltitz (1835), and Louis Spohr (1856, with obbligato violin; Op. 154 No. 4), Emilie Mayer (1870), and Heinrich Wilhelm Ernst (Polyphonic Studies for Solo Violin), though his was essentially a transcription of Schubert's version for solo violin. Twenty-first-century examples are pianist Marc-André Hamelin's "Etude No. 8 (after Goethe)" for solo piano, based on "Erlkönig". Neue Deutsche Härte band Rammstein, inspired by the motifs in this poem, created their song "Dalai Lama" for their 2004 album Reise, Reise. The poem has also been depicted by industrial metal band KMFDM in their song "Erlkönig" from the 2024 album Let Go.
+
+
+=== Franz Schubert composition ===
+
+Franz Schubert composed his Lied "Erlkönig" for solo voice and piano at the age of 17 or 18 in 1815, setting text from Goethe's poem. The work was first performed in concert on 1 December 1820 at a private gathering in Vienna. The public premiere on 7 March 1821 at the Theater am Kärntnertor was a great success, and he quickly rose to fame among the composers in Vienna. It is one of Schubert's most famous works, with enduring popularity and acclaim since its premiere in 1821.
+
+
+=== Carl Loewe composition ===
+Carl Loewe's setting was published as Op. 1, No. 3 and composed in 1817–18, in the lifetime of the poem's author and also of Schubert, whose version Loewe did not then know. Collected with it were Op. 1, No. 1, "Edward" (1818; a translation of the Scottish ballad), and No. 2, "Der Wirthin Töchterlein" (1823; "The Innkeeper's Daughter"), a poem of Ludwig Uhland. Inspired by a German translation of Scottish border ballads, Loewe set several poems with an elvish theme; but although all three of Op. 1 are concerned with untimely death, in this set only the "Erlkönig" has the supernatural element.
+Loewe's accompaniment is in semiquaver groups of six in 98 time and marked Geschwind (fast). The vocal line evokes the galloping effect by repeated figures of crotchet and quaver, or sometimes three quavers, overlying the binary tremolo of the semiquavers in the piano. In addition to an unusual sense of motion, this creates a flexible template for the stresses in the words to fall correctly within the rhythmic structure.
+Loewe's version is less melodic than Schubert's, with an insistent, repetitive harmonic structure between the opening minor key and answering phrases in the major key of the dominant, which have a stark quality owing to their unusual relationship to the home key. The narrator's phrases are echoed by the voices of father and son, the father taking up the deeper, rising phrase, and the son a lightly undulating, answering theme around the dominant fifth. These two themes also evoke the rising and moaning of the wind.
+The Erl-King, who is always heard pianissimo, does not sing melodies, but instead delivers insubstantial rising arpeggios that outline a single major chord (that of the home key) which sounds simultaneously on the piano in una corda tremolo. Only with his final threatening word, "Gewalt", does he depart from this chord. Loewe's implication is that the Erlking has no substance but merely exists in the child's feverish imagination. As the piece progresses, the first in the groups of three quavers is dotted to create a breathless pace, which then forms a bass figure in the piano driving through to the final crisis. The last words, war tot, leap from the lower dominant to the sharpened third of the home key; this time not to the major but to a diminished chord, which settles chromatically through the home key in the major and then to the minor.
+
+
+== See also ==
+List of works based on Erlkönig
+
+
+== References ==
+
+
+== Further reading ==
+Moser, Hans Joachim (1937). Das deutsche Lied seit Mozart. Berlin & Zurich: Atlantis Verlag.
+Loewe, Carl. Friedlaender, Max; Moser, Hans Joachim (eds.). Lieder. Leipzig: Edition Peters.
+
+
+== External links ==
+
+Translation by Matthew Lewis
+Translation at Poems Found in Translation
+"The Oak King" (song) on YouTube, translation and performance by Josh Ritter
+"Erlkönig" (Schubert) on YouTube, orchestrated by Max Reger; Teddy Tahu Rhodes, Tasmanian Symphony Orchestra, Sebastian Lang-Lessing
+Schubert's setting of "Erlkönig": Scores at the International Music Score Library Project
+Carl Loewes's 3 Ballads, Op. 1 (No. 3: "Erlkönig"): Scores at the International Music Score Library Project
+Full score and MIDI file of Schubert's setting of "Erlkönig" from the Mutopia Project

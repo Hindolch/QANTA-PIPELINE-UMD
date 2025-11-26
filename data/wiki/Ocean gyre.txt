@@ -1,0 +1,596 @@
+In oceanography, a gyre () is a large system of ocean surface currents moving in a circular fashion driven by wind movements. Gyres are caused by the Coriolis effect; planetary vorticity, horizontal friction and vertical friction determine the circulatory patterns from the wind stress curl (torque). Gyre can refer to any type of vortex in an atmosphere or a sea, even one that is human-created, but it is most commonly used in terrestrial oceanography to refer to the major ocean systems.
+
+
+== Formation ==
+The largest ocean gyres are wind-driven, meaning that their locations and dynamics are controlled by the prevailing global wind patterns: easterlies at the tropics and westerlies at the midlatitudes. These wind patterns result in a wind stress curl that drives Ekman pumping in the subtropics (resulting in downwelling) and Ekman suction in subpolar regions (resulting in upwelling). Ekman pumping results in an increased sea surface height at the center of the gyre and anticyclonic geostrophic currents in subtropical gyres. Ekman suction results in a depressed sea surface height and cyclonic geostrophic currents in subpolar gyres.
+Gyres are asymmetrical, with stronger flows on their western boundary and weaker flows throughout their interior. The weak interior flow that is typical over most of the gyre is a result of the conservation of potential vorticity. In the shallow water equations (applicable for basin-scale flow as the horizontal length scale is much greater than the vertical length scale), potential vorticity is a function of relative (local) vorticity 
+  
+    
+      
+        ζ
+      
+    
+    {\displaystyle \zeta }
+  
+ (zeta), planetary vorticity 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+, and the depth 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  
+, and is conserved with respect to the material derivative:
+
+  
+    
+      
+        
+          
+            D
+            
+              D
+              t
+            
+          
+        
+        
+          (
+          
+            
+              
+                ζ
+                +
+                f
+              
+              H
+            
+          
+          )
+        
+        =
+        0
+      
+    
+    {\displaystyle {D \over Dt}\left({\frac {\zeta +f}{H}}\right)=0}
+  
+
+In the case of the subtropical ocean gyre, Ekman pumping results in water piling up in the center of the gyre, compressing water parcels. This results in a decrease in 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  
+, so by the conservation of potential vorticity the numerator 
+  
+    
+      
+        ζ
+        +
+        f
+      
+    
+    {\displaystyle \zeta +f}
+  
+ must also decrease. It can be further simplified by realizing that, in basin-scale ocean gyres, the relative vorticity 
+  
+    
+      
+        ζ
+      
+    
+    {\displaystyle \zeta }
+  
+ is small, meaning that local changes in vorticity cannot account for the decrease in 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+  
+. Thus, the planetary vorticity 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ must change accordingly. The only way to decrease the planetary vorticity is by moving the water parcel equatorward, so throughout the majority of subtropical gyres there is a weak equatorward flow. Harald Sverdrup quantified this phenomenon in his 1947 paper, "Wind Driven Currents in a Baroclinic Ocean", in which the (depth-integrated) Sverdrup balance is defined as:
+
+  
+    
+      
+        f
+        
+          V
+          
+            g
+          
+        
+        =
+        β
+        ρ
+        
+          w
+          
+            E
+          
+        
+      
+    
+    {\displaystyle fV_{g}=\beta \rho w_{E}}
+  
+
+Here, 
+  
+    
+      
+        
+          V
+          
+            g
+          
+        
+      
+    
+    {\displaystyle V_{g}}
+  
+ is the meridional mass transport (positive north), 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  
+ is the Rossby parameter, 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+ is the water density, and 
+  
+    
+      
+        
+          w
+          
+            E
+          
+        
+      
+    
+    {\displaystyle w_{E}}
+  
+ is the vertical Ekman velocity due to wind stress curl (positive up). For a negative Ekman velocity (e.g., Ekman pumping in subtropical gyres), meridional mass transport (Sverdrup transport) is negative (south, equatorward) in the northern hemisphere (
+  
+    
+      
+        f
+        >
+        0
+      
+    
+    {\displaystyle f>0}
+  
+). Conversely, for a positive Ekman velocity (e.g., Ekman suction in subpolar gyres), Sverdrup transport is positive (north, poleward) in the northern hemisphere.   
+
+
+=== Western intensification ===
+
+As the Sverdrup balance argues, subtropical ocean gyres have a weak equatorward flow, and subpolar ocean gyres have a weak poleward flow over most of their area. However, there must be some return flow that goes against the Sverdrup transport in order to preserve mass balance. In this respect, the Sverdrup solution is incomplete, as it has no mechanism in which to predict this return flow. Contributions by both Henry Stommel and Walter Munk resolved this issue by showing that the return flow of gyres is done through an intensified western boundary current. Stommel's solution relies on a frictional bottom boundary layer which is not necessarily physical in a stratified ocean (currents do not always extend to the bottom).
+
+Munk's solution instead relies on friction between the return flow and the sidewall of the basin. This allows for two cases: one with the return flow on the western boundary (western boundary current) and one with the return flow on the eastern boundary (eastern boundary current). A qualitative argument for the presence of western boundary current solutions over eastern boundary current solutions can be found through the conservation of potential vorticity. Considering again the case of a subtropical northern hemisphere gyre, the return flow must be northward. In order to move northward (an increase in 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+), there must be a source of positive relative vorticity to the system. The relative vorticity in the shallow-water system is:
+
+  
+    
+      
+        ζ
+        =
+        
+          
+            
+              ∂
+              v
+            
+            
+              ∂
+              x
+            
+          
+        
+        −
+        
+          
+            
+              ∂
+              u
+            
+            
+              ∂
+              y
+            
+          
+        
+      
+    
+    {\displaystyle \zeta ={\partial v \over \partial x}-{\partial u \over \partial y}}
+  
+
+Here 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  
+ is again the meridional velocity and 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ is the zonal velocity. In the sense of a northward return flow, the zonal component is neglected and only the meridional velocity is important for relative vorticity. Thus, this solution requires that 
+  
+    
+      
+        ∂
+        v
+        
+          /
+        
+        ∂
+        x
+        >
+        0
+      
+    
+    {\displaystyle \partial v/\partial x>0}
+  
+ in order to increase the relative vorticity and have a valid northward return flow in the northern hemisphere subtropical gyre.
+Due to friction at the boundary, the velocity of flow must go to zero at the sidewall before reaching some maximum northward velocity within the boundary layer and decaying to the southward Sverdrup transport solution far away from the boundary. Thus, the condition that 
+  
+    
+      
+        ∂
+        v
+        
+          /
+        
+        ∂
+        x
+        >
+        0
+      
+    
+    {\displaystyle \partial v/\partial x>0}
+  
+ can only be satisfied through a western boundary frictional layer, as the eastern boundary frictional layer forces 
+  
+    
+      
+        ∂
+        v
+        
+          /
+        
+        ∂
+        x
+        <
+        0
+      
+    
+    {\displaystyle \partial v/\partial x<0}
+  
+. Similar arguments made for subtropical gyres in the southern hemisphere and for subpolar gyres in either hemisphere and return the same result: the return flow of an ocean gyre is always in the form of a western boundary current.
+The western boundary current must transport on the same order of water as the interior Sverdrup transport in a much smaller area. This means western boundary currents are much stronger than interior currents, a phenomenon called "western intensification".
+
+
+== Distribution ==
+
+
+=== Subtropical gyres ===
+There are five major subtropical gyres across the world's oceans: the North Atlantic Gyre, the South Atlantic Gyre, the Indian Ocean Gyre, the North Pacific Gyre, and the South Pacific Gyre. All subtropical gyres are anticyclonic, meaning that in the northern hemisphere they rotate clockwise, while the gyres in the southern hemisphere rotate counterclockwise. This is due to the Coriolis force. Subtropical gyres typically consist of four currents: a westward flowing equatorial current, a poleward flowing, narrow, and strong western boundary current, an eastward flowing current in the midlatitudes, and an equatorward flowing, weaker, and broader eastern boundary current.
+
+
+==== North Atlantic Gyre ====
+The North Atlantic Gyre is located in the northern hemisphere in the Atlantic Ocean, between the Intertropical Convergence Zone (ITCZ) in the south and Iceland in the north. The North Equatorial Current brings warm waters west towards the Caribbean and defines the southern edge of the North Atlantic Gyre. Once these waters reach the Caribbean they join the warm waters in the Gulf of Mexico and form the Gulf Stream, a western boundary current. This current then heads north and east towards Europe, forming the North Atlantic Current. The Canary Current flows south along the western coast of Europe and north Africa, completing the gyre circulation. The center of the gyre is the Sargasso Sea, which is characterized by the dense accumulation of Sargassum seaweed.
+
+
+==== South Atlantic Gyre ====
+The South Atlantic Gyre is located in the southern hemisphere in the Atlantic Ocean, between the ITCZ in the north and the Antarctic Circumpolar Current to the south. The South Equatorial Current brings water west towards South America, forming the northern boundary of the South Atlantic gyre. The water moves south in the Brazil Current, the western boundary current of the South Atlantic Gyre. The Antarctic Circumpolar Current forms both the southern boundary of the gyre and the eastward component of the gyre circulation. Eventually, the water reaches the west coast of Africa, where it is brought north along the coast as a part of the eastern boundary Benguela Current, completing the gyre circulation. The Benguela Current experiences the Benguela Niño event, an Atlantic Ocean analogue to the Pacific Ocean's El Niño, and is correlated with a reduction in primary productivity in the Benguela upwelling zone.
+
+
+==== Indian Ocean Gyre ====
+The Indian Ocean Gyre, located in the Indian Ocean, is bordered by the ITCZ in the north and the Antarctic Circumpolar Current to the south. The South Equatorial Current forms the northern boundary of the Indian Ocean Gyre as it flows west along the equator towards the east coast of Africa. At the coast of Africa, the South Equatorial Current is split by Madagascar into the Mozambique Current, flowing south through the Mozambique Channel, and the East Madagascar Current, flowing south along the east coast of Madagascar, both of which are western boundary currents. South of Madagascar the two currents join to form the Agulhas Current. The Agulhas Current flows south until it joins the Antarctic Circumpolar Current, which flows east at the southern edge of the Indian Ocean Gyre. Because the African continent does not extend as far south as the Indian Ocean Gyre, some of the water in the Agulhas Current "leaks" into the Atlantic Ocean, with potentially important effects for global thermohaline circulation. The gyre circulation is completed by the north flowing West Australian Current, which forms the eastern boundary of the gyre.
+
+
+==== North Pacific Gyre ====
+The North Pacific Gyre, one of the largest ecosystems on Earth, is bordered to the south by the ITCZ and extends north to roughly 50°N. At its southern boundary, the North Equatorial Current flows west along the equator towards southeast Asia. The Kuroshio Current is the western boundary current of the North Pacific Gyre, flowing northeast along the coast of Japan. At roughly 50°N, the flow turns east and becomes the North Pacific Current. The North Pacific Current flows east, eventually bifurcating near the west coast of North America into the northward flowing Alaska Current and the southward flowing California Current. The Alaska Current is the eastern boundary current of the subpolar Alaska Gyre, while the California Current is the eastern boundary current that completes the North Pacific Gyre circulation. Within the North Pacific Gyre is the Great Pacific Garbage Patch, an area of increased plastic waste concentration.
+
+
+==== South Pacific Gyre ====
+The South Pacific Gyre, like its northern counterpart, is one of the largest ecosystems on Earth with an area that accounts for around 10% of the global ocean surface area. Within this massive area is Point Nemo, the location on Earth that is farthest away from all continental landmass (2,688 km away from the closest land). The remoteness of this gyre complicates sampling, causing this gyre to be historically under sampled in oceanographic datasets. At its northern boundary, the South Equatorial Current flows west towards southeast Asia and Australia. There, it turns south as it flows in the East Australian Current, a western boundary current. The Antarctic Circumpolar Current again returns the water to the east. The flow turns north along the western coast of South America in the Humboldt Current, the eastern boundary current. The South Pacific Gyre has an elevated concentration of plastic waste near the center, termed the South Pacific garbage patch. Unlike the North Pacific garbage patch which was first described in 1988, the South Pacific garbage patch was discovered much more recently in 2016 (a testament to its remoteness).
+
+
+=== Subpolar gyres ===
+Subpolar gyres form at high latitudes (around 60°). Circulation of surface wind and ocean water is cyclonic, counterclockwise in the northern hemisphere and clockwise in the southern hemisphere, around a low-pressure area, such as the persistent Aleutian Low and the Icelandic Low. The wind stress curl in this region drives the Ekman suction, which creates an upwelling of nutrient-rich water from the lower depths. Subpolar circulation in the southern hemisphere is dominated by the Antarctic Circumpolar Current, due to the lack of large landmasses breaking up the Southern Ocean. There are minor gyres in the Weddell Sea and the Ross Sea, the Weddell Gyre and Ross Gyre, which circulate in a clockwise direction.
+
+
+==== North Atlantic Subpolar Gyre ====
+
+The North Atlantic Subpolar Gyre, located in the North Atlantic Ocean, is characterized by a counterclockwise rotation of surface waters. It plays a crucial role in the global oceanic conveyor belt system, influencing climate and marine ecosystems. The gyre is driven by the convergence of warm, salty waters from the south and cold, fresher waters from the north. As these waters meet, the warm, dense water sinks beneath the lighter, colder water, initiating a complex circulation pattern. The North Atlantic Subpolar Gyre has significant implications for climate regulation, as it helps redistribute heat and nutrients throughout the North Atlantic, influencing weather patterns and supporting diverse marine life. Additionally, changes in the gyre's strength and circulation can impact regional climate variability and may be influenced by broader climate change trends.
+The Atlantic meridional overturning circulation (AMOC) is a key component of the global climate system through its transport of heat and freshwater. The North Atlantic Subpolar Gyre is in a region where the AMOC is actively developed and shaped through mixing and water mass transformation. It is a region where large amounts of heat transported northward by the ocean are released into the atmosphere, thereby modifying the climate of northwest Europe. The gyre has a complex topography with a series of basins in which the large-scale circulation is characterized by cyclonic boundary currents and interior recirculation. The North Atlantic Current develops out of the Gulf Stream extension and turns eastward, crossing the Atlantic in a wide band between about 45°N and 55°N creating the southern border of the gyre. There are several branches of the North Atlantic Current, and they flow into an eastern intergyral region in the Bay of Biscay, the Rockall Trough, the Iceland Basin, and the Irminger Sea. Part of the North Atlantic Current flows into the Norwegian Sea, and some recirculate within the boundary currents of the subpolar gyre.
+
+
+==== Ross Gyre ====
+The Ross Gyre is located in the Southern Ocean surrounding Antarctica, just outside of the Ross Sea. This gyre is characterized by a clockwise rotation of surface waters, driven by the combined influence of wind, the Earth's rotation, and the shape of the seafloor. The gyre plays a crucial role in the transport of heat, nutrients, and marine life in the Southern Ocean, affecting the distribution of sea ice and influencing regional climate patterns.
+The Ross Sea is a region where the mixing of distinct water masses and complex interactions with the cryosphere lead to the production and export of dense water, with global-scale impacts. which controls the proximity of the warm waters of the Antarctic Circumpolar Current to the Ross Sea continental shelf, where they may drive ice shelf melting and increase sea level. The deepening of sea level pressures over the Southeast Pacific/Amundsen-Bellingshausen seas generates a cyclonic circulation cell that reduces sea surface heights north of the Ross Gyre via Ekman suction. The relative reduction of sea surface heights to the north facilitates a northeastward expansion of the outer boundary of the Ross Gyre. Further, the gyre is intensified by a westward ocean stress anomaly over its southern boundary. The ensuing southward Ekman transport anomaly raises sea surface heights over the continental shelf and accelerates the westward throughflow by increasing the cross-slope pressure gradient. The sea level pressure center may have a greater impact on the Ross Gyre transport or the throughflow, depending on its location and strength. This gyre has significant effects on interactions in the Southern Ocean between waters of the Antarctic margin, the Antarctic Circumpolar Current, and intervening gyres with a strong seasonal sea ice cover play a major role in the climate system.
+The Ross Sea is the southernmost sea on Earth and holds the United States' McMurdo Station and Italian Zuchelli Station. Even though this gyre is located nearby two of the most prominent research stations in the world for Antarctic study, the Ross Gyre remains one of the least sampled gyres in the world.
+
+
+==== Weddell Gyre ====
+The Weddell Gyre is located in the Southern Ocean surrounding Antarctica, just outside of the Weddell Sea. It is characterized by a clockwise rotation of surface waters, influenced by the combined effects of winds, the Earth's rotation, and the seafloor's topography. Like the Ross Gyre, the Weddell Gyre plays a critical role in the movement of heat, nutrients, and marine life in the Southern Ocean. Insights into the behavior and variability of the Weddell Gyre are crucial for comprehending the interaction between ocean processes in the southern hemisphere and their implications for the global climate system.
+This gyre is formed by interactions between the Antarctic Circumpolar Current and the Antarctic Continental Shelf. The gyre is one of the main oceanographic features of the Southern Ocean south of the Antarctic Circumpolar Current which plays an influential role in global ocean circulation as well as gas exchange with the atmosphere. The gyre is situated in the Atlantic sector of the Southern Ocean, south of 55–60°S and roughly between 60°W and 30°E (Deacon, 1979). It stretches over the Weddell abyssal plain, where the Weddell Sea is situated, and extends east into the Enderby abyssal plain.
+
+
+==== Beaufort Sea Gyre ====
+
+The anti-cyclonic Beaufort Gyre is the dominant circulation of the Canada Basin and the largest freshwater reservoir in the Arctic Ocean's western and northern sectors. The Gyre is characterized by a large-scale, quasi-permanent, counterclockwise rotation of surface waters within the Beaufort Sea. This gyre functions as a critical mechanism for the transport of heat, nutrients, and sea ice within the Arctic region, thus influencing the physical and biological characteristics of the marine environment. Negative wind stress curl over the region, mediated by the sea ice pack, leads to Ekman pumping, downwelling of isopycnal surfaces, and storage of ~20,000 km3 of freshwater in the upper few hundred meters of the ocean. The gyre gains energy from winds in the south and loses energy in the north over a mean annual cycle. The strong atmospheric circulation in the autumn, combined with significant areas of open water, demonstrates the effect that wind stress has directly on the surface geostrophic currents. The Beaufort Gyre and the Transpolar Drift are interconnected due to their relationship in their role in transporting sea ice across the Arctic Ocean. Their influence on the distribution of freshwater has broad impacts for global sea level rise and climate dynamics.
+
+
+== Biogeochemistry ==
+
+Depending on their location around the world, gyres can be regions of high biological productivity or low productivity. Each gyre has a unique ecological profile but can be grouped by region due to dominating characteristics. Generally, productivity is greater for cyclonic gyres (e.g., subpolar gyres) that drive upwelling through Ekman suction and lesser for anticyclonic gyres (e.g., subtropical gyres) that drive downwelling through Ekman pumping, but this can differ between seasons and regions.
+Subtropical gyres are sometimes described as "ocean deserts" or "biological deserts", in reference to arid land deserts where little life exists.  Due to their oligotrophic characteristics, warm subtropical gyres have some of the least productive waters per unit surface area in the ocean. The downwelling of water that occurs in subtropical gyres takes nutrients deeper in the ocean, removing them from surface waters. Organic particles can also be removed from surface waters through gravitational sinking, where the particle is too heavy to remain suspended in the water column. However, since subtropical gyres cover 60% of the ocean surface, their relatively low production per unit area is made up for by covering massive areas of the Earth. This means that despite being areas of relatively low productivity and low nutrients, they play a large role in contributing to the overall amount of ocean production.
+In contrast to subtropical gyres, subpolar gyres can have a lot of biological activity due to Ekman suction upwelling driven by wind stress curl. Subpolar gyres in the North Atlantic have a "bloom and crash" pattern following seasonal and storm patterns. The highest productivity in the North Atlantic occurs in boreal spring when there are long days and high levels of nutrients. This is different to the subpolar North Pacific, where almost no phytoplankton bloom occurs and patterns of respiration are more consistent through time than in the North Atlantic.
+
+
+=== Nutrient availability ===
+
+Primary production in the ocean is heavily dependent on the presence of nutrients and the availability of sunlight. Here, nutrients refers to nitrogen, nitrate, phosphate, and silicate, all important nutrients in biogeochemical processes that take place in the ocean. A commonly accepted method for relating different nutrient availabilities to each other in order to describe chemical processes is the Redfield, Ketchum, and Richards (RKR) equation. This equation describes the process of photosynthesis and respiration and the ratios of the nutrients involved.
+The RKR Equation for Photosynthesis and Respiration:
+
+  
+    
+      
+        
+          106
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          16
+          
+          
+            HNO
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              3
+            
+            
+              
+            
+          
+          
+            PO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          122
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            
+              (
+              
+                CH
+                
+                  2
+                
+                
+                  
+                
+              
+              O
+              )
+            
+            
+              106
+            
+            
+              
+            
+          
+          
+            
+              (
+              
+                NH
+                
+                  3
+                
+                
+                  
+                
+              
+              )
+            
+            
+              16
+            
+            
+              
+            
+          
+          
+            H
+            
+              3
+            
+            
+              
+            
+          
+          
+            PO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          138
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {106CO2 +16HNO3 +H3PO4 +122H2O ->(CH2O)106(NH3)16H3PO4 +138O2}}}
+  
+
+With the correct ratios of nutrients on the left side of the RKR equation and sunlight, photosynthesis takes place to produce plankton (primary production) and oxygen. Typically, the limiting nutrients to production are nitrogen and phosphorus with nitrogen being the most limiting.
+Lack of nutrients in the surface waters of subtropical gyres is related to the strong downwelling and sinking of particles that occurs in these areas as mentioned earlier. However, nutrients are still present in these gyres. These nutrients can come from vertical transport as well as lateral transport across gyre fronts. This lateral transport helps make up for the large loss of nutrients due to downwelling and particle sinking. However, the major source of nitrate in the nitrate-limited subtropical gyres is a result of biological, not physical, factors. Nitrogen in subtropical gyres is produced primarily by nitrogen-fixing bacteria, which are common throughout most of the oligotrophic waters of subtropical gyres. These bacteria transform atmospheric nitrogen into bioavailable forms.
+
+
+==== High-nutrient, low-chlorophyll regions ====
+The Alaskan Gyre and Western Subarctic Gyre are an iron-limited environment rather than a nitrogen or phosphorus limited environment. This region relies on dust blowing off Alaska and other landmasses nearby to supply iron. Because it is limited by iron instead of nitrogen or phosphorus, it is known as high-nutrient, low-chlorophyll region. Iron limitation in high-nutrient, low-chlorophyll regions results in water that is rich in other nutrients because they have not been removed by the small populations of plankton that live there.
+
+
+==== Seasonality in the North Atlantic Subpolar Gyre ====
+The North Atlantic Subpolar Gyre is an important part of the ocean's carbon dioxide drawdown mechanism. The photosynthesis of phytoplankton communities in this area seasonally depletes surface waters of carbon dioxide, removing it through primary production. This primary production occurs seasonally, with the highest amounts happening in summer. Generally, spring is an important time for photosynthesis as the light limitation imposed during winter is lifted and there are high levels of nutrients available. However, in the North Atlantic Subpolar Gyre, spring productivity is low in comparison to expected levels. It is hypothesized that this low productivity is because phytoplankton are less efficiently using light than in the summer months.
+
+
+=== Trophic levels ===
+Ocean gyres typically contain 5–6 trophic levels. The limiting factor for the number of trophic levels is the size of the phytoplankton, which are generally small in nutrient limited gyres. In low oxygen zones, oligotrophs are a large percentage of the phytoplankton. At the intermediate level, small fishes and squid (especially ommastrephidae) dominate the nektonic biomass. They are important for the transport of energy from low trophic levels to high trophic levels. In some gyres, ommastrephidae are a major part of many animals' diets and can support the existence of large marine life.
+
+
+== Indigenous knowledge of ocean patterns ==
+Indigenous traditional ecological knowledge (TEK) recognizes that indigenous people, as the original caretakers, hold unique relationships with the land and waters. These relationships make TEK difficult to define, as traditional knowledge means something different to each person, each community, and each caretaker. The United Nations Declaration on the Rights of Indigenous Peoples begins by reminding readers that "respect for Indigenous knowledge, cultures and traditional practices contributes to sustainable and equitable development and proper management of the environment"  Attempts to collect and store this knowledge have been made over the past twenty years. Conglomerates such as the Indigenous Knowledge Social Network (https://siku.org/), the Igliniit project, and the Wales Inupiaq Sea Ice Directory have made strides in the inclusion and documentation of indigenous people's thoughts on global climate, oceanographic, and social trends.
+One example involves ancient Polynesians and how they discovered and then travelled throughout the Pacific Ocean from modern day Polynesia to Hawaii and New Zealand. Known as wayfinding, navigators would use the stars, winds, and ocean currents to know where they were on the ocean and where they were headed. These navigators were intimately familiar with Pacific currents that create the North Pacific Gyre, and this way of navigating continues today.
+Another example involves the Māori people who came from Polynesia and are an indigenous group in New Zealand. Their way of life and culture has strong connections to the ocean. The Māori believe that the sea is the source of all life and is an energy, called Tangaroa. This energy could manifest in many different ways, like strong ocean currents, calm seas, or turbulent storms. The Māori have a rich oral history of navigation within the Southern Ocean and Antarctic Ocean and a deep understanding of their ice and ocean patterns. A current research project is aimed at consolidating these oral histories. Efforts are being made to integrate TEK with Western science in marine and ocean research in New Zealand. Additional research efforts aim to collate indigenous oral histories and incorporate indigenous knowledge into climate change adaptation practices in New Zealand that will directly affect the Māori and other indigenous communities.
+
+
+== Threats ==
+
+
+=== Climate change ===
+Ocean circulation redistributes the heat and water resources, therefore determines the regional climate. For example, the western branches of the subtropical gyres flow from the lower latitudes towards higher latitudes, bringing relatively warm and moist air to the adjacent land, contributing to a mild and wet climate (e.g., East China, Japan). In contrast, the eastern boundary currents of the subtropical gyres streaming from the higher latitudes towards lower latitudes, corresponding to a relatively cold and dry climate (e.g., California).
+Currently, the core of the subtropical gyres are around 30° in both hemispheres. However, their positions were not always there. Satellite observational sea surface height and sea surface temperature data suggest that the world's major ocean gyres are slowly moving towards higher latitudes in the past few decades. Such feature show agreement with climate model prediction under anthropogenic global warming. Paleo-climate reconstruction also suggests that during the past cold climate intervals, i.e., ice ages, some of the western boundary currents (western branches of the subtropical ocean gyres) are closer to the equator than their modern positions. These evidence implies that global warming is very likely to push the large-scale ocean gyres towards higher latitudes.
+As the ocean absorbs more carbon dioxide, it becomes more acidic. This pH change poses a threat to marine organisms, especially those that build calcium carbonate shells and skeletons. This includes planktonic foraminifera, pteropods, and coccolithophores. Acidification alters nutrient cycling by affecting multiple microbial processes. Nitrogen fixation is a crucial process in nutrient-poor subtropical gyres, and may be less efficient in lower pH waters. This would further limit primary production and worsen oligotrophic conditions in these gyre regions.
+Subtropical gyres, or "ocean deserts", are home to critical primary producers that form the base of the food web. Acidification impairs both the growth and reproduction of planktonic organisms, leading to reduced primary productivity. Being at the base of the food chain, this impairment affects many larger marine species who rely on primary producers for food.
+
+
+=== Overfishing and ecosystem disruption ===
+Overfishing is a major anthropogenic pressure on marine ecosystems associated with ocean gyres. Many large fishing fleets target gyre surroundings due to upwelling and nutrient convergence zones leading to higher biological productivity. Intense fishing pressure has led to population declines and collapses of certain species. This impacts not only targeted fish stocks, but the entire marine food web. By removing top predators and key forage species, overfishing disrupts trophic dynamics. Species usually kept in check by predators can proliferate unnaturally fast, leading to trophic cascades. In subtropical regions, biological productivity is already limited due to decreased nutrient availability, overfishing has more drastic effects. Ecosystems can easily become dominated by jellyfish or less valuable species.
+
+
+=== Deep-sea mining ===
+The emerging threat of deep-sea mining targets polymetallic nodules, cobalt-rich crusts, and massive sulfide deposits in abyssal plains lying within ocean gyres. Mining activities disturb the seafloor, creating sediment plumes that can spread over hundreds of kilometers. These plumes can smother organisms and disrupt ecological processes that have evolved over millennia in stable conditions in deep oceans. Noise, light, and chemical pollution generated by mining could have cascading effects in water columns, affecting the surface and midwater ecosystems in gyres. Deep-sea ecosystems recover at extremely slow rates, if at all, meaning the long-term impacts of mining are predicted to be significant and largely irreversible.
+
+
+=== Pollution ===
+
+
+== See also ==
+
+Ecosystem of the North Pacific Subtropical Gyre
+Eddy
+Fluid dynamics
+Geostrophic current
+High-nutrient, low-chlorophyll regions
+Skookumchuck
+Volta do mar
+Whirlpool
+
+
+== References ==
+
+
+== External links ==
+
+5 Gyres – Understanding Plastic Marine Pollution
+Wind Driven Surface Currents: Gyres
+SIO 210: Introduction to Physical Oceanography – Global circulation
+SIO 210: Introduction to Physical Oceanography – Wind-forced circulation notes
+SIO 210: Introduction to Physical Oceanography – Lecture 6
+Physical Geography – Surface and Subsurface Ocean Currents
+North Pacific Gyre Oscillation — Georgia Institute of Technology
+Dunning, Brian (16 December 2008). "Skeptoid #132: The Sargasso Sea and the Pacific Garbage Patch". Skeptoid.

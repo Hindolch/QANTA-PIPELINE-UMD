@@ -1,0 +1,2763 @@
+A granular material is a conglomeration of discrete solid, macroscopic particles characterized by a loss of energy whenever the particles interact (the most common example would be friction when grains collide). The constituents that compose granular material are large enough such that they are not subject to thermal motion fluctuations. Thus, the lower size limit for grains in granular material is about 1 μm. On the upper size limit, the physics of granular materials may be applied to ice floes where the individual grains are icebergs and to asteroid belts of the Solar System with individual grains being asteroids.
+Some examples of granular materials are snow, nuts, coal, sand, rice, coffee, corn flakes, salt, and bearing balls. Research into granular materials is thus directly applicable and goes back at least to Charles-Augustin de Coulomb, whose law of friction was originally stated for granular materials. Granular materials are commercially important in applications as diverse as pharmaceutical industry, agriculture, and energy production.
+Powders are a special class of granular material due to their small particle size, which makes them more cohesive and more easily suspended in a gas.
+The soldier/physicist Brigadier Ralph Alger Bagnold was an early pioneer of the physics of granular matter and whose book The Physics of Blown Sand and Desert Dunes remains an important reference to this day. According to material scientist Patrick Richard, "Granular materials are ubiquitous in nature and are the second-most manipulated material in industry (the first one is water)".
+In some sense, granular materials do not constitute a single phase of matter but have characteristics reminiscent of solids, liquids, or gases depending on the average energy per grain. However, in each of these states, granular materials also exhibit properties that are unique.
+Granular materials also exhibit a wide range of pattern forming behaviors when excited (e.g. vibrated or allowed to flow). As such granular materials under excitation can be thought of as an example of a complex system. They also display fluid-based instabilities and phenomena such as Magnus effect.
+
+
+== Definitions ==
+Granular matter is a system composed of many macroscopic particles. Microscopic particles (atoms\molecules) are described (in classical mechanics) by all DOF of the system. Macroscopic particles are described only by DOF of the motion of each particle as a rigid body. In each particle are a lot of internal DOF. Consider inelastic collision between two particles - the energy from velocity as rigid body is transferred to microscopic internal DOF. We get "Dissipation" - irreversible heat generation. The result is that without external driving, eventually all particles will stop moving. In macroscopic particles thermal fluctuations are irrelevant.
+When a matter is dilute and dynamic (driven) then it is called granular gas and dissipation phenomenon dominates.
+When a matter is dense and static, then it is called granular solid and jamming phenomenon dominates.
+When the density is intermediate, then it is called granular liquid.
+
+
+== Static behaviors ==
+
+
+=== Coulomb friction law ===
+Coulomb regarded internal forces between granular particles as a friction process, and proposed the friction law, that the force of friction of solid particles is proportional to the normal pressure between them and the static friction coefficient is greater than the kinetic friction coefficient. He studied the collapse of piles of sand and found empirically two critical angles: the maximal stable angle 
+  
+    
+      
+        
+          θ
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \theta _{m}}
+  
+ and the minimum angle of repose 
+  
+    
+      
+        
+          θ
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \theta _{r}}
+  
+. When the sandpile slope reaches the maximum stable angle, the sand particles on the surface of the pile begin to fall. The process stops when the surface inclination angle is equal to the angle of repose. The difference between these two angles, 
+  
+    
+      
+        Δ
+        θ
+        =
+        
+          θ
+          
+            m
+          
+        
+        −
+        
+          θ
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \Delta \theta =\theta _{m}-\theta _{r}}
+  
+, is the Bagnold angle, which is a measure of the hysteresis of granular materials. This phenomenon is due to the force chains: stress in a granular solid is not distributed uniformly but is conducted away along so-called force chains which are networks of grains resting on one another. Between these chains are regions of low stress whose grains are shielded for the effects of the grains above by vaulting and arching. When the shear stress reaches a certain value, the force chains can break and the particles at the end of the chains on the surface begin to slide. Then, new force chains form until the shear stress is less than the critical value, and so the sandpile maintains a constant angle of repose.
+
+
+=== Janssen effect ===
+In 1895, H. A. Janssen discovered that in a vertical cylinder filled with particles, the pressure measured at the base of the cylinder does not depend on the height of the filling, unlike Newtonian fluids at rest which follow Stevin's law for hydrostatic pressure. Janssen suggested a simplified model with the following assumptions:
+
+The vertical pressure, 
+  
+    
+      
+        
+          σ
+          
+            z
+            z
+          
+        
+      
+    
+    {\displaystyle \sigma _{zz}}
+  
+, is constant in the horizontal plane;
+The horizontal pressure, 
+  
+    
+      
+        
+          σ
+          
+            r
+            r
+          
+        
+      
+    
+    {\displaystyle \sigma _{rr}}
+  
+, is proportional to the vertical pressure 
+  
+    
+      
+        
+          σ
+          
+            z
+            z
+          
+        
+      
+    
+    {\displaystyle \sigma _{zz}}
+  
+, where 
+  
+    
+      
+        K
+        =
+        
+          
+            
+              σ
+              
+                r
+                r
+              
+            
+            
+              σ
+              
+                z
+                z
+              
+            
+          
+        
+      
+    
+    {\displaystyle K={\frac {\sigma _{rr}}{\sigma _{zz}}}}
+  
+ is constant in space;
+The wall friction static coefficient 
+  
+    
+      
+        μ
+        =
+        
+          
+            
+              σ
+              
+                r
+                z
+              
+            
+            
+              σ
+              
+                r
+                r
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mu ={\frac {\sigma _{rz}}{\sigma _{rr}}}}
+  
+ sustains the vertical load at the contact with the wall;
+The density of the material is constant over all depths.
+The pressure in the granular material is then described in a different law, which accounts for saturation:
+
+  
+    
+      
+        p
+        (
+        z
+        )
+        =
+        
+          p
+          
+            ∞
+          
+        
+        [
+        1
+        −
+        exp
+        ⁡
+        (
+        −
+        z
+        
+          /
+        
+        λ
+        )
+        ]
+      
+    
+    {\displaystyle p(z)=p_{\infty }[1-\exp(-z/\lambda )]}
+  
+,
+where 
+  
+    
+      
+        λ
+        =
+        
+          
+            R
+            
+              2
+              μ
+              K
+            
+          
+        
+      
+    
+    {\displaystyle \lambda ={\frac {R}{2\mu K}}}
+  
+ and 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is the radius of the cylinder, and at the top of the silo 
+  
+    
+      
+        z
+        =
+        0
+      
+    
+    {\displaystyle z=0}
+  
+.
+The given pressure equation does not account for boundary conditions, such as the ratio between the particle size to the radius of the silo. Since the internal stress of the material cannot be measured, Janssen's speculations have not been verified by any direct experiment.
+
+
+=== Rowe stress and dilatancy relation ===
+In the early 1960s, engineer Peter Walter Rowe studied dilatancy effect on shear strength in shear tests and proposed a relation between them.
+The mechanical properties of assembly of mono-dispersed particles in 2D can be analyzed based on the representative elementary volume, with typical lengths, 
+  
+    
+      
+        
+          ℓ
+          
+            1
+          
+        
+        ,
+        
+          ℓ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \ell _{1},\ell _{2}}
+  
+, in vertical and horizontal directions respectively. The geometric characteristics of the system is described by 
+  
+    
+      
+        α
+        =
+        arctan
+        ⁡
+        (
+        
+          
+            
+              ℓ
+              
+                1
+              
+            
+            
+              ℓ
+              
+                2
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \alpha =\arctan({\frac {\ell _{1}}{\ell _{2}}})}
+  
+ and the variable 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  
+, which describes the angle when the contact points begin the process of sliding. Denote by 
+  
+    
+      
+        
+          σ
+          
+            11
+          
+        
+      
+    
+    {\displaystyle \sigma _{11}}
+  
+ the vertical direction, which is the direction of the major principal stress, and by 
+  
+    
+      
+        
+          σ
+          
+            22
+          
+        
+      
+    
+    {\displaystyle \sigma _{22}}
+  
+ the horizontal direction, which is the direction of the minor principal stress.
+Then stress on the boundary can be expressed as the concentrated force borne by individual particles. Under biaxial loading with uniform stress 
+  
+    
+      
+        
+          σ
+          
+            12
+          
+        
+        =
+        
+          σ
+          
+            21
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \sigma _{12}=\sigma _{21}=0}
+  
+ and therefore 
+  
+    
+      
+        
+          F
+          
+            12
+          
+        
+        =
+        
+          F
+          
+            21
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle F_{12}=F_{21}=0}
+  
+.
+At equilibrium state:
+
+  
+    
+      
+        
+          
+            
+              F
+              
+                11
+              
+            
+            
+              F
+              
+                22
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                σ
+                
+                  11
+                
+              
+              
+                ℓ
+                
+                  2
+                
+              
+            
+            
+              
+                σ
+                
+                  22
+                
+              
+              
+                ℓ
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        tan
+        ⁡
+        (
+        θ
+        +
+        β
+        )
+      
+    
+    {\displaystyle {\frac {F_{11}}{F_{22}}}={\frac {\sigma _{11}\ell _{2}}{\sigma _{22}\ell _{1}}}=\tan(\theta +\beta )}
+  
+,
+where 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+, the friction angle, is the angle between the contact force and the contact normal direction.
+
+  
+    
+      
+        
+          θ
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle \theta _{\mu }}
+  
+, which describes the angle that if the tangential force falls within the friction cone the particles would still remain steady. It is determined by the coefficient of friction 
+  
+    
+      
+        μ
+        =
+        t
+        g
+        
+          ϕ
+          
+            u
+          
+        
+      
+    
+    {\displaystyle \mu =tg\phi _{u}}
+  
+, so 
+  
+    
+      
+        θ
+        ≤
+        
+          θ
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle \theta \leq \theta _{\mu }}
+  
+. Once stress is applied to the system then 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ gradually increases while 
+  
+    
+      
+        α
+        ,
+        β
+      
+    
+    {\displaystyle \alpha ,\beta }
+  
+ remains unchanged. When 
+  
+    
+      
+        θ
+        ≥
+        
+          θ
+          
+            μ
+          
+        
+      
+    
+    {\displaystyle \theta \geq \theta _{\mu }}
+  
+ then the particles will begin sliding, resulting in changing the structure of the system and creating new force chains. 
+  
+    
+      
+        
+          Δ
+          
+            1
+          
+        
+        ,
+        
+          Δ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \Delta _{1},\Delta _{2}}
+  
+, the horizontal and vertical displacements respectively satisfies
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  Δ
+                  
+                    2
+                  
+                
+                ˙
+              
+            
+            
+              
+                
+                  Δ
+                  
+                    1
+                  
+                
+                ˙
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                
+                  
+                    
+                      ε
+                      
+                        22
+                      
+                    
+                    ˙
+                  
+                
+              
+              
+                ℓ
+                
+                  2
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      ε
+                      
+                        11
+                      
+                    
+                    ˙
+                  
+                
+              
+              
+                ℓ
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        −
+        tan
+        ⁡
+        β
+      
+    
+    {\displaystyle {\frac {\dot {\Delta _{2}}}{\dot {\Delta _{1}}}}={\frac {{\dot {\varepsilon _{22}}}\ell _{2}}{{\dot {\varepsilon _{11}}}\ell _{1}}}=-\tan \beta }
+  
+.
+
+
+== Granular gases ==
+If the granular material is driven harder such that contacts between the grains become highly infrequent, the material enters a gaseous state. Correspondingly, one can define a granular temperature equal to the root mean square of grain velocity fluctuations that is analogous to thermodynamic temperature. Unlike conventional gases, granular materials will tend to cluster and clump due to the dissipative nature of the collisions between grains. This clustering has some interesting consequences. For example, if a partially partitioned box of granular materials is vigorously shaken then grains will over time tend to collect in one of the partitions rather than spread evenly into both partitions as would happen in a conventional gas. This effect, known as the granular Maxwell's demon, does not violate any thermodynamics principles since energy is constantly being lost from the system in the process.
+
+
+=== Ulam model ===
+Consider 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ particles, particle 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+ having energy 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}}
+  
+. At some constant rate per unit time, randomly choose two particles 
+  
+    
+      
+        i
+        ,
+        j
+      
+    
+    {\displaystyle i,j}
+  
+ with energies 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+        ,
+        
+          ε
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i},\varepsilon _{j}}
+  
+ and compute the sum 
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+        +
+        
+          ε
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}+\varepsilon _{j}}
+  
+. Now, randomly distribute the total energy between the two particles: choose randomly 
+  
+    
+      
+        z
+        ∈
+        
+          [
+          
+            0
+            ,
+            1
+          
+          ]
+        
+      
+    
+    {\displaystyle z\in \left[0,1\right]}
+  
+ so that the first particle, after the collision, has energy 
+  
+    
+      
+        z
+        
+          (
+          
+            
+              ε
+              
+                i
+              
+            
+            +
+            
+              ε
+              
+                j
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle z\left(\varepsilon _{i}+\varepsilon _{j}\right)}
+  
+, and the second 
+  
+    
+      
+        
+          (
+          
+            1
+            −
+            z
+          
+          )
+        
+        
+          (
+          
+            
+              ε
+              
+                i
+              
+            
+            +
+            
+              ε
+              
+                j
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left(1-z\right)\left(\varepsilon _{i}+\varepsilon _{j}\right)}
+  
+.
+The stochastic evolution equation:
+
+  
+    
+      
+        
+          ε
+          
+            i
+          
+        
+        (
+        t
+        +
+        d
+        t
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  
+                    ε
+                    
+                      i
+                    
+                  
+                  (
+                  t
+                  )
+                
+                
+                  p
+                  r
+                  o
+                  b
+                  a
+                  b
+                  i
+                  l
+                  i
+                  t
+                  y
+                  :
+                  
+                  1
+                  −
+                  Γ
+                  d
+                  t
+                
+              
+              
+                
+                  z
+                  
+                    (
+                    
+                      
+                        ε
+                        
+                          i
+                        
+                      
+                      (
+                      t
+                      )
+                      +
+                      
+                        ε
+                        
+                          j
+                        
+                      
+                      (
+                      t
+                      )
+                    
+                    )
+                  
+                
+                
+                  p
+                  r
+                  o
+                  b
+                  a
+                  b
+                  i
+                  l
+                  i
+                  t
+                  y
+                  :
+                  
+                  Γ
+                  d
+                  t
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{i}(t+dt)={\begin{cases}\varepsilon _{i}(t)&probability:\,1-\Gamma dt\\z\left(\varepsilon _{i}(t)+\varepsilon _{j}(t)\right)&probability:\,\Gamma dt\end{cases}}}
+  
+,
+where 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+  
+ is the collision rate, 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  
+ is randomly picked from 
+  
+    
+      
+        
+          [
+          
+            0
+            ,
+            1
+          
+          ]
+        
+      
+    
+    {\displaystyle \left[0,1\right]}
+  
+ (uniform distribution) and j is an index also randomly chosen from a uniform distribution. The average energy per particle: 
+  
+    
+      
+        
+          
+            
+              
+                
+                  ⟨
+                  
+                    ε
+                    (
+                    t
+                    +
+                    d
+                    t
+                    )
+                  
+                  ⟩
+                
+              
+              
+                
+                =
+                
+                  (
+                  
+                    1
+                    −
+                    Γ
+                    d
+                    t
+                  
+                  )
+                
+                
+                  ⟨
+                  
+                    ε
+                    (
+                    t
+                    )
+                  
+                  ⟩
+                
+                +
+                Γ
+                d
+                t
+                ⋅
+                
+                  ⟨
+                  z
+                  ⟩
+                
+                
+                  (
+                  
+                    
+                      ⟨
+                      
+                        ε
+                        
+                          i
+                        
+                      
+                      ⟩
+                    
+                    +
+                    
+                      ⟨
+                      
+                        ε
+                        
+                          j
+                        
+                      
+                      ⟩
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  (
+                  
+                    1
+                    −
+                    Γ
+                    d
+                    t
+                  
+                  )
+                
+                
+                  ⟨
+                  
+                    ε
+                    (
+                    t
+                    )
+                  
+                  ⟩
+                
+                +
+                Γ
+                d
+                t
+                ⋅
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                
+                  (
+                  
+                    
+                      ⟨
+                      
+                        ε
+                        (
+                        t
+                        )
+                      
+                      ⟩
+                    
+                    +
+                    
+                      ⟨
+                      
+                        ε
+                        (
+                        t
+                        )
+                      
+                      ⟩
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  ⟨
+                  
+                    ε
+                    (
+                    t
+                    )
+                  
+                  ⟩
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\left\langle \varepsilon (t+dt)\right\rangle &=\left(1-\Gamma dt\right)\left\langle \varepsilon (t)\right\rangle +\Gamma dt\cdot \left\langle z\right\rangle \left(\left\langle \varepsilon _{i}\right\rangle +\left\langle \varepsilon _{j}\right\rangle \right)\\&=\left(1-\Gamma dt\right)\left\langle \varepsilon (t)\right\rangle +\Gamma dt\cdot {\dfrac {1}{2}}\left(\left\langle \varepsilon (t)\right\rangle +\left\langle \varepsilon (t)\right\rangle \right)\\&=\left\langle \varepsilon (t)\right\rangle \end{aligned}}}
+  
+.
+The second moment:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  ⟨
+                  
+                    
+                      ε
+                      
+                        2
+                      
+                    
+                    (
+                    t
+                    +
+                    d
+                    t
+                    )
+                  
+                  ⟩
+                
+              
+              
+                
+                =
+                
+                  (
+                  
+                    1
+                    −
+                    Γ
+                    d
+                    t
+                  
+                  )
+                
+                
+                  ⟨
+                  
+                    
+                      ε
+                      
+                        2
+                      
+                    
+                    (
+                    t
+                    )
+                  
+                  ⟩
+                
+                +
+                Γ
+                d
+                t
+                ⋅
+                
+                  ⟨
+                  
+                    z
+                    
+                      2
+                    
+                  
+                  ⟩
+                
+                
+                  ⟨
+                  
+                    
+                      ε
+                      
+                        i
+                      
+                      
+                        2
+                      
+                    
+                    +
+                    2
+                    
+                      ε
+                      
+                        i
+                      
+                    
+                    
+                      ε
+                      
+                        j
+                      
+                    
+                    +
+                    
+                      ε
+                      
+                        j
+                      
+                      
+                        2
+                      
+                    
+                  
+                  ⟩
+                
+              
+            
+            
+              
+              
+                
+                =
+                
+                  (
+                  
+                    1
+                    −
+                    Γ
+                    d
+                    t
+                  
+                  )
+                
+                
+                  ⟨
+                  
+                    
+                      ε
+                      
+                        2
+                      
+                    
+                    (
+                    t
+                    )
+                  
+                  ⟩
+                
+                +
+                Γ
+                d
+                t
+                ⋅
+                
+                  
+                    
+                      1
+                      3
+                    
+                  
+                
+                
+                  (
+                  
+                    2
+                    
+                      ⟨
+                      
+                        
+                          ε
+                          
+                            2
+                          
+                        
+                        (
+                        t
+                        )
+                      
+                      ⟩
+                    
+                    +
+                    2
+                    
+                      
+                        ⟨
+                        
+                          ε
+                          (
+                          t
+                          )
+                        
+                        ⟩
+                      
+                      
+                        2
+                      
+                    
+                  
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\left\langle \varepsilon ^{2}(t+dt)\right\rangle &=\left(1-\Gamma dt\right)\left\langle \varepsilon ^{2}(t)\right\rangle +\Gamma dt\cdot \left\langle z^{2}\right\rangle \left\langle \varepsilon _{i}^{2}+2\varepsilon _{i}\varepsilon _{j}+\varepsilon _{j}^{2}\right\rangle \\&=\left(1-\Gamma dt\right)\left\langle \varepsilon ^{2}(t)\right\rangle +\Gamma dt\cdot {\dfrac {1}{3}}\left(2\left\langle \varepsilon ^{2}(t)\right\rangle +2\left\langle \varepsilon (t)\right\rangle ^{2}\right)\end{aligned}}}
+  
+.
+Now the time derivative of the second moment:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  ⟨
+                  
+                    ε
+                    
+                      2
+                    
+                  
+                  ⟩
+                
+              
+              
+                d
+                t
+              
+            
+          
+        
+        =
+        l
+        i
+        
+          m
+          
+            d
+            t
+            →
+            0
+          
+        
+        
+          
+            
+              
+                
+                  ⟨
+                  
+                    
+                      ε
+                      
+                        2
+                      
+                    
+                    (
+                    t
+                    +
+                    d
+                    t
+                    )
+                  
+                  ⟩
+                
+                −
+                
+                  ⟨
+                  
+                    
+                      ε
+                      
+                        2
+                      
+                    
+                    (
+                    t
+                    )
+                  
+                  ⟩
+                
+              
+              
+                d
+                t
+              
+            
+          
+        
+        =
+        −
+        
+          
+            
+              Γ
+              3
+            
+          
+        
+        
+          ⟨
+          
+            ε
+            
+              2
+            
+          
+          ⟩
+        
+        +
+        
+          
+            
+              
+                2
+                Γ
+              
+              3
+            
+          
+        
+        
+          
+            ⟨
+            ε
+            ⟩
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\dfrac {d\left\langle \varepsilon ^{2}\right\rangle }{dt}}=lim_{dt\rightarrow 0}{\dfrac {\left\langle \varepsilon ^{2}(t+dt)\right\rangle -\left\langle \varepsilon ^{2}(t)\right\rangle }{dt}}=-{\dfrac {\Gamma }{3}}\left\langle \varepsilon ^{2}\right\rangle +{\dfrac {2\Gamma }{3}}\left\langle \varepsilon \right\rangle ^{2}}
+  
+.
+In steady state:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  ⟨
+                  
+                    ε
+                    
+                      2
+                    
+                  
+                  ⟩
+                
+              
+              
+                d
+                t
+              
+            
+          
+        
+        =
+        0
+        ⇒
+        
+          ⟨
+          
+            ε
+            
+              2
+            
+          
+          ⟩
+        
+        =
+        2
+        
+          
+            ⟨
+            ε
+            ⟩
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\dfrac {d\left\langle \varepsilon ^{2}\right\rangle }{dt}}=0\Rightarrow \left\langle \varepsilon ^{2}\right\rangle =2\left\langle \varepsilon \right\rangle ^{2}}
+  
+.
+Solving the differential equation for the second moment:
+
+  
+    
+      
+        
+          ⟨
+          
+            ε
+            
+              2
+            
+          
+          ⟩
+        
+        −
+        2
+        
+          
+            ⟨
+            ε
+            ⟩
+          
+          
+            2
+          
+        
+        =
+        
+          (
+          
+            
+              ⟨
+              
+                
+                  ε
+                  
+                    2
+                  
+                
+                (
+                0
+                )
+              
+              ⟩
+            
+            −
+            2
+            
+              
+                ⟨
+                
+                  ε
+                  (
+                  0
+                  )
+                
+                ⟩
+              
+              
+                2
+              
+            
+          
+          )
+        
+        
+          e
+          
+            −
+            
+              
+                Γ
+                3
+              
+            
+            t
+          
+        
+      
+    
+    {\displaystyle \left\langle \varepsilon ^{2}\right\rangle -2\left\langle \varepsilon \right\rangle ^{2}=\left(\left\langle \varepsilon ^{2}(0)\right\rangle -2\left\langle \varepsilon (0)\right\rangle ^{2}\right)e^{-{\frac {\Gamma }{3}}t}}
+  
+.
+However, instead of characterizing the moments, we can analytically solve the energy distribution, from the moment generating function. Consider the Laplace transform: 
+  
+    
+      
+        g
+        (
+        λ
+        )
+        =
+        
+          ⟨
+          
+            e
+            
+              −
+              λ
+              ε
+            
+          
+          ⟩
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            −
+            λ
+            ε
+          
+        
+        ρ
+        (
+        ε
+        )
+        d
+        ε
+      
+    
+    {\displaystyle g(\lambda )=\left\langle e^{-\lambda \varepsilon }\right\rangle =\int _{0}^{\infty }e^{-\lambda \varepsilon }\rho (\varepsilon )d\varepsilon }
+  
+,
+where 
+  
+    
+      
+        g
+        (
+        0
+        )
+        =
+        1
+      
+    
+    {\displaystyle g(0)=1}
+  
+, and 
+  
+    
+      
+        
+          
+            
+              
+                d
+                g
+              
+              
+                d
+                λ
+              
+            
+          
+        
+        =
+        −
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        ε
+        
+          e
+          
+            −
+            λ
+            ε
+          
+        
+        ρ
+        (
+        ε
+        )
+        d
+        ε
+        =
+        −
+        
+          ⟨
+          ε
+          ⟩
+        
+      
+    
+    {\displaystyle {\dfrac {dg}{d\lambda }}=-\int _{0}^{\infty }\varepsilon e^{-\lambda \varepsilon }\rho (\varepsilon )d\varepsilon =-\left\langle \varepsilon \right\rangle }
+  
+.
+the n derivative:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  d
+                  
+                    n
+                  
+                
+                g
+              
+              
+                d
+                
+                  λ
+                  
+                    n
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            (
+            
+              −
+              1
+            
+            )
+          
+          
+            n
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          ε
+          
+            n
+          
+        
+        
+          e
+          
+            −
+            λ
+            ε
+          
+        
+        ρ
+        (
+        ε
+        )
+        d
+        ε
+        =
+        
+          ⟨
+          
+            ε
+            
+              n
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle {\dfrac {d^{n}g}{d\lambda ^{n}}}=\left(-1\right)^{n}\int _{0}^{\infty }\varepsilon ^{n}e^{-\lambda \varepsilon }\rho (\varepsilon )d\varepsilon =\left\langle \varepsilon ^{n}\right\rangle }
+  
+,
+now:
+
+  
+    
+      
+        
+          e
+          
+            −
+            λ
+            
+              ε
+              
+                i
+              
+            
+            (
+            t
+            +
+            d
+            t
+            )
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  
+                    e
+                    
+                      −
+                      λ
+                      
+                        ε
+                        
+                          i
+                        
+                      
+                      (
+                      t
+                      )
+                    
+                  
+                
+                
+                  1
+                  −
+                  Γ
+                  t
+                
+              
+              
+                
+                  
+                    e
+                    
+                      −
+                      λ
+                      z
+                      
+                        (
+                        
+                          
+                            ε
+                            
+                              i
+                            
+                          
+                          (
+                          t
+                          )
+                          +
+                          
+                            ε
+                            
+                              j
+                            
+                          
+                          (
+                          t
+                          )
+                        
+                        )
+                      
+                    
+                  
+                
+                
+                  Γ
+                  t
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle e^{-\lambda \varepsilon _{i}(t+dt)}={\begin{cases}e^{-\lambda \varepsilon _{i}(t)}&1-\Gamma t\\e^{-\lambda z\left(\varepsilon _{i}(t)+\varepsilon _{j}(t)\right)}&\Gamma t\end{cases}}}
+  
+
+  
+    
+      
+        
+          ⟨
+          
+            e
+            
+              −
+              λ
+              ε
+              
+                (
+                
+                  t
+                  +
+                  d
+                  t
+                
+                )
+              
+            
+          
+          ⟩
+        
+        =
+        
+          (
+          
+            1
+            −
+            Γ
+            d
+            t
+          
+          )
+        
+        
+          ⟨
+          
+            e
+            
+              −
+              λ
+              
+                ε
+                
+                  i
+                
+              
+              (
+              t
+              )
+            
+          
+          ⟩
+        
+        +
+        Γ
+        d
+        t
+        
+          ⟨
+          
+            e
+            
+              −
+              λ
+              z
+              
+                (
+                
+                  
+                    ε
+                    
+                      i
+                    
+                  
+                  (
+                  t
+                  )
+                  +
+                  
+                    ε
+                    
+                      j
+                    
+                  
+                  (
+                  t
+                  )
+                
+                )
+              
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left\langle e^{-\lambda \varepsilon \left(t+dt\right)}\right\rangle =\left(1-\Gamma dt\right)\left\langle e^{-\lambda \varepsilon _{i}(t)}\right\rangle +\Gamma dt\left\langle e^{-\lambda z\left(\varepsilon _{i}(t)+\varepsilon _{j}(t)\right)}\right\rangle }
+  
+
+  
+    
+      
+        g
+        
+          (
+          
+            λ
+            ,
+            t
+            +
+            d
+            t
+          
+          )
+        
+        =
+        
+          (
+          
+            1
+            −
+            Γ
+            d
+            t
+          
+          )
+        
+        g
+        
+          (
+          
+            λ
+            ,
+            t
+          
+          )
+        
+        +
+        Γ
+        d
+        t
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        
+          
+            
+              
+                
+                  
+                    ⟨
+                    
+                      e
+                      
+                        −
+                        λ
+                        z
+                        
+                          ε
+                          
+                            i
+                          
+                        
+                        (
+                        t
+                        )
+                      
+                    
+                    ⟩
+                  
+                  
+                    ⟨
+                    
+                      e
+                      
+                        −
+                        λ
+                        z
+                        
+                          ε
+                          
+                            j
+                          
+                        
+                        (
+                        t
+                        )
+                      
+                    
+                    ⟩
+                  
+                
+                ⏟
+              
+            
+            
+              =
+              
+                g
+                
+                  2
+                
+              
+              (
+              λ
+              z
+              ,
+              t
+              )
+            
+          
+        
+        d
+        z
+      
+    
+    {\displaystyle g\left(\lambda ,t+dt\right)=\left(1-\Gamma dt\right)g\left(\lambda ,t\right)+\Gamma dt\int _{0}^{1}{\underset {=g^{2}(\lambda z,t)}{\underbrace {\left\langle e^{-\lambda z\varepsilon _{i}(t)}\right\rangle \left\langle e^{-\lambda z\varepsilon _{j}(t)}\right\rangle } }}dz}
+  
+.
+Solving for 
+  
+    
+      
+        g
+        (
+        λ
+        )
+      
+    
+    {\displaystyle g(\lambda )}
+  
+ with change of variables 
+  
+    
+      
+        δ
+        =
+        λ
+        z
+      
+    
+    {\displaystyle \delta =\lambda z}
+  
+:
+
+  
+    
+      
+        λ
+        g
+        (
+        λ
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            λ
+          
+        
+        
+          g
+          
+            2
+          
+        
+        (
+        δ
+        )
+        d
+        δ
+        ⇒
+        λ
+        
+          g
+          ′
+        
+        (
+        λ
+        )
+        +
+        g
+        (
+        λ
+        )
+        =
+        
+          g
+          
+            2
+          
+        
+        (
+        λ
+        )
+        ⇒
+        g
+        (
+        λ
+        )
+        =
+        
+          
+            
+              1
+              
+                λ
+                T
+                +
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle \lambda g(\lambda )=\int _{0}^{\lambda }g^{2}(\delta )d\delta \Rightarrow \lambda g'(\lambda )+g(\lambda )=g^{2}(\lambda )\Rightarrow g(\lambda )={\dfrac {1}{\lambda T+1}}}
+  
+.
+We will show that 
+  
+    
+      
+        ρ
+        (
+        ε
+        )
+        =
+        
+          
+            
+              1
+              T
+            
+          
+        
+        
+          e
+          
+            −
+            
+              
+                ε
+                T
+              
+            
+          
+        
+      
+    
+    {\displaystyle \rho (\varepsilon )={\dfrac {1}{T}}e^{-{\frac {\varepsilon }{T}}}}
+  
+ (Boltzmann Distribution) by taking its Laplace transform and calculate the generating function:
+
+  
+    
+      
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              1
+              T
+            
+          
+        
+        
+          e
+          
+            −
+            
+              
+                ε
+                T
+              
+            
+          
+        
+        ⋅
+        
+          e
+          
+            −
+            λ
+            ε
+          
+        
+        d
+        ε
+        =
+        
+          
+            
+              1
+              T
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            −
+            
+              (
+              
+                λ
+                +
+                
+                  
+                    1
+                    T
+                  
+                
+              
+              )
+            
+            ε
+          
+        
+        d
+        ε
+        =
+        −
+        
+          
+            
+              1
+              
+                T
+                
+                  (
+                  
+                    λ
+                    +
+                    
+                      
+                        1
+                        T
+                      
+                    
+                  
+                  )
+                
+              
+            
+          
+        
+        
+          e
+          
+            −
+            
+              (
+              
+                λ
+                +
+                
+                  
+                    1
+                    T
+                  
+                
+              
+              )
+            
+            ε
+          
+        
+        
+          
+            |
+          
+          
+            0
+          
+          
+            ∞
+          
+        
+        =
+        
+          
+            
+              1
+              
+                λ
+                T
+                +
+                1
+              
+            
+          
+        
+        =
+        g
+        (
+        λ
+        )
+      
+    
+    {\displaystyle \int _{0}^{\infty }{\dfrac {1}{T}}e^{-{\frac {\varepsilon }{T}}}\cdot e^{-\lambda \varepsilon }d\varepsilon ={\dfrac {1}{T}}\int _{0}^{\infty }e^{-\left(\lambda +{\frac {1}{T}}\right)\varepsilon }d\varepsilon =-{\dfrac {1}{T\left(\lambda +{\frac {1}{T}}\right)}}e^{-\left(\lambda +{\frac {1}{T}}\right)\varepsilon }|_{0}^{\infty }={\dfrac {1}{\lambda T+1}}=g(\lambda )}
+  
+.
+
+
+== Jamming transition ==
+
+Granular systems are known to exhibit jamming and undergo a jamming transition which is thought of as a thermodynamic phase transition to a jammed state. The transition is from fluid-like phase to a solid-like phase and it is controlled by temperature, 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+, volume fraction, 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+  
+, and shear stress, 
+  
+    
+      
+        Σ
+      
+    
+    {\displaystyle \Sigma }
+  
+. The normal phase diagram of glass transition is in the 
+  
+    
+      
+        
+          ϕ
+          
+            −
+            1
+          
+        
+        −
+        T
+      
+    
+    {\displaystyle \phi ^{-1}-T}
+  
+ plane and it is divided into a jammed state region and unjammed liquid state by a transition line. The phase diagram for granular matter lies in the 
+  
+    
+      
+        
+          ϕ
+          
+            −
+            1
+          
+        
+        −
+        Σ
+      
+    
+    {\displaystyle \phi ^{-1}-\Sigma }
+  
+ plane, and the critical stress curve 
+  
+    
+      
+        Σ
+        (
+        ϕ
+        )
+      
+    
+    {\displaystyle \Sigma (\phi )}
+  
+ divides the state phase to jammed\unjammed region, which corresponds to granular solids\liquids respectively. For isotropically jammed granular system, when 
+  
+    
+      
+        ϕ
+      
+    
+    {\displaystyle \phi }
+  
+ is reduced around a certain point, 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+, the bulk and shear moduli approach 0. The 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+ point corresponds to the critical volume fraction 
+  
+    
+      
+        
+          ϕ
+          
+            c
+          
+        
+      
+    
+    {\displaystyle \phi _{c}}
+  
+. Define the distance to point 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+, the critical volume fraction, 
+  
+    
+      
+        Δ
+        ϕ
+        ≡
+        ϕ
+        −
+        
+          ϕ
+          
+            c
+          
+        
+      
+    
+    {\displaystyle \Delta \phi \equiv \phi -\phi _{c}}
+  
+. The behavior of granular systems near the 
+  
+    
+      
+        J
+      
+    
+    {\displaystyle J}
+  
+ point was empirically found to resemble second-order transition: the bulk modulus shows a power law scaling with 
+  
+    
+      
+        Δ
+        ϕ
+      
+    
+    {\displaystyle \Delta \phi }
+  
+ and there are some divergent characteristics lengths when 
+  
+    
+      
+        Δ
+        ϕ
+      
+    
+    {\displaystyle \Delta \phi }
+  
+ approaches zero. While 
+  
+    
+      
+        
+          ϕ
+          
+            c
+          
+        
+      
+    
+    {\displaystyle \phi _{c}}
+  
+ is constant for an infinite system, for a finite system boundary effects result in a distribution of 
+  
+    
+      
+        
+          ϕ
+          
+            c
+          
+        
+      
+    
+    {\displaystyle \phi _{c}}
+  
+ over some range.
+The Lubachevsky-Stillinger algorithm of jamming allows one to produce simulated jammed granular configurations.
+
+
+== Pattern formation ==
+Excited granular matter is a rich pattern-forming system. Some of the pattern-forming behaviours seen in granular materials are:
+
+The un-mixing or segregation of unlike grains under vibration and flow. An example of this is the so-called Brazil nut effect where Brazil nuts rise to the top of a packet of mixed nuts when shaken. The cause of this effect is that when shaken, granular (and some other) materials move in a circular pattern. Some larger materials (Brazil nuts) get stuck while going down the circle and therefore stay on the top.
+The formation of structured surface or bulk patterns in vibrated granular layers. These patterns include but are not limited to stripes, squares and hexagons. These patterns are thought to be formed by fundamental excitations of the surface known as oscillons. The formation of ordered volumetric structures in granular materials is known as Granular Crystallisation, and involves a transition from a random packing of particles to an ordered packing such as hexagonal close-packed or body-centred cubic. This is most commonly observed in granular materials with narrow size distributions and uniform grain morphology.
+The formation of sand ripples, dunes, and sandsheets
+Some of the pattern-forming behaviours have been possible to reproduce in computer simulations. There are two main computational approaches to such simulations, time-stepped and event-driven, the former being the most efficient for a higher density of the material and the motions of a lower intensity, and the latter for a lower density of the material and the motions of a higher intensity.
+
+
+=== Acoustic effects ===
+
+Some beach sands, such as those of the aptly named Squeaky Beach, exhibit squeaking when walked upon. Some desert dunes are known to exhibit booming during avalanching or when their surface is otherwise disturbed. Granular materials discharged from silos produce loud acoustic emissions in a process known as silo honking.
+
+
+== Granulation ==
+
+Granulation is the act or process in which primary powder particles are made to adhere to form larger, multiparticle entities called granules.
+
+
+== Crystallization ==
+When water or other liquids are cooled sufficiently slowly, randomly positioned molecules rearrange and solid crystals emerge and grow. A similar crystallisation process may occur in randomly packed granular materials. Unlike removing energy by cooling, crystallization in granular material is achieved by external driving. Ordering, or crystallization of granular materials has been observed to occur in periodically sheared as well as vibrated granular matter. In contrast to molecular systems, the positions of the individual particles can be tracked in the experiment. Computer simulations for a system of spherical grains reveal that homogeneous crystallization emerges at a volume fraction 
+  
+    
+      
+        ϕ
+        =
+        0.646
+        ±
+        0.001
+      
+    
+    {\displaystyle \phi =0.646\pm 0.001}
+  
+. The computer simulations identify the minimal ingredients necessary for granular crystallization. In particular, gravity and friction are not necessary.
+
+
+== Computational modeling of granular materials ==
+
+Several methods are available for modeling of granular materials. Most of these methods consist of the statistical methods by which various statistical properties, derived from either point data or an image, are extracted and used to generate stochastic models of the granular medium. A recent and comprehensive review of such methods is available in Tahmasebi and other (2017). Another alternative for building a pack of granular particles that recently has been presented is based on the level-set algorithm by which the real shape of the particle can be captured and reproduced through the extracted statistics for particles' morphology.
+
+
+== See also ==
+Aggregate (composite)
+Fragile matter
+Random close pack
+Soil liquefaction
+Metal powder
+Particulates
+Paste (rheology)
+μ(I) rheology: one model of the rheology of a granular flow.
+Dilatancy (granular material)
+
+
+== References ==
+
+
+== External links ==
+Fundamentals of Particle Technology – free book
+Lu, Kevin; et al. (November 2007). "Shear-weakening of the transitional regime for granular flow". J. Fluid Mech. 587: 347–372. Bibcode:2007JFM...587..347L. doi:10.1017/S0022112007007331. S2CID 30744277.
+Mester, L., The new physical-mechanical theory of granular materials. 2009, Homonnai, ISBN 978-963-8343-87-1
+Pareschi, L., Russo, G., Toscani, G., Modelling and Numerics of Kinetic Dissipative Systems, Nova Science Publishers, New York, 2006.

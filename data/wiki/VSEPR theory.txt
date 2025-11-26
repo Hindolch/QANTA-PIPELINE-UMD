@@ -1,0 +1,109 @@
+Valence shell electron pair repulsion (VSEPR) theory ( VESP-ər, və-SEP-ər) is a model used in chemistry to predict the geometry of individual molecules from the number of electron pairs surrounding their central atoms. It is also named the Gillespie-Nyholm theory after its two main developers, Ronald Gillespie and Ronald Nyholm but it is also called the Sidgwick-Powell theory after earlier work by Nevil Sidgwick and Herbert Marcus Powell.  
+The premise of VSEPR is that the valence electron pairs surrounding an atom tend to repel each other. The greater the repulsion, the higher in energy (less stable) the molecule is. Therefore, the VSEPR-predicted molecular geometry of a molecule is the one that has as little of this repulsion as possible.  Gillespie has emphasized that the electron-electron repulsion due to the Pauli exclusion principle is more important in determining molecular geometry than the electrostatic repulsion.
+The insights of VSEPR theory are derived from topological analysis of the electron density of molecules. Such quantum chemical topology (QCT) methods include the electron localization function (ELF) and the quantum theory of atoms in molecules (AIM or QTAIM).
+
+
+== History ==
+The idea of a correlation between molecular geometry and number of valence electron pairs (both shared and unshared pairs) was originally proposed in 1939 by Ryutaro Tsuchida in Japan, and was independently presented in a Bakerian Lecture in 1940 by Nevil Sidgwick and Herbert Powell of the University of Oxford. In 1957, Ronald Gillespie and Ronald Sydney Nyholm of University College London refined this concept into a more detailed theory, capable of choosing between various alternative geometries.
+
+
+== Overview ==
+VSEPR theory is used to predict the arrangement of electron pairs around central atoms in molecules, especially simple and symmetric molecules. A central atom is defined in this theory as an atom which is bonded to two or more other atoms, while a terminal atom is bonded to only one other atom. For example, in the molecule methyl isocyanate (H3C-N=C=O), the two carbons and one nitrogen are central atoms, and the three hydrogens and one oxygen are terminal atoms. The geometry of the central atoms and their non-bonding electron pairs in turn determine the geometry of the larger whole molecule.
+The number of electron pairs in the valence shell of a central atom is determined after drawing the Lewis structure of the molecule, and expanding it to show all bonding groups and lone pairs of electrons. In VSEPR theory, a double bond or triple bond is treated as a single bonding group. The sum of the number of atoms bonded to a central atom and the number of lone pairs formed by its nonbonding valence electrons is known as the central atom's steric number.
+The electron pairs (or groups if multiple bonds are present) are assumed to lie on the surface of a sphere centered on the central atom and tend to occupy positions that minimize their mutual repulsions by maximizing the distance between them. The number of electron pairs (or groups), therefore, determines the overall geometry that they will adopt. For example, when there are two electron pairs surrounding the central atom, their mutual repulsion is minimal when they lie at opposite poles of the sphere. Therefore, the central atom is predicted to adopt a linear geometry. If there are 3 electron pairs surrounding the central atom, their repulsion is minimized by placing them at the vertices of an equilateral triangle centered on the atom. Therefore, the predicted geometry is trigonal. Likewise, for 4 electron pairs, the optimal arrangement is tetrahedral.
+As a tool in predicting the geometry adopted with a given number of electron pairs, an often used physical demonstration of the principle of minimal electron pair repulsion utilizes inflated balloons. Through handling, balloons acquire a slight surface electrostatic charge that results in the adoption of roughly the same geometries when they are tied together at their stems as the corresponding number of electron pairs.  For example, five balloons tied together adopt the trigonal bipyramidal geometry, just as do the five bonding pairs of a PCl5 molecule.
+
+
+=== Steric number ===
+
+The steric number of a central atom in a molecule is the number of atoms bonded to that central atom, called its coordination number, plus the number of lone pairs of valence electrons on the central atom. In the molecule SF4, for example, the central sulfur atom has four ligands; the coordination number of sulfur is four. In addition to the four ligands, sulfur also has one lone pair in this molecule. Thus, the steric number is 4 + 1 = 5.
+
+
+=== Degree of repulsion ===
+The overall geometry is further refined by distinguishing between bonding and nonbonding electron pairs. The bonding electron pair shared in a sigma bond with an adjacent atom lies further from the central atom than a nonbonding (lone) pair of that atom, which is held close to its positively charged nucleus. VSEPR theory therefore views repulsion by the lone pair to be greater than the repulsion by a bonding pair. As such, when a molecule has 2 interactions with different degrees of repulsion, VSEPR theory predicts the structure where lone pairs occupy positions that allow them to experience less repulsion. Lone pair–lone pair (lp–lp) repulsions are considered stronger than lone pair–bonding pair (lp–bp) repulsions, which in turn are considered stronger than bonding pair–bonding pair (bp–bp) repulsions, distinctions that then guide decisions about overall geometry when 2 or more non-equivalent positions are possible. For instance, when 5 valence electron pairs surround a central atom, they adopt a trigonal bipyramidal molecular geometry with two collinear axial positions and three equatorial positions. An electron pair in an axial position has three close equatorial neighbors only 90° away and a fourth much farther at 180°, while an equatorial electron pair has only two adjacent pairs at 90° and two at 120°. The repulsion from the close neighbors at 90° is more important, so that the axial positions experience more repulsion than the equatorial positions; hence, when there are lone pairs, they tend to occupy equatorial positions as shown in the diagrams of the next section for steric number five.
+The difference between lone pairs and bonding pairs may also be used to rationalize deviations from idealized geometries. For example, the H2O molecule has four electron pairs in its valence shell: two lone pairs and two bond pairs.  The four electron pairs are spread so as to point roughly towards the apices of a tetrahedron.  However, the bond angle between the two O–H bonds is only 104.5°, rather than the 109.5° of a regular tetrahedron, because the two lone pairs (whose density or probability envelopes lie closer to the oxygen nucleus) exert a greater mutual repulsion than the two bond pairs.
+A bond of higher bond order also exerts greater repulsion since the pi bond electrons contribute. For example, in isobutylene, (H3C)2C=CH2, the H3C−C=C angle (124°) is larger than the H3C−C−CH3 angle (111.5°). However, in the carbonate ion, CO2−3, all three C−O bonds are equivalent with angles of 120° due to resonance.
+
+
+== AXE method ==
+The "AXE method" of electron counting is commonly used when applying the VSEPR theory. The electron pairs around a central atom are represented by a formula AXmEn, where A represents the central atom and always has an implied subscript one.  Each X represents a ligand (an atom bonded to A). Each E represents a lone pair of electrons on the central atom. The total number of X and E is known as the steric number. For example, in a molecule AX3E2, the atom A has a steric number of 5.
+When the substituent (X) atoms are not all the same, the geometry is still approximately valid, but the bond angles may be slightly different from the ones where all the outside atoms are the same.  For example, the double-bond carbons in alkenes like C2H4 are AX3E0, but the bond angles are not all exactly 120°.  Likewise, SOCl2 is AX3E1, but because the X substituents are not identical, the X–A–X angles are not all equal.
+Based on the steric number and distribution of Xs and Es, VSEPR theory makes the predictions in the following tables.
+
+
+=== Main-group elements ===
+For main-group elements, there are stereochemically active lone pairs E whose number can vary from 0 to 3. Note that the geometries are named according to the atomic positions only and not the electron arrangement. For example, the description of AX2E1 as a bent molecule means that the three atoms AX2 are not in one straight line, although the lone pair helps to determine the geometry.
+
+
+=== Transition metals (Kepert model) ===
+The lone pairs on transition metal atoms are usually stereochemically inactive, meaning that their presence does not change the molecular geometry. For example, the hexaaquo complexes M(H2O)6 are all octahedral for M = V3+, Mn3+, Co3+, Ni2+ and Zn2+, despite the fact that the electronic configurations of the central metal ion are d2, d4, d6, d8 and d10 respectively. The Kepert model ignores all lone pairs on transition metal atoms, so that the geometry around all such atoms corresponds to the VSEPR geometry for AXn with 0 lone pairs E. This is often written MLn, where M = metal and L = ligand. The Kepert model predicts the following geometries for coordination numbers of 2 through 9:
+
+
+== Examples ==
+The methane molecule (CH4) is tetrahedral because there are four pairs of electrons. The four hydrogen atoms are positioned at the vertices of a tetrahedron, and the bond angle is cos−1(−1⁄3) ≈ 109° 28′. This is referred to as an AX4 type of molecule. As mentioned above, A represents the central atom and X represents an outer atom.
+The ammonia molecule (NH3) has three pairs of electrons involved in bonding, but there is a lone pair of electrons on the nitrogen atom. It is not bonded with another atom; however, it influences the overall shape through repulsions. As in methane above, there are four regions of electron density. Therefore, the overall orientation of the regions of electron density is tetrahedral. On the other hand, there are only three outer atoms. This is referred to as an AX3E type molecule because the lone pair is represented by an E. By definition, the molecular shape or geometry describes the geometric arrangement of the atomic nuclei only, which is trigonal-pyramidal for NH3.
+Steric numbers of 7 or greater are possible, but are less common. The steric number of 7 occurs in iodine heptafluoride (IF7); the base geometry for a steric number of 7 is pentagonal bipyramidal. The most common geometry for a steric number of 8 is a square antiprismatic geometry. Examples of this include the octacyanomolybdate (Mo(CN)4−8) and octafluorozirconate (ZrF4−8) anions. The nonahydridorhenate ion (ReH2−9) in potassium nonahydridorhenate is a rare example of a compound with a steric number of 9, which has a tricapped trigonal prismatic geometry.
+Steric numbers beyond 9 are very rare, and it is not clear what geometry is generally favoured. Possible geometries for steric numbers of 10, 11, 12, or 14 are bicapped square antiprismatic (or bicapped dodecadeltahedral), octadecahedral, icosahedral, and bicapped hexagonal antiprismatic, respectively. No compounds with steric numbers this high involving monodentate ligands exist, and those involving multidentate ligands can often be analysed more simply as complexes with lower steric numbers when some multidentate ligands are treated as a unit.
+
+
+== Exceptions ==
+There are groups of compounds where VSEPR fails to predict the correct geometry.
+
+
+=== Some AX2E0 molecules ===
+The shapes of heavier Group 14 element alkyne analogues (RM≡MR, where M = Si, Ge, Sn or Pb) have been computed to be bent.
+
+
+=== Some AX2E2 molecules ===
+One example of the AX2E2 geometry is molecular lithium oxide, Li2O, a linear rather than bent structure, which is ascribed to its bonds being essentially ionic and the strong lithium–lithium repulsion that results. Another example is O(SiH3)2 with an Si–O–Si angle of 144.1°, which compares to the angles in Cl2O (110.9°), (CH3)2O (111.7°), and N(CH3)3 (110.9°). Gillespie and Robinson rationalize the Si–O–Si bond angle based on the observed ability of a ligand's lone pair to most greatly repel other electron pairs when the ligand electronegativity is greater than or equal to that of the central atom. In O(SiH3)2, the central atom is more electronegative, and the lone pairs are less localized and more weakly repulsive.  The larger Si–O–Si bond angle results from this and strong ligand–ligand repulsion by the relatively large -SiH3 ligand.  Burford et al. showed through X-ray diffraction studies that Cl3Al–O–PCl3 has a linear Al–O–P bond angle and is therefore a non-VSEPR molecule.
+
+
+=== Some AX6E1 and AX8E1 molecules ===
+
+Some AX6E1 molecules, e.g. xenon hexafluoride (XeF6) and the Te(IV) and Bi(III) anions, TeCl2−6, TeBr2−6, BiCl3−6, BiBr3−6 and BiI3−6, are octahedral, rather than pentagonal pyramids, and the lone pair does not affect the geometry to the degree predicted by VSEPR. Similarly, the octafluoroxenate ion (XeF2−8) in nitrosonium octafluoroxenate(VI) is a square antiprism with minimal distortion, despite having a lone pair. One rationalization is that steric crowding of the ligands allows little or no room for the non-bonding lone pair; another rationalization is the inert-pair effect.
+
+
+=== Square planar ML4 complexes ===
+The Kepert model predicts that ML4 transition metal molecules are tetrahedral in shape, and it cannot explain the formation of square planar complexes. The majority of such complexes exhibit a d8 configuration as for the tetrachloroplatinate (PtCl2−4) ion. The explanation of the shape of square planar complexes involves electronic effects and requires the use of crystal field theory.
+
+
+=== Complexes with strong d-contribution ===
+
+Some transition metal complexes with low d electron count have unusual geometries, which can be ascribed to d subshell bonding interaction. Gillespie found that this interaction produces bonding pairs that also occupy the respective antipodal points (ligand opposed) of the sphere. This phenomenon is an electronic effect resulting from the bilobed shape of the underlying sdx hybrid orbitals. The repulsion of these bonding pairs leads to a different set of shapes.
+
+The gas phase structures of the triatomic halides of the heavier members of group 2, (i.e., calcium, strontium and barium halides, MX2), are not linear as predicted but are bent, (approximate X–M–X angles: CaF2, 145°; SrF2, 120°; BaF2, 108°; SrCl2, 130°; BaCl2, 115°; BaBr2, 115°; BaI2, 105°). It has been proposed by Gillespie that this is also caused by bonding interaction of the ligands with the d subshell of the metal atom, thus influencing the molecular geometry.
+
+
+=== Superheavy elements ===
+Relativistic effects on the electron orbitals of superheavy elements is predicted to influence the molecular geometry of some compounds. For instance, the 6d5/2 electrons in nihonium play an unexpectedly strong role in bonding, so NhF3 should assume a T-shaped geometry, instead of a trigonal planar geometry like its lighter congener BF3. In contrast, the extra stability of the 7p1/2 electrons in tennessine are predicted to make TsF3 trigonal planar, unlike the T-shaped geometry observed for IF3 and predicted for AtF3; similarly, OgF4 should have a tetrahedral geometry, while XeF4 has a square planar geometry and RnF4 is predicted to have the same.
+
+
+== Odd-electron molecules ==
+The VSEPR theory can be extended to molecules with an odd number of electrons by treating the unpaired electron as a "half electron pair"—for example, Gillespie and Nyholm suggested that the decrease in the bond angle in the series NO+2 (180°), NO2 (134°), NO−2 (115°) indicates that a given set of bonding electron pairs exert a weaker repulsion on a single non-bonding electron than on a pair of non-bonding electrons. In effect, they considered nitrogen dioxide as an AX2E0.5 molecule, with a geometry intermediate between NO+2 and NO−2. Similarly, chlorine dioxide (ClO2) is an AX2E1.5 molecule, with a geometry intermediate between ClO+2 and ClO−2.
+Finally, the methyl radical (CH3) is predicted to be trigonal pyramidal like the methyl anion (CH−3), but with a larger bond angle (as in the trigonal planar methyl cation (CH+3)). However, in this case, the VSEPR prediction is not quite true, as CH3 is actually planar, although its distortion to a pyramidal geometry requires very little energy.
+
+
+== See also ==
+Bent's rule (effect of ligand electronegativity)
+Comparison of software for molecular mechanics modeling
+Linear combination of atomic orbitals
+Molecular geometry
+Molecular modelling
+Molecular Orbital Theory (MOT)
+Thomson problem
+Valence Bond Theory (VBT)
+Valency interaction formula
+
+
+== References ==
+
+
+== Further reading ==
+Lagowski, J. J., ed. (2004). Chemistry: Foundations and Applications. Vol. 3. New York: Macmillan. pp. 99–104. ISBN 978-0-02-865721-9.
+
+
+== External links ==
+
+VSEPR AR—3D VSEPR Theory Visualization with Augmented Reality app
+3D Chem—Chemistry, structures, and 3D molecules
+Indiana University Molecular Structure Center (IUMSC)

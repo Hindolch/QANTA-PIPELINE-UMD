@@ -1,0 +1,129 @@
+An electron microscope is a microscope that uses a beam of electrons as a source of illumination. It uses electron optics that are analogous to the glass lenses of an optical light microscope to control the electron beam, for instance focusing it to produce magnified images or electron diffraction patterns. As the wavelength of an electron can be up to 100,000 times smaller than that of visible light, electron microscopes have a much higher resolution of about 0.1 nm, which compares to about 200 nm for light microscopes. Electron microscope may refer to:
+Transmission electron microscope (TEM) where swift electrons go through a thin sample
+Scanning transmission electron microscope (STEM) which is similar to TEM with a scanned electron probe
+Scanning electron microscope (SEM) which is similar to STEM, but with thick samples
+Electron microprobe similar to a SEM, but more for chemical analysis
+Low-energy electron microscope (LEEM), used to image surfaces
+Photoemission electron microscope (PEEM) which is similar to LEEM using electrons emitted from surfaces by photons
+Additional details can be found in the above links. This article contains some general information mainly about transmission and scanning electron microscopes.
+
+
+== History ==
+
+Many developments laid the groundwork of the electron optics used in microscopes. One significant step was the work of Hertz in 1883 who made a cathode-ray tube with electrostatic and magnetic deflection, demonstrating manipulation of the direction of an electron beam. Others were focusing of the electrons by an axial magnetic field by Emil Wiechert in 1899, improved oxide-coated cathodes which produced more electrons by Arthur Wehnelt in 1905 and the development of the electromagnetic lens in 1926 by Hans Busch. According to Dennis Gabor, the physicist Leó Szilárd tried in 1928 to convince him to build an electron microscope, for which Szilárd had filed a patent. To this day the issue of who invented the transmission electron microscope is controversial. In 1928, at the Technische Hochschule in Charlottenburg (now Technische Universität Berlin), Adolf Matthias (Professor of High Voltage Technology and Electrical Installations) appointed Max Knoll to lead a team of researchers to advance research on electron beams and cathode-ray oscilloscopes. The team consisted of several PhD students including Ernst Ruska. In 1931, Max Knoll and Ernst Ruska successfully generated magnified images of mesh grids placed over an anode aperture. The device, a replicate of which is shown in the figure, used two magnetic lenses to achieve higher magnifications, the first electron microscope. (Max Knoll died in 1969, so did not receive a share of the 1986 Nobel prize for the invention of electron microscopes.)
+Apparently independent of this effort was work at Siemens-Schuckert by Reinhold Rüdenberg. According to patent law (U.S. Patent No. 2058914 and 2070318, both filed in 1932), he is the inventor of the electron microscope, but it is not clear when he had a working instrument. He stated in a very brief article in 1932 that Siemens had been working on this for some years before the patents were filed in 1932, claiming that his effort was parallel to the university development. He died in 1961, so similar to Max Knoll, was not eligible for a share of the 1986 Nobel prize.
+In the following year, 1933, Ruska and Knoll built the first electron microscope that exceeded the resolution of an optical (light) microscope.  Four years later, in 1937, Siemens financed the work of Ernst Ruska and Bodo von Borries, and employed Helmut Ruska, Ernst's brother, to develop applications for the microscope, especially with biological specimens. Also in 1937, Manfred von Ardenne pioneered the scanning electron microscope. Siemens produced the first commercial electron microscope in 1938. The first North American electron microscopes were constructed in the 1930s, at the Washington State University by Anderson and Fitzsimmons   and at the University of Toronto by Eli Franklin Burton and students Cecil Hall, James Hillier, and Albert Prebus. Siemens produced a transmission electron microscope (TEM) in 1939. Although current transmission electron microscopes are capable of two million times magnification, as scientific instruments they remain similar but with improved optics.
+In the 1940s, high-resolution electron microscopes were developed, enabling greater magnification and resolution. By 1965, Albert Crewe at the University of Chicago introduced the scanning transmission electron microscope using a field emission source, enabling scanning microscopes at high resolution. By the early 1980s improvements in mechanical stability as well as the use of higher accelerating voltages enabled imaging of materials at the atomic scale. In the 1980s, the field emission gun became common for electron microscopes, improving the image quality due to the additional coherence and lower chromatic aberrations. The 2000s were marked by advancements in aberration-corrected electron microscopy, allowing for significant improvements in resolution and clarity of images.
+
+
+== Types of electron microscopes ==
+
+
+=== Transmission electron microscope (TEM) ===
+
+The original form of the electron microscope, the transmission electron microscope (TEM), uses a high voltage electron beam to illuminate the specimen and create an image. An electron beam is produced by an electron gun, with the electrons typically having energies in the range 20 to 400 keV, focused by electromagnetic lenses, and transmitted through a thin specimen. When it emerges from the specimen, the electron beam carries information about the structure of the specimen that is then magnified by the lenses of the microscope. The spatial variation in this information (the "image") may be viewed by projecting the magnified electron image onto a detector. For example, the image may be viewed directly by an operator using a fluorescent viewing screen coated with a phosphor or scintillator material such as zinc sulfide. More commonly a high-resolution phosphor is coupled by means of a lens optical system or a fibre optic light-guide to the sensor of a digital camera. A different approach is to use a direct electron detector which has no scintillator, which addresses some of the limitations of scintillator-coupled cameras.
+For many years the resolution of TEMs was limited by aberrations of the electron optics, primarily the spherical aberration. In most recent instruments hardware correctors can reduce spherical aberration and other aberrations, improving the resolution in high-resolution transmission electron microscopy (HRTEM) to below 0.5 angstrom (50 picometres), enabling magnifications of more than 50 million times. The ability of HRTEM to determine the positions of atoms within materials is useful for many areas of research and development.
+
+
+=== Scanning electron microscope (SEM) ===
+
+An SEM produces images by probing the specimen with a focused electron beam that is scanned across the specimen (raster scanning). When the electron beam interacts with the specimen, it loses energy and is scattered in different directions by a variety of mechanisms. These interactions lead to, among other events, emission of low-energy secondary electrons and high-energy backscattered electrons, light emission (cathodoluminescence) or X-ray emission. All of these signals carrying information about the specimen, such as the surface topography and composition. The image displayed when using an SEM shows the variation in the intensity of any of these signals as an image. In these each position in the image corresponding to a position of the beam on the specimen when the signal was generated.
+
+SEMs are different from TEMs in that they use electrons with much lower energy, generally below 20 keV, while TEMs generally use electrons with energies in the range of 80-300 keV. Thus, the electron sources and optics of the two microscopes have different designs, and they are normally separate instruments.
+
+
+=== Scanning transmission electron microscope (STEM) ===
+
+A STEM combines features of both a TEM and a SEM by rastering a focused incident probe across a specimen, but now mainly using the electrons which are transmitted through the sample. Many types of imaging are common to both TEM and STEM, but some such as annular dark-field imaging and other analytical techniques are much easier to perform with higher spatial resolutions in a STEM instrument. One drawback is that image data is acquired in serial rather than in parallel fashion.
+
+
+== Main operating modes ==
+The most common methods of obtaining images in an electron microscope involve selecting different directions for the electrons that have been transmitted through a sample, and/or electrons of different energies. There are a very large number of methods of doing this, although not all are very common.
+
+
+=== Secondary electrons ===
+
+In a SEM the signals result from interactions of the electron beam with atoms within the sample. The most common mode is to use the secondary electrons (SE) to produce images. Secondary electrons have very low energies, on the order of 50 eV, which limits their mean free path in solid matter to a few nanometers below the sample surface.  The electrons are detected by an Everhart–Thornley detector, which is a type of collector-scintillator-photomultiplier system. The signal from secondary electrons tends to be highly localized at the point of impact of the primary electron beam, making it possible to collect images of the sample surface with a resolution of better than 1 nm, and with specialized instruments at the atomic scale.
+The brightness of the signal depends on the number of secondary electrons reaching the detector. If the beam enters the sample perpendicular to the surface, then the electrons come out symmetrically about the axis of the beam. As the angle of incidence increases, the interaction volume from which they cone increases and the "escape" distance from one side of the beam decreases, resulting in more secondary electrons being emitted from the sample. Thus steep surfaces and edges tend to be brighter than flat surfaces, which results in images with a well-defined, three-dimensional appearance that is similar to a reflected light image.
+
+
+=== Backscattered electrons ===
+Backscattered electrons (BSE) are those emitted back out from the specimen due to beam-specimen interactions where the electrons undergo elastic and inelastic scattering. They are conventionally defined as having energies from 50 eV up to the energy of the primary beam. Backscattered electrons can be used for both imaging and to form an electron backscatter diffraction (EBSD) image, the latter can be used to determine the crystallography of the specimen.
+Heavy elements (high atomic number) backscatter electrons more strongly than light elements (low atomic number), and thus appear brighter in the image, BSE images can therefore be used to detect areas with different chemical compositions.  To optimize the signal, dedicated backscattered electron detectors are positioned above the sample in a "doughnut" type arrangement, concentric with the electron beam, maximizing the solid angle of collection. BSE detectors are usually either scintillator or semiconductor types. When all parts of the detector are used to collect electrons symmetrically about the beam, atomic number contrast is produced. However, strong topographic contrast is produced by collecting back-scattered electrons from one side above the specimen using an asymmetrical, directional BSE detector; the resulting contrast appears as if there was illumination of the topography from that side. Semiconductor detectors can be made in radial segments that can be switched in or out to control the type of contrast produced and its directionality.
+
+
+=== Diffraction contrast imaging ===
+Diffraction contrast uses the variation in either or both the direction of diffracted electrons or their amplitude as a function of position as the contrast mechanism. It is one of the simplest ways to image in a transmission electron microscope, and widely used.
+The idea is to use an objective aperture below the sample and select only one or a range of different diffracted directions, then use these to form an image. When the aperture includes the incident beam direction the images are called bright field, since in the absence of any sample the field of view would be uniformly bright. When the aperture excludes the incident beam the images are called dark field, since similarly without a sample the image would be uniformly dark. One variant of this is called weak-beam dark-field microscopy, and can be used to obtain high resolution images of defects such as dislocations.
+
+
+=== High resolution imaging ===
+
+In high-resolution transmission electron microscopy (also sometimes called high-resolution electron microscopy) a number of different diffracted beams are allowed through the objective aperture. These interfere, leading to images which represent the atomic structure of the material. These can include the incident beam direction, or with scanning transmission electron microscopes they typically are for a range of diffracted beams excluding the incident beam. Depending upon how thick the samples are and the aberrations of the microscope, these images can either be directly interpreted in terms of the positions of columns of atoms, or require a more careful analysis using calculations of the multiple scattering of the electrons and the effect of the contrast transfer function of the microscope.
+There are many other imaging variants that can also to lead to atomic level information. Electron holography uses the interference of electrons which have been through the sample and a reference beam. 4D STEM collects diffraction data at each point using a scanning instrument, then processes them to produce different types of images.
+
+
+=== X-ray microanalysis ===
+
+X-ray microanalysis is a method of obtaining local chemical information within electron microscopes of all types, although it is most commonly used in scanning instruments. When high energy electrons interact with atoms they can knock out electrons, particularly those in the inner shells and core electrons. These are then filled by valence electron, and the energy difference between the valence and core states can be converted into an x-ray which is detected by a spectrometer. The energies of these x-rays is somewhat specific to the atomic species, so local chemistry can be probed.
+
+
+=== EELS ===
+
+Similar to X-ray microanalysis, the energies of electrons which have transmitted through a sample can be analyzed and yield information ranging from details of the local electronic structure to chemical information.
+
+
+=== Electron diffraction ===
+
+Transmission electron microscopes can be used in electron diffraction mode where a map of the angles of the electrons leaving the sample is produced. The advantages of electron diffraction over X-ray crystallography are primarily in the size of the crystals. In X-ray crystallography, crystals are commonly visible by the naked eye and are generally in the hundreds of micrometers in length. In comparison, crystals for electron diffraction must be less than a few hundred nanometers in thickness, and have no lower boundary of size. Additionally, electron diffraction is done on a TEM, which can also be used to obtain other types of information, rather than requiring a separate instrument.
+
+There are many variants on electron diffraction, depending upon exactly what type of illumination conditions are used. If a parallel beam is used with an aperture to limit the region exposed to the electrons then sharp diffraction features are normally observed, a technique called selected area electron diffraction. This is often the main technique used. Another common approach uses conical illumination and is called convergent beam electron diffraction (CBED). This is good for determining the symmetry of materials. A third is precession electron diffraction, where a parallel beam is spun around a large angle, producing a type of average diffraction pattern. These often have less multiple scattering.
+
+
+=== Other electron microscope techniques ===
+Cathodoluminescence - analysing photons due to the electron beam
+Charge contrast imaging - using how charging varies with position to produce images
+CryoEM - using frozen samples, almost always biological samples
+EBSD - using the back-scattered electrons, typically in a SEM
+TKD - using the Kikuchi lines in diffraction patterns
+ECCI - using contrast due to electron channelling
+EBIC - measuring the current produced as a function of the position of a small beam
+Electron tomography - methods to produce 3D information by combining images
+FEM - technique to interrogate nanocrystalline materials
+Immune electron microscopy - the use of electron microscopy in immunology
+Geometric phase analysis - a method to analyze high-resolution images
+Serial block-face scanning electron microscopy - a way to produce 3D information from many images
+WDXS - higher precision detection of x-rays to analyze local chemistry
+
+
+== Aberration corrected instruments ==
+
+Aberration-corrected transmission electron microscopy (AC-TEM) is the general term for electron microscopes where electro optical components are introduced to reduce the aberrations that would otherwise limit the resolution of the images. Historically electron microscopes had quite severe aberrations, and until about the start of the 21st century the resolution was limited, able to image the atomic structure of materials if the atoms were far enough apart. Around the turn of the century the electron optical components were coupled with computer control of the lenses and their alignment, enabling correction of aberrations. The first demonstration of aberration correction in TEM mode was by Harald Rose and Maximilian Haider in 1998 using a hexapole corrector, and in STEM mode by Ondrej Krivanek and Niklas Dellby in 1999 using a quadrupole/octupole corrector.
+As of 2025 correction of geometric aberrations is standard in many commercial electron microscopes, and they are extensively used in many different areas of science. Similar correctors have also been used at much lower energies for LEEM instruments.
+
+
+== Sample preparation ==
+
+Samples for electron microscopes mostly cannot be observed directly. The samples need to be prepared to stabilize the sample and enhance contrast. Preparation techniques differ vastly in respect to the sample and its specific qualities to be observed as well as the specific microscope used. Details can be found in the relevant main articles listed above.
+
+
+== Disadvantages ==
+
+Electron microscopes are expensive to build and maintain. Microscopes designed to achieve high resolutions must be housed in stable buildings (sometimes underground) with special services such as magnetic field canceling systems and anti vibration mounts.
+The samples largely have to be viewed in vacuum, as the molecules that make up air would scatter the electrons. An exception is liquid-phase electron microscopy using either a closed liquid cell or an environmental chamber, for example, in the environmental scanning electron microscope, which allows hydrated samples to be viewed in a low-pressure (up to 20 Torr or 2.7 kPa) wet environment. Various techniques for in situ electron microscopy of gaseous samples have also been developed.
+
+Samples of hydrated materials, including almost all biological specimens, have to be prepared in various ways to stabilize them, reduce their thickness (ultrathin sectioning) and increase their electron optical contrast (staining). These processes may result in artifacts, but these can usually be identified by comparing the results obtained by using radically different specimen preparation methods. Since the 1980s, analysis of cryofixed, vitrified specimens has also become increasingly used.
+Many samples suffer from radiation damage which can change internal structures. This can be due to either or both radiolytic processes or ballistic, for instance with collision cascades. This can be a severe issue for biological samples,
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+
+An Introduction to  Microscopy Archived 2013-07-19 at the Wayback Machine: resources for teachers and students
+Cell Centered Database – Electron microscopy data
+Science Aid: Electron Microscopy:By Kaden park

@@ -1,0 +1,92 @@
+The Marconi Company was a British telecommunications and engineering company founded by Italian inventor Guglielmo Marconi in 1897 which was a pioneer of wireless long distance communication and mass media broadcasting, eventually becoming one of the UK's most successful manufacturing companies.
+Its roots were in the Wireless Telegraph & Signal Company, which underwent several changes in name after mergers and acquisitions. In 1999, its defence equipment manufacturing division, Marconi Electronic Systems, merged with British Aerospace (BAe) to form BAE Systems. In 2006, financial difficulties led to the collapse of the remaining company, with the bulk of the business acquired by the Swedish telecommunications company Ericsson.
+
+
+== History ==
+
+
+=== Naming history ===
+1897–1900: The Wireless Telegraph & Signal Company
+1900–1963: Marconi's Wireless Telegraph Company
+1963–1987: Marconi Company Ltd
+1987–1998: GEC-Marconi Ltd
+1998–1999: Marconi Electronic Systems Ltd
+1999–2003: Marconi plc, with Marconi Communications as principal subsidiary
+2003–2006: Marconi Corporation plc
+
+
+=== Early history ===
+
+Marconi's "Wireless Telegraph and Signal Company" was formed on 20 July 1897 after a British patent for wireless technology was granted on 2 July that year. The company opened the world's first radio factory on Hall Street in Chelmsford northeast of London in 1898 and was responsible for some of the most important advances in radio and television. These include:
+
+The diode vacuum tube in 1904 (Fleming)
+Transatlantic radio broadcasting between Clifden, Ireland and Glace Bay, Nova Scotia, 17 October 1907
+High frequency tuned broadcasting
+Formation of the British Broadcasting Company (later to become the independent BBC)
+Formation of the Marconi Wireless Telegraph Company of America (assets acquired by RCA in 1920)
+Marconi International Marine Communication Co. (M.I.M.C.Co.), founded 1900 in London
+Compagnie de Télégraphie sans Fil (C.T.S.F.), founded 1900 in the City of Brussels
+Short wave beam broadcasting
+Radar
+Television
+Avionics
+The subsidiary Marconi Wireless Telegraph Company of America, also called "American Marconi", was founded in 1899. It was the dominant radio communications provider in the US until the formation of the Radio Corporation of America (RCA) in 1919.
+In 1900 the company's name was changed to "Marconi's Wireless Telegraph Company", and Marconi's Wireless Telegraph Training College was established in 1901. The company and factory was moved within Chelmsford to New Street Works in 1912 to allow for production expansion in light of the RMS Titanic disaster. Along with private entrepreneurs, the Marconi company formed in 1924 the Unione Radiofonica Italiana (URI), which was granted by Mussolini's regime a monopoly of radio broadcasts in 1924. After the war, URI became the RAI, which lives on to this day.
+In 1909 the company suffered a shortage of cash, and wages were being paid late. Marconi sought a Managing Director with business skills and recruited Godfrey Isaacs who turned it around. He spearheaded the direction of Marconi until he stood down due to ill-health in 1924 and died the following year. Isaacs was able to take advantage of the boost given to maritime wireless after the sinking of the Titanic and later moved the company into radio broadcasting where it was the dominant force in the formation of the British Broadcasting Company. After Isaacs took over running the company its founder focussed on research and development.
+Isaac Shoenberg joined the company in 1914 and became joint general manager in 1924. After leaving Marconi in 1928 he went on to lead research at EMI where he was influential in the development of television broadcasting. The project was a collaboration between EMI and Marconi; for Marconi it was led by Simeon Aisenstein, who had joined Marconi at the end of 1921 after being secretly extracted from Russia.   
+In 1939, the Marconi Research Laboratories were founded at Great Baddow, Essex. In 1941 there was a buyout of Marconi-Ekco Instruments to form Marconi Instruments.
+
+
+=== Operations as English Electric subsidiary ===
+
+English Electric acquired the Marconi Company in 1946 to complement its other operations: heavy electrical engineering, aircraft manufacture and its railway traction business. In 1948 the company was reorganised into four divisions: Communications, Broadcasting, Aeronautics and Radar. These had expanded to 13 manufacturing divisions by 1965 when a further reorganisation took place. The divisions were placed into three groups: Telecommunications, Components and Electronics.
+At this time the Marconi Company had facilities at New Street Chelmsford, Baddow, Basildon, Billericay, and Writtle as well as in Wembley, Gateshead and Hackbridge. It also owned Marconi Instruments, Sanders Electronics, Eddystone Radio and Marconi Italiana (based in Genoa, Italy). In 1967 Marconi took over Stratton and Company to form Eddystone Radio.
+
+
+=== Expansion in Canada ===
+In 1903, Marconi founded the Marconi's Wireless Telegraph Company of Canada which was renamed as the Canadian Marconi Company in 1925. The radio business of the Canadian Marconi Company is known as Ultra Electronics TCS since 2002 and its avionic activities as CMC Electronics, owned by Esterline since 2007.
+
+
+=== Expansion as GEC subsidiary ===
+In 1967 or 1968, English Electric was subject to a takeover bid by the Plessey Company but chose instead to accept an offer from the General Electric Company (GEC). Under UK government pressure, the computer section of GEC, English Electric Leo Marconi (EELM), merged with International Computers and Tabulators (ICT) to form International Computers Limited (ICL). The computer interests of Elliott Automation which specialised in real-time computing were amalgamated with those of Marconi's Automation Division to form Marconi-Elliott Computers, later renamed as GEC Computers. In 1968, Marconi Space and Defence Systems and Marconi Underwater Systems were formed.
+The Marconi Company continued as the primary defence subsidiary of GEC, GEC-Marconi. Marconi was renamed GEC-Marconi in 1987. During the period 1968–1999 GEC-Marconi/MES underwent significant expansion.
+Acquisitions which were folded into the company and partnerships established included:
+
+Other acquisitions included:
+
+Divisions of Plessey in 1989 (others acquired by its partner in the deal, Siemens AG, to meet with regulatory approval).
+Plessey Avionics
+Plessey Naval Systems
+Plessey Cryptography
+Plessey Electronic Systems (75%)
+Sippican
+Leigh Instruments
+In a major reorganisation of the company, GEC-Marconi was renamed Marconi Electronic Systems in 1996 and was separated from other non-defence assets.
+
+
+== Since 1999 ==
+In 1999, GEC was broken up and parts sold off. Marconi Electronic Systems, which included its wireless assets, was demerged and sold to British Aerospace which then formed BAE Systems. 
+GEC, realigning itself as a primarily telecommunications company following the MES sale, retained the Marconi brand and renamed itself Marconi plc. BAE were granted limited rights to continue use of the Marconi name in existing partnerships, which had ceased by 2005. Major spending and the dot-com collapse led to a major restructuring of the Marconi group in 2003: in a debt-for-equity swap, shareholders retained 0.5% of the new company, Marconi Corporation plc.
+In October 2005 the Swedish firm Ericsson offered to buy the Marconi name and most of the assets. The transaction was completed on 23 January 2006, effective as of 1 January 2006. The remainder of the Marconi company, with some 2,000 staff working on telecommunications infrastructure in the UK and the Republic of Ireland, was renamed Telent.
+
+
+== See also ==
+Aerospace industry in the United Kingdom
+GEC-Marconi scientist deaths conspiracy theory – Deaths of British scientists, allegedly linked
+Imperial Wireless Chain – Radiotelegraphic communications network within the British Empire in the 20th century
+Marconiphone – English manufacturer of domestic receiving equipment
+Marconi-Osram Valve
+Sinking of the Titanic § 14 April 1912
+
+
+== References ==
+
+Baker, W.J. (2002) [1970]. History of the Marconi Company. Oxfordshire: Routledge. ISBN 978-1138863934.
+
+
+== External links ==
+
+Ericsson press release about the acquisition
+Catalogue of the Marconi Archives At the Department of Special Collections and Western Manuscripts, Bodleian Library, University of Oxford
+Marconi Calling The Life, Science and Achievements of Guglielmo Marconi
+History of Marconi House

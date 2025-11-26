@@ -1,0 +1,4903 @@
+In the mathematical field of numerical analysis, a Bernstein polynomial is a polynomial expressed as a linear combination of Bernstein basis polynomials. The idea is named after mathematician Sergei Natanovich Bernstein.
+Polynomials in this form were first used by Bernstein in a constructive proof of the Weierstrass approximation theorem. With the advent of computer graphics, Bernstein polynomials, restricted to the interval [0, 1], became important in the form of Bézier curves.
+A numerically stable way to evaluate polynomials in Bernstein form is de Casteljau's algorithm.
+
+
+== Definition ==
+
+
+=== Bernstein basis polynomials ===
+The 
+  
+    
+      
+         
+        n
+        +
+        1
+         
+      
+    
+    {\displaystyle \ n+1\ }
+  
+ Bernstein basis polynomials of degree 
+  
+    
+      
+         
+        n
+         
+      
+    
+    {\displaystyle \ n\ }
+  
+ are defined as
+
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        (
+        x
+        )
+         
+        =
+         
+        
+          
+            
+              (
+            
+            
+              n
+              ν
+            
+            
+              )
+            
+          
+        
+         
+        
+          x
+          
+            ν
+          
+        
+        
+          
+            (
+            
+              1
+              −
+              x
+            
+            )
+          
+          
+            n
+            −
+            ν
+          
+        
+         
+        ,
+         
+         
+      
+    
+    {\displaystyle \ b_{\nu ,n}(x)\ =\ {\binom {n}{\nu }}\ x^{\nu }\left(1-x\right)^{n-\nu }\ ,~~}
+  
+ for 
+  
+    
+      
+         
+         
+        ν
+        =
+        0
+         
+        ,
+         
+        …
+         
+        ,
+        n
+         
+        ,
+      
+    
+    {\displaystyle ~~\nu =0\ ,\ \ldots \ ,n\ ,}
+  
+
+where 
+  
+    
+      
+         
+        
+          
+            
+              
+                (
+              
+              
+                n
+                ν
+              
+              
+                )
+              
+            
+          
+        
+         
+      
+    
+    {\displaystyle \ {\tbinom {n}{\nu }}\ }
+  
+ is a binomial coefficient.
+So, for example, 
+  
+    
+      
+         
+        
+          b
+          
+            2
+            ,
+            5
+          
+        
+        (
+        x
+        )
+         
+        =
+         
+        
+          
+            
+              
+                (
+              
+              
+                5
+                2
+              
+              
+                )
+              
+            
+          
+        
+        
+          x
+          
+            2
+          
+        
+        (
+        1
+        −
+        x
+        
+          )
+          
+            3
+          
+        
+         
+        =
+         
+        10
+        
+          x
+          
+            2
+          
+        
+        (
+        1
+        −
+        x
+        
+          )
+          
+            3
+          
+        
+         
+        .
+      
+    
+    {\displaystyle \ b_{2,5}(x)\ =\ {\tbinom {5}{2}}x^{2}(1-x)^{3}\ =\ 10x^{2}(1-x)^{3}~.}
+  
+
+The first few Bernstein basis polynomials for blending 1, 2, 3 or 4 values together are:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  b
+                  
+                    0
+                    ,
+                    0
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                1
+                 
+                ,
+              
+            
+            
+              
+                
+                  b
+                  
+                    0
+                    ,
+                    1
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                1
+                −
+                x
+                 
+                ,
+              
+              
+                
+                  b
+                  
+                    1
+                    ,
+                    1
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                x
+              
+            
+            
+              
+                
+                  b
+                  
+                    0
+                    ,
+                    2
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                (
+                1
+                −
+                x
+                
+                  )
+                  
+                    2
+                  
+                
+                 
+                ,
+              
+              
+                
+                  b
+                  
+                    1
+                    ,
+                    2
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                2
+                x
+                (
+                1
+                −
+                x
+                )
+                 
+                ,
+              
+              
+                
+                  b
+                  
+                    2
+                    ,
+                    2
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                
+                  x
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                
+                  b
+                  
+                    0
+                    ,
+                    3
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                (
+                1
+                −
+                x
+                
+                  )
+                  
+                    3
+                  
+                
+                 
+                ,
+              
+              
+                
+                  b
+                  
+                    1
+                    ,
+                    3
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                3
+                x
+                (
+                1
+                −
+                x
+                
+                  )
+                  
+                    2
+                  
+                
+                 
+                ,
+              
+              
+                
+                  b
+                  
+                    2
+                    ,
+                    3
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                3
+                
+                  x
+                  
+                    2
+                  
+                
+                (
+                1
+                −
+                x
+                )
+                 
+                ,
+              
+              
+                
+                  b
+                  
+                    3
+                    ,
+                    3
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                
+                  x
+                  
+                    3
+                  
+                
+                 
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}b_{0,0}(x)&=1\ ,\\b_{0,1}(x)&=1-x\ ,&b_{1,1}(x)&=x\\b_{0,2}(x)&=(1-x)^{2}\ ,&b_{1,2}(x)&=2x(1-x)\ ,&b_{2,2}(x)&=x^{2}\\b_{0,3}(x)&=(1-x)^{3}\ ,&b_{1,3}(x)&=3x(1-x)^{2}\ ,&b_{2,3}(x)&=3x^{2}(1-x)\ ,&b_{3,3}(x)&=x^{3}~.\end{aligned}}}
+  
+
+The Bernstein basis polynomials of degree 
+  
+    
+      
+         
+        n
+         
+      
+    
+    {\displaystyle \ n\ }
+  
+ form a basis for the vector space 
+  
+    
+      
+         
+        
+          Π
+          
+            n
+          
+        
+         
+      
+    
+    {\displaystyle \ \Pi _{n}\ }
+  
+ of polynomials of degree at most 
+  
+    
+      
+         
+        n
+         
+        ,
+      
+    
+    {\displaystyle \ n\ ,}
+  
+ all with real coefficients.
+
+
+=== Bernstein polynomials ===
+A linear combination of Bernstein basis polynomials
+
+  
+    
+      
+         
+        
+          B
+          
+            n
+          
+        
+        (
+        x
+        )
+         
+        =
+         
+        
+          ∑
+          
+            ν
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          β
+          
+            ν
+          
+        
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        (
+        x
+        )
+         
+      
+    
+    {\displaystyle \ B_{n}(x)\ =\ \sum _{\nu =0}^{n}\beta _{\nu }b_{\nu ,n}(x)\ }
+  
+
+is called a Bernstein polynomial or polynomial in Bernstein form of degree 
+  
+    
+      
+         
+        n
+         
+        .
+      
+    
+    {\displaystyle \ n~.}
+  
+ The coefficients 
+  
+    
+      
+         
+        
+          β
+          
+            ν
+          
+        
+         
+      
+    
+    {\displaystyle \ \beta _{\nu }\ }
+  
+ are called Bernstein coefficients or Bézier coefficients.
+The first few Bernstein basis polynomials from above in monomial form are:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  b
+                  
+                    0
+                    ,
+                    0
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                1
+                 
+                ,
+              
+            
+            
+              
+                
+                  b
+                  
+                    0
+                    ,
+                    1
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                1
+                −
+                1
+                x
+                 
+                ,
+              
+              
+                
+                  b
+                  
+                    1
+                    ,
+                    1
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                0
+                +
+                1
+                x
+              
+            
+            
+              
+                
+                  b
+                  
+                    0
+                    ,
+                    2
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                1
+                −
+                2
+                x
+                +
+                1
+                
+                  x
+                  
+                    2
+                  
+                
+                ,
+              
+              
+                
+                  b
+                  
+                    1
+                    ,
+                    2
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                0
+                +
+                2
+                x
+                −
+                2
+                
+                  x
+                  
+                    2
+                  
+                
+                 
+                ,
+              
+              
+                
+                  b
+                  
+                    2
+                    ,
+                    2
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                0
+                +
+                0
+                x
+                +
+                1
+                
+                  x
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                
+                  b
+                  
+                    0
+                    ,
+                    3
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                1
+                −
+                3
+                x
+                +
+                3
+                
+                  x
+                  
+                    2
+                  
+                
+                −
+                1
+                
+                  x
+                  
+                    3
+                  
+                
+                 
+                ,
+              
+              
+                
+                  b
+                  
+                    1
+                    ,
+                    3
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                0
+                +
+                3
+                x
+                −
+                6
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                3
+                
+                  x
+                  
+                    3
+                  
+                
+                 
+                ,
+              
+              
+                
+                  b
+                  
+                    2
+                    ,
+                    3
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                0
+                +
+                0
+                x
+                +
+                3
+                
+                  x
+                  
+                    2
+                  
+                
+                −
+                3
+                
+                  x
+                  
+                    3
+                  
+                
+                ,
+              
+              
+                
+                  b
+                  
+                    3
+                    ,
+                    3
+                  
+                
+                (
+                x
+                )
+              
+              
+                
+                =
+                0
+                +
+                0
+                x
+                +
+                0
+                
+                  x
+                  
+                    2
+                  
+                
+                +
+                1
+                
+                  x
+                  
+                    3
+                  
+                
+                 
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}b_{0,0}(x)&=1\ ,\\b_{0,1}(x)&=1-1x\ ,&b_{1,1}(x)&=0+1x\\b_{0,2}(x)&=1-2x+1x^{2},&b_{1,2}(x)&=0+2x-2x^{2}\ ,&b_{2,2}(x)&=0+0x+1x^{2}\\b_{0,3}(x)&=1-3x+3x^{2}-1x^{3}\ ,&b_{1,3}(x)&=0+3x-6x^{2}+3x^{3}\ ,&b_{2,3}(x)&=0+0x+3x^{2}-3x^{3},&b_{3,3}(x)&=0+0x+0x^{2}+1x^{3}~.\end{aligned}}}
+  
+
+
+== Properties ==
+The Bernstein basis polynomials have the following properties:
+
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+        =
+        0
+         
+        ,
+      
+    
+    {\displaystyle \ b_{\nu ,n}\!(x)=0\ ,}
+  
+ if 
+  
+    
+      
+         
+        ν
+        <
+        0
+         
+      
+    
+    {\displaystyle \ \nu <0\ }
+  
+ or if 
+  
+    
+      
+         
+        ν
+        >
+        n
+         
+        .
+      
+    
+    {\displaystyle \ \nu >n~.}
+  
+
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+        ≥
+        0
+         
+      
+    
+    {\displaystyle \ b_{\nu ,n}\!(x)\geq 0\ }
+  
+ for 
+  
+    
+      
+         
+        x
+        ∈
+        [
+        0
+        ,
+         
+        1
+        ]
+         
+        .
+      
+    
+    {\displaystyle \ x\in [0,\ 1]~.}
+  
+
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        
+          (
+          
+            1
+            −
+            x
+          
+          )
+        
+        =
+        
+          b
+          
+            n
+            −
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+         
+        .
+      
+    
+    {\displaystyle \ b_{\nu ,n}\!\left(1-x\right)=b_{n-\nu ,n}\!(x)~.}
+  
+
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        0
+        )
+        =
+        
+          δ
+          
+            ν
+            ,
+            0
+          
+        
+         
+      
+    
+    {\displaystyle \ b_{\nu ,n}\!(0)=\delta _{\nu ,0}\ }
+  
+ and 
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        1
+        )
+        =
+        
+          δ
+          
+            ν
+            ,
+            n
+          
+        
+         
+      
+    
+    {\displaystyle \ b_{\nu ,n}\!(1)=\delta _{\nu ,n}\ }
+  
+ where 
+  
+    
+      
+         
+        
+          δ
+          
+            i
+            ,
+            j
+          
+        
+         
+      
+    
+    {\displaystyle \ \delta _{i,j}\ }
+  
+ is the Kronecker delta function: 
+  
+    
+      
+         
+        
+          δ
+          
+            i
+            j
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                
+                
+                  
+                    if 
+                  
+                  i
+                  ≠
+                  j
+                   
+                  ,
+                
+              
+              
+                
+                  1
+                
+                
+                  
+                    if 
+                  
+                  i
+                  =
+                  j
+                   
+                  .
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle \ \delta _{ij}={\begin{cases}0&{\text{if }}i\neq j\ ,\\1&{\text{if }}i=j~.\end{cases}}}
+  
+
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+         
+      
+    
+    {\displaystyle \ b_{\nu ,n}\!(x)\ }
+  
+ has a root with multiplicity 
+  
+    
+      
+         
+        ν
+         
+      
+    
+    {\displaystyle \ \nu \ }
+  
+ at point 
+  
+    
+      
+         
+        x
+        =
+        0
+         
+      
+    
+    {\displaystyle \ x=0\ }
+  
+ (note: when 
+  
+    
+      
+         
+        ν
+        =
+        0
+         
+        ,
+      
+    
+    {\displaystyle \ \nu =0\ ,}
+  
+ there is no root at 0).
+
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+         
+      
+    
+    {\displaystyle \ b_{\nu ,n}\!(x)\ }
+  
+ has a root with multiplicity 
+  
+    
+      
+         
+        
+          (
+          
+            n
+            −
+            ν
+          
+          )
+        
+         
+      
+    
+    {\displaystyle \ \left(n-\nu \right)\ }
+  
+ at point 
+  
+    
+      
+         
+        x
+        =
+        1
+         
+      
+    
+    {\displaystyle \ x=1\ }
+  
+ (note: if 
+  
+    
+      
+         
+        ν
+        =
+        n
+         
+        ,
+      
+    
+    {\displaystyle \ \nu =n\ ,}
+  
+ there is no root at 1).
+The derivative can be written as a combination of two Bernstein polynomials of lower degree: 
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+          ′
+        
+        
+        (
+        x
+        )
+        =
+        n
+        
+          
+            [
+          
+        
+         
+        
+          b
+          
+            ν
+            −
+            1
+            ,
+            n
+            −
+            1
+          
+        
+        
+        (
+        x
+        )
+         
+        −
+         
+        
+          b
+          
+            ν
+            ,
+            n
+            −
+            1
+          
+        
+        
+        (
+        x
+        )
+         
+        
+          
+            ]
+          
+        
+         
+        .
+      
+    
+    {\displaystyle \ b_{\nu ,n}'\!(x)=n{\bigl [}\ b_{\nu -1,n-1}\!(x)\ -\ b_{\nu ,n-1}\!(x)\ {\bigr ]}~.}
+  
+
+The k-th derivative at 0: 
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+          
+            (
+            k
+            )
+          
+        
+        
+        (
+        0
+        )
+         
+        =
+         
+        
+          
+            
+              n
+              !
+            
+            
+              (
+              n
+              −
+              k
+              )
+              !
+            
+          
+        
+        
+          
+            
+              (
+            
+            
+              k
+              ν
+            
+            
+              )
+            
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            ν
+            +
+            k
+          
+        
+         
+        .
+      
+    
+    {\displaystyle \ b_{\nu ,n}^{(k)}\!(0)\ =\ {\frac {n!}{(n-k)!}}{\binom {k}{\nu }}(-1)^{\nu +k}~.}
+  
+
+The k-th derivative at 1: 
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+          
+            (
+            k
+            )
+          
+        
+        (
+        1
+        )
+         
+        =
+         
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        
+          b
+          
+            n
+            −
+            ν
+            ,
+            n
+          
+          
+            (
+            k
+            )
+          
+        
+        (
+        0
+        )
+         
+        .
+      
+    
+    {\displaystyle \ b_{\nu ,n}^{(k)}(1)\ =\ (-1)^{k}b_{n-\nu ,n}^{(k)}(0)~.}
+  
+
+The transformation of the Bernstein polynomial to monomials is 
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+         
+        =
+         
+        
+          
+            
+              (
+            
+            
+              n
+              ν
+            
+            
+              )
+            
+          
+        
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+            −
+            ν
+          
+        
+        
+          
+            
+              (
+            
+            
+              
+                n
+                −
+                ν
+              
+              k
+            
+            
+              )
+            
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            k
+          
+        
+        
+          x
+          
+            ν
+            +
+            k
+          
+        
+         
+        =
+         
+        
+          ∑
+          
+            ℓ
+            =
+            ν
+          
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              ℓ
+            
+            
+              )
+            
+          
+        
+        
+          
+            
+              (
+            
+            
+              ℓ
+              ν
+            
+            
+              )
+            
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            ℓ
+            −
+            ν
+          
+        
+        
+          x
+          
+            ℓ
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle \ b_{\nu ,n}\!(x)\ =\ {\binom {n}{\nu }}\sum _{k=0}^{n-\nu }{\binom {n-\nu }{k}}(-1)^{k}x^{\nu +k}\ =\ \sum _{\ell =\nu }^{n}{\binom {n}{\ell }}{\binom {\ell }{\nu }}(-1)^{\ell -\nu }x^{\ell }\ ,}
+  
+ and by the inverse binomial transformation, the reverse transformation is 
+  
+    
+      
+         
+        
+          x
+          
+            k
+          
+        
+         
+        =
+         
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            n
+            −
+            k
+          
+        
+        
+          
+            
+              
+                (
+              
+              
+                
+                  n
+                  −
+                  k
+                
+                i
+              
+              
+                )
+              
+            
+            
+              
+                (
+              
+              
+                n
+                i
+              
+              
+                )
+              
+            
+          
+        
+        
+          b
+          
+            n
+            −
+            i
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+         
+        =
+         
+        
+          
+            1
+            
+              
+                (
+              
+              
+                n
+                k
+              
+              
+                )
+              
+            
+          
+        
+        
+          ∑
+          
+            j
+            =
+            k
+          
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              j
+              k
+            
+            
+              )
+            
+          
+        
+        
+          b
+          
+            j
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+         
+        .
+      
+    
+    {\displaystyle \ x^{k}\ =\ \sum _{i=0}^{n-k}{\frac {\binom {n-k}{i}}{\binom {n}{i}}}b_{n-i,n}\!(x)\ =\ {\frac {1}{\binom {n}{k}}}\sum _{j=k}^{n}{\binom {j}{k}}b_{j,n}\!(x)~.}
+  
+
+The indefinite integral is given by 
+  
+    
+      
+         
+        ∫
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+         
+        d
+        ⁡
+        x
+        =
+        
+          
+            1
+            
+              n
+              +
+              1
+            
+          
+        
+        
+          ∑
+          
+            j
+            =
+            ν
+            +
+            1
+          
+          
+            n
+            +
+            1
+          
+        
+        
+          b
+          
+            j
+            ,
+            n
+            +
+            1
+          
+        
+        
+        (
+        x
+        )
+         
+        .
+      
+    
+    {\displaystyle \ \int b_{\nu ,n}\!(x)\ \operatorname {d} x={\frac {1}{n+1}}\sum _{j=\nu +1}^{n+1}b_{j,n+1}\!(x)~.}
+  
+
+The definite integral is constant for a given n: 
+  
+    
+      
+         
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+         
+        d
+        ⁡
+        x
+        =
+        
+          
+            1
+            
+              n
+              +
+              1
+            
+          
+        
+         
+         
+      
+    
+    {\displaystyle \ \int _{0}^{1}b_{\nu ,n}\!(x)\ \operatorname {d} x={\frac {1}{n+1}}~~}
+  
+ for all 
+  
+    
+      
+         
+         
+        ν
+        =
+        0
+        ,
+        1
+        ,
+         
+        …
+         
+        ,
+        n
+         
+        .
+      
+    
+    {\displaystyle ~~\nu =0,1,\ \dots \ ,n~.}
+  
+
+If 
+  
+    
+      
+         
+        n
+        ≠
+        0
+         
+        ,
+         
+      
+    
+    {\displaystyle \ n\neq 0\ ,~}
+  
+ then 
+  
+    
+      
+         
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+         
+      
+    
+    {\displaystyle ~~b_{\nu ,n}\!(x)\ }
+  
+ has a unique local maximum on the interval 
+  
+    
+      
+         
+        [
+        0
+        ,
+        
+        1
+        ]
+         
+      
+    
+    {\displaystyle \ [0,\,1]\ }
+  
+ at 
+  
+    
+      
+         
+        x
+        =
+        
+          
+            ν
+            n
+          
+        
+         
+        .
+      
+    
+    {\displaystyle \ x={\frac {\nu }{n}}~.}
+  
+ This maximum takes the value 
+  
+    
+      
+         
+        
+          ν
+          
+            ν
+          
+        
+        
+          n
+          
+            −
+            n
+          
+        
+        
+          
+            (
+            
+              n
+              −
+              ν
+            
+            )
+          
+          
+            n
+            −
+            ν
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              ν
+            
+            
+              )
+            
+          
+        
+         
+        .
+      
+    
+    {\displaystyle \ \nu ^{\nu }n^{-n}\left(n-\nu \right)^{n-\nu }{n \choose \nu }~.}
+  
+
+The Bernstein basis polynomials of degree 
+  
+    
+      
+         
+        n
+         
+      
+    
+    {\displaystyle \ n\ }
+  
+ form a partition of unity: 
+  
+    
+      
+         
+        
+          ∑
+          
+            ν
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        (
+        x
+        )
+         
+        =
+         
+        
+          ∑
+          
+            ν
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              ν
+            
+            
+              )
+            
+          
+        
+        
+          x
+          
+            ν
+          
+        
+        
+          
+            (
+            
+              1
+              −
+              x
+            
+            )
+          
+          
+            n
+            −
+            ν
+          
+        
+         
+        =
+         
+        
+          
+            (
+            
+              x
+              +
+              
+                (
+                
+                  1
+                  −
+                  x
+                
+                )
+              
+            
+            )
+          
+          
+            n
+          
+        
+        =
+        1
+         
+        .
+      
+    
+    {\displaystyle \ \sum _{\nu =0}^{n}b_{\nu ,n}(x)\ =\ \sum _{\nu =0}^{n}{n \choose \nu }x^{\nu }\left(1-x\right)^{n-\nu }\ =\ \left(x+\left(1-x\right)\right)^{n}=1~.}
+  
+
+By taking the first 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+-derivative of 
+  
+    
+      
+         
+        (
+        x
+        +
+        y
+        
+          )
+          
+            n
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle \ (x+y)^{n}\ ,}
+  
+ treating  
+  
+    
+      
+         
+        y
+         
+      
+    
+    {\displaystyle \ y\ }
+  
+ as constant, then substituting the value 
+  
+    
+      
+         
+        y
+        =
+        1
+        −
+        x
+         
+        ,
+      
+    
+    {\displaystyle \ y=1-x\ ,}
+  
+ it can be shown that 
+  
+    
+      
+         
+        
+          ∑
+          
+            ν
+            =
+            0
+          
+          
+            n
+          
+        
+        ν
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+        =
+        n
+         
+        x
+         
+        .
+      
+    
+    {\displaystyle \ \sum _{\nu =0}^{n}\nu \ b_{\nu ,n}\!(x)=n\ x~.}
+  
+
+Similarly the second 
+  
+    
+      
+         
+        x
+         
+      
+    
+    {\displaystyle \ x\ }
+  
+-derivative of 
+  
+    
+      
+         
+        (
+        x
+        +
+        y
+        
+          )
+          
+            n
+          
+        
+         
+        ,
+      
+    
+    {\displaystyle \ (x+y)^{n}\ ,}
+  
+ with 
+  
+    
+      
+         
+        y
+         
+      
+    
+    {\displaystyle \ y\ }
+  
+ then again substituted 
+  
+    
+      
+         
+        y
+        =
+        1
+        −
+        x
+         
+        ,
+      
+    
+    {\displaystyle \ y=1-x\ ,}
+  
+ shows that 
+  
+    
+      
+         
+        
+          ∑
+          
+            ν
+            =
+            1
+          
+          
+            n
+          
+        
+        ν
+        
+          (
+          
+            ν
+            −
+            1
+          
+          )
+        
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+        =
+        n
+        
+          (
+          
+            n
+            −
+            1
+          
+          )
+        
+         
+        
+          x
+          
+            2
+          
+        
+         
+        .
+      
+    
+    {\displaystyle \ \sum _{\nu =1}^{n}\nu \left(\nu -1\right)\ b_{\nu ,n}\!(x)=n\left(n-1\right)\ x^{2}~.}
+  
+
+A Bernstein polynomial can always be written as a linear combination of polynomials of higher degree: 
+  
+    
+      
+         
+        
+          b
+          
+            ν
+            ,
+            n
+            −
+            1
+          
+        
+        
+        (
+        x
+        )
+         
+        =
+         
+        
+          (
+          
+            
+              
+                n
+                −
+                ν
+              
+              n
+            
+          
+          )
+        
+         
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+         
+        +
+         
+        
+          (
+          
+            
+              
+                ν
+                +
+                1
+              
+              n
+            
+          
+          )
+        
+         
+        
+          b
+          
+            ν
+            +
+            1
+            ,
+            n
+          
+        
+        
+        (
+        x
+        )
+         
+        .
+      
+    
+    {\displaystyle \ b_{\nu ,n-1}\!(x)\ =\ \left({\frac {n-\nu }{n}}\right)\ b_{\nu ,n}\!(x)\ +\ \left({\frac {\nu +1}{n}}\right)\ b_{\nu +1,n}\!(x)~.}
+  
+
+The expansion of the Chebyshev Polynomials of the First Kind into the Bernstein basis is 
+  
+    
+      
+         
+        
+          T
+          
+            n
+          
+        
+        
+        (
+        u
+        )
+         
+        =
+         
+        (
+        2
+        n
+        −
+        1
+        )
+        !
+        !
+         
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+               
+              (
+              −
+              1
+              
+                )
+                
+                  n
+                  −
+                  k
+                
+              
+               
+            
+            
+               
+              (
+              2
+              k
+              −
+              1
+              )
+              !
+              !
+               
+              (
+              2
+              n
+              −
+              2
+              k
+              −
+              1
+              )
+              !
+              !
+               
+            
+          
+        
+         
+        
+          b
+          
+            k
+            ,
+            n
+          
+        
+        
+        (
+        u
+        )
+         
+        .
+      
+    
+    {\displaystyle \ T_{n}\!(u)\ =\ (2n-1)!!\ \sum _{k=0}^{n}{\frac {~(-1)^{n-k}\ }{\ (2k-1)!!\ (2n-2k-1)!!\ }}\ b_{k,n}\!(u)~.}
+  
+
+
+== Approximating continuous functions ==
+Let ƒ be a continuous function on the interval [0, 1]. Consider the Bernstein polynomial
+
+  
+    
+      
+        
+          B
+          
+            n
+          
+        
+        (
+        f
+        )
+        (
+        x
+        )
+        =
+        
+          ∑
+          
+            ν
+            =
+            0
+          
+          
+            n
+          
+        
+        f
+        
+          (
+          
+            
+              ν
+              n
+            
+          
+          )
+        
+        
+          b
+          
+            ν
+            ,
+            n
+          
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle B_{n}(f)(x)=\sum _{\nu =0}^{n}f\left({\frac {\nu }{n}}\right)b_{\nu ,n}(x).}
+  
+
+It can be shown that
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            B
+            
+              n
+            
+          
+          (
+          f
+          )
+        
+        =
+        f
+      
+    
+    {\displaystyle \lim _{n\to \infty }{B_{n}(f)}=f}
+  
+
+uniformly on the interval [0, 1].
+Bernstein polynomials thus provide one way to prove the Weierstrass approximation theorem that every real-valued continuous function on a real interval [a, b] can be uniformly approximated by polynomial functions over 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  
+.
+A more general statement for a function with continuous kth derivative is
+
+  
+    
+      
+        
+          
+            
+              ‖
+              
+                
+                  B
+                  
+                    n
+                  
+                
+                (
+                f
+                
+                  )
+                  
+                    (
+                    k
+                    )
+                  
+                
+              
+              ‖
+            
+          
+          
+            ∞
+          
+        
+        ≤
+        
+          
+            
+              (
+              n
+              
+                )
+                
+                  k
+                
+              
+            
+            
+              n
+              
+                k
+              
+            
+          
+        
+        
+          
+            ‖
+            
+              f
+              
+                (
+                k
+                )
+              
+            
+            ‖
+          
+          
+            ∞
+          
+        
+        
+         
+        
+          and
+        
+        
+         
+        
+          
+            ‖
+            
+              
+                f
+                
+                  (
+                  k
+                  )
+                
+              
+              −
+              
+                B
+                
+                  n
+                
+              
+              (
+              f
+              
+                )
+                
+                  (
+                  k
+                  )
+                
+              
+            
+            ‖
+          
+          
+            ∞
+          
+        
+        →
+        0
+        ,
+      
+    
+    {\displaystyle {\left\|B_{n}(f)^{(k)}\right\|}_{\infty }\leq {\frac {(n)_{k}}{n^{k}}}\left\|f^{(k)}\right\|_{\infty }\quad \ {\text{and}}\quad \ \left\|f^{(k)}-B_{n}(f)^{(k)}\right\|_{\infty }\to 0,}
+  
+
+where additionally
+
+  
+    
+      
+        
+          
+            
+              (
+              n
+              
+                )
+                
+                  k
+                
+              
+            
+            
+              n
+              
+                k
+              
+            
+          
+        
+        =
+        
+          (
+          
+            1
+            −
+            
+              
+                0
+                n
+              
+            
+          
+          )
+        
+        
+          (
+          
+            1
+            −
+            
+              
+                1
+                n
+              
+            
+          
+          )
+        
+        ⋯
+        
+          (
+          
+            1
+            −
+            
+              
+                
+                  k
+                  −
+                  1
+                
+                n
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\frac {(n)_{k}}{n^{k}}}=\left(1-{\frac {0}{n}}\right)\left(1-{\frac {1}{n}}\right)\cdots \left(1-{\frac {k-1}{n}}\right)}
+  
+
+is an eigenvalue of Bn; the corresponding eigenfunction is a polynomial of degree k.
+
+
+=== Probabilistic proof ===
+This proof follows Bernstein's original proof of 1912. See also Feller (1966) or Koralov & Sinai (2007).
+
+
+==== Motivation ====
+We will first give intuition for Bernstein's original proof. A continuous function on a compact interval must be uniformly continuous. Thus, the value of any continuous function can be uniformly approximated by its value on some finite net of points in the interval. This consideration renders the approximation theorem intuitive, given that polynomials should be flexible enough to match (or nearly match) a finite number of pairs 
+  
+    
+      
+        (
+        x
+        ,
+        f
+        (
+        x
+        )
+        )
+      
+    
+    {\displaystyle (x,f(x))}
+  
+. To do so, we might (1) construct a function close to 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ on a lattice, and then (2) smooth out the function outside the lattice to make a polynomial. 
+The probabilistic proof below simply provides a constructive method to create a polynomial which is approximately equal to 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ on such a point lattice, given that "smoothing out" a function is not always trivial. Taking the expectation of a random variable with a simple distribution is a common way to smooth. Here, we take advantage of the fact that Bernstein polynomials look like Binomial expectations. We split the interval into a lattice of n discrete values.  Then, to evaluate any f(x), we evaluate f at one of the n lattice points close to x, randomly chosen by the Binomial distribution.  The expectation of this approximation technique is polynomial, as it is the expectation of a function of a binomial RV. The proof below illustrates that this achieves a uniform approximation of f. The crux of the proof is to (1) justify replacing an arbitrary point with a binomially chosen lattice point by concentration properties of a Binomial distribution, and (2) justify the inference from 
+  
+    
+      
+        x
+        ≈
+        X
+      
+    
+    {\displaystyle x\approx X}
+  
+ to 
+  
+    
+      
+        f
+        (
+        x
+        )
+        ≈
+        f
+        (
+        X
+        )
+      
+    
+    {\displaystyle f(x)\approx f(X)}
+  
+ by uniform continuity. 
+
+
+==== Bernstein's proof ====
+Suppose K is a random variable distributed as the number of successes in n independent Bernoulli trials with probability x of success on each trial; in other words, K has a binomial distribution with parameters n and x. Then we have the expected value 
+  
+    
+      
+        
+          
+            E
+          
+        
+        ⁡
+        
+          [
+          
+            
+              K
+              n
+            
+          
+          ]
+        
+        =
+        x
+         
+      
+    
+    {\displaystyle \operatorname {\mathbb {E} } \left[{\frac {K}{n}}\right]=x\ }
+  
+ and
+
+  
+    
+      
+        p
+        (
+        K
+        )
+        =
+        
+          
+            
+              (
+            
+            
+              n
+              K
+            
+            
+              )
+            
+          
+        
+        
+          x
+          
+            K
+          
+        
+        
+          
+            (
+            
+              1
+              −
+              x
+            
+            )
+          
+          
+            n
+            −
+            K
+          
+        
+        =
+        
+          b
+          
+            K
+            ,
+            n
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle p(K)={n \choose K}x^{K}\left(1-x\right)^{n-K}=b_{K,n}(x)}
+  
+
+By the weak law of large numbers of probability theory,
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          P
+          
+            (
+            
+              
+                |
+                
+                  
+                    
+                      K
+                      n
+                    
+                  
+                  −
+                  x
+                
+                |
+              
+              >
+              δ
+            
+            )
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \lim _{n\to \infty }{P\left(\left|{\frac {K}{n}}-x\right|>\delta \right)}=0}
+  
+
+for every δ > 0. Moreover, this relation holds uniformly in x, which can be seen from its proof via Chebyshev's inequality, taking into account that the variance of 1⁄n K, equal to 1⁄n x(1−x), is bounded from above by 1⁄(4n) irrespective of x.
+Because ƒ, being continuous on a closed bounded interval, must be uniformly continuous on that interval, one infers a statement of the form
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          P
+          
+            (
+            
+              
+                |
+                
+                  f
+                  
+                    (
+                    
+                      
+                        K
+                        n
+                      
+                    
+                    )
+                  
+                  −
+                  f
+                  
+                    (
+                    x
+                    )
+                  
+                
+                |
+              
+              >
+              ε
+            
+            )
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \lim _{n\to \infty }{P\left(\left|f\left({\frac {K}{n}}\right)-f\left(x\right)\right|>\varepsilon \right)}=0}
+  
+
+uniformly in x for each 
+  
+    
+      
+        ϵ
+        >
+        0
+      
+    
+    {\displaystyle \epsilon >0}
+  
+. Taking into account that ƒ is bounded (on the given interval) one finds that
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              E
+            
+          
+          ⁡
+          
+            (
+            
+              |
+              
+                f
+                
+                  (
+                  
+                    
+                      K
+                      n
+                    
+                  
+                  )
+                
+                −
+                f
+                
+                  (
+                  x
+                  )
+                
+              
+              |
+            
+            )
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\operatorname {\mathbb {E} } \left(\left|f\left({\frac {K}{n}}\right)-f\left(x\right)\right|\right)}=0}
+  
+
+uniformly in x. To justify this statement, we use a common method in probability theory to convert from closeness in probability to closeness in expectation. One splits the expectation of 
+  
+    
+      
+        
+          |
+          
+            f
+            
+              (
+              
+                
+                  K
+                  n
+                
+              
+              )
+            
+            −
+            f
+            
+              (
+              x
+              )
+            
+          
+          |
+        
+      
+    
+    {\displaystyle \left|f\left({\frac {K}{n}}\right)-f\left(x\right)\right|}
+  
+ into two parts split based on whether or not 
+  
+    
+      
+        
+          |
+          
+            f
+            
+              (
+              
+                
+                  K
+                  n
+                
+              
+              )
+            
+            −
+            f
+            
+              (
+              x
+              )
+            
+          
+          |
+        
+        <
+        ϵ
+      
+    
+    {\displaystyle \left|f\left({\frac {K}{n}}\right)-f\left(x\right)\right|<\epsilon }
+  
+. In the interval where the difference does not exceed ε, the expectation clearly cannot exceed ε.
+In the other interval, the difference still cannot exceed 2M, where M is an upper bound for |ƒ(x)| (since uniformly continuous functions are bounded). However, by our 'closeness in probability' statement, this interval cannot have probability greater than ε. Thus, this part of the expectation contributes no more than 2M times ε. Then the total expectation is no more than 
+  
+    
+      
+        ϵ
+        +
+        2
+        M
+        ϵ
+      
+    
+    {\displaystyle \epsilon +2M\epsilon }
+  
+, which can be made arbitrarily small by choosing small ε.
+Finally, one observes that the absolute value of the difference between expectations never exceeds the expectation of the absolute value of the difference, a consequence of Holder's Inequality. Thus, using the above expectation, we see that (uniformly in x)
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            |
+            
+              
+                
+                  E
+                
+              
+              ⁡
+              f
+              
+                (
+                
+                  
+                    K
+                    n
+                  
+                
+                )
+              
+              −
+              
+                
+                  E
+                
+              
+              ⁡
+              f
+              
+                (
+                x
+                )
+              
+            
+            |
+          
+        
+        ≤
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              E
+            
+          
+          ⁡
+          
+            (
+            
+              |
+              
+                f
+                
+                  (
+                  
+                    
+                      K
+                      n
+                    
+                  
+                  )
+                
+                −
+                f
+                
+                  (
+                  x
+                  )
+                
+              
+              |
+            
+            )
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle \lim _{n\to \infty }{\left|\operatorname {\mathbb {E} } f\left({\frac {K}{n}}\right)-\operatorname {\mathbb {E} } f\left(x\right)\right|}\leq \lim _{n\to \infty }{\operatorname {\mathbb {E} } \left(\left|f\left({\frac {K}{n}}\right)-f\left(x\right)\right|\right)}=0}
+  
+
+Noting that our randomness was over K while x is constant, the expectation of f(x) is just equal to f(x). But then we have shown that 
+  
+    
+      
+        
+          
+            
+              E
+            
+            
+              x
+            
+          
+        
+        ⁡
+        f
+        
+          (
+          
+            
+              K
+              n
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \operatorname {\mathbb {E} _{x}} f\left({\frac {K}{n}}\right)}
+  
+ converges to f(x). Then we will be done if 
+  
+    
+      
+        
+          
+            
+              E
+            
+            
+              x
+            
+          
+        
+        ⁡
+        f
+        
+          (
+          
+            
+              K
+              n
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \operatorname {\mathbb {E} _{x}} f\left({\frac {K}{n}}\right)}
+  
+ is a polynomial in x (the subscript reminding us that x controls the distribution of K). Indeed it is:
+
+  
+    
+      
+        
+          
+            
+              E
+            
+            
+              x
+            
+          
+        
+        ⁡
+        
+          [
+          
+            f
+            
+              (
+              
+                
+                  K
+                  n
+                
+              
+              )
+            
+          
+          ]
+        
+        =
+        
+          ∑
+          
+            K
+            =
+            0
+          
+          
+            n
+          
+        
+        f
+        
+          (
+          
+            
+              K
+              n
+            
+          
+          )
+        
+        p
+        (
+        K
+        )
+        =
+        
+          ∑
+          
+            K
+            =
+            0
+          
+          
+            n
+          
+        
+        f
+        
+          (
+          
+            
+              K
+              n
+            
+          
+          )
+        
+        
+          b
+          
+            K
+            ,
+            n
+          
+        
+        (
+        x
+        )
+        =
+        
+          B
+          
+            n
+          
+        
+        (
+        f
+        )
+        (
+        x
+        )
+      
+    
+    {\displaystyle \operatorname {\mathbb {E} _{x}} \left[f\left({\frac {K}{n}}\right)\right]=\sum _{K=0}^{n}f\left({\frac {K}{n}}\right)p(K)=\sum _{K=0}^{n}f\left({\frac {K}{n}}\right)b_{K,n}(x)=B_{n}(f)(x)}
+  
+
+
+==== Uniform convergence rates between functions ====
+In the above proof, recall that convergence in each limit involving f depends on the uniform continuity of f, which implies a rate of convergence dependent on f 's  modulus of continuity 
+  
+    
+      
+        ω
+        .
+      
+    
+    {\displaystyle \omega .}
+  
+ It also depends on 'M', the absolute bound of the function, although this can be bypassed if one bounds  
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  
+ and the interval size. Thus, the approximation only holds uniformly across x for a fixed f, but one can readily extend the proof to uniformly approximate a set of functions with a set of Bernstein polynomials in the context of equicontinuity.
+
+
+=== Elementary proof ===
+The probabilistic proof can also be rephrased in an elementary way, using the underlying probabilistic ideas but proceeding by direct verification:
+The following identities can be verified:
+
+  
+    
+      
+        
+          ∑
+          
+            k
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        
+          x
+          
+            k
+          
+        
+        (
+        1
+        −
+        x
+        
+          )
+          
+            n
+            −
+            k
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle \sum _{k}{n \choose k}x^{k}(1-x)^{n-k}=1}
+  
+ ("probability")
+
+  
+    
+      
+        
+          ∑
+          
+            k
+          
+        
+        
+          
+            k
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        
+          x
+          
+            k
+          
+        
+        (
+        1
+        −
+        x
+        
+          )
+          
+            n
+            −
+            k
+          
+        
+        =
+        x
+      
+    
+    {\displaystyle \sum _{k}{k \over n}{n \choose k}x^{k}(1-x)^{n-k}=x}
+  
+ ("mean")
+
+  
+    
+      
+        
+          ∑
+          
+            k
+          
+        
+        
+          
+            (
+            
+              x
+              −
+              
+                
+                  k
+                  n
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        
+          x
+          
+            k
+          
+        
+        (
+        1
+        −
+        x
+        
+          )
+          
+            n
+            −
+            k
+          
+        
+        =
+        
+          
+            
+              x
+              (
+              1
+              −
+              x
+              )
+            
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle \sum _{k}\left(x-{k \over n}\right)^{2}{n \choose k}x^{k}(1-x)^{n-k}={x(1-x) \over n}.}
+  
+ ("variance")
+In fact, by the binomial theorem
+
+  
+    
+      
+        (
+        1
+        +
+        t
+        
+          )
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            k
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        
+          t
+          
+            k
+          
+        
+        ,
+      
+    
+    {\displaystyle (1+t)^{n}=\sum _{k}{n \choose k}t^{k},}
+  
+
+and this equation can be applied twice to 
+  
+    
+      
+        t
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle t{\frac {d}{dt}}}
+  
+. The identities (1), (2), and (3) follow easily using the substitution 
+  
+    
+      
+        t
+        =
+        x
+        
+          /
+        
+        (
+        1
+        −
+        x
+        )
+      
+    
+    {\displaystyle t=x/(1-x)}
+  
+.
+Within these three identities, use the above basis polynomial notation
+
+  
+    
+      
+        
+          b
+          
+            k
+            ,
+            n
+          
+        
+        (
+        x
+        )
+        =
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        
+          x
+          
+            k
+          
+        
+        (
+        1
+        −
+        x
+        
+          )
+          
+            n
+            −
+            k
+          
+        
+        ,
+      
+    
+    {\displaystyle b_{k,n}(x)={n \choose k}x^{k}(1-x)^{n-k},}
+  
+
+and let
+
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+        (
+        x
+        )
+        =
+        
+          ∑
+          
+            k
+          
+        
+        f
+        (
+        k
+        
+          /
+        
+        n
+        )
+        
+        
+          b
+          
+            k
+            ,
+            n
+          
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle f_{n}(x)=\sum _{k}f(k/n)\,b_{k,n}(x).}
+  
+
+Thus, by identity (1)
+
+  
+    
+      
+        
+          f
+          
+            n
+          
+        
+        (
+        x
+        )
+        −
+        f
+        (
+        x
+        )
+        =
+        
+          ∑
+          
+            k
+          
+        
+        [
+        f
+        (
+        k
+        
+          /
+        
+        n
+        )
+        −
+        f
+        (
+        x
+        )
+        ]
+        
+        
+          b
+          
+            k
+            ,
+            n
+          
+        
+        (
+        x
+        )
+        ,
+      
+    
+    {\displaystyle f_{n}(x)-f(x)=\sum _{k}[f(k/n)-f(x)]\,b_{k,n}(x),}
+  
+
+so that
+
+  
+    
+      
+        
+          |
+        
+        
+          f
+          
+            n
+          
+        
+        (
+        x
+        )
+        −
+        f
+        (
+        x
+        )
+        
+          |
+        
+        ≤
+        
+          ∑
+          
+            k
+          
+        
+        
+          |
+        
+        f
+        (
+        k
+        
+          /
+        
+        n
+        )
+        −
+        f
+        (
+        x
+        )
+        
+          |
+        
+        
+        
+          b
+          
+            k
+            ,
+            n
+          
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle |f_{n}(x)-f(x)|\leq \sum _{k}|f(k/n)-f(x)|\,b_{k,n}(x).}
+  
+
+Since f is uniformly continuous, given 
+  
+    
+      
+        ε
+        >
+        0
+      
+    
+    {\displaystyle \varepsilon >0}
+  
+, there is a 
+  
+    
+      
+        δ
+        >
+        0
+      
+    
+    {\displaystyle \delta >0}
+  
+ such that 
+  
+    
+      
+        
+          |
+        
+        f
+        (
+        a
+        )
+        −
+        f
+        (
+        b
+        )
+        
+          |
+        
+        <
+        ε
+      
+    
+    {\displaystyle |f(a)-f(b)|<\varepsilon }
+  
+ whenever
+
+  
+    
+      
+        
+          |
+        
+        a
+        −
+        b
+        
+          |
+        
+        <
+        δ
+      
+    
+    {\displaystyle |a-b|<\delta }
+  
+.  Moreover, by continuity, 
+  
+    
+      
+        M
+        =
+        sup
+        
+          |
+        
+        f
+        
+          |
+        
+        <
+        ∞
+      
+    
+    {\displaystyle M=\sup |f|<\infty }
+  
+. But then
+
+  
+    
+      
+        
+          |
+        
+        
+          f
+          
+            n
+          
+        
+        (
+        x
+        )
+        −
+        f
+        (
+        x
+        )
+        
+          |
+        
+        ≤
+        
+          ∑
+          
+            
+              |
+            
+            x
+            −
+            
+              
+                k
+                n
+              
+            
+            
+              |
+            
+            <
+            δ
+          
+        
+        
+          |
+        
+        f
+        (
+        k
+        
+          /
+        
+        n
+        )
+        −
+        f
+        (
+        x
+        )
+        
+          |
+        
+        
+        
+          b
+          
+            k
+            ,
+            n
+          
+        
+        (
+        x
+        )
+        +
+        
+          ∑
+          
+            
+              |
+            
+            x
+            −
+            
+              
+                k
+                n
+              
+            
+            
+              |
+            
+            ≥
+            δ
+          
+        
+        
+          |
+        
+        f
+        (
+        k
+        
+          /
+        
+        n
+        )
+        −
+        f
+        (
+        x
+        )
+        
+          |
+        
+        
+        
+          b
+          
+            k
+            ,
+            n
+          
+        
+        (
+        x
+        )
+        .
+      
+    
+    {\displaystyle |f_{n}(x)-f(x)|\leq \sum _{|x-{k \over n}|<\delta }|f(k/n)-f(x)|\,b_{k,n}(x)+\sum _{|x-{k \over n}|\geq \delta }|f(k/n)-f(x)|\,b_{k,n}(x).}
+  
+
+The first sum is less than ε. On the other hand, by identity (3) above, and since 
+  
+    
+      
+        
+          |
+        
+        x
+        −
+        k
+        
+          /
+        
+        n
+        
+          |
+        
+        ≥
+        δ
+      
+    
+    {\displaystyle |x-k/n|\geq \delta }
+  
+, the second sum is bounded by 
+  
+    
+      
+        2
+        M
+      
+    
+    {\displaystyle 2M}
+  
+ times
+
+  
+    
+      
+        
+          ∑
+          
+            
+              |
+            
+            x
+            −
+            k
+            
+              /
+            
+            n
+            
+              |
+            
+            ≥
+            δ
+          
+        
+        
+          b
+          
+            k
+            ,
+            n
+          
+        
+        (
+        x
+        )
+        ≤
+        
+          ∑
+          
+            k
+          
+        
+        
+          δ
+          
+            −
+            2
+          
+        
+        
+          
+            (
+            
+              x
+              −
+              
+                
+                  k
+                  n
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        
+          b
+          
+            k
+            ,
+            n
+          
+        
+        (
+        x
+        )
+        =
+        
+          δ
+          
+            −
+            2
+          
+        
+        
+          
+            
+              x
+              (
+              1
+              −
+              x
+              )
+            
+            n
+          
+        
+        <
+        
+          
+            1
+            4
+          
+        
+        
+          δ
+          
+            −
+            2
+          
+        
+        
+          n
+          
+            −
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle \sum _{|x-k/n|\geq \delta }b_{k,n}(x)\leq \sum _{k}\delta ^{-2}\left(x-{k \over n}\right)^{2}b_{k,n}(x)=\delta ^{-2}{x(1-x) \over n}<{1 \over 4}\delta ^{-2}n^{-1}.}
+  
+
+(Chebyshev's inequality)
+It follows that the polynomials fn tend to f uniformly.
+
+
+== Generalizations to higher dimension ==
+Bernstein polynomials can be generalized to k dimensions – the resulting polynomials have the form  Bi1(x1) Bi2(x2) ... Bik(xk). In the simplest case only products of the unit interval [0,1] are considered; but, using affine transformations of the line, Bernstein polynomials can also be defined for products [a1, b1] × [a2, b2] × ... × [ak, bk]. For a continuous function f on the k-fold product of the unit interval, the proof that f(x1, x2, ... , xk) can be uniformly approximated by
+
+  
+    
+      
+        
+          ∑
+          
+            
+              i
+              
+                1
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              i
+              
+                2
+              
+            
+          
+        
+        ⋯
+        
+          ∑
+          
+            
+              i
+              
+                k
+              
+            
+          
+        
+        
+          
+            
+              (
+            
+            
+              
+                n
+                
+                  1
+                
+              
+              
+                i
+                
+                  1
+                
+              
+            
+            
+              )
+            
+          
+        
+        
+          
+            
+              (
+            
+            
+              
+                n
+                
+                  2
+                
+              
+              
+                i
+                
+                  2
+                
+              
+            
+            
+              )
+            
+          
+        
+        ⋯
+        
+          
+            
+              (
+            
+            
+              
+                n
+                
+                  k
+                
+              
+              
+                i
+                
+                  k
+                
+              
+            
+            
+              )
+            
+          
+        
+        f
+        
+          (
+          
+            
+              
+                
+                  i
+                  
+                    1
+                  
+                
+                
+                  n
+                  
+                    1
+                  
+                
+              
+            
+            ,
+            
+              
+                
+                  i
+                  
+                    2
+                  
+                
+                
+                  n
+                  
+                    2
+                  
+                
+              
+            
+            ,
+            …
+            ,
+            
+              
+                
+                  i
+                  
+                    k
+                  
+                
+                
+                  n
+                  
+                    k
+                  
+                
+              
+            
+          
+          )
+        
+        
+          x
+          
+            1
+          
+          
+            
+              i
+              
+                1
+              
+            
+          
+        
+        (
+        1
+        −
+        
+          x
+          
+            1
+          
+        
+        
+          )
+          
+            
+              n
+              
+                1
+              
+            
+            −
+            
+              i
+              
+                1
+              
+            
+          
+        
+        
+          x
+          
+            2
+          
+          
+            
+              i
+              
+                2
+              
+            
+          
+        
+        (
+        1
+        −
+        
+          x
+          
+            2
+          
+        
+        
+          )
+          
+            
+              n
+              
+                2
+              
+            
+            −
+            
+              i
+              
+                2
+              
+            
+          
+        
+        ⋯
+        
+          x
+          
+            k
+          
+          
+            
+              i
+              
+                k
+              
+            
+          
+        
+        (
+        1
+        −
+        
+          x
+          
+            k
+          
+        
+        
+          )
+          
+            
+              n
+              
+                k
+              
+            
+            −
+            
+              i
+              
+                k
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sum _{i_{1}}\sum _{i_{2}}\cdots \sum _{i_{k}}{n_{1} \choose i_{1}}{n_{2} \choose i_{2}}\cdots {n_{k} \choose i_{k}}f\left({i_{1} \over n_{1}},{i_{2} \over n_{2}},\dots ,{i_{k} \over n_{k}}\right)x_{1}^{i_{1}}(1-x_{1})^{n_{1}-i_{1}}x_{2}^{i_{2}}(1-x_{2})^{n_{2}-i_{2}}\cdots x_{k}^{i_{k}}(1-x_{k})^{n_{k}-i_{k}}}
+  
+
+is a straightforward extension of Bernstein's proof in one dimension.
+
+
+== See also ==
+Polynomial interpolation
+Newton form
+Lagrange form
+Binomial QMF (also known as Daubechies wavelet)
+
+
+== Notes ==
+
+
+== References ==
+Bernstein, S. (1912), "Démonstration du théorème de Weierstrass fondée sur le calcul des probabilités (Proof of the theorem of Weierstrass based on the calculus of probabilities)" (PDF), Comm. Kharkov Math. Soc., 13: 1–2, English translation
+Lorentz, G. G. (1953), Bernstein Polynomials, University of Toronto Press
+Akhiezer, N. I. (1956), Theory of approximation (in Russian), translated by Charles J. Hyman, Frederick Ungar, pp. 30–31, Russian edition first published in 1940
+Burkill, J. C. (1959), Lectures On Approximation By Polynomials (PDF), Bombay: Tata Institute of Fundamental Research, pp. 7–8
+Goldberg, Richard R. (1964), Methods of real analysis, John Wiley & Sons, pp. 263–265
+Caglar, Hakan; Akansu, Ali N. (July 1993). "A generalized parametric PR-QMF design technique based on Bernstein polynomial approximation". IEEE Transactions on Signal Processing. 41 (7): 2314–2321. Bibcode:1993ITSP...41.2314C. doi:10.1109/78.224242. Zbl 0825.93863.
+Korovkin, P.P. (2001) [1994], "Bernstein polynomials", Encyclopedia of Mathematics, EMS Press
+Natanson, I.P. (1964). Constructive function theory. Volume I: Uniform approximation. Translated by Alexis N. Obolensky. New York: Frederick Ungar. MR 0196340. Zbl 0133.31101.
+Feller, William (1966), An introduction to probability theory and its applications, Vol, II, John Wiley & Sons, pp. 149–150, 218–222
+Beals, Richard (2004), Analysis. An introduction, Cambridge University Press, pp. 95–98, ISBN 0521600472
+
+
+== External links ==
+Kac, Mark (1938). "Une remarque sur les polynomes de M. S. Bernstein". Studia Mathematica. 7: 49–51. doi:10.4064/sm-7-1-49-51.
+Kelisky, Richard Paul; Rivlin, Theodore Joseph (1967). "Iteratives of Bernstein Polynomials". Pacific Journal of Mathematics. 21 (3): 511. doi:10.2140/pjm.1967.21.511.
+Stark, E. L. (1981). "Bernstein Polynome, 1912-1955". In Butzer, P.L. (ed.). ISNM60. pp. 443–461. doi:10.1007/978-3-0348-9369-5_40. ISBN 978-3-0348-9369-5.
+Petrone, Sonia (1999). "Random Bernstein polynomials". Scand. J. Stat. 26 (3): 373–393. doi:10.1111/1467-9469.00155. S2CID 122387975.
+Oruc, Halil; Phillips, Geoerge M. (1999). "A generalization of the Bernstein Polynomials". Proceedings of the Edinburgh Mathematical Society. 42 (2): 403–413. doi:10.1017/S0013091500020332.
+Joy, Kenneth I. (2000). "Bernstein Polynomials" (PDF). Archived from the original (PDF) on 2012-02-20. Retrieved 2009-02-28. from University of California, Davis. Note the error in the summation limits in the first formula on page 9.
+Idrees Bhatti, M.; Bracken, P. (2007). "Solutions of differential equations in a Bernstein Polynomial basis". J. Comput. Appl. Math. 205 (1): 272–280. Bibcode:2007JCoAM.205..272I. doi:10.1016/j.cam.2006.05.002.
+Casselman, Bill (2008). "From Bézier to Bernstein". Feature Column from American Mathematical Society
+Acikgoz, Mehmet; Araci, Serkan (2010). "On the generating function for Bernstein Polynomials". AIP Conf. Proc. AIP Conference Proceedings. 1281 (1): 1141. Bibcode:2010AIPC.1281.1141A. doi:10.1063/1.3497855.
+Doha, E. H.; Bhrawy, A. H.; Saker, M. A. (2011). "Integrals of Bernstein polynomials: An application for the solution of high even-order differential equations". Appl. Math. Lett. 24 (4): 559–565. doi:10.1016/j.aml.2010.11.013.
+Farouki, Rida T. (2012). "The Bernstein polynomial basis: a centennial retrospective". Comp. Aid. Geom. Des. 29 (6): 379–419. doi:10.1016/j.cagd.2012.03.001.
+Chen, Xiaoyan; Tan, Jieqing; Liu, Zhi; Xie, Jin (2017). "Approximations of functions by a new family of generalized Bernstein operators". J. Math. Ann. Applic. 450: 244–261. doi:10.1016/j.jmaa.2016.12.075.
+Weisstein, Eric W. "Bernstein Polynomial". MathWorld.
+This article incorporates material from properties of Bernstein polynomial on PlanetMath, which is licensed under the Creative Commons Attribution/Share-Alike License.

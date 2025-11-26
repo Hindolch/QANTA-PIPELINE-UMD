@@ -1,0 +1,97 @@
+The Kroll process is a pyrometallurgical industrial  process used to produce metallic titanium from titanium tetrachloride. As of 2001 William Justin Kroll's process replaced the Hunter process for almost all commercial production.
+
+
+== Process ==
+In the Kroll process, titanium tetrachloride is reduced by liquid magnesium to give titanium metal:
+
+  
+    
+      
+        
+          
+            
+              TiCl
+              
+                4
+              
+              
+                
+              
+            
+          
+          +
+          2
+          
+          
+            Mg
+          
+          
+            
+              →
+              
+                825
+                
+                   
+                  
+                    ∘
+                  
+                
+                
+                  C
+                
+              
+            
+          
+          
+            Ti
+          
+          +
+          2
+          
+          
+            
+              MgCl
+              
+                2
+              
+              
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{TiCl4}+2{Mg}->[825~^{\circ }\mathrm {C} ]{Ti}+2{MgCl2}}}}
+  
+
+The reduction is conducted at 800–850 °C in a stainless steel retort. Complications result from partial reduction of the TiCl4, giving to the lower chlorides TiCl2 and TiCl3.  The MgCl2 can be further refined back to magnesium.  
+
+
+=== Appurtenant processes ===
+The resulting porous metallic titanium sponge is purified by leaching or vacuum distillation. The sponge is crushed, and pressed before it is melted in a consumable electrode vacuum arc furnace, "backfilled with pure gettered argon of a pressure high enough to avoid a glow discharge". The melted ingot is allowed to solidify under vacuum. It is often remelted to remove inclusions and ensure uniformity. These melting steps add to the cost of the product. Titanium is about six times as expensive as stainless steel: Potter noted in 2023 that "Titanium is just fundamentally difficult and expensive to deal with. Turning titanium ingots into bars and sheets is a challenge due to titanium’s reactivity: it readily absorbs impurities, requiring “frequent surface removal and trimming to eliminate surface defects” which are “costly and involve significant yield loss.”" The appurtenant processes that turn Kroll's sponge into useful metal have "changed little since the 1950s."
+
+
+== History and subsequent developments ==
+Many methods had been applied to the production of titanium metal, beginning with a report in 1887 by Nilsen and Pettersen using sodium, which was optimized into the commercial Hunter process. In this process (which ceased to be commercial in the 1990s) TiCl4 is reduced to the metal by sodium.
+In the 1920s Anton Eduard van Arkel working for Philips NV had described the thermal decomposition of titanium tetraiodide to give highly pure titanium.
+Titanium tetrachloride was found to reduce with hydrogen at high temperatures to give hydrides that can be thermally processed to the pure metal.
+With these three ideas as background, Kroll in Luxembourg developed both new reductants and new apparatus for the reduction of titanium tetrachloride. Its high reactivity toward trace amounts of water and other metal oxides presented challenges. Significant success came with the use of calcium as a reductant, but the resulting mixture still contained significant oxide impurities. Major success using magnesium at 1000 °C using a molybdenum clad reactor, was reported by Kroll to the Electrochemical Society in Ottawa. Kroll's titanium was highly ductile reflecting its high purity.
+The Kroll process displaced the Hunter process and continues to be the dominant technology for the production of titanium metal, as well as driving the majority of the world's production of magnesium metal.
+After moving to the United States, Kroll further developed the method for the production of zirconium at the Albany Research Center.
+
+
+== See also ==
+Chloride process
+FFC Cambridge process – Metal and metalloid synthesis process by electrolysis
+
+
+== References ==
+
+
+== Further reading ==
+P.Kar, Mathematical modeling of phase change electrodes with application to the FFC process, PhD thesis; UC, Berkeley, 2007.
+
+
+== External links ==
+Titanium: Kroll Method: YouTube video uploaded by Innovations in Manufacturing at Oak Ridge National Laboratory

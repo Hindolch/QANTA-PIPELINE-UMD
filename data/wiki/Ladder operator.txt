@@ -1,0 +1,5324 @@
+In linear algebra (and its application to quantum mechanics), a raising or lowering operator (collectively known as ladder operators) is an operator that increases or decreases the eigenvalue of another operator.  In quantum mechanics, the raising and lowering operators are commonly known as the creation and annihilation operators, respectively. Well-known applications of ladder operators in quantum mechanics are in the formalisms of the quantum harmonic oscillator and angular momentum.
+
+
+== Terminology ==
+
+There is a relationship between the raising and lowering ladder operators and the creation and annihilation operators commonly used in quantum field theory which lies in representation theory.  The creation operator ai† increments the number of particles in state i, while the corresponding annihilation operator ai decrements the number of particles in state i.  This clearly satisfies the requirements of the above definition of a ladder operator: the incrementing or decrementing of the eigenvalue of another operator (in this case the particle number operator).
+Confusion arises because the term ladder operator is typically used to describe an operator that acts to increment or decrement a quantum number describing the state of a system.  To change the state of a particle with the creation/annihilation operators of QFT requires the use of both annihilation and creation operators. An annihilation operator is used to remove a particle from the initial state and a creation operator is used to add a particle to the final state.
+The term "ladder operator" or "raising and lowering operators" is also sometimes used in mathematics, in the context of the theory of Lie algebras and in particular the affine Lie algebras. For example to describe the su(2) subalgebras, the root system and the highest weight modules can be constructed by means of the ladder operators. In particular, the highest weight is annihilated by the raising operators; the rest of the positive root space is obtained by repeatedly applying the lowering operators (one set of ladder operators per subalgebra).
+
+
+== Motivation from mathematics ==
+From a representation theory standpoint a linear representation of a semi-simple Lie group in continuous real parameters induces a set of generators for the Lie algebra. A complex linear combination of those are the ladder operators.
+For each parameter there is a set of ladder operators; these are then a standardized way to navigate one dimension of the root system and root lattice. The ladder operators of the quantum harmonic oscillator or the "number representation" of second quantization are just special cases of this fact. Ladder operators then become ubiquitous in quantum mechanics from the angular momentum operator, to coherent states and to discrete magnetic translation operators.
+
+
+== General formulation ==
+Suppose that two operators X and N have the commutation relation
+
+  
+    
+      
+        [
+        N
+        ,
+        X
+        ]
+        =
+        c
+        X
+      
+    
+    {\displaystyle [N,X]=cX}
+  
+
+for some scalar c.  If 
+  
+    
+      
+        
+          
+            |
+          
+          n
+          ⟩
+        
+      
+    
+    {\displaystyle {|n\rangle }}
+  
+ is an eigenstate of N with eigenvalue equation
+
+  
+    
+      
+        N
+        
+          |
+        
+        n
+        ⟩
+        =
+        n
+        
+          |
+        
+        n
+        ⟩
+        ,
+      
+    
+    {\displaystyle N|n\rangle =n|n\rangle ,}
+  
+
+then the operator X acts on 
+  
+    
+      
+        
+          |
+        
+        n
+        ⟩
+      
+    
+    {\displaystyle |n\rangle }
+  
+ in such a way as to shift the eigenvalue by c:
+
+  
+    
+      
+        
+          
+            
+              
+                N
+                X
+                
+                  |
+                
+                n
+                ⟩
+              
+              
+                
+                =
+                (
+                X
+                N
+                +
+                [
+                N
+                ,
+                X
+                ]
+                )
+                
+                  |
+                
+                n
+                ⟩
+              
+            
+            
+              
+              
+                
+                =
+                X
+                N
+                
+                  |
+                
+                n
+                ⟩
+                +
+                [
+                N
+                ,
+                X
+                ]
+                
+                  |
+                
+                n
+                ⟩
+              
+            
+            
+              
+              
+                
+                =
+                X
+                n
+                
+                  |
+                
+                n
+                ⟩
+                +
+                c
+                X
+                
+                  |
+                
+                n
+                ⟩
+              
+            
+            
+              
+              
+                
+                =
+                (
+                n
+                +
+                c
+                )
+                X
+                
+                  |
+                
+                n
+                ⟩
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}NX|n\rangle &=(XN+[N,X])|n\rangle \\&=XN|n\rangle +[N,X]|n\rangle \\&=Xn|n\rangle +cX|n\rangle \\&=(n+c)X|n\rangle .\end{aligned}}}
+  
+
+In other words, if 
+  
+    
+      
+        
+          |
+        
+        n
+        ⟩
+      
+    
+    {\displaystyle |n\rangle }
+  
+ is an eigenstate of N with eigenvalue n, then 
+  
+    
+      
+        X
+        
+          |
+        
+        n
+        ⟩
+      
+    
+    {\displaystyle X|n\rangle }
+  
+ is an eigenstate of N with eigenvalue n + c or is zero. The operator X is a raising operator for N if c is real and positive, and a lowering operator for N if c is real and negative.
+If N is a Hermitian operator, then c must be real, and the Hermitian adjoint of X obeys the commutation relation
+
+  
+    
+      
+        [
+        N
+        ,
+        
+          X
+          
+            †
+          
+        
+        ]
+        =
+        −
+        c
+        
+          X
+          
+            †
+          
+        
+        .
+      
+    
+    {\displaystyle [N,X^{\dagger }]=-cX^{\dagger }.}
+  
+
+In particular, if X is a lowering operator for N, then X† is a raising operator for N and conversely.
+
+
+== Angular momentum ==
+
+A particular application of the ladder operator concept is found in the quantum-mechanical treatment of angular momentum.  For a general angular momentum vector J with components Jx, Jy and Jz one defines the two ladder operators
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                  
+                    +
+                  
+                
+              
+              
+                
+                =
+                
+                  J
+                  
+                    x
+                  
+                
+                +
+                i
+                
+                  J
+                  
+                    y
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  J
+                  
+                    −
+                  
+                
+              
+              
+                
+                =
+                
+                  J
+                  
+                    x
+                  
+                
+                −
+                i
+                
+                  J
+                  
+                    y
+                  
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}J_{+}&=J_{x}+iJ_{y},\\J_{-}&=J_{x}-iJ_{y},\end{aligned}}}
+  
+
+where i is the imaginary unit.
+The commutation relation between the cartesian components of any angular momentum operator is given by
+
+  
+    
+      
+        [
+        
+          J
+          
+            i
+          
+        
+        ,
+        
+          J
+          
+            j
+          
+        
+        ]
+        =
+        i
+        ℏ
+        
+          ϵ
+          
+            i
+            j
+            k
+          
+        
+        
+          J
+          
+            k
+          
+        
+        ,
+      
+    
+    {\displaystyle [J_{i},J_{j}]=i\hbar \epsilon _{ijk}J_{k},}
+  
+
+where εijk is the Levi-Civita symbol, and each of i, j and k can take any of the values x, y and z.
+From this, the commutation relations among the ladder operators and Jz are obtained:
+
+  
+    
+      
+        
+          
+            
+              
+                
+
+                
+                [
+                
+                  J
+                  
+                    z
+                  
+                
+                ,
+                
+                  J
+                  
+                    ±
+                  
+                
+                ]
+              
+              
+                
+                =
+                ±
+                ℏ
+                
+                  J
+                  
+                    ±
+                  
+                
+                ,
+              
+            
+            
+              
+                
+
+                
+                [
+                
+                  J
+                  
+                    +
+                  
+                
+                ,
+                
+                  J
+                  
+                    −
+                  
+                
+                ]
+              
+              
+                
+                =
+                2
+                ℏ
+                
+                  J
+                  
+                    z
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{}[J_{z},J_{\pm }]&=\pm \hbar J_{\pm },\\{}[J_{+},J_{-}]&=2\hbar J_{z}\end{aligned}}}
+  
+
+(technically, this is the Lie algebra of 
+  
+    
+      
+        
+          
+            
+              s
+            
+          
+          l
+        
+        (
+        2
+        ,
+        
+          R
+        
+        )
+      
+    
+    {\displaystyle {{\mathfrak {s}}l}(2,\mathbb {R} )}
+  
+).
+The properties of the ladder operators can be determined by observing how they modify the action of the Jz operator on a given state:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                  
+                    z
+                  
+                
+                
+                  J
+                  
+                    ±
+                  
+                
+                
+                  |
+                
+                j
+                
+                m
+                ⟩
+              
+              
+                
+                =
+                
+                  
+                    (
+                  
+                
+                
+                  J
+                  
+                    ±
+                  
+                
+                
+                  J
+                  
+                    z
+                  
+                
+                +
+                [
+                
+                  J
+                  
+                    z
+                  
+                
+                ,
+                
+                  J
+                  
+                    ±
+                  
+                
+                ]
+                
+                  
+                    )
+                  
+                
+                
+                  |
+                
+                j
+                
+                m
+                ⟩
+              
+            
+            
+              
+              
+                
+                =
+                (
+                
+                  J
+                  
+                    ±
+                  
+                
+                
+                  J
+                  
+                    z
+                  
+                
+                ±
+                ℏ
+                
+                  J
+                  
+                    ±
+                  
+                
+                )
+                
+                  |
+                
+                j
+                
+                m
+                ⟩
+              
+            
+            
+              
+              
+                
+                =
+                ℏ
+                (
+                m
+                ±
+                1
+                )
+                
+                  J
+                  
+                    ±
+                  
+                
+                
+                  |
+                
+                j
+                
+                m
+                ⟩
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}J_{z}J_{\pm }|j\,m\rangle &={\big (}J_{\pm }J_{z}+[J_{z},J_{\pm }]{\big )}|j\,m\rangle \\&=(J_{\pm }J_{z}\pm \hbar J_{\pm })|j\,m\rangle \\&=\hbar (m\pm 1)J_{\pm }|j\,m\rangle .\end{aligned}}}
+  
+
+Compare this result with
+
+  
+    
+      
+        
+          J
+          
+            z
+          
+        
+        
+          |
+        
+        j
+        
+        (
+        m
+        ±
+        1
+        )
+        ⟩
+        =
+        ℏ
+        (
+        m
+        ±
+        1
+        )
+        
+          |
+        
+        j
+        
+        (
+        m
+        ±
+        1
+        )
+        ⟩
+        .
+      
+    
+    {\displaystyle J_{z}|j\,(m\pm 1)\rangle =\hbar (m\pm 1)|j\,(m\pm 1)\rangle .}
+  
+
+Thus, one concludes that 
+  
+    
+      
+        
+          
+            J
+            
+              ±
+            
+          
+          
+            |
+          
+          j
+          
+          m
+          ⟩
+        
+      
+    
+    {\displaystyle {J_{\pm }|j\,m\rangle }}
+  
+ is some scalar multiplied by 
+  
+    
+      
+        
+          
+            |
+          
+          j
+          
+          (
+          m
+          ±
+          1
+          )
+          ⟩
+        
+      
+    
+    {\displaystyle {|j\,(m\pm 1)\rangle }}
+  
+:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                  
+                    +
+                  
+                
+                
+                  |
+                
+                j
+                
+                m
+                ⟩
+              
+              
+                
+                =
+                α
+                
+                  |
+                
+                j
+                
+                (
+                m
+                +
+                1
+                )
+                ⟩
+                ,
+              
+            
+            
+              
+                
+                  J
+                  
+                    −
+                  
+                
+                
+                  |
+                
+                j
+                
+                m
+                ⟩
+              
+              
+                
+                =
+                β
+                
+                  |
+                
+                j
+                
+                (
+                m
+                −
+                1
+                )
+                ⟩
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}J_{+}|j\,m\rangle &=\alpha |j\,(m+1)\rangle ,\\J_{-}|j\,m\rangle &=\beta |j\,(m-1)\rangle .\end{aligned}}}
+  
+
+This illustrates the defining feature of ladder operators in quantum mechanics: the incrementing (or decrementing) of a quantum number, thus mapping one quantum state onto another. This is the reason that they are often known as raising and lowering operators.
+To obtain the values of α and β, first take the norm of each operator, recognizing that J+ and J− are a Hermitian conjugate pair (
+  
+    
+      
+        
+          J
+          
+            ±
+          
+        
+        =
+        
+          J
+          
+            ∓
+          
+          
+            †
+          
+        
+      
+    
+    {\displaystyle J_{\pm }=J_{\mp }^{\dagger }}
+  
+):
+
+  
+    
+      
+        
+          
+            
+              
+              
+                
+                ⟨
+                j
+                
+                m
+                
+                  |
+                
+                
+                  J
+                  
+                    +
+                  
+                  
+                    †
+                  
+                
+                
+                  J
+                  
+                    +
+                  
+                
+                
+                  |
+                
+                j
+                
+                m
+                ⟩
+                =
+                ⟨
+                j
+                
+                m
+                
+                  |
+                
+                
+                  J
+                  
+                    −
+                  
+                
+                
+                  J
+                  
+                    +
+                  
+                
+                
+                  |
+                
+                j
+                
+                m
+                ⟩
+                =
+                ⟨
+                j
+                
+                (
+                m
+                +
+                1
+                )
+                
+                  |
+                
+                
+                  α
+                  
+                    ∗
+                  
+                
+                α
+                
+                  |
+                
+                j
+                
+                (
+                m
+                +
+                1
+                )
+                ⟩
+                =
+                
+                  |
+                
+                α
+                
+                  
+                    |
+                  
+                  
+                    2
+                  
+                
+                ,
+              
+            
+            
+              
+              
+                
+                ⟨
+                j
+                
+                m
+                
+                  |
+                
+                
+                  J
+                  
+                    −
+                  
+                  
+                    †
+                  
+                
+                
+                  J
+                  
+                    −
+                  
+                
+                
+                  |
+                
+                j
+                
+                m
+                ⟩
+                =
+                ⟨
+                j
+                
+                m
+                
+                  |
+                
+                
+                  J
+                  
+                    +
+                  
+                
+                
+                  J
+                  
+                    −
+                  
+                
+                
+                  |
+                
+                j
+                
+                m
+                ⟩
+                =
+                ⟨
+                j
+                
+                (
+                m
+                −
+                1
+                )
+                
+                  |
+                
+                
+                  β
+                  
+                    ∗
+                  
+                
+                β
+                
+                  |
+                
+                j
+                
+                (
+                m
+                −
+                1
+                )
+                ⟩
+                =
+                
+                  |
+                
+                β
+                
+                  
+                    |
+                  
+                  
+                    2
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}&\langle j\,m|J_{+}^{\dagger }J_{+}|j\,m\rangle =\langle j\,m|J_{-}J_{+}|j\,m\rangle =\langle j\,(m+1)|\alpha ^{*}\alpha |j\,(m+1)\rangle =|\alpha |^{2},\\&\langle j\,m|J_{-}^{\dagger }J_{-}|j\,m\rangle =\langle j\,m|J_{+}J_{-}|j\,m\rangle =\langle j\,(m-1)|\beta ^{*}\beta |j\,(m-1)\rangle =|\beta |^{2}.\end{aligned}}}
+  
+
+The product of the ladder operators can be expressed in terms of the commuting pair J2 and Jz:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                  
+                    −
+                  
+                
+                
+                  J
+                  
+                    +
+                  
+                
+              
+              
+                
+                =
+                (
+                
+                  J
+                  
+                    x
+                  
+                
+                −
+                i
+                
+                  J
+                  
+                    y
+                  
+                
+                )
+                (
+                
+                  J
+                  
+                    x
+                  
+                
+                +
+                i
+                
+                  J
+                  
+                    y
+                  
+                
+                )
+                =
+                
+                  J
+                  
+                    x
+                  
+                  
+                    2
+                  
+                
+                +
+                
+                  J
+                  
+                    y
+                  
+                  
+                    2
+                  
+                
+                +
+                i
+                [
+                
+                  J
+                  
+                    x
+                  
+                
+                ,
+                
+                  J
+                  
+                    y
+                  
+                
+                ]
+                =
+                
+                  J
+                  
+                    2
+                  
+                
+                −
+                
+                  J
+                  
+                    z
+                  
+                  
+                    2
+                  
+                
+                −
+                ℏ
+                
+                  J
+                  
+                    z
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  J
+                  
+                    +
+                  
+                
+                
+                  J
+                  
+                    −
+                  
+                
+              
+              
+                
+                =
+                (
+                
+                  J
+                  
+                    x
+                  
+                
+                +
+                i
+                
+                  J
+                  
+                    y
+                  
+                
+                )
+                (
+                
+                  J
+                  
+                    x
+                  
+                
+                −
+                i
+                
+                  J
+                  
+                    y
+                  
+                
+                )
+                =
+                
+                  J
+                  
+                    x
+                  
+                  
+                    2
+                  
+                
+                +
+                
+                  J
+                  
+                    y
+                  
+                  
+                    2
+                  
+                
+                −
+                i
+                [
+                
+                  J
+                  
+                    x
+                  
+                
+                ,
+                
+                  J
+                  
+                    y
+                  
+                
+                ]
+                =
+                
+                  J
+                  
+                    2
+                  
+                
+                −
+                
+                  J
+                  
+                    z
+                  
+                  
+                    2
+                  
+                
+                +
+                ℏ
+                
+                  J
+                  
+                    z
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}J_{-}J_{+}&=(J_{x}-iJ_{y})(J_{x}+iJ_{y})=J_{x}^{2}+J_{y}^{2}+i[J_{x},J_{y}]=J^{2}-J_{z}^{2}-\hbar J_{z},\\J_{+}J_{-}&=(J_{x}+iJ_{y})(J_{x}-iJ_{y})=J_{x}^{2}+J_{y}^{2}-i[J_{x},J_{y}]=J^{2}-J_{z}^{2}+\hbar J_{z}.\end{aligned}}}
+  
+
+Thus, one may express the values of |α|2 and |β|2 in terms of the eigenvalues of J2 and Jz:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  |
+                
+                α
+                
+                  
+                    |
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  ℏ
+                  
+                    2
+                  
+                
+                j
+                (
+                j
+                +
+                1
+                )
+                −
+                
+                  ℏ
+                  
+                    2
+                  
+                
+                
+                  m
+                  
+                    2
+                  
+                
+                −
+                
+                  ℏ
+                  
+                    2
+                  
+                
+                m
+                =
+                
+                  ℏ
+                  
+                    2
+                  
+                
+                (
+                j
+                −
+                m
+                )
+                (
+                j
+                +
+                m
+                +
+                1
+                )
+                ,
+              
+            
+            
+              
+                
+                  |
+                
+                β
+                
+                  
+                    |
+                  
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  ℏ
+                  
+                    2
+                  
+                
+                j
+                (
+                j
+                +
+                1
+                )
+                −
+                
+                  ℏ
+                  
+                    2
+                  
+                
+                
+                  m
+                  
+                    2
+                  
+                
+                +
+                
+                  ℏ
+                  
+                    2
+                  
+                
+                m
+                =
+                
+                  ℏ
+                  
+                    2
+                  
+                
+                (
+                j
+                +
+                m
+                )
+                (
+                j
+                −
+                m
+                +
+                1
+                )
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}|\alpha |^{2}&=\hbar ^{2}j(j+1)-\hbar ^{2}m^{2}-\hbar ^{2}m=\hbar ^{2}(j-m)(j+m+1),\\|\beta |^{2}&=\hbar ^{2}j(j+1)-\hbar ^{2}m^{2}+\hbar ^{2}m=\hbar ^{2}(j+m)(j-m+1).\end{aligned}}}
+  
+
+The phases of α and β are not physically significant, thus they can be chosen to be positive and real (Condon–Shortley phase convention). We then have
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                  
+                    +
+                  
+                
+                
+                  |
+                
+                j
+                ,
+                m
+                ⟩
+              
+              
+                
+                =
+                ℏ
+                
+                  
+                    (
+                    j
+                    −
+                    m
+                    )
+                    (
+                    j
+                    +
+                    m
+                    +
+                    1
+                    )
+                  
+                
+                
+                  |
+                
+                j
+                ,
+                m
+                +
+                1
+                ⟩
+                =
+                ℏ
+                
+                  
+                    j
+                    (
+                    j
+                    +
+                    1
+                    )
+                    −
+                    m
+                    (
+                    m
+                    +
+                    1
+                    )
+                  
+                
+                
+                  |
+                
+                j
+                ,
+                m
+                +
+                1
+                ⟩
+                ,
+              
+            
+            
+              
+                
+                  J
+                  
+                    −
+                  
+                
+                
+                  |
+                
+                j
+                ,
+                m
+                ⟩
+              
+              
+                
+                =
+                ℏ
+                
+                  
+                    (
+                    j
+                    +
+                    m
+                    )
+                    (
+                    j
+                    −
+                    m
+                    +
+                    1
+                    )
+                  
+                
+                
+                  |
+                
+                j
+                ,
+                m
+                −
+                1
+                ⟩
+                =
+                ℏ
+                
+                  
+                    j
+                    (
+                    j
+                    +
+                    1
+                    )
+                    −
+                    m
+                    (
+                    m
+                    −
+                    1
+                    )
+                  
+                
+                
+                  |
+                
+                j
+                ,
+                m
+                −
+                1
+                ⟩
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}J_{+}|j,m\rangle &=\hbar {\sqrt {(j-m)(j+m+1)}}|j,m+1\rangle =\hbar {\sqrt {j(j+1)-m(m+1)}}|j,m+1\rangle ,\\J_{-}|j,m\rangle &=\hbar {\sqrt {(j+m)(j-m+1)}}|j,m-1\rangle =\hbar {\sqrt {j(j+1)-m(m-1)}}|j,m-1\rangle .\end{aligned}}}
+  
+
+Confirming that m is bounded by the value of j (
+  
+    
+      
+        −
+        j
+        ≤
+        m
+        ≤
+        j
+      
+    
+    {\displaystyle -j\leq m\leq j}
+  
+), one has
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                  
+                    +
+                  
+                
+                
+                  |
+                
+                j
+                ,
+                
+                +
+                j
+                ⟩
+              
+              
+                
+                =
+                0
+                ,
+              
+            
+            
+              
+                
+                  J
+                  
+                    −
+                  
+                
+                
+                  |
+                
+                j
+                ,
+                
+                −
+                j
+                ⟩
+              
+              
+                
+                =
+                0.
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}J_{+}|j,\,+j\rangle &=0,\\J_{-}|j,\,-j\rangle &=0.\end{aligned}}}
+  
+
+The above demonstration is effectively the construction of the Clebsch–Gordan coefficients.
+
+
+=== Applications in atomic and molecular physics ===
+Many terms in the Hamiltonians of atomic or molecular systems involve the scalar product of angular momentum operators. An example is the magnetic dipole term in the hyperfine Hamiltonian:
+
+  
+    
+      
+        
+          
+            
+              
+                H
+                ^
+              
+            
+          
+          
+            D
+          
+        
+        =
+        
+          
+            
+              A
+              ^
+            
+          
+        
+        
+          I
+        
+        ⋅
+        
+          J
+        
+        ,
+      
+    
+    {\displaystyle {\hat {H}}_{\text{D}}={\hat {A}}\mathbf {I} \cdot \mathbf {J} ,}
+  
+
+where I is the nuclear spin.
+The angular momentum algebra can often be simplified by recasting it in the spherical basis. Using the notation of spherical tensor operators, the "−1", "0" and "+1" components of J(1) ≡ J are given by
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                  
+                    −
+                    1
+                  
+                  
+                    (
+                    1
+                    )
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      1
+                      
+                        2
+                      
+                    
+                  
+                
+                (
+                
+                  J
+                  
+                    x
+                  
+                
+                −
+                i
+                
+                  J
+                  
+                    y
+                  
+                
+                )
+                =
+                
+                  
+                    
+                      
+                        J
+                        
+                          −
+                        
+                      
+                      
+                        2
+                      
+                    
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  J
+                  
+                    0
+                  
+                  
+                    (
+                    1
+                    )
+                  
+                
+              
+              
+                
+                =
+                
+                  J
+                  
+                    z
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  J
+                  
+                    +
+                    1
+                  
+                  
+                    (
+                    1
+                    )
+                  
+                
+              
+              
+                
+                =
+                −
+                
+                  
+                    1
+                    
+                      2
+                    
+                  
+                
+                (
+                
+                  J
+                  
+                    x
+                  
+                
+                +
+                i
+                
+                  J
+                  
+                    y
+                  
+                
+                )
+                =
+                −
+                
+                  
+                    
+                      J
+                      
+                        +
+                      
+                    
+                    
+                      2
+                    
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}J_{-1}^{(1)}&={\dfrac {1}{\sqrt {2}}}(J_{x}-iJ_{y})={\dfrac {J_{-}}{\sqrt {2}}},\\J_{0}^{(1)}&=J_{z},\\J_{+1}^{(1)}&=-{\frac {1}{\sqrt {2}}}(J_{x}+iJ_{y})=-{\frac {J_{+}}{\sqrt {2}}}.\end{aligned}}}
+  
+
+From these definitions, it can be shown that the above scalar product can be expanded as
+
+  
+    
+      
+        
+          
+            I
+          
+          
+            (
+            1
+            )
+          
+        
+        ⋅
+        
+          
+            J
+          
+          
+            (
+            1
+            )
+          
+        
+        =
+        
+          ∑
+          
+            n
+            =
+            −
+            1
+          
+          
+            +
+            1
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            n
+          
+        
+        
+          I
+          
+            n
+          
+          
+            (
+            1
+            )
+          
+        
+        
+          J
+          
+            −
+            n
+          
+          
+            (
+            1
+            )
+          
+        
+        =
+        
+          I
+          
+            0
+          
+          
+            (
+            1
+            )
+          
+        
+        
+          J
+          
+            0
+          
+          
+            (
+            1
+            )
+          
+        
+        −
+        
+          I
+          
+            −
+            1
+          
+          
+            (
+            1
+            )
+          
+        
+        
+          J
+          
+            +
+            1
+          
+          
+            (
+            1
+            )
+          
+        
+        −
+        
+          I
+          
+            +
+            1
+          
+          
+            (
+            1
+            )
+          
+        
+        
+          J
+          
+            −
+            1
+          
+          
+            (
+            1
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {I} ^{(1)}\cdot \mathbf {J} ^{(1)}=\sum _{n=-1}^{+1}(-1)^{n}I_{n}^{(1)}J_{-n}^{(1)}=I_{0}^{(1)}J_{0}^{(1)}-I_{-1}^{(1)}J_{+1}^{(1)}-I_{+1}^{(1)}J_{-1}^{(1)}.}
+  
+
+The significance of this expansion is that it clearly indicates which states are coupled by this term in the Hamiltonian, that is those with quantum numbers differing by mi = ±1 and mj = ∓1 only.
+
+
+== Harmonic oscillator ==
+
+Another application of the ladder operator concept is found in the quantum-mechanical treatment of the harmonic oscillator. We can define the lowering and raising operators as
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      a
+                      ^
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        m
+                        ω
+                      
+                      
+                        2
+                        ℏ
+                      
+                    
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        
+                          x
+                          ^
+                        
+                      
+                    
+                    +
+                    
+                      
+                        i
+                        
+                          m
+                          ω
+                        
+                      
+                    
+                    
+                      
+                        
+                          p
+                          ^
+                        
+                      
+                    
+                  
+                  )
+                
+                ,
+              
+            
+            
+              
+                
+                  
+                    
+                      
+                        a
+                        ^
+                      
+                    
+                  
+                  
+                    †
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    
+                      
+                        m
+                        ω
+                      
+                      
+                        2
+                        ℏ
+                      
+                    
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        
+                          x
+                          ^
+                        
+                      
+                    
+                    −
+                    
+                      
+                        i
+                        
+                          m
+                          ω
+                        
+                      
+                    
+                    
+                      
+                        
+                          p
+                          ^
+                        
+                      
+                    
+                  
+                  )
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\hat {a}}&={\sqrt {m\omega  \over 2\hbar }}\left({\hat {x}}+{i \over m\omega }{\hat {p}}\right),\\{\hat {a}}^{\dagger }&={\sqrt {m\omega  \over 2\hbar }}\left({\hat {x}}-{i \over m\omega }{\hat {p}}\right).\end{aligned}}}
+  
+
+They provide a convenient means to extract energy eigenvalues without directly solving the system's differential equation.
+Ladder operator applying to harmonic oscillator's energy levels:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      
+                        a
+                        ^
+                      
+                    
+                  
+                  
+                    †
+                  
+                
+                
+                  |
+                
+                n
+                ⟩
+              
+              
+                
+                =
+                
+                  
+                    n
+                    +
+                    1
+                  
+                
+                
+                  |
+                
+                n
+                +
+                1
+                ⟩
+                ,
+              
+            
+            
+              
+                
+                  
+                    
+                      a
+                      ^
+                    
+                  
+                
+                
+                  |
+                
+                n
+                ⟩
+              
+              
+                
+                =
+                
+                  
+                    n
+                  
+                
+                
+                  |
+                
+                n
+                −
+                1
+                ⟩
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\hat {a}}^{\dagger }|n\rangle &={\sqrt {n+1}}|n+1\rangle ,\\{\hat {a}}|n\rangle &={\sqrt {n}}|n-1\rangle .\end{aligned}}}
+  
+
+
+== Hydrogen-like atom ==
+
+There are two main approaches given in the literature using ladder operators, one using the Laplace–Runge–Lenz vector, another using factorization of the Hamiltonian.
+
+
+=== Laplace–Runge–Lenz vector ===
+Another application of the ladder operator concept is found in the quantum mechanical treatment of the electronic energy of hydrogen-like atoms and ions. The Laplace–Runge–Lenz vector commutes with the Hamiltonian for an inverse square spherically symmetric potential and can be used to determine ladder operators for this potential.
+We can define the lowering and raising operators (based on the classical Laplace–Runge–Lenz vector)
+
+  
+    
+      
+        
+          
+            
+              A
+              →
+            
+          
+        
+        =
+        
+          (
+          
+            
+              1
+              
+                Z
+                
+                  e
+                  
+                    2
+                  
+                
+                μ
+              
+            
+          
+          )
+        
+        
+          {
+          
+            
+              
+                
+                  L
+                  →
+                
+              
+            
+            ×
+            
+              
+                
+                  p
+                  →
+                
+              
+            
+            −
+            
+              i
+            
+            ℏ
+            
+              
+                
+                  p
+                  →
+                
+              
+            
+          
+          }
+        
+        +
+        
+          
+            
+              
+                r
+                →
+              
+            
+            r
+          
+        
+        ,
+      
+    
+    {\displaystyle {\vec {A}}=\left({\frac {1}{Ze^{2}\mu }}\right)\left\{{\vec {L}}\times {\vec {p}}-{\boldsymbol {i}}\hbar {\vec {p}}\right\}+{\frac {\vec {r}}{r}},}
+  
+
+where 
+  
+    
+      
+        
+          
+            
+              L
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {L}}}
+  
+ is the angular momentum, 
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}}
+  
+ is the linear momentum, 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  
+ is the reduced mass of the system, 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  
+ is the electronic charge, and 
+  
+    
+      
+        Z
+      
+    
+    {\displaystyle Z}
+  
+ is the atomic number of the nucleus.
+Analogous to the angular momentum ladder operators, one has 
+  
+    
+      
+        
+          A
+          
+            +
+          
+        
+        =
+        
+          A
+          
+            x
+          
+        
+        +
+        i
+        
+          A
+          
+            y
+          
+        
+      
+    
+    {\displaystyle A_{+}=A_{x}+iA_{y}}
+  
+ and 
+  
+    
+      
+        
+          A
+          
+            −
+          
+        
+        =
+        
+          A
+          
+            x
+          
+        
+        −
+        i
+        
+          A
+          
+            y
+          
+        
+      
+    
+    {\displaystyle A_{-}=A_{x}-iA_{y}}
+  
+.
+The commutators needed to proceed are
+
+  
+    
+      
+        [
+        
+          A
+          
+            ±
+          
+        
+        ,
+        
+          L
+          
+            z
+          
+        
+        ]
+        =
+        ∓
+        
+          i
+        
+        ℏ
+        
+          A
+          
+            ∓
+          
+        
+      
+    
+    {\displaystyle [A_{\pm },L_{z}]=\mp {\boldsymbol {i}}\hbar A_{\mp }}
+  
+
+and
+
+  
+    
+      
+        [
+        
+          A
+          
+            ±
+          
+        
+        ,
+        
+          L
+          
+            2
+          
+        
+        ]
+        =
+        ∓
+        2
+        
+          ℏ
+          
+            2
+          
+        
+        
+          A
+          
+            ±
+          
+        
+        −
+        2
+        ℏ
+        
+          A
+          
+            ±
+          
+        
+        
+          L
+          
+            z
+          
+        
+        ±
+        2
+        ℏ
+        
+          A
+          
+            z
+          
+        
+        
+          L
+          
+            ±
+          
+        
+        .
+      
+    
+    {\displaystyle [A_{\pm },L^{2}]=\mp 2\hbar ^{2}A_{\pm }-2\hbar A_{\pm }L_{z}\pm 2\hbar A_{z}L_{\pm }.}
+  
+
+Therefore,
+
+  
+    
+      
+        
+          A
+          
+            +
+          
+        
+        
+          |
+        
+        ?
+        ,
+        ℓ
+        ,
+        
+          m
+          
+            ℓ
+          
+        
+        ⟩
+        →
+        
+          |
+        
+        ?
+        ,
+        ℓ
+        ,
+        
+          m
+          
+            ℓ
+          
+        
+        +
+        1
+        ⟩
+      
+    
+    {\displaystyle A_{+}|?,\ell ,m_{\ell }\rangle \rightarrow |?,\ell ,m_{\ell }+1\rangle }
+  
+
+and
+
+  
+    
+      
+        −
+        
+          L
+          
+            2
+          
+        
+        
+          (
+          
+            
+              A
+              
+                +
+              
+            
+            
+              |
+            
+            ?
+            ,
+            ℓ
+            ,
+            ℓ
+            ⟩
+          
+          )
+        
+        =
+        −
+        
+          ℏ
+          
+            2
+          
+        
+        (
+        ℓ
+        +
+        1
+        )
+        (
+        (
+        ℓ
+        +
+        1
+        )
+        +
+        1
+        )
+        
+          (
+          
+            
+              A
+              
+                +
+              
+            
+            
+              |
+            
+            ?
+            ,
+            ℓ
+            ,
+            ℓ
+            ⟩
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle -L^{2}\left(A_{+}|?,\ell ,\ell \rangle \right)=-\hbar ^{2}(\ell +1)((\ell +1)+1)\left(A_{+}|?,\ell ,\ell \rangle \right),}
+  
+
+so
+
+  
+    
+      
+        
+          A
+          
+            +
+          
+        
+        
+          |
+        
+        ?
+        ,
+        ℓ
+        ,
+        ℓ
+        ⟩
+        →
+        
+          |
+        
+        ?
+        ,
+        ℓ
+        +
+        1
+        ,
+        ℓ
+        +
+        1
+        ⟩
+        ,
+      
+    
+    {\displaystyle A_{+}|?,\ell ,\ell \rangle \rightarrow |?,\ell +1,\ell +1\rangle ,}
+  
+
+where the "?" indicates a nascent quantum number which emerges from the discussion.
+Given the Pauli equations IV:
+
+  
+    
+      
+        1
+        −
+        A
+        ⋅
+        A
+        =
+        −
+        
+          (
+          
+            
+              
+                2
+                E
+              
+              
+                μ
+                
+                  Z
+                  
+                    2
+                  
+                
+                
+                  e
+                  
+                    4
+                  
+                
+              
+            
+          
+          )
+        
+        (
+        
+          L
+          
+            2
+          
+        
+        +
+        
+          ℏ
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle 1-A\cdot A=-\left({\frac {2E}{\mu Z^{2}e^{4}}}\right)(L^{2}+\hbar ^{2})}
+  
+
+and III:
+
+  
+    
+      
+        
+          
+            (
+            
+              A
+              ×
+              A
+            
+            )
+          
+          
+            j
+          
+        
+        =
+        −
+        
+          (
+          
+            
+              
+                2
+                
+                  i
+                
+                ℏ
+                E
+              
+              
+                μ
+                
+                  Z
+                  
+                    2
+                  
+                
+                
+                  e
+                  
+                    4
+                  
+                
+              
+            
+          
+          )
+        
+        
+          L
+          
+            j
+          
+        
+        ,
+      
+    
+    {\displaystyle \left(A\times A\right)_{j}=-\left({\frac {2{\boldsymbol {i}}\hbar E}{\mu Z^{2}e^{4}}}\right)L_{j},}
+  
+
+and starting with the equation
+
+  
+    
+      
+        
+          A
+          
+            −
+          
+        
+        
+          A
+          
+            +
+          
+        
+        
+          |
+        
+        
+          ℓ
+          
+            ∗
+          
+        
+        ,
+        
+          ℓ
+          
+            ∗
+          
+        
+        ⟩
+        =
+        0
+      
+    
+    {\displaystyle A_{-}A_{+}|\ell ^{*},\ell ^{*}\rangle =0}
+  
+
+and expanding, one obtains (assuming 
+  
+    
+      
+        
+          ℓ
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \ell ^{*}}
+  
+ is the maximum value of the angular momentum quantum number consonant with all other conditions)
+
+  
+    
+      
+        
+          (
+          
+            1
+            +
+            
+              
+                
+                  2
+                  E
+                
+                
+                  μ
+                  
+                    Z
+                    
+                      2
+                    
+                  
+                  
+                    e
+                    
+                      4
+                    
+                  
+                
+              
+            
+            (
+            
+              L
+              
+                2
+              
+            
+            +
+            
+              ℏ
+              
+                2
+              
+            
+            )
+            −
+            i
+            
+              
+                
+                  2
+                  i
+                  ℏ
+                  E
+                
+                
+                  μ
+                  
+                    Z
+                    
+                      2
+                    
+                  
+                  
+                    e
+                    
+                      4
+                    
+                  
+                
+              
+            
+            
+              L
+              
+                z
+              
+            
+          
+          )
+        
+        
+          |
+        
+        ?
+        ,
+        
+          ℓ
+          
+            ∗
+          
+        
+        ,
+        
+          ℓ
+          
+            ∗
+          
+        
+        ⟩
+        =
+        0
+        ,
+      
+    
+    {\displaystyle \left(1+{\frac {2E}{\mu Z^{2}e^{4}}}(L^{2}+\hbar ^{2})-i{\frac {2i\hbar E}{\mu Z^{2}e^{4}}}L_{z}\right)|?,\ell ^{*},\ell ^{*}\rangle =0,}
+  
+
+which leads to the Rydberg formula
+
+  
+    
+      
+        
+          E
+          
+            n
+          
+        
+        =
+        −
+        
+          
+            
+              μ
+              
+                Z
+                
+                  2
+                
+              
+              
+                e
+                
+                  4
+                
+              
+            
+            
+              2
+              
+                ℏ
+                
+                  2
+                
+              
+              (
+              
+                ℓ
+                
+                  ∗
+                
+              
+              +
+              1
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle E_{n}=-{\frac {\mu Z^{2}e^{4}}{2\hbar ^{2}(\ell ^{*}+1)^{2}}},}
+  
+
+implying that 
+  
+    
+      
+        
+          ℓ
+          
+            ∗
+          
+        
+        +
+        1
+        =
+        n
+        =
+        ?
+      
+    
+    {\displaystyle \ell ^{*}+1=n=?}
+  
+, where 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ is the traditional quantum number.
+
+
+=== Factorization of the Hamiltonian ===
+The Hamiltonian for a hydrogen-like potential can be written in spherical coordinates as
+
+  
+    
+      
+        H
+        =
+        
+          
+            1
+            
+              2
+              μ
+            
+          
+        
+        
+          [
+          
+            
+              p
+              
+                r
+              
+              
+                2
+              
+            
+            +
+            
+              
+                1
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+            
+              L
+              
+                2
+              
+            
+          
+          ]
+        
+        +
+        V
+        (
+        r
+        )
+        ,
+      
+    
+    {\displaystyle H={\frac {1}{2\mu }}\left[p_{r}^{2}+{\frac {1}{r^{2}}}L^{2}\right]+V(r),}
+  
+
+where 
+  
+    
+      
+        V
+        (
+        r
+        )
+        =
+        −
+        Z
+        
+          e
+          
+            2
+          
+        
+        
+          /
+        
+        r
+      
+    
+    {\displaystyle V(r)=-Ze^{2}/r}
+  
+, and the radial momentum
+
+  
+    
+      
+        
+          p
+          
+            r
+          
+        
+        =
+        
+          
+            x
+            r
+          
+        
+        
+          p
+          
+            x
+          
+        
+        +
+        
+          
+            y
+            r
+          
+        
+        
+          p
+          
+            y
+          
+        
+        +
+        
+          
+            z
+            r
+          
+        
+        
+          p
+          
+            z
+          
+        
+        ,
+      
+    
+    {\displaystyle p_{r}={\frac {x}{r}}p_{x}+{\frac {y}{r}}p_{y}+{\frac {z}{r}}p_{z},}
+  
+
+which is real and self-conjugate.
+Suppose 
+  
+    
+      
+        
+          |
+        
+        n
+        l
+        ⟩
+      
+    
+    {\displaystyle |nl\rangle }
+  
+ is an eigenvector of the Hamiltonian, where 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  
+ is the angular momentum, and 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ represents the energy, so 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+        
+          |
+        
+        n
+        l
+        ⟩
+        =
+        l
+        (
+        l
+        +
+        1
+        )
+        
+          ℏ
+          
+            2
+          
+        
+        
+          |
+        
+        n
+        l
+        ⟩
+      
+    
+    {\displaystyle L^{2}|nl\rangle =l(l+1)\hbar ^{2}|nl\rangle }
+  
+, and we may label the Hamiltonian as 
+  
+    
+      
+        
+          H
+          
+            l
+          
+        
+      
+    
+    {\displaystyle H_{l}}
+  
+:
+
+  
+    
+      
+        
+          H
+          
+            l
+          
+        
+        =
+        
+          
+            1
+            
+              2
+              μ
+            
+          
+        
+        
+          [
+          
+            
+              p
+              
+                r
+              
+              
+                2
+              
+            
+            +
+            
+              
+                1
+                
+                  r
+                  
+                    2
+                  
+                
+              
+            
+            l
+            (
+            l
+            +
+            1
+            )
+            
+              ℏ
+              
+                2
+              
+            
+          
+          ]
+        
+        +
+        V
+        (
+        r
+        )
+        .
+      
+    
+    {\displaystyle H_{l}={\frac {1}{2\mu }}\left[p_{r}^{2}+{\frac {1}{r^{2}}}l(l+1)\hbar ^{2}\right]+V(r).}
+  
+
+The factorization method was developed by Infeld and Hull for differential equations. Newmarch and Golding applied it to spherically symmetric potentials using operator notation.
+Suppose we can find a factorization of the Hamiltonian by operators 
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+      
+    
+    {\displaystyle C_{l}}
+  
+ as
+
+and
+
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+        
+          C
+          
+            l
+          
+          
+            ∗
+          
+        
+        =
+        2
+        μ
+        
+          H
+          
+            l
+            +
+            1
+          
+        
+        +
+        
+          G
+          
+            l
+          
+        
+      
+    
+    {\displaystyle C_{l}C_{l}^{*}=2\mu H_{l+1}+G_{l}}
+  
+
+for scalars 
+  
+    
+      
+        
+          F
+          
+            l
+          
+        
+      
+    
+    {\displaystyle F_{l}}
+  
+ and 
+  
+    
+      
+        
+          G
+          
+            l
+          
+        
+      
+    
+    {\displaystyle G_{l}}
+  
+. The vector 
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+        
+          C
+          
+            l
+          
+          
+            ∗
+          
+        
+        
+          C
+          
+            l
+          
+        
+        
+          |
+        
+        n
+        l
+        ⟩
+      
+    
+    {\displaystyle C_{l}C_{l}^{*}C_{l}|nl\rangle }
+  
+ may be evaluated in two different ways as
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  C
+                  
+                    l
+                  
+                
+                
+                  C
+                  
+                    l
+                  
+                  
+                    ∗
+                  
+                
+                
+                  C
+                  
+                    l
+                  
+                
+                
+                  |
+                
+                n
+                l
+                ⟩
+              
+              
+                
+                =
+                (
+                2
+                μ
+                
+                  E
+                  
+                    l
+                  
+                  
+                    n
+                  
+                
+                +
+                
+                  F
+                  
+                    l
+                  
+                
+                )
+                
+                  C
+                  
+                    l
+                  
+                
+                
+                  |
+                
+                n
+                l
+                ⟩
+              
+            
+            
+              
+              
+                
+                =
+                (
+                2
+                μ
+                
+                  H
+                  
+                    l
+                    +
+                    1
+                  
+                
+                +
+                
+                  G
+                  
+                    l
+                  
+                
+                )
+                
+                  C
+                  
+                    l
+                  
+                
+                
+                  |
+                
+                n
+                l
+                ⟩
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}C_{l}C_{l}^{*}C_{l}|nl\rangle &=(2\mu E_{l}^{n}+F_{l})C_{l}|nl\rangle \\&=(2\mu H_{l+1}+G_{l})C_{l}|nl\rangle ,\end{aligned}}}
+  
+
+which can be re-arranged as
+
+  
+    
+      
+        
+          H
+          
+            l
+            +
+            1
+          
+        
+        (
+        
+          C
+          
+            l
+          
+        
+        
+          |
+        
+        n
+        l
+        ⟩
+        )
+        =
+        [
+        
+          E
+          
+            l
+          
+          
+            n
+          
+        
+        +
+        (
+        
+          F
+          
+            l
+          
+        
+        −
+        
+          G
+          
+            l
+          
+        
+        )
+        
+          /
+        
+        (
+        2
+        μ
+        )
+        ]
+        (
+        
+          C
+          
+            l
+          
+        
+        
+          |
+        
+        n
+        l
+        ⟩
+        )
+        ,
+      
+    
+    {\displaystyle H_{l+1}(C_{l}|nl\rangle )=[E_{l}^{n}+(F_{l}-G_{l})/(2\mu )](C_{l}|nl\rangle ),}
+  
+
+showing that 
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+        
+          |
+        
+        n
+        l
+        ⟩
+      
+    
+    {\displaystyle C_{l}|nl\rangle }
+  
+ is an eigenstate of 
+  
+    
+      
+        
+          H
+          
+            l
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle H_{l+1}}
+  
+ with eigenvalue
+
+  
+    
+      
+        
+          E
+          
+            l
+            +
+            1
+          
+          
+            
+              n
+              ′
+            
+          
+        
+        =
+        
+          E
+          
+            l
+          
+          
+            n
+          
+        
+        +
+        (
+        
+          F
+          
+            l
+          
+        
+        −
+        
+          G
+          
+            l
+          
+        
+        )
+        
+          /
+        
+        (
+        2
+        μ
+        )
+        .
+      
+    
+    {\displaystyle E_{l+1}^{n'}=E_{l}^{n}+(F_{l}-G_{l})/(2\mu ).}
+  
+
+If 
+  
+    
+      
+        
+          F
+          
+            l
+          
+        
+        =
+        
+          G
+          
+            l
+          
+        
+      
+    
+    {\displaystyle F_{l}=G_{l}}
+  
+, then 
+  
+    
+      
+        
+          n
+          ′
+        
+        =
+        n
+      
+    
+    {\displaystyle n'=n}
+  
+, and the states 
+  
+    
+      
+        
+          |
+        
+        n
+        l
+        ⟩
+      
+    
+    {\displaystyle |nl\rangle }
+  
+ and 
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+        
+          |
+        
+        n
+        l
+        ⟩
+      
+    
+    {\displaystyle C_{l}|nl\rangle }
+  
+
+have the same energy.
+For the hydrogenic atom, setting
+
+  
+    
+      
+        V
+        (
+        r
+        )
+        =
+        −
+        
+          
+            
+              B
+              ℏ
+            
+            
+              μ
+              r
+            
+          
+        
+      
+    
+    {\displaystyle V(r)=-{\frac {B\hbar }{\mu r}}}
+  
+
+with
+
+  
+    
+      
+        B
+        =
+        
+          
+            
+              Z
+              μ
+              
+                e
+                
+                  2
+                
+              
+            
+            ℏ
+          
+        
+        ,
+      
+    
+    {\displaystyle B={\frac {Z\mu e^{2}}{\hbar }},}
+  
+
+a suitable equation for 
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+      
+    
+    {\displaystyle C_{l}}
+  
+ is
+
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+        =
+        
+          p
+          
+            r
+          
+        
+        +
+        
+          
+            
+              i
+              ℏ
+              (
+              l
+              +
+              1
+              )
+            
+            r
+          
+        
+        −
+        
+          
+            
+              i
+              B
+            
+            
+              l
+              +
+              1
+            
+          
+        
+      
+    
+    {\displaystyle C_{l}=p_{r}+{\frac {i\hbar (l+1)}{r}}-{\frac {iB}{l+1}}}
+  
+
+with
+
+  
+    
+      
+        
+          F
+          
+            l
+          
+        
+        =
+        
+          G
+          
+            l
+          
+        
+        =
+        
+          
+            
+              B
+              
+                2
+              
+            
+            
+              (
+              l
+              +
+              1
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle F_{l}=G_{l}={\frac {B^{2}}{(l+1)^{2}}}.}
+  
+
+There is an upper bound to the ladder operator if the energy is negative (so 
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+        
+          |
+        
+        n
+        
+          l
+          
+            max
+          
+        
+        ⟩
+        =
+        0
+      
+    
+    {\displaystyle C_{l}|nl_{\text{max}}\rangle =0}
+  
+
+for some 
+  
+    
+      
+        
+          l
+          
+            max
+          
+        
+      
+    
+    {\displaystyle l_{\text{max}}}
+  
+), then if follows from equation (1) that
+
+  
+    
+      
+        
+          E
+          
+            l
+          
+          
+            n
+          
+        
+        =
+        −
+        
+          F
+          
+            l
+          
+        
+        
+          /
+        
+        
+          2
+          μ
+        
+        =
+        −
+        
+          
+            
+              B
+              
+                2
+              
+            
+            
+              2
+              μ
+              (
+              
+                l
+                
+                  max
+                
+              
+              +
+              1
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        −
+        
+          
+            
+              μ
+              
+                Z
+                
+                  2
+                
+              
+              
+                e
+                
+                  4
+                
+              
+            
+            
+              2
+              
+                ℏ
+                
+                  2
+                
+              
+              (
+              
+                l
+                
+                  max
+                
+              
+              +
+              1
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle E_{l}^{n}=-F_{l}/{2\mu }=-{\frac {B^{2}}{2\mu (l_{\text{max}}+1)^{2}}}=-{\frac {\mu Z^{2}e^{4}}{2\hbar ^{2}(l_{\text{max}}+1)^{2}}},}
+  
+
+and 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ can be identified with 
+  
+    
+      
+        
+          l
+          
+            max
+          
+        
+        +
+        1.
+      
+    
+    {\displaystyle l_{\text{max}}+1.}
+  
+
+
+=== Relation to group theory ===
+Whenever there is degeneracy in a system, there is usually a related symmetry property and group. The degeneracy of the energy levels for the same value of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ but different angular momenta has been identified as the SO(4) symmetry of the spherically symmetric Coulomb potential.
+
+
+== 3D isotropic harmonic oscillator ==
+The 3D isotropic harmonic oscillator has a potential given by
+
+  
+    
+      
+        V
+        (
+        r
+        )
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        μ
+        
+          ω
+          
+            2
+          
+        
+        
+          r
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle V(r)={\tfrac {1}{2}}\mu \omega ^{2}r^{2}.}
+  
+
+It can similarly be managed using the factorization method.
+
+
+=== Factorization method ===
+A suitable factorization is given by
+
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+        =
+        
+          p
+          
+            r
+          
+        
+        +
+        
+          
+            
+              i
+              ℏ
+              (
+              l
+              +
+              1
+              )
+            
+            r
+          
+        
+        −
+        i
+        μ
+        ω
+        r
+      
+    
+    {\displaystyle C_{l}=p_{r}+{\frac {i\hbar (l+1)}{r}}-i\mu \omega r}
+  
+
+with
+
+  
+    
+      
+        
+          F
+          
+            l
+          
+        
+        =
+        −
+        (
+        2
+        l
+        +
+        3
+        )
+        μ
+        ω
+        ℏ
+      
+    
+    {\displaystyle F_{l}=-(2l+3)\mu \omega \hbar }
+  
+
+and
+
+  
+    
+      
+        
+          G
+          
+            l
+          
+        
+        =
+        −
+        (
+        2
+        l
+        +
+        1
+        )
+        μ
+        ω
+        ℏ
+        .
+      
+    
+    {\displaystyle G_{l}=-(2l+1)\mu \omega \hbar .}
+  
+
+Then
+
+  
+    
+      
+        
+          E
+          
+            l
+            +
+            1
+          
+          
+            
+              n
+              
+                
+                  
+                  ′
+                
+              
+            
+          
+        
+        =
+        
+          E
+          
+            l
+          
+          
+            n
+          
+        
+        +
+        
+          
+            
+              
+                F
+                
+                  l
+                
+              
+              −
+              
+                G
+                
+                  l
+                
+              
+            
+            
+              2
+              μ
+            
+          
+        
+        =
+        
+          E
+          
+            l
+          
+          
+            n
+          
+        
+        −
+        ω
+        ℏ
+        ,
+      
+    
+    {\displaystyle E_{l+1}^{n^{'}}=E_{l}^{n}+{\frac {F_{l}-G_{l}}{2\mu }}=E_{l}^{n}-\omega \hbar ,}
+  
+
+and continuing this,
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  E
+                  
+                    l
+                    +
+                    2
+                  
+                  
+                    
+                      n
+                      
+                        
+                          
+                          ′
+                        
+                      
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  E
+                  
+                    l
+                  
+                  
+                    n
+                  
+                
+                −
+                2
+                ω
+                ℏ
+              
+            
+            
+              
+                
+                  E
+                  
+                    l
+                    +
+                    3
+                  
+                  
+                    
+                      n
+                      
+                        
+                          
+                          ′
+                        
+                      
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  E
+                  
+                    l
+                  
+                  
+                    n
+                  
+                
+                −
+                3
+                ω
+                ℏ
+              
+            
+            
+              
+              
+                
+                
+                
+                ⋮
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}E_{l+2}^{n^{'}}&=E_{l}^{n}-2\omega \hbar \\E_{l+3}^{n^{'}}&=E_{l}^{n}-3\omega \hbar \\&\;\;\vdots \end{aligned}}}
+  
+
+Now the Hamiltonian only has positive energy levels as can be seen from
+
+  
+    
+      
+        
+          
+            
+              
+                ⟨
+                ψ
+                
+                  |
+                
+                2
+                μ
+                
+                  H
+                  
+                    l
+                  
+                
+                
+                  |
+                
+                ψ
+                ⟩
+              
+              
+                
+                =
+                ⟨
+                ψ
+                
+                  |
+                
+                
+                  C
+                  
+                    l
+                  
+                  
+                    ∗
+                  
+                
+                
+                  C
+                  
+                    l
+                  
+                
+                
+                  |
+                
+                ψ
+                ⟩
+                +
+                ⟨
+                ψ
+                
+                  |
+                
+                (
+                2
+                l
+                +
+                3
+                )
+                μ
+                ω
+                ℏ
+                
+                  |
+                
+                ψ
+                ⟩
+              
+            
+            
+              
+              
+                
+                =
+                ⟨
+                
+                  C
+                  
+                    l
+                  
+                
+                ψ
+                
+                  |
+                
+                
+                  C
+                  
+                    l
+                  
+                
+                ψ
+                ⟩
+                +
+                (
+                2
+                l
+                +
+                3
+                )
+                μ
+                ω
+                ℏ
+                ⟨
+                ψ
+                
+                  |
+                
+                ψ
+                ⟩
+              
+            
+            
+              
+              
+                
+                ≥
+                0.
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\langle \psi |2\mu H_{l}|\psi \rangle &=\langle \psi |C_{l}^{*}C_{l}|\psi \rangle +\langle \psi |(2l+3)\mu \omega \hbar |\psi \rangle \\&=\langle C_{l}\psi |C_{l}\psi \rangle +(2l+3)\mu \omega \hbar \langle \psi |\psi \rangle \\&\geq 0.\end{aligned}}}
+  
+
+This means that for some value of 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  
+ the series must terminate with 
+  
+    
+      
+        
+          C
+          
+            
+              l
+              
+                max
+              
+            
+          
+        
+        
+          |
+        
+        n
+        
+          l
+          
+            max
+          
+        
+        ⟩
+        =
+        0
+        ,
+      
+    
+    {\displaystyle C_{l_{\text{max}}}|nl_{\text{max}}\rangle =0,}
+  
+
+and then
+
+  
+    
+      
+        
+          E
+          
+            
+              l
+              
+                max
+              
+            
+          
+          
+            n
+          
+        
+        =
+        −
+        
+          
+            
+              F
+              
+                
+                  l
+                  
+                    max
+                  
+                
+              
+            
+            
+              2
+              μ
+            
+          
+        
+        =
+        
+          (
+          
+            
+              l
+              
+                max
+              
+            
+            +
+            
+              
+                3
+                2
+              
+            
+          
+          )
+        
+        ω
+        ℏ
+        .
+      
+    
+    {\displaystyle E_{l_{\text{max}}}^{n}=-{\frac {F_{l_{\text{max}}}}{2\mu }}=\left(l_{\text{max}}+{\frac {3}{2}}\right)\omega \hbar .}
+  
+
+This is decreasing in energy by 
+  
+    
+      
+        ω
+        ℏ
+      
+    
+    {\displaystyle \omega \hbar }
+  
+ unless 
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+        
+          |
+        
+        n
+        ,
+        l
+        ⟩
+        =
+        0
+      
+    
+    {\displaystyle C_{l}|n,l\rangle =0}
+  
+ for some value of 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  
+. Identifying this value as 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ gives
+
+  
+    
+      
+        
+          E
+          
+            l
+          
+          
+            n
+          
+        
+        =
+        −
+        
+          F
+          
+            l
+          
+        
+        =
+        
+          (
+          
+            n
+            +
+            
+              
+                
+                  3
+                  2
+                
+              
+            
+          
+          )
+        
+        ω
+        ℏ
+        .
+      
+    
+    {\displaystyle E_{l}^{n}=-F_{l}=\left(n+{\tfrac {3}{2}}\right)\omega \hbar .}
+  
+
+It then follows the 
+  
+    
+      
+        
+          n
+          ′
+        
+        =
+        n
+        −
+        1
+      
+    
+    {\displaystyle n'=n-1}
+  
+ so that
+
+  
+    
+      
+        
+          C
+          
+            l
+          
+        
+        
+          |
+        
+        n
+        l
+        ⟩
+        =
+        
+          λ
+          
+            l
+          
+          
+            n
+          
+        
+        
+          |
+        
+        n
+        −
+        1
+        ,
+        
+        l
+        +
+        1
+        ⟩
+        ,
+      
+    
+    {\displaystyle C_{l}|nl\rangle =\lambda _{l}^{n}|n-1,\,l+1\rangle ,}
+  
+
+giving a recursion relation on 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ with solution
+
+  
+    
+      
+        
+          λ
+          
+            l
+          
+          
+            n
+          
+        
+        =
+        −
+        μ
+        ω
+        ℏ
+        
+          
+            2
+            (
+            n
+            −
+            l
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle \lambda _{l}^{n}=-\mu \omega \hbar {\sqrt {2(n-l)}}.}
+  
+
+There is degeneracy caused from angular momentum; there is additional degeneracy caused by the oscillator potential.
+Consider the states 
+  
+    
+      
+        
+          |
+        
+        n
+        ,
+        
+        n
+        ⟩
+        ,
+        
+          |
+        
+        n
+        −
+        1
+        ,
+        
+        n
+        −
+        1
+        ⟩
+        ,
+        
+          |
+        
+        n
+        −
+        2
+        ,
+        
+        n
+        −
+        2
+        ⟩
+        ,
+        …
+      
+    
+    {\displaystyle |n,\,n\rangle ,|n-1,\,n-1\rangle ,|n-2,\,n-2\rangle ,\dots }
+  
+
+and apply the lowering operators 
+  
+    
+      
+        
+          C
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle C^{*}}
+  
+:
+
+  
+    
+      
+        
+          C
+          
+            n
+            −
+            2
+          
+          
+            ∗
+          
+        
+        
+          |
+        
+        n
+        −
+        1
+        ,
+        
+        n
+        −
+        1
+        ⟩
+        ,
+        
+          C
+          
+            n
+            −
+            4
+          
+          
+            ∗
+          
+        
+        
+          C
+          
+            n
+            −
+            3
+          
+          
+            ∗
+          
+        
+        
+          |
+        
+        n
+        −
+        2
+        ,
+        
+        n
+        −
+        2
+        ⟩
+        ,
+        …
+      
+    
+    {\displaystyle C_{n-2}^{*}|n-1,\,n-1\rangle ,C_{n-4}^{*}C_{n-3}^{*}|n-2,\,n-2\rangle ,\dots }
+  
+ giving the sequence 
+  
+    
+      
+        
+          |
+        
+        n
+        ,
+        n
+        ⟩
+        ,
+        
+          |
+        
+        n
+        ,
+        
+        n
+        −
+        2
+        ⟩
+        ,
+        
+          |
+        
+        n
+        ,
+        
+        n
+        −
+        4
+        ⟩
+        ,
+        …
+      
+    
+    {\displaystyle |n,n\rangle ,|n,\,n-2\rangle ,|n,\,n-4\rangle ,\dots }
+  
+
+with the same energy but with 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+  
+ decreasing by 2.
+In addition to the angular momentum degeneracy, this gives a total degeneracy of 
+  
+    
+      
+        (
+        n
+        +
+        1
+        )
+        (
+        n
+        +
+        2
+        )
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle (n+1)(n+2)/2}
+  
+
+
+=== Relation to group theory ===
+The degeneracies of the 3D isotropic harmonic oscillator are related to the special unitary group SU(3)
+
+
+== History ==
+Many sources credit Paul Dirac with the invention of ladder operators. Dirac's use of the ladder operators shows that the total angular momentum quantum number 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+ needs to be a non-negative half-integer multiple of ħ.
+
+
+== See also ==
+Chevalley basis
+Creation and annihilation operators
+
+
+== References ==

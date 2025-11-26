@@ -1,0 +1,76 @@
+A permanganate () is a chemical compound with the manganate(VII) ion, MnO−4, the conjugate base of permanganic acid. Because the manganese atom has a +7 oxidation state, the permanganate(VII) ion is a strong oxidising agent. The ion is a transition metal ion with a tetrahedral structure. Permanganate solutions are purple in colour and are stable in neutral or slightly alkaline media.
+
+
+== Production ==
+Permanganates can be produced by oxidation of manganese compounds such as manganese chloride or manganese sulfate by strong oxidizing agents, for instance, sodium hypochlorite or lead dioxide:
+
+2 MnCl2 + 5 NaClO + 6 NaOH → 2 NaMnO4 + 9 NaCl + 3 H2O
+2 MnSO4 + 5 PbO2 + 3 H2SO4 → 2 HMnO4 + 5 PbSO4 + 2 H2O
+It may also be produced by the disproportionation of manganates, with manganese dioxide as a side-product:
+
+3 Na2MnO4 + 2 H2O → 2 NaMnO4 + MnO2 + 4 NaOH
+They are produced commercially by electrolysis or air oxidation of alkaline solutions of manganate salts (MnO2−4).
+
+
+== Uses ==
+Permanganate compounds are common and strong disinfectants, used regularly to sanitize baths, toilets, and wash basins. It is a cheap and extremely effective compound for the task.
+Potassium permanganate is used as a disinfectant and water treatment additive in aquaculture.
+Permanganate compounds are useful reagents, but not very selective with organic compounds when used in organic synthesis.
+
+
+== Properties ==
+
+Permanganates are salts of permanganic acid. They have a deep purple colour, due to a charge transfer transition from oxo ligand p orbitals to empty orbitals derived from manganese(VII) d orbitals. Permanganate(VII) is a strong oxidizer, and similar to perchlorate. It is therefore in common use in qualitative analysis that involves redox reactions (permanganometry). According to theory, permanganate is strong enough to oxidize water, but this does not actually happen to any extent. Besides this, it is stable.
+
+
+== Reactions ==
+
+
+=== Thermal decomposition ===
+Permanganates are not very stable thermally. For instance, potassium permanganate decomposes at 230 °C to potassium manganate and manganese dioxide, releasing oxygen gas:
+
+2 KMnO4 → K2MnO4 + MnO2 + O2
+
+
+=== Acid-base reactions ===
+In an acidic solution, permanganate(VII) is reduced to the pale pink manganese(II) (Mn2+) with an oxidation state of +2.
+
+8 H+ + MnO−4 + 5 e− → Mn2+ + 4 H2O
+In a strongly basic or alkaline solution, permanganate(VII) is reduced to the green manganate ion, MnO2−4 with an oxidation state of +6.
+
+MnO−4 + e− → MnO2−4
+In a neutral solution, however, it gets reduced to the brown manganese dioxide MnO2 with an oxidation state of +4.
+
+2 H2O + MnO−4 + 3 e− → MnO2 + 4 OH−
+
+
+=== Oxidation of organic compounds ===
+When used to oxidize organic compounds, the exact chemical reaction depends on the organic reactant present. For example, trichloroethane (C2H3Cl3) is oxidised by permanganate ions to form carbon dioxide (CO2), manganese dioxide (MnO2), hydrogen ions (H+), and chloride ions (Cl−).
+
+8MnO−4 + 3C2H3Cl3 → 6CO2 + 8MnO2 + H+ + 4H2O + 9Cl−
+A permanganate can oxidize an amine to a nitro compound, a secondary alcohol to a ketone, a primary alcohol or aldehyde to a carboxylic acid, a terminal alkene to a carboxylic acid, oxalic acid to carbon dioxide, and an alkene to a diol. This list is not exhaustive.
+In alkene oxidations one intermediate is a cyclic Mn(V) species:
+
+
+== Compounds ==
+Ammonium permanganate, NH4MnO4
+Barium permanganate, Ba(MnO4)2
+Calcium permanganate, Ca(MnO4)2
+Lithium permanganate, LiMnO4
+Potassium permanganate, KMnO4
+Sodium permanganate, NaMnO4
+Silver permanganate, AgMnO4
+
+
+== Safety ==
+The fatal dose of permanganate is about 10 g, and several fatal intoxications have occurred. The strong oxidative effect leads to necrosis of the mucous membrane. For example, the esophagus is affected if the permanganate is swallowed. Only a limited amount is absorbed by the intestines, but this small amount shows severe effects on the kidneys and on the liver.
+
+
+== See also ==
+Perchlorate, a similar ion with a chlorine(VII) center
+Permanganate index
+Chromate, which is isoelectronic with permanganate
+Pertechnetate
+
+
+== References ==

@@ -1,0 +1,9152 @@
+In thermodynamics and solid-state physics, the Debye model is a method developed by Peter Debye in 1912 to estimate phonon contribution to the specific heat (heat capacity) in a solid. It treats the vibrations of the atomic lattice (heat) as phonons in a box in contrast to the Einstein photoelectron model, which treats the solid as many individual, non-interacting quantum harmonic oscillators. The Debye model correctly predicts the low-temperature dependence of the heat capacity of solids, which is proportional to the cube of temperature – the Debye T 3 law. Similarly to the Einstein photoelectron model, it recovers the Dulong–Petit law at high temperatures. Due to simplifying assumptions, its accuracy suffers at intermediate temperatures.
+
+
+== Derivation ==
+The Debye model treats atomic vibrations as phonons confined in the solid's volume. It is analogous to Planck's law of black body radiation, which treats electromagnetic radiation as a photon gas confined in a vacuum space. Most of the calculation steps are identical, as both are examples of a massless Bose gas with a linear dispersion relation.
+For a cube of side-length 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+, the resonating modes of the sonic disturbances (considering for now only those aligned with one axis), treated as particles in a box, have wavelengths given as
+
+  
+    
+      
+        
+          λ
+          
+            n
+          
+        
+        =
+        
+          
+            
+              2
+              L
+            
+            n
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \lambda _{n}={2L \over n}\,,}
+  
+
+where 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ is an integer. The energy of a phonon is given as
+
+  
+    
+      
+        
+          E
+          
+            n
+          
+        
+         
+        =
+        h
+        
+          ν
+          
+            n
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle E_{n}\ =h\nu _{n}\,,}
+  
+
+where 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ is the Planck constant and 
+  
+    
+      
+        
+          ν
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \nu _{n}}
+  
+ is the frequency of the phonon. Making the approximation that the frequency is inversely proportional to the wavelength,
+
+  
+    
+      
+        
+          E
+          
+            n
+          
+        
+        =
+        h
+        
+          ν
+          
+            n
+          
+        
+        =
+        
+          
+            
+              h
+              
+                c
+                
+                  
+                    s
+                  
+                
+              
+            
+            
+              λ
+              
+                n
+              
+            
+          
+        
+        =
+        
+          
+            
+              h
+              
+                c
+                
+                  s
+                
+              
+              n
+            
+            
+              2
+              L
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle E_{n}=h\nu _{n}={hc_{\rm {s}} \over \lambda _{n}}={hc_{s}n \over 2L}\,,}
+  
+
+in which 
+  
+    
+      
+        
+          c
+          
+            s
+          
+        
+      
+    
+    {\displaystyle c_{s}}
+  
+ is the speed of sound inside the solid. In three dimensions, energy can be generalized to
+
+  
+    
+      
+        
+          E
+          
+            n
+          
+          
+            2
+          
+        
+        =
+        
+          
+            p
+            
+              n
+            
+            
+              2
+            
+          
+          
+            c
+            
+              
+                s
+              
+            
+            
+              2
+            
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  h
+                  
+                    c
+                    
+                      
+                        s
+                      
+                    
+                  
+                
+                
+                  2
+                  L
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        
+          (
+          
+            
+              n
+              
+                x
+              
+              
+                2
+              
+            
+            +
+            
+              n
+              
+                y
+              
+              
+                2
+              
+            
+            +
+            
+              n
+              
+                z
+              
+              
+                2
+              
+            
+          
+          )
+        
+        
+        ,
+      
+    
+    {\displaystyle E_{n}^{2}={p_{n}^{2}c_{\rm {s}}^{2}}=\left({hc_{\rm {s}} \over 2L}\right)^{2}\left(n_{x}^{2}+n_{y}^{2}+n_{z}^{2}\right)\,,}
+  
+
+in which 
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+      
+    
+    {\displaystyle p_{n}}
+  
+ is the magnitude of the three-dimensional momentum of the phonon, and 
+  
+    
+      
+        
+          n
+          
+            x
+          
+        
+      
+    
+    {\displaystyle n_{x}}
+  
+, 
+  
+    
+      
+        
+          n
+          
+            y
+          
+        
+      
+    
+    {\displaystyle n_{y}}
+  
+, and 
+  
+    
+      
+        
+          n
+          
+            z
+          
+        
+      
+    
+    {\displaystyle n_{z}}
+  
+ are the components of the resonating mode along each of the three axes.
+The approximation that the frequency is inversely proportional to the wavelength (giving a constant speed of sound) is good for low-energy phonons but not for high-energy phonons, which is a limitation of the Debye model. This approximation leads to incorrect results at intermediate temperatures, whereas the results are exact at the low and high temperature limits.
+The total energy in the box, 
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+  
+, is given by
+
+  
+    
+      
+        U
+        =
+        
+          ∑
+          
+            n
+          
+        
+        
+          E
+          
+            n
+          
+        
+        
+        
+          
+            
+              N
+              ¯
+            
+          
+        
+        (
+        
+          E
+          
+            n
+          
+        
+        )
+        
+        ,
+      
+    
+    {\displaystyle U=\sum _{n}E_{n}\,{\bar {N}}(E_{n})\,,}
+  
+
+where 
+  
+    
+      
+        
+          
+            
+              N
+              ¯
+            
+          
+        
+        (
+        
+          E
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle {\bar {N}}(E_{n})}
+  
+ is the number of phonons in the box with energy 
+  
+    
+      
+        
+          E
+          
+            n
+          
+        
+      
+    
+    {\displaystyle E_{n}}
+  
+; the total energy is equal to the sum of energies over all energy levels, and the energy at a given level is found by multiplying its energy by the number of phonons with that energy. In three dimensions, each combination of modes in each of the three axes corresponds to an energy level, giving the total energy as:
+
+  
+    
+      
+        U
+        =
+        
+          ∑
+          
+            
+              n
+              
+                x
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              n
+              
+                y
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              n
+              
+                z
+              
+            
+          
+        
+        
+          E
+          
+            n
+          
+        
+        
+        
+          
+            
+              N
+              ¯
+            
+          
+        
+        (
+        
+          E
+          
+            n
+          
+        
+        )
+        
+        .
+      
+    
+    {\displaystyle U=\sum _{n_{x}}\sum _{n_{y}}\sum _{n_{z}}E_{n}\,{\bar {N}}(E_{n})\,.}
+  
+
+The Debye model and Planck's law of black body radiation differ here with respect to this sum. Unlike electromagnetic photon radiation in a box, there are a finite number of phonon energy states because a phonon cannot have an arbitrarily high frequency. Its frequency is bounded by its propagation medium—the atomic lattice of the solid. The following illustration describes transverse phonons in a cubic solid at varying frequencies:
+
+It is reasonable to assume that the minimum wavelength of a phonon is twice the atomic separation, as shown in the lowest example. With 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ atoms in a cubic solid, each axis of the cube measures as being 
+  
+    
+      
+        
+          
+            N
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt[{3}]{N}}}
+  
+ atoms long. Atomic separation is then given by 
+  
+    
+      
+        L
+        
+          /
+        
+        
+          
+            N
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle L/{\sqrt[{3}]{N}}}
+  
+, and the minimum wavelength is
+
+  
+    
+      
+        
+          λ
+          
+            
+              m
+              i
+              n
+            
+          
+        
+        =
+        
+          
+            
+              2
+              L
+            
+            
+              
+                N
+                
+                  3
+                
+              
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \lambda _{\rm {min}}={2L \over {\sqrt[{3}]{N}}}\,,}
+  
+
+making the maximum mode number 
+  
+    
+      
+        
+          n
+          
+            m
+            a
+            x
+          
+        
+      
+    
+    {\displaystyle n_{max}}
+  
+:
+
+  
+    
+      
+        
+          n
+          
+            
+              m
+              a
+              x
+            
+          
+        
+        =
+        
+          
+            N
+            
+              3
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle n_{\rm {max}}={\sqrt[{3}]{N}}\,.}
+  
+
+This contrasts with photons, for which the maximum mode number is infinite. This number bounds the upper limit of the triple energy sum
+
+  
+    
+      
+        U
+        =
+        
+          ∑
+          
+            
+              n
+              
+                x
+              
+            
+          
+          
+            
+              N
+              
+                3
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              n
+              
+                y
+              
+            
+          
+          
+            
+              N
+              
+                3
+              
+            
+          
+        
+        
+          ∑
+          
+            
+              n
+              
+                z
+              
+            
+          
+          
+            
+              N
+              
+                3
+              
+            
+          
+        
+        
+          E
+          
+            n
+          
+        
+        
+        
+          
+            
+              N
+              ¯
+            
+          
+        
+        (
+        
+          E
+          
+            n
+          
+        
+        )
+        
+        .
+      
+    
+    {\displaystyle U=\sum _{n_{x}}^{\sqrt[{3}]{N}}\sum _{n_{y}}^{\sqrt[{3}]{N}}\sum _{n_{z}}^{\sqrt[{3}]{N}}E_{n}\,{\bar {N}}(E_{n})\,.}
+  
+
+If 
+  
+    
+      
+        
+          E
+          
+            n
+          
+        
+      
+    
+    {\displaystyle E_{n}}
+  
+ is a function that is slowly varying with respect to 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+, the sums can be approximated with integrals: 
+  
+    
+      
+        U
+        ≈
+        
+          ∫
+          
+            0
+          
+          
+            
+              N
+              
+                3
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              N
+              
+                3
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              N
+              
+                3
+              
+            
+          
+        
+        E
+        (
+        n
+        )
+        
+        
+          
+            
+              N
+              ¯
+            
+          
+        
+        
+          (
+          
+            E
+            (
+            n
+            )
+          
+          )
+        
+        
+        d
+        
+          n
+          
+            x
+          
+        
+        
+        d
+        
+          n
+          
+            y
+          
+        
+        
+        d
+        
+          n
+          
+            z
+          
+        
+        
+        .
+      
+    
+    {\displaystyle U\approx \int _{0}^{\sqrt[{3}]{N}}\int _{0}^{\sqrt[{3}]{N}}\int _{0}^{\sqrt[{3}]{N}}E(n)\,{\bar {N}}\left(E(n)\right)\,dn_{x}\,dn_{y}\,dn_{z}\,.}
+  
+
+To evaluate this integral, the function 
+  
+    
+      
+        
+          
+            
+              N
+              ¯
+            
+          
+        
+        (
+        E
+        )
+      
+    
+    {\displaystyle {\bar {N}}(E)}
+  
+, the number of phonons with energy 
+  
+    
+      
+        E
+        
+        ,
+      
+    
+    {\displaystyle E\,,}
+  
+ must also be known. Phonons obey Bose–Einstein statistics, and their distribution is given by the Bose–Einstein statistics formula:
+
+  
+    
+      
+        ⟨
+        N
+        
+          ⟩
+          
+            B
+            E
+          
+        
+        =
+        
+          
+            1
+            
+              
+                e
+                
+                  E
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+              −
+              1
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \langle N\rangle _{BE}={1 \over e^{E/kT}-1}\,.}
+  
+
+Because a phonon has three possible polarization states (one longitudinal, and two transverse, which approximately do not affect its energy) the formula above must be multiplied by 3,
+
+  
+    
+      
+        
+          
+            
+              N
+              ¯
+            
+          
+        
+        (
+        E
+        )
+        =
+        
+          
+            3
+            
+              
+                e
+                
+                  E
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+              −
+              1
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle {\bar {N}}(E)={3 \over e^{E/kT}-1}\,.}
+  
+
+Considering all three polarization states together also means that an effective sonic velocity 
+  
+    
+      
+        
+          c
+          
+            
+              e
+              f
+              f
+            
+          
+        
+      
+    
+    {\displaystyle c_{\rm {eff}}}
+  
+ must be determined and used as the value of the standard sonic velocity 
+  
+    
+      
+        
+          c
+          
+            s
+          
+        
+        .
+      
+    
+    {\displaystyle c_{s}.}
+  
+ The Debye temperature 
+  
+    
+      
+        
+          T
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle T_{\rm {D}}}
+  
+ defined below is proportional to 
+  
+    
+      
+        
+          c
+          
+            
+              e
+              f
+              f
+            
+          
+        
+      
+    
+    {\displaystyle c_{\rm {eff}}}
+  
+; more precisely, 
+  
+    
+      
+        
+          T
+          
+            
+              D
+            
+          
+          
+            −
+            3
+          
+        
+        ∝
+        
+          c
+          
+            
+              e
+              f
+              f
+            
+          
+          
+            −
+            3
+          
+        
+        :=
+        
+          
+            1
+            3
+          
+        
+        
+          c
+          
+            
+              l
+              o
+              n
+              g
+            
+          
+          
+            −
+            3
+          
+        
+        +
+        
+          
+            2
+            3
+          
+        
+        
+          c
+          
+            
+              t
+              r
+              a
+              n
+              s
+            
+          
+          
+            −
+            3
+          
+        
+      
+    
+    {\displaystyle T_{\rm {D}}^{-3}\propto c_{\rm {eff}}^{-3}:={\frac {1}{3}}c_{\rm {long}}^{-3}+{\frac {2}{3}}c_{\rm {trans}}^{-3}}
+  
+, where longitudinal and transversal sound-wave velocities are averaged, weighted by the number of polarization states. The Debye temperature or the effective sonic velocity is a measure of the hardness of the crystal.
+Substituting 
+  
+    
+      
+        
+          
+            
+              N
+              ¯
+            
+          
+        
+        (
+        E
+        )
+      
+    
+    {\displaystyle {\bar {N}}(E)}
+  
+ into the energy integral yields
+
+  
+    
+      
+        U
+        =
+        
+          ∫
+          
+            0
+          
+          
+            
+              N
+              
+                3
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              N
+              
+                3
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              N
+              
+                3
+              
+            
+          
+        
+        E
+        (
+        n
+        )
+        
+        
+          
+            3
+            
+              
+                e
+                
+                  E
+                  (
+                  n
+                  )
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+              −
+              1
+            
+          
+        
+        
+        d
+        
+          n
+          
+            x
+          
+        
+        
+        d
+        
+          n
+          
+            y
+          
+        
+        
+        d
+        
+          n
+          
+            z
+          
+        
+        
+        .
+      
+    
+    {\displaystyle U=\int _{0}^{\sqrt[{3}]{N}}\int _{0}^{\sqrt[{3}]{N}}\int _{0}^{\sqrt[{3}]{N}}E(n)\,{3 \over e^{E(n)/kT}-1}\,dn_{x}\,dn_{y}\,dn_{z}\,.}
+  
+
+These integrals are evaluated for photons easily because their frequency, at least semi-classically, is unbound. The same is not true for phonons, so in order to approximate this triple integral, Peter Debye used spherical coordinates,
+
+  
+    
+      
+         
+        (
+        
+          n
+          
+            x
+          
+        
+        ,
+        
+          n
+          
+            y
+          
+        
+        ,
+        
+          n
+          
+            z
+          
+        
+        )
+        =
+        (
+        n
+        sin
+        ⁡
+        θ
+        cos
+        ⁡
+        ϕ
+        ,
+        n
+        sin
+        ⁡
+        θ
+        sin
+        ⁡
+        ϕ
+        ,
+        n
+        cos
+        ⁡
+        θ
+        )
+        
+        ,
+      
+    
+    {\displaystyle \ (n_{x},n_{y},n_{z})=(n\sin \theta \cos \phi ,n\sin \theta \sin \phi ,n\cos \theta )\,,}
+  
+
+and approximated the cube with an eighth of a sphere,
+
+  
+    
+      
+        U
+        ≈
+        
+          ∫
+          
+            0
+          
+          
+            π
+            
+              /
+            
+            2
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            π
+            
+              /
+            
+            2
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            R
+          
+        
+        E
+        (
+        n
+        )
+        
+        
+          
+            3
+            
+              
+                e
+                
+                  E
+                  (
+                  n
+                  )
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+              −
+              1
+            
+          
+        
+        
+          n
+          
+            2
+          
+        
+        sin
+        ⁡
+        θ
+        
+        d
+        n
+        
+        d
+        θ
+        
+        d
+        ϕ
+        
+        ,
+      
+    
+    {\displaystyle U\approx \int _{0}^{\pi /2}\int _{0}^{\pi /2}\int _{0}^{R}E(n)\,{3 \over e^{E(n)/kT}-1}n^{2}\sin \theta \,dn\,d\theta \,d\phi \,,}
+  
+
+where 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+ is the radius of this sphere. As the energy function does not depend on either of the angles, the equation can be simplified to
+
+  
+    
+      
+        
+        3
+        
+          ∫
+          
+            0
+          
+          
+            π
+            
+              /
+            
+            2
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            π
+            
+              /
+            
+            2
+          
+        
+        sin
+        ⁡
+        θ
+        
+        d
+        θ
+        
+        d
+        ϕ
+        
+        
+          ∫
+          
+            0
+          
+          
+            R
+          
+        
+        E
+        (
+        n
+        )
+        
+        
+          
+            1
+            
+              
+                e
+                
+                  E
+                  (
+                  n
+                  )
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+              −
+              1
+            
+          
+        
+        
+          n
+          
+            2
+          
+        
+        d
+        n
+        
+        =
+        
+          
+            
+              3
+              π
+            
+            2
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            R
+          
+        
+        E
+        (
+        n
+        )
+        
+        
+          
+            1
+            
+              
+                e
+                
+                  E
+                  (
+                  n
+                  )
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+              −
+              1
+            
+          
+        
+        
+          n
+          
+            2
+          
+        
+        d
+        n
+        
+      
+    
+    {\displaystyle \,3\int _{0}^{\pi /2}\int _{0}^{\pi /2}\sin \theta \,d\theta \,d\phi \,\int _{0}^{R}E(n)\,{\frac {1}{e^{E(n)/kT}-1}}n^{2}dn\,={\frac {3\pi }{2}}\int _{0}^{R}E(n)\,{\frac {1}{e^{E(n)/kT}-1}}n^{2}dn\,}
+  
+
+The number of particles in the original cube and in the eighth of a sphere should be equivalent. The volume of the cube is 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ unit cell volumes,
+
+  
+    
+      
+        N
+        =
+        
+          
+            1
+            8
+          
+        
+        
+          
+            4
+            3
+          
+        
+        π
+        
+          R
+          
+            3
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle N={1 \over 8}{4 \over 3}\pi R^{3}\,,}
+  
+
+such that the radius must be
+
+  
+    
+      
+        R
+        =
+        
+          
+            
+              
+                6
+                N
+              
+              π
+            
+            
+              3
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle R={\sqrt[{3}]{6N \over \pi }}\,.}
+  
+
+The substitution of integration over a sphere for the correct integral over a cube introduces another source of inaccuracy into the resulting model.
+After making the spherical substitution and substituting in the function 
+  
+    
+      
+        E
+        (
+        n
+        )
+        
+      
+    
+    {\displaystyle E(n)\,}
+  
+, the energy integral becomes
+
+  
+    
+      
+        U
+        =
+        
+          
+            
+              3
+              π
+            
+            2
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            R
+          
+        
+        
+        
+          
+            
+              h
+              
+                c
+                
+                  s
+                
+              
+              n
+            
+            
+              2
+              L
+            
+          
+        
+        
+          
+            
+              n
+              
+                2
+              
+            
+            
+              
+                e
+                
+                  h
+                  
+                    c
+                    
+                      
+                        s
+                      
+                    
+                  
+                  n
+                  
+                    /
+                  
+                  2
+                  L
+                  k
+                  T
+                
+              
+              −
+              1
+            
+          
+        
+        
+        d
+        n
+      
+    
+    {\displaystyle U={3\pi  \over 2}\int _{0}^{R}\,{hc_{s}n \over 2L}{n^{2} \over e^{hc_{\rm {s}}n/2LkT}-1}\,dn}
+  
+.
+Changing the integration variable to 
+  
+    
+      
+        x
+        =
+        
+          
+            
+              h
+              
+                c
+                
+                  
+                    s
+                  
+                
+              
+              n
+            
+            
+              2
+              L
+              k
+              T
+            
+          
+        
+      
+    
+    {\displaystyle x={hc_{\rm {s}}n \over 2LkT}}
+  
+,
+
+  
+    
+      
+        U
+        =
+        
+          
+            
+              3
+              π
+            
+            2
+          
+        
+        k
+        T
+        
+          
+            (
+            
+              
+                
+                  2
+                  L
+                  k
+                  T
+                
+                
+                  h
+                  
+                    c
+                    
+                      
+                        s
+                      
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            3
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            h
+            
+              c
+              
+                
+                  s
+                
+              
+            
+            R
+            
+              /
+            
+            2
+            L
+            k
+            T
+          
+        
+        
+          
+            
+              x
+              
+                3
+              
+            
+            
+              
+                e
+                
+                  x
+                
+              
+              −
+              1
+            
+          
+        
+        
+        d
+        x
+        .
+      
+    
+    {\displaystyle U={3\pi  \over 2}kT\left({2LkT \over hc_{\rm {s}}}\right)^{3}\int _{0}^{hc_{\rm {s}}R/2LkT}{x^{3} \over e^{x}-1}\,dx.}
+  
+
+To simplify the appearance of this expression, define the Debye temperature 
+  
+    
+      
+        
+          T
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle T_{\rm {D}}}
+  
+
+  
+    
+      
+        
+          T
+          
+            
+              D
+            
+          
+        
+         
+        
+          
+            
+              
+                =
+              
+              
+                
+                  d
+                  e
+                  f
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              h
+              
+                c
+                
+                  
+                    s
+                  
+                
+              
+              R
+            
+            
+              2
+              L
+              k
+            
+          
+        
+        =
+        
+          
+            
+              h
+              
+                c
+                
+                  
+                    s
+                  
+                
+              
+            
+            
+              2
+              L
+              k
+            
+          
+        
+        
+          
+            
+              
+                6
+                N
+              
+              π
+            
+            
+              3
+            
+          
+        
+        =
+        
+          
+            
+              h
+              
+                c
+                
+                  
+                    s
+                  
+                
+              
+            
+            
+              2
+              k
+            
+          
+        
+        
+          
+            
+              
+                
+                  6
+                  π
+                
+              
+              
+                
+                  N
+                  V
+                
+              
+            
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle T_{\rm {D}}\ {\stackrel {\mathrm {def} }{=}}\ {hc_{\rm {s}}R \over 2Lk}={hc_{\rm {s}} \over 2Lk}{\sqrt[{3}]{6N \over \pi }}={hc_{\rm {s}} \over 2k}{\sqrt[{3}]{{6 \over \pi }{N \over V}}}}
+  
+
+where 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  
+ is the volume of the cubic box of side-length 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+.
+Some authors describe the Debye temperature as shorthand for some constants and material-dependent variables. However, 
+  
+    
+      
+        k
+        
+          T
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle kT_{\rm {D}}}
+  
+ is roughly equal to the phonon energy of the minimum wavelength mode, and so we can interpret the Debye temperature as the temperature at which the highest-frequency mode is excited. Additionally, since all other modes are of a lower energy than the highest-frequency mode, all modes are excited at this temperature.
+From the total energy, the specific internal energy can be calculated:
+
+  
+    
+      
+        
+          
+            U
+            
+              N
+              k
+            
+          
+        
+        =
+        9
+        T
+        
+          
+            (
+            
+              
+                T
+                
+                  T
+                  
+                    
+                      D
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            3
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              T
+              
+                
+                  D
+                
+              
+            
+            
+              /
+            
+            T
+          
+        
+        
+          
+            
+              x
+              
+                3
+              
+            
+            
+              
+                e
+                
+                  x
+                
+              
+              −
+              1
+            
+          
+        
+        
+        d
+        x
+        =
+        3
+        T
+        
+          D
+          
+            3
+          
+        
+        
+          (
+          
+            
+              
+                T
+                
+                  
+                    D
+                  
+                
+              
+              T
+            
+          
+          )
+        
+        
+        ,
+      
+    
+    {\displaystyle {\frac {U}{Nk}}=9T\left({T \over T_{\rm {D}}}\right)^{3}\int _{0}^{T_{\rm {D}}/T}{x^{3} \over e^{x}-1}\,dx=3TD_{3}\left({T_{\rm {D}} \over T}\right)\,,}
+  
+
+where 
+  
+    
+      
+        
+          D
+          
+            3
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle D_{3}(x)}
+  
+ is the third Debye function. Differentiating this function with respect to 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ produces the dimensionless heat capacity:
+
+  
+    
+      
+        
+          
+            
+              C
+              
+                V
+              
+            
+            
+              N
+              k
+            
+          
+        
+        =
+        9
+        
+          
+            (
+            
+              
+                T
+                
+                  T
+                  
+                    
+                      D
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            3
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              T
+              
+                
+                  D
+                
+              
+            
+            
+              /
+            
+            T
+          
+        
+        
+          
+            
+              
+                x
+                
+                  4
+                
+              
+              
+                e
+                
+                  x
+                
+              
+            
+            
+              
+                (
+                
+                  
+                    e
+                    
+                      x
+                    
+                  
+                  −
+                  1
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+        
+        d
+        x
+        
+        .
+      
+    
+    {\displaystyle {\frac {C_{V}}{Nk}}=9\left({T \over T_{\rm {D}}}\right)^{3}\int _{0}^{T_{\rm {D}}/T}{x^{4}e^{x} \over \left(e^{x}-1\right)^{2}}\,dx\,.}
+  
+
+These formulae treat the Debye model at all temperatures. The more elementary formulae given further down give the asymptotic behavior in the limit of low and high temperatures. The essential reason for the exactness at low and high energies is, respectively, that the Debye model gives the exact dispersion relation 
+  
+    
+      
+        E
+        (
+        ν
+        )
+      
+    
+    {\displaystyle E(\nu )}
+  
+ at low frequencies, and corresponds to the exact density of states 
+  
+    
+      
+        (
+        ∫
+        g
+        (
+        ν
+        )
+        
+        d
+        ν
+        ≡
+        3
+        N
+        )
+      
+    
+    {\textstyle (\int g(\nu )\,d\nu \equiv 3N)}
+  
+ at high temperatures, concerning the number of vibrations per frequency interval.
+
+
+== Debye's derivation ==
+Debye derived his equation differently and more simply. Using continuum mechanics, he found that the number of vibrational states with a frequency less than a particular value was asymptotic to
+
+  
+    
+      
+        n
+        ∼
+        
+          
+            1
+            3
+          
+        
+        
+          ν
+          
+            3
+          
+        
+        V
+        F
+        
+        ,
+      
+    
+    {\displaystyle n\sim {1 \over 3}\nu ^{3}VF\,,}
+  
+
+in which 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  
+ is the volume and 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ is a factor that he calculated from elasticity coefficients and density. Combining this formula with the expected energy of a harmonic oscillator at temperature 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ (already used by Einstein in his model) would give an energy of
+
+  
+    
+      
+        U
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+        
+          
+            
+              h
+              
+                ν
+                
+                  3
+                
+              
+              V
+              F
+            
+            
+              
+                e
+                
+                  h
+                  ν
+                  
+                    /
+                  
+                  k
+                  T
+                
+              
+              −
+              1
+            
+          
+        
+        
+        d
+        ν
+        
+        ,
+      
+    
+    {\displaystyle U=\int _{0}^{\infty }\,{h\nu ^{3}VF \over e^{h\nu /kT}-1}\,d\nu \,,}
+  
+
+if the vibrational frequencies continued to infinity. This form gives the 
+  
+    
+      
+        
+          T
+          
+            3
+          
+        
+      
+    
+    {\displaystyle T^{3}}
+  
+ behaviour which is correct at low temperatures. But Debye realized that there could not be more than 
+  
+    
+      
+        3
+        N
+      
+    
+    {\displaystyle 3N}
+  
+ vibrational states for N atoms. He made the assumption that in an atomic solid, the spectrum of frequencies of the vibrational states would continue to follow the above rule, up to a maximum frequency 
+  
+    
+      
+        
+          ν
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \nu _{m}}
+  
+ chosen so that the total number of states is 
+
+  
+    
+      
+        3
+        N
+        =
+        
+          
+            1
+            3
+          
+        
+        
+          ν
+          
+            m
+          
+          
+            3
+          
+        
+        V
+        F
+        
+        .
+      
+    
+    {\displaystyle 3N={1 \over 3}\nu _{m}^{3}VF\,.}
+  
+
+Debye knew that this assumption was not really correct (the higher frequencies are more closely spaced than assumed), but it guarantees the proper behaviour at high temperature (the Dulong–Petit law). The energy is then given by
+
+  
+    
+      
+        
+          
+            
+              
+                U
+              
+              
+                
+                =
+                
+                  ∫
+                  
+                    0
+                  
+                  
+                    
+                      ν
+                      
+                        m
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      h
+                      
+                        ν
+                        
+                          3
+                        
+                      
+                      V
+                      F
+                    
+                    
+                      
+                        e
+                        
+                          h
+                          ν
+                          
+                            /
+                          
+                          k
+                          T
+                        
+                      
+                      −
+                      1
+                    
+                  
+                
+                
+                d
+                ν
+                
+                ,
+              
+            
+            
+              
+              
+                
+                =
+                V
+                F
+                k
+                T
+                (
+                k
+                T
+                
+                  /
+                
+                h
+                
+                  )
+                  
+                    3
+                  
+                
+                
+                  ∫
+                  
+                    0
+                  
+                  
+                    
+                      T
+                      
+                        
+                          D
+                        
+                      
+                    
+                    
+                      /
+                    
+                    T
+                  
+                
+                
+                
+                  
+                    
+                      x
+                      
+                        3
+                      
+                    
+                    
+                      
+                        e
+                        
+                          x
+                        
+                      
+                      −
+                      1
+                    
+                  
+                
+                
+                d
+                x
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}U&=\int _{0}^{\nu _{m}}\,{h\nu ^{3}VF \over e^{h\nu /kT}-1}\,d\nu \,,\\&=VFkT(kT/h)^{3}\int _{0}^{T_{\rm {D}}/T}\,{x^{3} \over e^{x}-1}\,dx\,.\end{aligned}}}
+  
+
+Substituting 
+  
+    
+      
+        
+          T
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle T_{\rm {D}}}
+  
+ for 
+  
+    
+      
+        h
+        
+          ν
+          
+            m
+          
+        
+        
+          /
+        
+        k
+      
+    
+    {\displaystyle h\nu _{m}/k}
+  
+,
+
+  
+    
+      
+        
+          
+            
+              
+                U
+              
+              
+                
+                =
+                9
+                N
+                k
+                T
+                (
+                T
+                
+                  /
+                
+                
+                  T
+                  
+                    
+                      D
+                    
+                  
+                
+                
+                  )
+                  
+                    3
+                  
+                
+                
+                  ∫
+                  
+                    0
+                  
+                  
+                    
+                      T
+                      
+                        
+                          D
+                        
+                      
+                    
+                    
+                      /
+                    
+                    T
+                  
+                
+                
+                
+                  
+                    
+                      x
+                      
+                        3
+                      
+                    
+                    
+                      
+                        e
+                        
+                          x
+                        
+                      
+                      −
+                      1
+                    
+                  
+                
+                
+                d
+                x
+                
+                ,
+              
+            
+            
+              
+              
+                
+                =
+                3
+                N
+                k
+                T
+                
+                  D
+                  
+                    3
+                  
+                
+                (
+                
+                  T
+                  
+                    
+                      D
+                    
+                  
+                
+                
+                  /
+                
+                T
+                )
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}U&=9NkT(T/T_{\rm {D}})^{3}\int _{0}^{T_{\rm {D}}/T}\,{x^{3} \over e^{x}-1}\,dx\,,\\&=3NkTD_{3}(T_{\rm {D}}/T)\,,\end{aligned}}}
+  
+
+where 
+  
+    
+      
+        
+          D
+          
+            3
+          
+        
+      
+    
+    {\displaystyle D_{3}}
+  
+ is the function later given the name of third-order Debye function.
+
+
+== Another derivation ==
+First the vibrational frequency distribution is derived from Appendix VI of Terrell L. Hill's An Introduction to Statistical Mechanics. Consider a three-dimensional isotropic elastic solid with N atoms in the shape of a rectangular parallelepiped with side-lengths 
+  
+    
+      
+        
+          L
+          
+            x
+          
+        
+        ,
+        
+          L
+          
+            y
+          
+        
+        ,
+        
+          L
+          
+            z
+          
+        
+      
+    
+    {\displaystyle L_{x},L_{y},L_{z}}
+  
+. The elastic wave will obey the wave equation and will be plane waves; consider the wave vector 
+  
+    
+      
+        
+          k
+        
+        =
+        (
+        
+          k
+          
+            x
+          
+        
+        ,
+        
+          k
+          
+            y
+          
+        
+        ,
+        
+          k
+          
+            z
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {k} =(k_{x},k_{y},k_{z})}
+  
+ and define 
+  
+    
+      
+        
+          l
+          
+            x
+          
+        
+        =
+        
+          
+            
+              k
+              
+                x
+              
+            
+            
+              
+                |
+              
+              
+                k
+              
+              
+                |
+              
+            
+          
+        
+        ,
+        
+          l
+          
+            y
+          
+        
+        =
+        
+          
+            
+              k
+              
+                y
+              
+            
+            
+              
+                |
+              
+              
+                k
+              
+              
+                |
+              
+            
+          
+        
+        ,
+        
+          l
+          
+            z
+          
+        
+        =
+        
+          
+            
+              k
+              
+                z
+              
+            
+            
+              
+                |
+              
+              
+                k
+              
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle l_{x}={\frac {k_{x}}{|\mathbf {k} |}},l_{y}={\frac {k_{y}}{|\mathbf {k} |}},l_{z}={\frac {k_{z}}{|\mathbf {k} |}}}
+  
+, such that
+
+Solutions to the wave equation are
+
+  
+    
+      
+        u
+        (
+        x
+        ,
+        y
+        ,
+        z
+        ,
+        t
+        )
+        =
+        sin
+        ⁡
+        (
+        2
+        π
+        ν
+        t
+        )
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                2
+                π
+                
+                  l
+                  
+                    x
+                  
+                
+                x
+              
+              λ
+            
+          
+          )
+        
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                2
+                π
+                
+                  l
+                  
+                    y
+                  
+                
+                y
+              
+              λ
+            
+          
+          )
+        
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                2
+                π
+                
+                  l
+                  
+                    z
+                  
+                
+                z
+              
+              λ
+            
+          
+          )
+        
+      
+    
+    {\displaystyle u(x,y,z,t)=\sin(2\pi \nu t)\sin \left({\frac {2\pi l_{x}x}{\lambda }}\right)\sin \left({\frac {2\pi l_{y}y}{\lambda }}\right)\sin \left({\frac {2\pi l_{z}z}{\lambda }}\right)}
+  
+
+and with the boundary conditions 
+  
+    
+      
+        u
+        =
+        0
+      
+    
+    {\displaystyle u=0}
+  
+ at 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        z
+        =
+        0
+        ,
+        x
+        =
+        
+          L
+          
+            x
+          
+        
+        ,
+        y
+        =
+        
+          L
+          
+            y
+          
+        
+        ,
+        z
+        =
+        
+          L
+          
+            z
+          
+        
+      
+    
+    {\displaystyle x,y,z=0,x=L_{x},y=L_{y},z=L_{z}}
+  
+,
+
+where 
+  
+    
+      
+        
+          n
+          
+            x
+          
+        
+        ,
+        
+          n
+          
+            y
+          
+        
+        ,
+        
+          n
+          
+            z
+          
+        
+      
+    
+    {\displaystyle n_{x},n_{y},n_{z}}
+  
+ are positive integers. Substituting (2) into (1) and also using the dispersion relation 
+  
+    
+      
+        
+          c
+          
+            s
+          
+        
+        =
+        λ
+        ν
+      
+    
+    {\displaystyle c_{s}=\lambda \nu }
+  
+,
+
+  
+    
+      
+        
+          
+            
+              n
+              
+                x
+              
+              
+                2
+              
+            
+            
+              (
+              2
+              ν
+              
+                L
+                
+                  x
+                
+              
+              
+                /
+              
+              
+                c
+                
+                  s
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              n
+              
+                y
+              
+              
+                2
+              
+            
+            
+              (
+              2
+              ν
+              
+                L
+                
+                  y
+                
+              
+              
+                /
+              
+              
+                c
+                
+                  s
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              n
+              
+                z
+              
+              
+                2
+              
+            
+            
+              (
+              2
+              ν
+              
+                L
+                
+                  z
+                
+              
+              
+                /
+              
+              
+                c
+                
+                  s
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        1.
+      
+    
+    {\displaystyle {\frac {n_{x}^{2}}{(2\nu L_{x}/c_{s})^{2}}}+{\frac {n_{y}^{2}}{(2\nu L_{y}/c_{s})^{2}}}+{\frac {n_{z}^{2}}{(2\nu L_{z}/c_{s})^{2}}}=1.}
+  
+
+The above equation, for fixed frequency 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  
+, describes an eighth of an ellipse in "mode space" (an eighth because 
+  
+    
+      
+        
+          n
+          
+            x
+          
+        
+        ,
+        
+          n
+          
+            y
+          
+        
+        ,
+        
+          n
+          
+            z
+          
+        
+      
+    
+    {\displaystyle n_{x},n_{y},n_{z}}
+  
+ are positive). The number of modes with frequency less than 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  
+ is thus the number of integral points inside the ellipse, which, in the limit of 
+  
+    
+      
+        
+          L
+          
+            x
+          
+        
+        ,
+        
+          L
+          
+            y
+          
+        
+        ,
+        
+          L
+          
+            z
+          
+        
+        →
+        ∞
+      
+    
+    {\displaystyle L_{x},L_{y},L_{z}\to \infty }
+  
+ (i.e. for a very large parallelepiped) can be approximated to the volume of the ellipse. Hence, the number of modes 
+  
+    
+      
+        N
+        (
+        ν
+        )
+      
+    
+    {\displaystyle N(\nu )}
+  
+ with frequency in the range 
+  
+    
+      
+        [
+        0
+        ,
+        ν
+        ]
+      
+    
+    {\displaystyle [0,\nu ]}
+  
+ is
+
+where 
+  
+    
+      
+        V
+        =
+        
+          L
+          
+            x
+          
+        
+        
+          L
+          
+            y
+          
+        
+        
+          L
+          
+            z
+          
+        
+      
+    
+    {\displaystyle V=L_{x}L_{y}L_{z}}
+  
+ is the volume of the parallelepiped. The wave speed in the longitudinal direction is different from the transverse direction and that the waves can be polarised one way in the longitudinal direction and two ways in the transverse direction and ca be defined as 
+  
+    
+      
+        
+          
+            3
+            
+              c
+              
+                s
+              
+              
+                3
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              c
+              
+                long
+              
+              
+                3
+              
+            
+          
+        
+        +
+        
+          
+            2
+            
+              c
+              
+                trans
+              
+              
+                3
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {3}{c_{s}^{3}}}={\frac {1}{c_{\text{long}}^{3}}}+{\frac {2}{c_{\text{trans}}^{3}}}}
+  
+.
+Following the derivation from A First Course in Thermodynamics, an upper limit to the frequency of vibration is defined 
+  
+    
+      
+        
+          ν
+          
+            D
+          
+        
+      
+    
+    {\displaystyle \nu _{D}}
+  
+; since there are 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ atoms in the solid, there are 
+  
+    
+      
+        3
+        N
+      
+    
+    {\displaystyle 3N}
+  
+ quantum harmonic oscillators (3 for each x-, y-, z- direction) oscillating over the range of frequencies 
+  
+    
+      
+        [
+        0
+        ,
+        
+          ν
+          
+            D
+          
+        
+        ]
+      
+    
+    {\displaystyle [0,\nu _{D}]}
+  
+. 
+  
+    
+      
+        
+          ν
+          
+            D
+          
+        
+      
+    
+    {\displaystyle \nu _{D}}
+  
+ can be determined using
+
+By defining 
+  
+    
+      
+        
+          ν
+          
+            
+              D
+            
+          
+        
+        =
+        
+          
+            
+              k
+              
+                T
+                
+                  
+                    D
+                  
+                
+              
+            
+            h
+          
+        
+      
+    
+    {\displaystyle \nu _{\rm {D}}={\frac {kT_{\rm {D}}}{h}}}
+  
+, where k is the Boltzmann constant and h is the Planck constant, and substituting (4) into (3),
+
+this definition is more standard; the energy contribution for all oscillators oscillating at frequency 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  
+ can be found. Quantum harmonic oscillators can have energies 
+  
+    
+      
+        
+          E
+          
+            i
+          
+        
+        =
+        (
+        i
+        +
+        1
+        
+          /
+        
+        2
+        )
+        h
+        ν
+      
+    
+    {\displaystyle E_{i}=(i+1/2)h\nu }
+  
+ where 
+  
+    
+      
+        i
+        =
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+      
+    
+    {\displaystyle i=0,1,2,\dotsc }
+  
+ and using Maxwell-Boltzmann statistics, the number of particles with energy 
+  
+    
+      
+        
+          E
+          
+            i
+          
+        
+      
+    
+    {\displaystyle E_{i}}
+  
+ is
+
+  
+    
+      
+        
+          n
+          
+            i
+          
+        
+        =
+        
+          
+            1
+            A
+          
+        
+        
+          e
+          
+            −
+            
+              E
+              
+                i
+              
+            
+            
+              /
+            
+            (
+            k
+            T
+            )
+          
+        
+        =
+        
+          
+            1
+            A
+          
+        
+        
+          e
+          
+            −
+            (
+            i
+            +
+            1
+            
+              /
+            
+            2
+            )
+            h
+            ν
+            
+              /
+            
+            (
+            k
+            T
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle n_{i}={\frac {1}{A}}e^{-E_{i}/(kT)}={\frac {1}{A}}e^{-(i+1/2)h\nu /(kT)}.}
+  
+
+The energy contribution for oscillators with frequency 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  
+ is then
+
+By noting that 
+  
+    
+      
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          n
+          
+            i
+          
+        
+        =
+        d
+        N
+        (
+        ν
+        )
+      
+    
+    {\displaystyle \sum _{i=0}^{\infty }n_{i}=dN(\nu )}
+  
+ (because there are 
+  
+    
+      
+        d
+        N
+        (
+        ν
+        )
+      
+    
+    {\displaystyle dN(\nu )}
+  
+ modes oscillating with frequency 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  
+),
+
+  
+    
+      
+        
+          
+            1
+            A
+          
+        
+        
+          e
+          
+            −
+            1
+            
+              /
+            
+            2
+            h
+            ν
+            
+              /
+            
+            (
+            k
+            T
+            )
+          
+        
+        
+          ∑
+          
+            i
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          e
+          
+            −
+            i
+            h
+            ν
+            
+              /
+            
+            (
+            k
+            T
+            )
+          
+        
+        =
+        
+          
+            1
+            A
+          
+        
+        
+          e
+          
+            −
+            1
+            
+              /
+            
+            2
+            h
+            ν
+            
+              /
+            
+            (
+            k
+            T
+            )
+          
+        
+        
+          
+            1
+            
+              1
+              −
+              
+                e
+                
+                  −
+                  h
+                  ν
+                  
+                    /
+                  
+                  (
+                  k
+                  T
+                  )
+                
+              
+            
+          
+        
+        =
+        d
+        N
+        (
+        ν
+        )
+        .
+      
+    
+    {\displaystyle {\frac {1}{A}}e^{-1/2h\nu /(kT)}\sum _{i=0}^{\infty }e^{-ih\nu /(kT)}={\frac {1}{A}}e^{-1/2h\nu /(kT)}{\frac {1}{1-e^{-h\nu /(kT)}}}=dN(\nu ).}
+  
+
+From above, we can get an expression for 1/A; substituting it into (6),
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                U
+              
+              
+                
+                =
+                d
+                N
+                (
+                ν
+                )
+                
+                  e
+                  
+                    1
+                    
+                      /
+                    
+                    2
+                    h
+                    ν
+                    
+                      /
+                    
+                    (
+                    k
+                    T
+                    )
+                  
+                
+                (
+                1
+                −
+                
+                  e
+                  
+                    −
+                    h
+                    ν
+                    
+                      /
+                    
+                    (
+                    k
+                    T
+                    )
+                  
+                
+                )
+                
+                  ∑
+                  
+                    i
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                h
+                ν
+                (
+                i
+                +
+                1
+                
+                  /
+                
+                2
+                )
+                
+                  e
+                  
+                    −
+                    h
+                    ν
+                    (
+                    i
+                    +
+                    1
+                    
+                      /
+                    
+                    2
+                    )
+                    
+                      /
+                    
+                    (
+                    k
+                    T
+                    )
+                  
+                
+              
+            
+            
+              
+            
+            
+              
+              
+                
+                =
+                d
+                N
+                (
+                ν
+                )
+                (
+                1
+                −
+                
+                  e
+                  
+                    −
+                    h
+                    ν
+                    
+                      /
+                    
+                    (
+                    k
+                    T
+                    )
+                  
+                
+                )
+                
+                  ∑
+                  
+                    i
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                h
+                ν
+                (
+                i
+                +
+                1
+                
+                  /
+                
+                2
+                )
+                
+                  e
+                  
+                    −
+                    h
+                    ν
+                    i
+                    
+                      /
+                    
+                    (
+                    k
+                    T
+                    )
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                d
+                N
+                (
+                ν
+                )
+                h
+                ν
+                
+                  (
+                  
+                    
+                      
+                        1
+                        2
+                      
+                    
+                    +
+                    (
+                    1
+                    −
+                    
+                      e
+                      
+                        −
+                        h
+                        ν
+                        
+                          /
+                        
+                        (
+                        k
+                        T
+                        )
+                      
+                    
+                    )
+                    
+                      ∑
+                      
+                        i
+                        =
+                        0
+                      
+                      
+                        ∞
+                      
+                    
+                    i
+                    
+                      e
+                      
+                        −
+                        h
+                        ν
+                        i
+                        
+                          /
+                        
+                        (
+                        k
+                        T
+                        )
+                      
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+              
+                
+                =
+                d
+                N
+                (
+                ν
+                )
+                h
+                ν
+                
+                  (
+                  
+                    
+                      
+                        1
+                        2
+                      
+                    
+                    +
+                    
+                      
+                        1
+                        
+                          
+                            e
+                            
+                              h
+                              ν
+                              
+                                /
+                              
+                              (
+                              k
+                              T
+                              )
+                            
+                          
+                          −
+                          1
+                        
+                      
+                    
+                  
+                  )
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}dU&=dN(\nu )e^{1/2h\nu /(kT)}(1-e^{-h\nu /(kT)})\sum _{i=0}^{\infty }h\nu (i+1/2)e^{-h\nu (i+1/2)/(kT)}\\\\&=dN(\nu )(1-e^{-h\nu /(kT)})\sum _{i=0}^{\infty }h\nu (i+1/2)e^{-h\nu i/(kT)}\\&=dN(\nu )h\nu \left({\frac {1}{2}}+(1-e^{-h\nu /(kT)})\sum _{i=0}^{\infty }ie^{-h\nu i/(kT)}\right)\\&=dN(\nu )h\nu \left({\frac {1}{2}}+{\frac {1}{e^{h\nu /(kT)}-1}}\right).\end{aligned}}}
+  
+
+Integrating with respect to ν yields
+
+  
+    
+      
+        U
+        =
+        
+          
+            
+              9
+              N
+              
+                h
+                
+                  4
+                
+              
+            
+            
+              
+                k
+                
+                  3
+                
+              
+              
+                T
+                
+                  
+                    D
+                  
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              ν
+              
+                D
+              
+            
+          
+        
+        
+          (
+          
+            
+              
+                1
+                2
+              
+            
+            +
+            
+              
+                1
+                
+                  
+                    e
+                    
+                      h
+                      ν
+                      
+                        /
+                      
+                      (
+                      k
+                      T
+                      )
+                    
+                  
+                  −
+                  1
+                
+              
+            
+          
+          )
+        
+        
+          ν
+          
+            3
+          
+        
+        d
+        ν
+        .
+      
+    
+    {\displaystyle U={\frac {9Nh^{4}}{k^{3}T_{\rm {D}}^{3}}}\int _{0}^{\nu _{D}}\left({\frac {1}{2}}+{\frac {1}{e^{h\nu /(kT)}-1}}\right)\nu ^{3}d\nu .}
+  
+
+
+== Temperature limits ==
+The temperature of a Debye solid is said to be low if 
+  
+    
+      
+        T
+        ≪
+        
+          T
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle T\ll T_{\rm {D}}}
+  
+, leading to
+
+  
+    
+      
+        
+          
+            
+              C
+              
+                V
+              
+            
+            
+              N
+              k
+            
+          
+        
+        ∼
+        9
+        
+          
+            (
+            
+              
+                T
+                
+                  T
+                  
+                    
+                      D
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            3
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                x
+                
+                  4
+                
+              
+              
+                e
+                
+                  x
+                
+              
+            
+            
+              
+                (
+                
+                  
+                    e
+                    
+                      x
+                    
+                  
+                  −
+                  1
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+        
+        d
+        x
+        .
+      
+    
+    {\displaystyle {\frac {C_{V}}{Nk}}\sim 9\left({T \over T_{\rm {D}}}\right)^{3}\int _{0}^{\infty }{x^{4}e^{x} \over \left(e^{x}-1\right)^{2}}\,dx.}
+  
+
+This definite integral can be evaluated exactly:
+
+  
+    
+      
+        
+          
+            
+              C
+              
+                V
+              
+            
+            
+              N
+              k
+            
+          
+        
+        ∼
+        
+          
+            
+              12
+              
+                π
+                
+                  4
+                
+              
+            
+            5
+          
+        
+        
+          
+            (
+            
+              
+                T
+                
+                  T
+                  
+                    
+                      D
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {C_{V}}{Nk}}\sim {12\pi ^{4} \over 5}\left({T \over T_{\rm {D}}}\right)^{3}.}
+  
+
+In the low-temperature limit, the limitations of the Debye model mentioned above do not apply, and it gives a correct relationship between (phononic) heat capacity, temperature, the elastic coefficients, and the volume per atom (the latter quantities being contained in the Debye temperature).
+The temperature of a Debye solid is said to be high if 
+  
+    
+      
+        T
+        ≫
+        
+          T
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle T\gg T_{\rm {D}}}
+  
+. Using 
+  
+    
+      
+        
+          e
+          
+            x
+          
+        
+        −
+        1
+        ≈
+        x
+      
+    
+    {\displaystyle e^{x}-1\approx x}
+  
+ if 
+  
+    
+      
+        
+          |
+        
+        x
+        
+          |
+        
+        ≪
+        1
+      
+    
+    {\displaystyle |x|\ll 1}
+  
+ leads to
+
+  
+    
+      
+        
+          
+            
+              C
+              
+                V
+              
+            
+            
+              N
+              k
+            
+          
+        
+        ∼
+        9
+        
+          
+            (
+            
+              
+                T
+                
+                  T
+                  
+                    
+                      D
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            3
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              T
+              
+                
+                  D
+                
+              
+            
+            
+              /
+            
+            T
+          
+        
+        
+          
+            
+              x
+              
+                4
+              
+            
+            
+              x
+              
+                2
+              
+            
+          
+        
+        
+        d
+        x
+      
+    
+    {\displaystyle {\frac {C_{V}}{Nk}}\sim 9\left({T \over T_{\rm {D}}}\right)^{3}\int _{0}^{T_{\rm {D}}/T}{x^{4} \over x^{2}}\,dx}
+  
+
+which upon integration gives 
+
+  
+    
+      
+        
+          
+            
+              C
+              
+                V
+              
+            
+            
+              N
+              k
+            
+          
+        
+        ∼
+        3
+        
+        .
+      
+    
+    {\displaystyle {\frac {C_{V}}{Nk}}\sim 3\,.}
+  
+
+This is the Dulong–Petit law, and is fairly accurate although it does not take into account anharmonicity, which causes the heat capacity to rise further. The total heat capacity of the solid, if it is a conductor or semiconductor, may also contain a non-negligible contribution from the electrons.
+
+
+== Debye versus Einstein ==
+
+The Debye and Einstein models correspond closely to experimental data, but the Debye model is correct at low temperatures whereas the Einstein model is not. To visualize the difference between the models, one would naturally plot the two on the same set of axes, but this is not immediately possible as both the Einstein model and the Debye model provide a functional form for the heat capacity. As models, they require scales to relate them to their real-world counterparts. One can see that the scale of the Einstein model is given by 
+  
+    
+      
+        ϵ
+        
+          /
+        
+        k
+      
+    
+    {\displaystyle \epsilon /k}
+  
+:
+
+  
+    
+      
+        
+          C
+          
+            V
+          
+        
+        =
+        3
+        N
+        k
+        
+          
+            (
+            
+              
+                ϵ
+                
+                  k
+                  T
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        
+          
+            
+              e
+              
+                ϵ
+                
+                  /
+                
+                k
+                T
+              
+            
+            
+              
+                (
+                
+                  
+                    e
+                    
+                      ϵ
+                      
+                        /
+                      
+                      k
+                      T
+                    
+                  
+                  −
+                  1
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle C_{V}=3Nk\left({\epsilon  \over kT}\right)^{2}{e^{\epsilon /kT} \over \left(e^{\epsilon /kT}-1\right)^{2}}.}
+  
+
+The scale of the Debye model is 
+  
+    
+      
+        
+          T
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle T_{\rm {D}}}
+  
+, the Debye temperature. Both are usually found by fitting the models to the experimental data. (The Debye temperature can theoretically be calculated from the speed of sound and crystal dimensions.) Because the two methods approach the problem from different directions and different geometries, Einstein and Debye scales are not the same, that is to say
+
+  
+    
+      
+        
+          
+            ϵ
+            k
+          
+        
+        ≠
+        
+          T
+          
+            
+              D
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle {\epsilon  \over k}\neq T_{\rm {D}}\,,}
+  
+
+which means that plotting them on the same set of axes makes no sense. They are two models of the same thing, but of different scales. If one defines the Einstein condensation temperature as
+
+  
+    
+      
+        
+          T
+          
+            
+              E
+            
+          
+        
+         
+        
+          
+            
+              
+                =
+              
+              
+                
+                  d
+                  e
+                  f
+                
+              
+            
+          
+        
+         
+        
+          
+            ϵ
+            k
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle T_{\rm {E}}\ {\stackrel {\mathrm {def} }{=}}\ {\epsilon  \over k}\,,}
+  
+
+then one can say
+
+  
+    
+      
+        
+          T
+          
+            
+              E
+            
+          
+        
+        ≠
+        
+          T
+          
+            
+              D
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle T_{\rm {E}}\neq T_{\rm {D}}\,,}
+  
+
+and, to relate the two, the ratio
+  
+    
+      
+        
+          
+            
+              T
+              
+                
+                  E
+                
+              
+            
+            
+              T
+              
+                
+                  D
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle {\frac {T_{\rm {E}}}{T_{\rm {D}}}}\,}
+  
+ is used.
+The Einstein solid is composed of single-frequency quantum harmonic oscillators, 
+  
+    
+      
+        ϵ
+        =
+        ℏ
+        ω
+        =
+        h
+        ν
+      
+    
+    {\displaystyle \epsilon =\hbar \omega =h\nu }
+  
+. That frequency, if it indeed existed, would be related to the speed of sound in the solid. If one imagines the propagation of sound as a sequence of atoms hitting one another, then the frequency of oscillation must correspond to the minimum wavelength sustainable by the atomic lattice, 
+  
+    
+      
+        
+          λ
+          
+            m
+            i
+            n
+          
+        
+      
+    
+    {\displaystyle \lambda _{min}}
+  
+, where
+
+  
+    
+      
+        ν
+        =
+        
+          
+            
+              c
+              
+                
+                  s
+                
+              
+            
+            λ
+          
+        
+        =
+        
+          
+            
+              
+                c
+                
+                  
+                    s
+                  
+                
+              
+              
+                
+                  N
+                  
+                    3
+                  
+                
+              
+            
+            
+              2
+              L
+            
+          
+        
+        =
+        
+          
+            
+              c
+              
+                
+                  s
+                
+              
+            
+            2
+          
+        
+        
+          
+            
+              N
+              V
+            
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \nu ={c_{\rm {s}} \over \lambda }={c_{\rm {s}}{\sqrt[{3}]{N}} \over 2L}={c_{\rm {s}} \over 2}{\sqrt[{3}]{N \over V}}}
+  
+,
+which makes the Einstein temperature 
+  
+    
+      
+        
+          T
+          
+            
+              E
+            
+          
+        
+        =
+        
+          
+            ϵ
+            k
+          
+        
+        =
+        
+          
+            
+              h
+              ν
+            
+            k
+          
+        
+        =
+        
+          
+            
+              h
+              
+                c
+                
+                  
+                    s
+                  
+                
+              
+            
+            
+              2
+              k
+            
+          
+        
+        
+          
+            
+              N
+              V
+            
+            
+              3
+            
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle T_{\rm {E}}={\epsilon  \over k}={h\nu  \over k}={hc_{\rm {s}} \over 2k}{\sqrt[{3}]{N \over V}}\,,}
+  
+ and the sought ratio is therefore
+
+  
+    
+      
+        
+          
+            
+              T
+              
+                
+                  E
+                
+              
+            
+            
+              T
+              
+                
+                  D
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              π
+              6
+            
+            
+              3
+            
+          
+        
+         
+        =
+        0.805995977...
+      
+    
+    {\displaystyle {T_{\rm {E}} \over T_{\rm {D}}}={\sqrt[{3}]{\pi  \over 6}}\ =0.805995977...}
+  
+
+Using the ratio, both models can be plotted on the same graph. It is the cube root of the ratio of the volume of one octant of a three-dimensional sphere to the volume of the cube that contains it, which is just the correction factor used by Debye when approximating the energy integral above. Alternatively, the ratio of the two temperatures can be seen to be the ratio of Einstein's single frequency at which all oscillators oscillate and Debye's maximum frequency. Einstein's single frequency can then be seen to be a mean of the frequencies available to the Debye model. The mean frequency in Debye's model is
+
+  
+    
+      
+        
+          
+            
+              
+                ν
+                ¯
+              
+            
+          
+          =
+          3
+          
+            ∫
+            
+              0
+            
+            
+              
+                ν
+                
+                  
+                    D
+                  
+                
+              
+            
+          
+          
+            
+              
+                ν
+                
+                  3
+                
+              
+              
+                ν
+                
+                  
+                    D
+                  
+                
+                
+                  3
+                
+              
+            
+          
+          d
+          ν
+          =
+          
+            
+              3
+              4
+            
+          
+          
+            ν
+            
+              
+                D
+              
+            
+          
+        
+      
+    
+    {\displaystyle {{\bar {\nu }}=3\int _{0}^{\nu _{\rm {D}}}{\frac {\nu ^{3}}{\nu _{\rm {D}}^{3}}}d\nu ={\frac {3}{4}}\nu _{\rm {D}}}}
+  
+
+and therefore the relation between Einstein and Debye's frequencies (and thus the relation between the temperatures in both models) is:
+
+  
+    
+      
+        
+          
+            
+              
+                ν
+                
+                  
+                    E
+                  
+                
+              
+              
+                ν
+                
+                  
+                    D
+                  
+                
+              
+            
+          
+          =
+          
+            
+              
+                T
+                
+                  
+                    E
+                  
+                
+              
+              
+                T
+                
+                  
+                    D
+                  
+                
+              
+            
+          
+          =
+          0.75
+        
+      
+    
+    {\displaystyle {{\frac {\nu _{\rm {E}}}{\nu _{\rm {D}}}}={\frac {T_{\rm {E}}}{T_{\rm {D}}}}=0.75}}
+  
+
+
+== Debye temperature table ==
+Even though the Debye model is not completely correct, it gives a good approximation for the low temperature heat capacity of insulating, crystalline solids where other contributions (such as highly mobile conduction electrons) are negligible. For metals, the electron contribution to the heat is proportional to 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+, which at low temperatures dominates the Debye 
+  
+    
+      
+        
+          T
+          
+            3
+          
+        
+      
+    
+    {\displaystyle T^{3}}
+  
+ result for lattice vibrations. In this case, the Debye model can only be said to approximate the lattice contribution to the specific heat. The following table lists Debye temperatures for several pure elements and sapphire:
+
+The Debye model's fit to experimental data is often phenomenologically improved by allowing the Debye temperature to become temperature dependent; for example, the value for ice increases from about 222 K to 300 K as the temperature goes from absolute zero to about 100 K.
+
+
+== Extension to other quasi-particles ==
+For other bosonic quasi-particles, e.g., magnons (quantized spin waves) in ferromagnets instead of the phonons (quantized sound waves), one can derive analogous results. In this case at low frequencies one has different dispersion relations of momentum and energy, e.g., 
+  
+    
+      
+        E
+        (
+        ν
+        )
+        ∝
+        
+          k
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E(\nu )\propto k^{2}}
+  
+ in the case of magnons, instead of 
+  
+    
+      
+        E
+        (
+        ν
+        )
+        ∝
+        k
+      
+    
+    {\displaystyle E(\nu )\propto k}
+  
+ for phonons (with 
+  
+    
+      
+        k
+        =
+        2
+        π
+        
+          /
+        
+        λ
+      
+    
+    {\displaystyle k=2\pi /\lambda }
+  
+). One also has different density of states (e.g., 
+  
+    
+      
+        ∫
+        g
+        (
+        ν
+        )
+        
+          
+            d
+          
+        
+        ν
+        ≡
+        N
+        
+      
+    
+    {\displaystyle \int g(\nu ){\rm {d}}\nu \equiv N\,}
+  
+). As a consequence, in ferromagnets one gets a magnon contribution to the heat capacity, 
+  
+    
+      
+        Δ
+        
+          C
+          
+            
+            
+              
+                V
+                
+                  |
+                
+                
+                m
+                a
+                g
+                n
+                o
+                n
+              
+            
+          
+        
+        
+        ∝
+        
+          T
+          
+            3
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \Delta C_{\,{\rm {V|\,magnon}}}\,\propto T^{3/2}}
+  
+, which dominates at sufficiently low temperatures the phonon contribution, 
+  
+    
+      
+        
+        Δ
+        
+          C
+          
+            
+            
+              
+                V
+                
+                  |
+                
+                
+                p
+                h
+                o
+                n
+                o
+                n
+              
+            
+          
+        
+        ∝
+        
+          T
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \,\Delta C_{\,{\rm {V|\,phonon}}}\propto T^{3}}
+  
+. In metals, in contrast, the main low-temperature contribution to the heat capacity, 
+  
+    
+      
+        ∝
+        T
+      
+    
+    {\displaystyle \propto T}
+  
+, comes from the electrons. It is fermionic, and is calculated by different methods going back to Sommerfeld's free electron model.
+
+
+== Extension to liquids ==
+It was long thought that phonon theory is not able to explain the heat capacity of liquids, since liquids only sustain longitudinal, but not transverse phonons, which in solids are responsible for 2/3 of the heat capacity. However, Brillouin scattering experiments with neutrons and with X-rays, confirming an intuition of Yakov Frenkel, have shown that transverse phonons do exist in liquids, albeit restricted to frequencies above a threshold called the Frenkel frequency. Since most energy is contained in these high-frequency modes, a simple modification of the Debye model is sufficient to yield a good approximation to experimental heat capacities of simple liquids. More recently, it has been shown that instantaneous normal modes associated with relaxations from saddle points in the liquid energy landscape, which dominate the frequency spectrum of liquids at low frequencies, may determine the specific heat of liquids as a function of temperature over a broad range.
+
+
+== Debye frequency ==
+The Debye frequency (Symbol: 
+  
+    
+      
+        
+          ω
+          
+            
+              D
+              e
+              b
+              y
+              e
+            
+          
+        
+      
+    
+    {\displaystyle \omega _{\rm {Debye}}}
+  
+ or 
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle \omega _{\rm {D}}}
+  
+) is a parameter in the Debye model that refers to a cut-off angular frequency for waves of a harmonic chain of masses, used to describe the movement of ions in a crystal lattice and more specifically, to correctly predict that the heat capacity in such crystals is constant at high temperatures (Dulong–Petit law). The concept was first introduced by Peter Debye in 1912.
+Throughout this section, periodic boundary conditions are assumed.
+
+
+=== Definition ===
+Assuming the dispersion relation is
+
+  
+    
+      
+        ω
+        =
+        
+          v
+          
+            
+              s
+            
+          
+        
+        
+          |
+        
+        
+          k
+        
+        
+          |
+        
+        ,
+      
+    
+    {\displaystyle \omega =v_{\rm {s}}|\mathbf {k} |,}
+  
+
+with 
+  
+    
+      
+        
+          v
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle v_{\rm {s}}}
+  
+ the speed of sound in the crystal and k the wave vector, the value of the Debye frequency is as follows:
+For a one-dimensional monatomic chain, the Debye frequency is equal to
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+        
+        =
+        
+          v
+          
+            
+              s
+            
+          
+        
+        π
+        
+          /
+        
+        a
+        =
+        
+          v
+          
+            
+              s
+            
+          
+        
+        π
+        N
+        
+          /
+        
+        L
+        =
+        
+          v
+          
+            
+              s
+            
+          
+        
+        π
+        λ
+        ,
+      
+    
+    {\displaystyle \omega _{\rm {D}}=v_{\rm {s}}\pi /a=v_{\rm {s}}\pi N/L=v_{\rm {s}}\pi \lambda ,}
+  
+
+with 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ as the distance between two neighbouring atoms in the chain when the system is in its ground state of energy, here being that none of the atoms are moving with respect to one another; 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+ the total number of atoms in the chain; 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+ the size of the system, which is the length of the chain; and 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ the linear number density. For 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+, 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+, and 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+, the relation 
+  
+    
+      
+        L
+        =
+        N
+        a
+      
+    
+    {\displaystyle L=Na}
+  
+ holds.
+For a two-dimensional monatomic square lattice, the Debye frequency is equal to
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              4
+              π
+            
+            
+              a
+              
+                2
+              
+            
+          
+        
+        
+          v
+          
+            
+              s
+            
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              4
+              π
+              N
+            
+            A
+          
+        
+        
+          v
+          
+            
+              s
+            
+          
+          
+            2
+          
+        
+        ≡
+        4
+        π
+        σ
+        
+          v
+          
+            
+              s
+            
+          
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle \omega _{\rm {D}}^{2}={\frac {4\pi }{a^{2}}}v_{\rm {s}}^{2}={\frac {4\pi N}{A}}v_{\rm {s}}^{2}\equiv 4\pi \sigma v_{\rm {s}}^{2},}
+  
+
+with 
+  
+    
+      
+        A
+        ≡
+        
+          L
+          
+            2
+          
+        
+        =
+        N
+        
+          a
+          
+            2
+          
+        
+      
+    
+    {\displaystyle A\equiv L^{2}=Na^{2}}
+  
+ is the size (area) of the surface, and 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ the surface number density.
+For a three-dimensional monatomic primitive cubic crystal, the Debye frequency is equal to
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+          
+            3
+          
+        
+        =
+        
+          
+            
+              6
+              
+                π
+                
+                  2
+                
+              
+            
+            
+              a
+              
+                3
+              
+            
+          
+        
+        
+          v
+          
+            
+              s
+            
+          
+          
+            3
+          
+        
+        =
+        
+          
+            
+              6
+              
+                π
+                
+                  2
+                
+              
+              N
+            
+            V
+          
+        
+        
+          v
+          
+            
+              s
+            
+          
+          
+            3
+          
+        
+        ≡
+        6
+        
+          π
+          
+            2
+          
+        
+        ρ
+        
+          v
+          
+            
+              s
+            
+          
+          
+            3
+          
+        
+        ,
+      
+    
+    {\displaystyle \omega _{\rm {D}}^{3}={\frac {6\pi ^{2}}{a^{3}}}v_{\rm {s}}^{3}={\frac {6\pi ^{2}N}{V}}v_{\rm {s}}^{3}\equiv 6\pi ^{2}\rho v_{\rm {s}}^{3},}
+  
+
+with 
+  
+    
+      
+        V
+        ≡
+        
+          L
+          
+            3
+          
+        
+        =
+        N
+        
+          a
+          
+            3
+          
+        
+      
+    
+    {\displaystyle V\equiv L^{3}=Na^{3}}
+  
+ the size of the system, and 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+ the volume number density.
+The general formula for the Debye frequency as a function of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+, the number of dimensions for a (hyper)cubic lattice is
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+          
+            n
+          
+        
+        =
+        
+          2
+          
+            n
+          
+        
+        
+          π
+          
+            n
+            
+              /
+            
+            2
+          
+        
+        Γ
+        
+          (
+          
+            1
+            +
+            
+              
+                
+                  n
+                  2
+                
+              
+            
+          
+          )
+        
+        
+          
+            N
+            
+              L
+              
+                n
+              
+            
+          
+        
+        
+          v
+          
+            
+              s
+            
+          
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle \omega _{\rm {D}}^{n}=2^{n}\pi ^{n/2}\Gamma \left(1+{\tfrac {n}{2}}\right){\frac {N}{L^{n}}}v_{\rm {s}}^{n},}
+  
+
+with 
+  
+    
+      
+        Γ
+      
+    
+    {\displaystyle \Gamma }
+  
+ being the gamma function.
+The speed of sound in the crystal depends on the mass of the atoms, the strength of their interaction, the pressure on the system, and the polarisation of the spin wave (longitudinal or transverse), among others. For the following, the speed of sound is assumed to be the same for any polarisation, although this limits the applicability of the result.
+The assumed dispersion relation is easily proven inaccurate for a one-dimensional chain of masses, but in Debye's model, this does not prove to be problematic.
+
+
+=== Relation to Debye's temperature ===
+The Debye temperature 
+  
+    
+      
+        
+          θ
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle \theta _{\rm {D}}}
+  
+, another parameter in Debye model, is related to the Debye frequency by the relation 
+  
+    
+      
+        
+          θ
+          
+            
+              D
+            
+          
+        
+        =
+        
+          
+            ℏ
+            
+              k
+              
+                
+                  B
+                
+              
+            
+          
+        
+        
+          ω
+          
+            
+              D
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \theta _{\rm {D}}={\frac {\hbar }{k_{\rm {B}}}}\omega _{\rm {D}},}
+  
+ where 
+  
+    
+      
+        ℏ
+      
+    
+    {\displaystyle \hbar }
+  
+ is the reduced Planck constant and 
+  
+    
+      
+        
+          k
+          
+            
+              B
+            
+          
+        
+      
+    
+    {\displaystyle k_{\rm {B}}}
+  
+ is the Boltzmann constant.
+
+
+=== Debye's derivation ===
+
+
+==== Three-dimensional crystal ====
+In Debye's derivation of the heat capacity, he sums over all possible modes of the system, accounting for different directions and polarisations. He assumed the total number of modes per polarization to be 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  
+, the amount of masses in the system, and the total to be
+
+  
+    
+      
+        
+          ∑
+          
+            
+              m
+              o
+              d
+              e
+              s
+            
+          
+        
+        3
+        =
+        3
+        N
+        ,
+      
+    
+    {\displaystyle \sum _{\rm {modes}}3=3N,}
+  
+
+with three polarizations per mode. The sum runs over all modes without differentiating between different polarizations, and then counts the total number of polarization-mode combinations. Debye made this assumption based on an assumption from classical mechanics that the number of modes per polarization in a chain of masses should always be equal to the number of masses in the chain.
+The left hand side can be made explicit to show how it depends on the Debye frequency, introduced first as a cut-off frequency beyond which no frequencies exist. By relating the cut-off frequency to the maximum number of modes, an expression for the cut-off frequency can be derived.
+First of all, by assuming 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+ to be very large (
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+ ≫ 1, with 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+ the size of the system in any of the three directions) the smallest wave vector in any direction could be approximated by: 
+  
+    
+      
+        d
+        
+          k
+          
+            i
+          
+        
+        =
+        2
+        π
+        
+          /
+        
+        L
+      
+    
+    {\displaystyle dk_{i}=2\pi /L}
+  
+, with 
+  
+    
+      
+        i
+        =
+        x
+        ,
+        y
+        ,
+        z
+      
+    
+    {\displaystyle i=x,y,z}
+  
+. Smaller wave vectors cannot exist because of the periodic boundary conditions. Thus the summation would become 
+
+  
+    
+      
+        
+          ∑
+          
+            
+              m
+              o
+              d
+              e
+              s
+            
+          
+        
+        3
+        =
+        
+          
+            
+              3
+              V
+            
+            
+              (
+              2
+              π
+              
+                )
+                
+                  3
+                
+              
+            
+          
+        
+        ∭
+        d
+        
+          k
+        
+        ,
+      
+    
+    {\displaystyle \sum _{\rm {modes}}3={\frac {3V}{(2\pi )^{3}}}\iiint d\mathbf {k} ,}
+  
+
+where 
+  
+    
+      
+        
+          k
+        
+        ≡
+        (
+        
+          k
+          
+            x
+          
+        
+        ,
+        
+          k
+          
+            y
+          
+        
+        ,
+        
+          k
+          
+            z
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {k} \equiv (k_{x},k_{y},k_{z})}
+  
+; 
+  
+    
+      
+        V
+        ≡
+        
+          L
+          
+            3
+          
+        
+      
+    
+    {\displaystyle V\equiv L^{3}}
+  
+ is the size of the system; and the integral is (as the summation) over all possible modes, which is assumed to be a finite region (bounded by the cut-off frequency).
+The triple integral could be rewritten as a single integral over all possible values of the absolute value of 
+  
+    
+      
+        
+          k
+        
+      
+    
+    {\displaystyle \mathbf {k} }
+  
+ (see Jacobian for spherical coordinates). The result is
+
+  
+    
+      
+        
+          
+            
+              3
+              V
+            
+            
+              (
+              2
+              π
+              
+                )
+                
+                  3
+                
+              
+            
+          
+        
+        ∭
+        d
+        
+          k
+        
+        =
+        
+          
+            
+              3
+              V
+            
+            
+              2
+              
+                π
+                
+                  2
+                
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              k
+              
+                
+                  D
+                
+              
+            
+          
+        
+        
+          |
+        
+        
+          k
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        d
+        
+          k
+        
+        ,
+      
+    
+    {\displaystyle {\frac {3V}{(2\pi )^{3}}}\iiint d\mathbf {k} ={\frac {3V}{2\pi ^{2}}}\int _{0}^{k_{\rm {D}}}|\mathbf {k} |^{2}d\mathbf {k} ,}
+  
+
+with 
+  
+    
+      
+        
+          k
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle k_{\rm {D}}}
+  
+ the absolute value of the wave vector corresponding with the Debye frequency, so 
+  
+    
+      
+        
+          k
+          
+            
+              D
+            
+          
+        
+        =
+        
+          ω
+          
+            
+              D
+            
+          
+        
+        
+          /
+        
+        
+          v
+          
+            
+              s
+            
+          
+        
+      
+    
+    {\displaystyle k_{\rm {D}}=\omega _{\rm {D}}/v_{\rm {s}}}
+  
+.
+Since the dispersion relation is 
+  
+    
+      
+        ω
+        =
+        
+          v
+          
+            
+              s
+            
+          
+        
+        
+          |
+        
+        
+          k
+        
+        
+          |
+        
+      
+    
+    {\displaystyle \omega =v_{\rm {s}}|\mathbf {k} |}
+  
+, it can be written as an integral over all possible 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+  
+:
+
+  
+    
+      
+        
+          
+            
+              3
+              V
+            
+            
+              2
+              
+                π
+                
+                  2
+                
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              k
+              
+                
+                  D
+                
+              
+            
+          
+        
+        
+          |
+        
+        
+          k
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+        d
+        
+          k
+        
+        =
+        
+          
+            
+              3
+              V
+            
+            
+              2
+              
+                π
+                
+                  2
+                
+              
+              
+                v
+                
+                  
+                    s
+                  
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              ω
+              
+                
+                  D
+                
+              
+            
+          
+        
+        
+          ω
+          
+            2
+          
+        
+        d
+        ω
+        ,
+      
+    
+    {\displaystyle {\frac {3V}{2\pi ^{2}}}\int _{0}^{k_{\rm {D}}}|\mathbf {k} |^{2}d\mathbf {k} ={\frac {3V}{2\pi ^{2}v_{\rm {s}}^{3}}}\int _{0}^{\omega _{\rm {D}}}\omega ^{2}d\omega ,}
+  
+
+After solving the integral it is again equated to 
+  
+    
+      
+        3
+        N
+      
+    
+    {\displaystyle 3N}
+  
+ to find
+
+  
+    
+      
+        
+          
+            V
+            
+              2
+              
+                π
+                
+                  2
+                
+              
+              
+                v
+                
+                  
+                    s
+                  
+                
+                
+                  3
+                
+              
+            
+          
+        
+        
+          ω
+          
+            
+              D
+            
+          
+          
+            3
+          
+        
+        =
+        3
+        N
+        .
+      
+    
+    {\displaystyle {\frac {V}{2\pi ^{2}v_{\rm {s}}^{3}}}\omega _{\rm {D}}^{3}=3N.}
+  
+
+It can be rearranged into
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+          
+            3
+          
+        
+        =
+        
+          
+            
+              6
+              
+                π
+                
+                  2
+                
+              
+              N
+            
+            V
+          
+        
+        
+          v
+          
+            
+              s
+            
+          
+          
+            3
+          
+        
+        .
+      
+    
+    {\displaystyle \omega _{\rm {D}}^{3}={\frac {6\pi ^{2}N}{V}}v_{\rm {s}}^{3}.}
+  
+
+
+==== One-dimensional chain in 3D space ====
+The same derivation could be done for a one-dimensional chain of atoms. The number of modes remains unchanged, because there are still three polarizations, so
+
+  
+    
+      
+        
+          ∑
+          
+            
+              m
+              o
+              d
+              e
+              s
+            
+          
+        
+        3
+        =
+        3
+        N
+        .
+      
+    
+    {\displaystyle \sum _{\rm {modes}}3=3N.}
+  
+
+The rest of the derivation is analogous to the previous, so the left hand side is rewritten with respect to the Debye frequency:
+
+  
+    
+      
+        
+          ∑
+          
+            
+              m
+              o
+              d
+              e
+              s
+            
+          
+        
+        3
+        =
+        
+          
+            
+              3
+              L
+            
+            
+              2
+              π
+            
+          
+        
+        
+          ∫
+          
+            −
+            
+              k
+              
+                
+                  D
+                
+              
+            
+          
+          
+            
+              k
+              
+                
+                  D
+                
+              
+            
+          
+        
+        d
+        k
+        =
+        
+          
+            
+              3
+              L
+            
+            
+              π
+              
+                v
+                
+                  
+                    s
+                  
+                
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              ω
+              
+                
+                  D
+                
+              
+            
+          
+        
+        d
+        ω
+        .
+      
+    
+    {\displaystyle \sum _{\rm {modes}}3={\frac {3L}{2\pi }}\int _{-k_{\rm {D}}}^{k_{\rm {D}}}dk={\frac {3L}{\pi v_{\rm {s}}}}\int _{0}^{\omega _{\rm {D}}}d\omega .}
+  
+
+The last step is multiplied by two is because the integrand in the first integral is even and the bounds of integration are symmetric about the origin, so the integral can be rewritten as from 0 to 
+  
+    
+      
+        
+          k
+          
+            D
+          
+        
+      
+    
+    {\displaystyle k_{D}}
+  
+ after scaling by a factor of 2. This is also equivalent to the statement that the volume of a one-dimensional ball is twice its radius. Applying a change a substitution of 
+  
+    
+      
+        k
+        =
+        
+          
+            ω
+            
+              v
+              
+                s
+              
+            
+          
+        
+      
+    
+    {\displaystyle k={\frac {\omega }{v_{s}}}}
+  
+ , our bounds are now 0 to 
+  
+    
+      
+        
+          ω
+          
+            D
+          
+        
+        =
+        
+          k
+          
+            D
+          
+        
+        
+          v
+          
+            s
+          
+        
+      
+    
+    {\displaystyle \omega _{D}=k_{D}v_{s}}
+  
+, which gives us our rightmost integral. We continue;
+
+  
+    
+      
+        
+          
+            
+              3
+              L
+            
+            
+              π
+              
+                v
+                
+                  
+                    s
+                  
+                
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              ω
+              
+                
+                  D
+                
+              
+            
+          
+        
+        d
+        ω
+        =
+        
+          
+            
+              3
+              L
+            
+            
+              π
+              
+                v
+                
+                  
+                    s
+                  
+                
+              
+            
+          
+        
+        
+          ω
+          
+            
+              D
+            
+          
+        
+        =
+        3
+        N
+        .
+      
+    
+    {\displaystyle {\frac {3L}{\pi v_{\rm {s}}}}\int _{0}^{\omega _{\rm {D}}}d\omega ={\frac {3L}{\pi v_{\rm {s}}}}\omega _{\rm {D}}=3N.}
+  
+
+Conclusion:
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+        
+        =
+        
+          
+            
+              π
+              
+                v
+                
+                  
+                    s
+                  
+                
+              
+              N
+            
+            L
+          
+        
+        .
+      
+    
+    {\displaystyle \omega _{\rm {D}}={\frac {\pi v_{\rm {s}}N}{L}}.}
+  
+
+
+==== Two-dimensional crystal ====
+The same derivation could be done for a two-dimensional crystal. The number of modes remains unchanged, because there are still three polarizations. The derivation is analogous to the previous two. We start with the same equation,
+
+  
+    
+      
+        
+          ∑
+          
+            
+              m
+              o
+              d
+              e
+              s
+            
+          
+        
+        3
+        =
+        3
+        N
+        .
+      
+    
+    {\displaystyle \sum _{\rm {modes}}3=3N.}
+  
+
+And then the left hand side is rewritten and equated to 
+  
+    
+      
+        3
+        N
+      
+    
+    {\displaystyle 3N}
+  
+
+  
+    
+      
+        
+          ∑
+          
+            
+              m
+              o
+              d
+              e
+              s
+            
+          
+        
+        3
+        =
+        
+          
+            
+              3
+              A
+            
+            
+              (
+              2
+              π
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        ∬
+        d
+        
+          k
+        
+        =
+        
+          
+            
+              3
+              A
+            
+            
+              2
+              π
+              
+                v
+                
+                  
+                    s
+                  
+                
+                
+                  2
+                
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              ω
+              
+                
+                  D
+                
+              
+            
+          
+        
+        ω
+        d
+        ω
+        =
+        
+          
+            
+              3
+              A
+              
+                ω
+                
+                  
+                    D
+                  
+                
+                
+                  2
+                
+              
+            
+            
+              4
+              π
+              
+                v
+                
+                  
+                    s
+                  
+                
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        3
+        N
+        ,
+      
+    
+    {\displaystyle \sum _{\rm {modes}}3={\frac {3A}{(2\pi )^{2}}}\iint d\mathbf {k} ={\frac {3A}{2\pi v_{\rm {s}}^{2}}}\int _{0}^{\omega _{\rm {D}}}\omega d\omega ={\frac {3A\omega _{\rm {D}}^{2}}{4\pi v_{\rm {s}}^{2}}}=3N,}
+  
+
+where 
+  
+    
+      
+        A
+        ≡
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle A\equiv L^{2}}
+  
+ is the size of the system.
+It can be rewritten as
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              4
+              π
+              N
+            
+            A
+          
+        
+        
+          v
+          
+            
+              s
+            
+          
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \omega _{\rm {D}}^{2}={\frac {4\pi N}{A}}v_{\rm {s}}^{2}.}
+  
+
+
+=== Polarization dependence ===
+In reality, longitudinal waves often have a different wave velocity from that of transverse waves. Making the assumption that the velocities are equal simplified the final result, but reintroducing the distinction improves the accuracy of the final result.
+The dispersion relation becomes 
+  
+    
+      
+        
+          ω
+          
+            i
+          
+        
+        =
+        
+          v
+          
+            s
+            ,
+            i
+          
+        
+        
+          |
+        
+        
+          k
+        
+        
+          |
+        
+      
+    
+    {\displaystyle \omega _{i}=v_{s,i}|\mathbf {k} |}
+  
+, with 
+  
+    
+      
+        i
+        =
+        1
+        ,
+        2
+        ,
+        3
+      
+    
+    {\displaystyle i=1,2,3}
+  
+, each corresponding to one of the three polarizations. The cut-off frequency 
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+        
+      
+    
+    {\displaystyle \omega _{\rm {D}}}
+  
+, however, does not depend on 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+. We can write the total number of modes as 
+  
+    
+      
+        
+          ∑
+          
+            i
+          
+        
+        
+          ∑
+          
+            
+              m
+              o
+              d
+              e
+              s
+            
+          
+        
+        1
+      
+    
+    {\displaystyle \sum _{i}\sum _{\rm {modes}}1}
+  
+, which is again equal to 
+  
+    
+      
+        3
+        N
+      
+    
+    {\displaystyle 3N}
+  
+. Here the summation over the modes is now dependent on 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+.
+
+
+==== One-dimensional chain in 3D space ====
+The summation over the modes is rewritten
+
+  
+    
+      
+        
+          ∑
+          
+            i
+          
+        
+        
+          ∑
+          
+            
+              m
+              o
+              d
+              e
+              s
+            
+          
+        
+        1
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          
+            L
+            
+              π
+              
+                v
+                
+                  s
+                  ,
+                  i
+                
+              
+            
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              ω
+              
+                
+                  D
+                
+              
+            
+          
+        
+        d
+        
+          ω
+          
+            i
+          
+        
+        =
+        3
+        N
+        .
+      
+    
+    {\displaystyle \sum _{i}\sum _{\rm {modes}}1=\sum _{i}{\frac {L}{\pi v_{s,i}}}\int _{0}^{\omega _{\rm {D}}}d\omega _{i}=3N.}
+  
+
+The result is
+
+  
+    
+      
+        
+          
+            
+              L
+              
+                ω
+                
+                  
+                    D
+                  
+                
+              
+            
+            π
+          
+        
+        (
+        
+          
+            1
+            
+              v
+              
+                s
+                ,
+                1
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              v
+              
+                s
+                ,
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              v
+              
+                s
+                ,
+                3
+              
+            
+          
+        
+        )
+        =
+        3
+        N
+        .
+      
+    
+    {\displaystyle {\frac {L\omega _{\rm {D}}}{\pi }}({\frac {1}{v_{s,1}}}+{\frac {1}{v_{s,2}}}+{\frac {1}{v_{s,3}}})=3N.}
+  
+
+Thus the Debye frequency is found
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+        
+        =
+        
+          
+            
+              π
+              N
+            
+            L
+          
+        
+        
+          
+            3
+            
+              
+                
+                  1
+                  
+                    v
+                    
+                      s
+                      ,
+                      1
+                    
+                  
+                
+              
+              +
+              
+                
+                  1
+                  
+                    v
+                    
+                      s
+                      ,
+                      2
+                    
+                  
+                
+              
+              +
+              
+                
+                  1
+                  
+                    v
+                    
+                      s
+                      ,
+                      3
+                    
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              3
+              π
+              N
+            
+            L
+          
+        
+        
+          
+            
+              
+                v
+                
+                  s
+                  ,
+                  1
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  2
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  3
+                
+              
+            
+            
+              
+                v
+                
+                  s
+                  ,
+                  2
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  3
+                
+              
+              +
+              
+                v
+                
+                  s
+                  ,
+                  1
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  3
+                
+              
+              +
+              
+                v
+                
+                  s
+                  ,
+                  1
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              π
+              N
+            
+            L
+          
+        
+        
+          v
+          
+            
+              e
+              f
+              f
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \omega _{\rm {D}}={\frac {\pi N}{L}}{\frac {3}{{\frac {1}{v_{s,1}}}+{\frac {1}{v_{s,2}}}+{\frac {1}{v_{s,3}}}}}={\frac {3\pi N}{L}}{\frac {v_{s,1}v_{s,2}v_{s,3}}{v_{s,2}v_{s,3}+v_{s,1}v_{s,3}+v_{s,1}v_{s,2}}}={\frac {\pi N}{L}}v_{\mathrm {eff} }\,.}
+  
+
+The calculated effective velocity 
+  
+    
+      
+        
+          v
+          
+            
+              e
+              f
+              f
+            
+          
+        
+      
+    
+    {\displaystyle v_{\mathrm {eff} }}
+  
+ is the harmonic mean of the velocities for each polarization. By assuming the two transverse polarizations to have the same phase speed and frequency,
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+        
+        =
+        
+          
+            
+              3
+              π
+              N
+            
+            L
+          
+        
+        
+          
+            
+              
+                v
+                
+                  s
+                  ,
+                  t
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  l
+                
+              
+            
+            
+              2
+              
+                v
+                
+                  s
+                  ,
+                  l
+                
+              
+              +
+              
+                v
+                
+                  s
+                  ,
+                  t
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \omega _{\rm {D}}={\frac {3\pi N}{L}}{\frac {v_{s,t}v_{s,l}}{2v_{s,l}+v_{s,t}}}.}
+  
+
+Setting 
+  
+    
+      
+        
+          v
+          
+            s
+            ,
+            t
+          
+        
+        =
+        
+          v
+          
+            s
+            ,
+            l
+          
+        
+      
+    
+    {\displaystyle v_{s,t}=v_{s,l}}
+  
+ recovers the expression previously derived under the assumption that velocity is the same for all polarization modes.
+
+
+==== Two-dimensional crystal ====
+The same derivation can be done for a two-dimensional crystal to find
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              4
+              π
+              N
+            
+            A
+          
+        
+        
+          
+            3
+            
+              
+                
+                  1
+                  
+                    v
+                    
+                      s
+                      ,
+                      1
+                    
+                    
+                      2
+                    
+                  
+                
+              
+              +
+              
+                
+                  1
+                  
+                    v
+                    
+                      s
+                      ,
+                      2
+                    
+                    
+                      2
+                    
+                  
+                
+              
+              +
+              
+                
+                  1
+                  
+                    v
+                    
+                      s
+                      ,
+                      3
+                    
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              12
+              π
+              N
+            
+            A
+          
+        
+        
+          
+            
+              (
+              
+                v
+                
+                  s
+                  ,
+                  1
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  2
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  3
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+            
+              (
+              
+                v
+                
+                  s
+                  ,
+                  2
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  3
+                
+              
+              
+                )
+                
+                  2
+                
+              
+              +
+              (
+              
+                v
+                
+                  s
+                  ,
+                  1
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  3
+                
+              
+              
+                )
+                
+                  2
+                
+              
+              +
+              (
+              
+                v
+                
+                  s
+                  ,
+                  1
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  2
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              4
+              π
+              N
+            
+            A
+          
+        
+        
+          v
+          
+            
+              e
+              f
+              f
+            
+          
+          
+            2
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \omega _{\rm {D}}^{2}={\frac {4\pi N}{A}}{\frac {3}{{\frac {1}{v_{s,1}^{2}}}+{\frac {1}{v_{s,2}^{2}}}+{\frac {1}{v_{s,3}^{2}}}}}={\frac {12\pi N}{A}}{\frac {(v_{s,1}v_{s,2}v_{s,3})^{2}}{(v_{s,2}v_{s,3})^{2}+(v_{s,1}v_{s,3})^{2}+(v_{s,1}v_{s,2})^{2}}}={\frac {4\pi N}{A}}v_{\mathrm {eff} }^{2}\,.}
+  
+
+The calculated effective velocity 
+  
+    
+      
+        
+          v
+          
+            
+              e
+              f
+              f
+            
+          
+        
+      
+    
+    {\displaystyle v_{\mathrm {eff} }}
+  
+ is the square root of the harmonic mean of the squares of velocities. By assuming the two transverse polarizations to be the same,
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              12
+              π
+              N
+            
+            A
+          
+        
+        
+          
+            
+              (
+              
+                v
+                
+                  s
+                  ,
+                  t
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  l
+                
+              
+              
+                )
+                
+                  2
+                
+              
+            
+            
+              2
+              
+                v
+                
+                  s
+                  ,
+                  l
+                
+                
+                  2
+                
+              
+              +
+              
+                v
+                
+                  s
+                  ,
+                  t
+                
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \omega _{\rm {D}}^{2}={\frac {12\pi N}{A}}{\frac {(v_{s,t}v_{s,l})^{2}}{2v_{s,l}^{2}+v_{s,t}^{2}}}.}
+  
+
+Setting 
+  
+    
+      
+        
+          v
+          
+            s
+            ,
+            t
+          
+        
+        =
+        
+          v
+          
+            s
+            ,
+            l
+          
+        
+      
+    
+    {\displaystyle v_{s,t}=v_{s,l}}
+  
+ recovers the expression previously derived under the assumption that velocity is the same for all polarization modes.
+
+
+==== Three-dimensional crystal ====
+The same derivation can be done for a three-dimensional crystal to find (the derivation is analogous to previous derivations)
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              6
+              
+                π
+                
+                  2
+                
+              
+              N
+            
+            V
+          
+        
+        
+          
+            3
+            
+              
+                
+                  1
+                  
+                    v
+                    
+                      s
+                      ,
+                      1
+                    
+                    
+                      3
+                    
+                  
+                
+              
+              +
+              
+                
+                  1
+                  
+                    v
+                    
+                      s
+                      ,
+                      2
+                    
+                    
+                      3
+                    
+                  
+                
+              
+              +
+              
+                
+                  1
+                  
+                    v
+                    
+                      s
+                      ,
+                      3
+                    
+                    
+                      3
+                    
+                  
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              18
+              
+                π
+                
+                  2
+                
+              
+              N
+            
+            V
+          
+        
+        
+          
+            
+              (
+              
+                v
+                
+                  s
+                  ,
+                  1
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  2
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  3
+                
+              
+              
+                )
+                
+                  3
+                
+              
+            
+            
+              (
+              
+                v
+                
+                  s
+                  ,
+                  2
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  3
+                
+              
+              
+                )
+                
+                  3
+                
+              
+              +
+              (
+              
+                v
+                
+                  s
+                  ,
+                  1
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  3
+                
+              
+              
+                )
+                
+                  3
+                
+              
+              +
+              (
+              
+                v
+                
+                  s
+                  ,
+                  1
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  2
+                
+              
+              
+                )
+                
+                  3
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              6
+              
+                π
+                
+                  2
+                
+              
+              N
+            
+            V
+          
+        
+        
+          v
+          
+            
+              e
+              f
+              f
+            
+          
+          
+            3
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \omega _{\rm {D}}^{2}={\frac {6\pi ^{2}N}{V}}{\frac {3}{{\frac {1}{v_{s,1}^{3}}}+{\frac {1}{v_{s,2}^{3}}}+{\frac {1}{v_{s,3}^{3}}}}}={\frac {18\pi ^{2}N}{V}}{\frac {(v_{s,1}v_{s,2}v_{s,3})^{3}}{(v_{s,2}v_{s,3})^{3}+(v_{s,1}v_{s,3})^{3}+(v_{s,1}v_{s,2})^{3}}}={\frac {6\pi ^{2}N}{V}}v_{\mathrm {eff} }^{3}\,.}
+  
+
+The calculated effective velocity 
+  
+    
+      
+        
+          v
+          
+            
+              e
+              f
+              f
+            
+          
+        
+      
+    
+    {\displaystyle v_{\mathrm {eff} }}
+  
+ is the cube root of the harmonic mean of the cubes of velocities. By assuming the two transverse polarizations to be the same,
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+          
+            3
+          
+        
+        =
+        
+          
+            
+              18
+              
+                π
+                
+                  2
+                
+              
+              N
+            
+            V
+          
+        
+        
+          
+            
+              (
+              
+                v
+                
+                  s
+                  ,
+                  t
+                
+              
+              
+                v
+                
+                  s
+                  ,
+                  l
+                
+              
+              
+                )
+                
+                  3
+                
+              
+            
+            
+              2
+              
+                v
+                
+                  s
+                  ,
+                  l
+                
+                
+                  3
+                
+              
+              +
+              
+                v
+                
+                  s
+                  ,
+                  t
+                
+                
+                  3
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \omega _{\rm {D}}^{3}={\frac {18\pi ^{2}N}{V}}{\frac {(v_{s,t}v_{s,l})^{3}}{2v_{s,l}^{3}+v_{s,t}^{3}}}.}
+  
+
+Setting 
+  
+    
+      
+        
+          v
+          
+            s
+            ,
+            t
+          
+        
+        =
+        
+          v
+          
+            s
+            ,
+            l
+          
+        
+      
+    
+    {\displaystyle v_{s,t}=v_{s,l}}
+  
+ recovers the expression previously derived under the assumption that velocity is the same for all polarization modes.
+
+
+=== Derivation with the actual dispersion relation ===
+
+This problem could be made more applicable by relaxing the assumption of linearity of the dispersion relation. Instead of using the dispersion relation 
+  
+    
+      
+        ω
+        =
+        
+          v
+          
+            
+              s
+            
+          
+        
+        k
+      
+    
+    {\displaystyle \omega =v_{\rm {s}}k}
+  
+, a more accurate dispersion relation can be used. In classical mechanics, it is known that for an equidistant chain of masses which interact harmonically with each other, the dispersion relation is
+
+  
+    
+      
+        ω
+        (
+        k
+        )
+        =
+        2
+        
+          
+            
+              κ
+              m
+            
+          
+        
+        
+          |
+          
+            sin
+            ⁡
+            
+              (
+              
+                
+                  
+                    k
+                    a
+                  
+                  2
+                
+              
+              )
+            
+          
+          |
+        
+        ,
+      
+    
+    {\displaystyle \omega (k)=2{\sqrt {\frac {\kappa }{m}}}\left|\sin \left({\frac {ka}{2}}\right)\right|,}
+  
+
+with 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  
+ being the mass of each atom, 
+  
+    
+      
+        κ
+      
+    
+    {\displaystyle \kappa }
+  
+ the spring constant for the harmonic oscillator, and 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  
+ still being the spacing between atoms in the ground state. After plotting this relation, Debye's estimation of the cut-off wavelength based on the linear assumption remains accurate, because for every wavenumber bigger than 
+  
+    
+      
+        π
+        
+          /
+        
+        a
+      
+    
+    {\displaystyle \pi /a}
+  
+ (that is, for 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  
+ is smaller than 
+  
+    
+      
+        2
+        a
+      
+    
+    {\displaystyle 2a}
+  
+), a wavenumber that is smaller than 
+  
+    
+      
+        π
+        
+          /
+        
+        a
+      
+    
+    {\displaystyle \pi /a}
+  
+ could be found with the same angular frequency. This means the resulting physical manifestation for the mode with the larger wavenumber is indistinguishable from the one with the smaller wavenumber. Therefore, the study of the dispersion relation can be limited to the first Brillouin zone 
+  
+    
+      
+        k
+        ∈
+        
+          [
+          
+            −
+            
+              
+                π
+                a
+              
+            
+            ,
+            
+              
+                π
+                a
+              
+            
+          
+          ]
+        
+      
+    
+    {\textstyle k\in \left[-{\frac {\pi }{a}},{\frac {\pi }{a}}\right]}
+  
+ without any loss of accuracy or information. This is possible because the system consists of discretized points, as is demonstrated in the animated picture. Dividing the dispersion relation by 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+ and inserting 
+  
+    
+      
+        π
+        
+          /
+        
+        a
+      
+    
+    {\displaystyle \pi /a}
+  
+ for 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+, we find the speed of a wave with 
+  
+    
+      
+        k
+        =
+        π
+        
+          /
+        
+        a
+      
+    
+    {\displaystyle k=\pi /a}
+  
+ to be
+
+  
+    
+      
+        
+          v
+          
+            
+              s
+            
+          
+        
+        (
+        k
+        =
+        π
+        
+          /
+        
+        a
+        )
+        =
+        
+          
+            
+              2
+              a
+            
+            π
+          
+        
+        
+          
+            
+              κ
+              m
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v_{\rm {s}}(k=\pi /a)={\frac {2a}{\pi }}{\sqrt {\frac {\kappa }{m}}}.}
+  
+
+By simply inserting 
+  
+    
+      
+        k
+        =
+        π
+        
+          /
+        
+        a
+      
+    
+    {\displaystyle k=\pi /a}
+  
+ in the original dispersion relation we find
+
+  
+    
+      
+        ω
+        (
+        k
+        =
+        π
+        
+          /
+        
+        a
+        )
+        =
+        2
+        
+          
+            
+              κ
+              m
+            
+          
+        
+        =
+        
+          ω
+          
+            
+              D
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \omega (k=\pi /a)=2{\sqrt {\frac {\kappa }{m}}}=\omega _{\rm {D}}.}
+  
+
+Combining these results the same result is once again found
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+        
+        =
+        
+          
+            
+              π
+              
+                v
+                
+                  
+                    s
+                  
+                
+              
+            
+            a
+          
+        
+        .
+      
+    
+    {\displaystyle \omega _{\rm {D}}={\frac {\pi v_{\rm {s}}}{a}}.}
+  
+
+However, for any chain with greater complexity, including diatomic chains, the associated cut-off frequency and wavelength are not very accurate, since the cut-off wavelength is twice as big and the dispersion relation consists of additional branches, two total for a diatomic chain. It is also not certain from this result whether for higher-dimensional systems the cut-off frequency was accurately predicted by Debye when taking into account the more accurate dispersion relation.
+
+
+=== Alternative derivation ===
+
+For a one-dimensional chain, the formula for the Debye frequency can also be reproduced using a theorem for describing aliasing. The Nyquist–Shannon sampling theorem is used for this derivation, the main difference being that in the case of a one-dimensional chain, the discretization is not in time, but in space.
+The cut-off frequency can be determined from the cut-off wavelength. From the sampling theorem, we know that for wavelengths smaller than 
+  
+    
+      
+        2
+        a
+      
+    
+    {\displaystyle 2a}
+  
+, or twice the sampling distance, every mode is a repeat of a mode with wavelength larger than 
+  
+    
+      
+        2
+        a
+      
+    
+    {\displaystyle 2a}
+  
+, so the cut-off wavelength should be at 
+  
+    
+      
+        
+          λ
+          
+            
+              D
+            
+          
+        
+        =
+        2
+        a
+      
+    
+    {\displaystyle \lambda _{\rm {D}}=2a}
+  
+. This results again in 
+  
+    
+      
+        
+          k
+          
+            
+              D
+            
+          
+        
+        =
+        
+          
+            
+              2
+              π
+            
+            
+              λ
+              
+                D
+              
+            
+          
+        
+        =
+        π
+        
+          /
+        
+        a
+      
+    
+    {\displaystyle k_{\rm {D}}={\frac {2\pi }{\lambda _{D}}}=\pi /a}
+  
+, rendering
+
+  
+    
+      
+        
+          ω
+          
+            
+              D
+            
+          
+        
+        =
+        
+          
+            
+              π
+              
+                v
+                
+                  
+                    s
+                  
+                
+              
+            
+            a
+          
+        
+        .
+      
+    
+    {\displaystyle \omega _{\rm {D}}={\frac {\pi v_{\rm {s}}}{a}}.}
+  
+
+It does not matter which dispersion relation is used, as the same cut-off frequency would be calculated.
+
+
+== See also ==
+Bose gas
+Gas in a box
+Grüneisen parameter
+Bloch–Grüneisen temperature
+Electrical resistivity and conductivity#Temperature dependence
+
+
+== References ==
+
+
+== Further reading ==
+CRC Handbook of Chemistry and Physics, 56th Edition (1975–1976)
+Schroeder, Daniel V. An Introduction to Thermal Physics. Addison-Wesley, San Francisco (2000). Section 7.5.
+
+
+== External links ==
+Experimental determination of specific heat, thermal and heat conductivity of quartz using a cryostat.
+Simon, Steven H. (2014) The Oxford Solid State Basics (most relevant ones: 1, 2 and 6)

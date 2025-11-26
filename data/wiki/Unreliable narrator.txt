@@ -1,0 +1,71 @@
+In literature, film, and other such arts, an unreliable narrator is a narrator who cannot be trusted, one whose credibility is compromised. They can be found in a wide range from children to mature characters. While unreliable narrators are almost by definition first-person narrators, arguments have been made for the existence of unreliable second- and third-person narrators, especially within the context of film and television, but sometimes also in literature.
+The term "unreliable narrator" was coined by Wayne C. Booth in his 1961 book The Rhetoric of Fiction. James Phelan expands on Booth's concept by offering the term "bonding unreliability" to describe situations in which the unreliable narration ultimately serves to approach the narrator to the work's envisioned audience, creating a bonding communication between the implied author and this "authorial audience".
+Sometimes the narrator's unreliability is made immediately evident. For instance, a story may open with the narrator making a plainly false or delusional claim or admitting to being severely mentally ill, or the story itself may have a frame in which the narrator appears as a character, with clues to the character's unreliability. A more dramatic use of the device delays the revelation until near the story's end. In some cases, the reader discovers that in the foregoing narrative, the narrator had concealed or greatly misrepresented vital pieces of information. Such a twist ending forces readers to reconsider their point of view and experience of the story. In some cases the narrator's unreliability is never fully revealed but only hinted at, leaving readers to wonder how much the narrator should be trusted and how the story should be interpreted.
+
+
+== Classification ==
+Attempts have been made at a classification of unreliable narrators. William Riggan analysed in a 1981 study four discernible types of unreliable narrators, focusing on the first-person narrator as this is the most common kind of unreliable narration. Riggan provides the following definitions and examples to illustrate his classifications:
+
+The Pícaro
+The first-person narrator of a picaresque novel; an antihero serving as "an embodiment of the obstinacy of sin", whose "behavior is marked by rebelliousness", resentment, and aggression, and whose "world view is characterized by resignation and pessimism". A gap exists between the pícaro's "whimsical and entertaining account and his self-indulgent explanations and morality on the one hand, and the perceptions of the more sensitive author and reader on the other". The pícaro is the "unwitting butt" of this narrative irony.
+Riggan gives the following examples of pícaro narrators: Apuleius in The Golden Ass; Lázaro in Lazarillo de Tormes; Guzmán in Guzmán de Alfarache; Don Pablos in El Buscón; Simplicius in Simplicius Simplicissimus; Moll in Moll Flanders; Augie March in The Adventures of Augie March; Felix Krull in Confessions of Felix Krull
+The Clown
+A narrator in the tradition of the fool, the court jester and the sotie, whose unreliable narration includes "irony, variations of meaning, ambiguities of definition, and possibilities for reversal and counter-reversal".
+Riggan gives the following examples of clown narrators: Folly in In Praise of Folly ; Tristram Shandy in The Life and Opinions of Tristram Shandy, Gentleman; Humbert Humbert in Lolita; Oskar Matzerath in The Tin Drum
+The Madman
+A narrator who is untrustworthy due to an "unbalanced mind" whose narration serves as a case study in the pathology of insanity. The literary madman frequently exhibits traits such as being "insignificant, petty, withdrawn, defensive, dreaming, spiteful, perversely logical, self-deluding, ultimately more of a type than a genuine individual, and a speaker who is soon if not immediately perceived as possessing all these traits and therefore of questionable trustworthiness in the presentation of his own account".
+Riggan gives the following examples of madman narrators: Poprishchin in Diary of a Madman; the narrator of Notes from Underground; the first person narratives of Edgar Allan Poe's short stories; the narrator of The Blind Owl
+The Naïf
+A narrator whose nature is revealed through their own narration and without their conscious awareness. The naïf narrator lacks the experience "to deal in any far-reaching manner with the moral, ethical, emotional, and intellectual questions which arise from his first ventures into the world and from his account of those ventures."
+Riggan gives the following examples of naïf narrators: Huckleberry Finn in Adventures of Huckleberry Finn; Holden Caulfield in The Catcher in the Rye
+It remains a matter of debate whether and how a non-first-person narrator can be unreliable, though the deliberate restriction of information to the audience can provide instances of unreliable narrative, even if not necessarily of an unreliable narrator. For example, in the three interweaving plays of Alan Ayckbourn's The Norman Conquests, each confines the action to one of three locations during the course of a weekend.
+Kathleen Wall argues that in The Remains of the Day, for the "unreliability" of the main character (Mr Stevens) as a narrator to work, we need to believe that he describes events reliably, while interpreting them in an unreliable way.
+
+
+== Definitions and theoretical approaches ==
+Wayne C. Booth was among the first critics to formulate a reader-centered approach to unreliable narration and to distinguish between a reliable and unreliable narrator on the grounds of whether the narrator's speech violates or conforms with general norms and values. He writes, "I have called a narrator reliable when he speaks for or acts in accordance with the norms of the work (which is to say the implied author's norms), unreliable when he does not." Peter J. Rabinowitz criticized Booth's definition for relying too much on facts external to the narrative, such as norms and ethics, which must necessarily be tainted by personal opinion. He consequently modified the approach to unreliable narration.
+
+ There are unreliable narrators (c.f. Booth). An unreliable narrator however, is not simply a narrator who 'does not tell the truth' – what fictional narrator ever tells the literal truth? Rather an unreliable narrator is one who tells lies, conceals information, misjudges with respect to the narrative audience – that is, one whose statements are untrue not by the standards of the real world or of the authorial audience but by the standards of his own narrative audience. ... In other words, all fictional narrators are false in that they are imitations. But some are imitations who tell the truth, some of people who lie.
+Rabinowitz's main focus is the status of fictional discourse in opposition to factuality. He debates the issues of truth in fiction, bringing forward four types of audience who serve as receptors of any given literary work:
+
+"Actual audience" (= the flesh-and-blood people who read the book)
+"Authorial audience" (= hypothetical audience to whom the author addresses his text)
+"Narrative audience" (= imitation audience which also possesses particular knowledge)
+"Ideal narrative audience" (= uncritical audience who accepts what the narrator is saying)
+Rabinowitz suggests that "In the proper reading of a novel, then, events which are portrayed must be treated as both 'true' and 'untrue' at the same time. Although there are many ways to understand this duality, I propose to analyze the four audiences which it generates." Similarly, Tamar Yacobi has proposed a model of five criteria ('integrating mechanisms') which determine if a narrator is unreliable. Instead of relying on the device of the implied author and a text-centered analysis of unreliable narration, Ansgar Nünning gives evidence that narrative unreliability can be reconceptualized in the context of frame theory and of readers' cognitive strategies.
+
+... to determine a narrator's unreliability one need not rely merely on intuitive judgments. It is neither the reader's intuitions nor the implied author's norms and values that provide the clue to a narrator's unreliability, but a broad range of definable signals. These include both textual data and the reader's preexisting conceptual knowledge of the world. In sum whether a narrator is called unreliable or not does not depend on the distance between the norms and values of the narrator and those of the implied author but between the distance that separates the narrator's view of the world from the reader's world-model and standards of normality.
+Unreliable narration in this view becomes purely a reader's strategy of making sense of a text, i.e., of reconciling discrepancies in the narrator's account (c.f. signals of unreliable narration). Nünning thus effectively eliminates the reliance on value judgments and moral codes which are always tainted by personal outlook and taste. Greta Olson recently debated both Nünning's and Booth's models, revealing discrepancies in their respective views.
+
+ Booth's text-immanent model of narrator unreliability has been criticized by Ansgar Nünning for disregarding the reader's role in the perception of reliability and for relying on the insufficiently defined concept of the implied author. Nünning updates Booth's work with a cognitive theory of unreliability that rests on the reader's values and her sense that a discrepancy exists between the narrator's statements and perceptions and other information given by the text. 
+and offers "an update of Booth's model by making his implicit differentiation between fallible and untrustworthy narrators explicit". Olson then argues "that these two types of narrators elicit different responses in readers and are best described using scales for fallibility and untrustworthiness." She proffers that all fictional texts that employ the device of unreliability can best be considered along a spectrum of fallibility that begins with trustworthiness and ends with unreliability. This model allows for all shades of grey in between the poles of trustworthiness and unreliability. It is consequently up to each individual reader to determine the credibility of a narrator in a fictional text.
+
+
+== Signals of unreliable narration ==
+Whichever definition of unreliability one follows, there are a number of signs that constitute or at least hint at a narrator's unreliability. Nünning has suggested to divide these signals into three broad categories.
+
+Intratextual signs such as the narrator contradicting her or himself, having gaps in memory, or lying to other characters
+Extratextual signs such as contradicting the reader's general world knowledge or impossibilities (within the parameters of logic)
+Reader's literary competence. This includes the reader's knowledge about literary types (e.g., stock characters that reappear over centuries), knowledge about literary genres and its conventions or stylistic devices
+
+
+== See also ==
+Frame story
+Play within a play
+Rashomon effect, different narrators providing different accounts or stories of the same narrative events
+Tall tale
+
+
+== References ==
+
+
+== Further reading ==
+Heiler, Lars (2010). "Against Censorship: Literature, Transgression, and Taboo from a Diachronic Perspective". Taboo and Transgression in British Literature from the Renaissance to the Present. New York: Palgrave Macmillan. pp. 49–74. ISBN 9780230105997.
+Shen, Dan: "Unreliability", in Peter Hühn (ed.): The Living Handbook of Narratology, Hamburg: Hamburg University Press. (retrieved 8. March 2021)
+Smith, M. W. (1991). Understanding Unreliable Narrators. Urbana, IL: National Council of Teachers of English.
+
+
+== External links ==
+
+ Media related to Fiction with unreliable narrators at Wikimedia Commons
+Henry Sutton's top 10 unreliable narrators

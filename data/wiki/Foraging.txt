@@ -1,0 +1,116 @@
+Foraging is searching for wild food resources. It affects an animal's fitness because it plays an important role in an animal's ability to survive and reproduce. Foraging theory is a branch of behavioral ecology that studies the foraging behavior of animals in response to the environment where the animal lives.
+Behavioral ecologists use economic models and categories to understand foraging; many of these models are a type of optimal model. Thus foraging theory is discussed in terms of optimizing a payoff from a foraging decision. The payoff for many of these models is the amount of energy an animal receives per unit time, more specifically, the highest ratio of energetic gain to cost while foraging. Foraging theory predicts that the decisions that maximize energy per unit time and thus deliver the highest payoff will be selected for and persist. Key words used to describe foraging behavior include resources, the elements necessary for survival and reproduction which have a limited supply, predator, any organism that consumes others, prey, an organism that is eaten in part or whole by another, and patches, concentrations of resources.
+Behavioral ecologists first tackled this topic in the 1960s and 1970s. Their goal was to quantify and formalize a set of models to test their null hypothesis that animals forage randomly. Important contributions to foraging theory have been made by:
+
+Eric Charnov, who developed the marginal value theorem to predict the behavior of foragers using patches;
+Sir John Krebs, with work on the optimal diet model in relation to tits and chickadees;
+John Goss-Custard, who first tested the optimal diet model against behavior in the field, using redshank, and then proceeded to an extensive study of foraging in the common pied oystercatcher.
+
+
+== Factors influencing foraging behavior ==
+
+Several factors affect an animal's ability to forage and acquire profitable resources.
+
+
+=== Learning ===
+Learning is defined as an adaptive change or modification of a behavior based on a previous experience. Since an animal's environment is constantly changing, the ability to adjust foraging behavior is essential for maximization of fitness. Studies in social insects have shown that there is a significant correlation between learning and foraging performance.
+In nonhuman primates, young individuals learn foraging behavior from their peers and elders by watching other group members forage and by copying their behavior. Observing and learning from other members of the group ensure that the younger members of the group learn what is safe to eat and become proficient foragers.
+One measure of learning is 'foraging innovation'—an animal consuming new food, or using a new foraging technique in response to their dynamic living environment. Foraging innovation is considered learning because it involves behavioral plasticity on the animal's part. The animal recognizes the need to come up with a new foraging strategy and introduce something it has never used before to maximize his or her fitness (survival). Forebrain size has been associated with learning behavior. Animals with larger brain sizes are expected to learn better. A higher ability to innovate has been linked to larger forebrain sizes in North American and British Isle birds according to Lefebvre et al. (1997). In this study, bird orders that contained individuals with larger forebrain sizes displayed a higher amount of foraging innovation. Examples of innovations recorded in birds include following tractors and eating frogs or other insects killed by it and using swaying trees to catch their prey.
+Another measure of learning is spatio-temporal learning (also called time-place learning), which refers to an individual's ability to associate the time of an event with the place of that event. This type of learning has been documented in the foraging behaviors of individuals of the stingless bee species Trigona fulviventris. Studies showed that T. fulviventris individuals learned the locations and times of feeding events, and arrived to those locations up to 30 minutes before the feeding event in anticipation of the food reward.
+
+
+=== Genetics ===
+
+Foraging behavior can also be influenced by genetics. The genes associated with foraging behavior have been widely studied in honeybees with reference to the following; onset of foraging behavior, task division between foragers and workers, and bias in foraging for either pollen or nectar. Honey bee foraging activity occurs both inside and outside the hive for either pollen or nectar. Similar behavior is seen in many social wasps, such as the species Apoica flavissima. Studies using quantitative trait loci (QTL) mapping have associated the following loci with the matched functions; Pln-1 and Pln-4 with onset of foraging age, Pln-1 and 2 with the size of the pollen loads collected by workers, and Pln-2 and pln-3 were shown to influence the sugar concentration of the nectar collected.
+Some behaviors are more dominant than others. In a study using fruit fly larvae (Drosophila melanogaster), there were two types of foraging strategies: rovers and sitters. Rovers used the strategy of moving across multiple patches in search for food, while sitters remained in one patch with no inclination to go searching. Both of these strategies are polymorphic traits that naturally occur within the larval stages of fruit flies. The gene responsible for major effects on foraging behavior in Drosophila melanogaster larvae is the chaser (Csr) gene. During the study, homozygous strains were produced by crossing the rovers with rovers and sitters with sitters. Using the method of hybridization - crossing rovers with sitters - all of the offspring displayed the rover foraging behavior, thus demonstrating that it is an allele of complete dominance.
+
+
+=== Presence of predators ===
+The presence of predators while a (prey) animal is foraging affects its behaviour. In general, foragers balance the risk of predation with their needs, thus deviating from the foraging behaviour that would be expected in the absence of predators. An example of this balanced risk can be observed in the foraging behavior of the amphipod Ampithoe longimana.
+
+
+=== Parasitism ===
+Parasitism can affect the way in which animals forage. For an organism to counteract the procurement of a parasite, they may display avoidance towards certain areas where parasites have previously been discovered. This avoidance behavior is a trade-off mechanism where the loss of time and energy in avoiding food patches is traded with the decrease in risk of contracting a parasite. Adaptations in diet also help in the prevention of parasitic infection. By avoiding foods that have high potential for parasitic contamination, as well as including food items that contain anti-parasitic properties in the diet. These anti-parasitic properties can be used in a self-medicating way, either prophylactically or therapeutically.
+
+
+=== Interactions with environment ===
+Interactions with the environment significantly influence foraging behavior by dictating the availability of resources, the competition among others, the presence of predators, and the complexity of the landscape. These factors can affect the strategies animals use to find food, the risks they're willing to take, and the efficiency of their foraging patterns. For example, in environments with abundant resources, foragers may adopt less risky and energy-efficient strategies. Conversely, in resource-scarce or high-risk environments, more complex and risky foraging behaviors may evolve. For instance, Blepharida rhois differ in their behavior based on the food resources available in their environment. They will take on a more solitary or active role depending on their environment. 
+
+
+== Types of foraging ==
+
+Foraging can be categorized into two main types. The first is solitary foraging, when animals forage by themselves. The second is group foraging. Group foraging includes when animals can be seen foraging together when it is beneficial for them to do so (called an aggregation economy) and when it is detrimental for them to do so (called a dispersion economy).
+
+
+=== Solitary foraging ===
+Solitary foraging includes the variety of foraging in which animals find, capture and consume their prey alone. Individuals can manually exploit patches or they can use tools to exploit their prey. For example, Bolas spiders attack their prey by luring them with a scent identical to the female moth's sex pheromones. Animals may choose to forage on their own when the resources are abundant, which can occur when the habitat is rich or when the number of conspecifics foraging are few. In these cases there may be no need for group foraging. In addition, foraging alone can result in less interaction with other foragers, which can decrease the amount of competition and dominance interactions an animal deals with. It will also ensure that a solitary forager is less conspicuous to predators. Solitary foraging strategies characterize many of the phocids (the true seals) such as the elephant and harbor seals. An example of an exclusive solitary forager is the South American species of the harvester ant, Pogonomyrmex  vermiculatus.
+
+
+==== Search behavior ====
+Animals can typically be classified into two categories by their pattern of movement exhibited through foraging behaviors. These categories are "cruise" searchers and "ambush" searchers. Cruise searchers forage by continuously hunting for prey at the outer borders of the area being searched, while ambush searchers forage by sitting and waiting. They remain motionless for long durations as they wait on the prey to pass by, therefore initiating the ambusher to attack.
+
+
+==== Tool use in solitary foraging ====
+
+Some examples of tool use include dolphins using sponges to feed on fish that bury themselves in the sediment, New Caledonian crows that use sticks to get larvae out of trees, and chimpanzees that similarly use sticks to capture and consume termites.
+
+
+==== Solitary foraging and optimal foraging theory ====
+The theory scientists use to understand solitary foraging is called optimal foraging theory. Optimal foraging theory (OFT) was first proposed in 1966, in two papers published independently, by Robert MacArthur and Eric Pianka, and by J. Merritt Emlen. This theory argues that because of the key importance of successful foraging to an individual's survival, it should be possible to predict foraging behavior by using decision theory to determine the behavior that an "optimal forager" would exhibit. Such a forager has perfect knowledge of how to optimize energy intake per unit of feeding time, based on the assumption that natural selection shapes foraging behavior to maximize the rate of energy gain. While the behavior of real animals inevitably departs from that of the optimal forager, optimal foraging theory has proved very useful in developing hypotheses for describing real foraging behavior. Departures from optimality often help to identify constraints either in the animal's behavioral or cognitive repertoire, or in the environment, that had not previously been suspected. With those constraints identified, foraging behavior often does approach the optimal pattern even if it is not identical to it. In other words, we know from optimal foraging theory that animals are not foraging randomly even if their behavior doesn't perfectly match what is predicted by OFT.
+
+
+===== Versions of OFT =====
+There are many versions of optimal foraging theory that are relevant to different foraging situations. These models generally possess the following components according to Stephens et al. 2007;
+
+Currency: an objective function, what we want to maximize, in this case energy over time as a currency of fitness
+Decision: set of choices under the organism's control, or the decisions that the organism exhibits
+Constraints: "an organism's choices are constrained by genetics, physiology,  neurology, morphology and the laws of chemistry and physics"
+Some of these versions include:
+The optimal diet model, which analyzes the behavior of a forager that encounters different types of prey and must choose which to attack. This model is also known as the prey model or the attack model. In this model the predator encounters different prey items and decides whether to spend time handling or eating the prey. It predicts that foragers should ignore low profitability prey items when more profitable items are present and abundant. The objective of this model is to identify the choice that will maximize fitness. How profitable a prey item is depends on ecological variables such as the time required to find, capture, and consume the prey in addition to the energy it provides. It is likely that an individual will settle for a trade off between maximizing the intake rate while eating and minimising the search interval between prey.
+Patch selection theory, which describes the behavior of a forager whose prey is concentrated in small areas known as patches with a significant travel time between them. The model seeks to find out how much time an individual will spend on one patch before deciding to move to the next patch. To understand whether an animal should stay at a patch or move to a new one, think of a bear in a patch of berry bushes. The longer a bear stays at the patch of berry bushes the less berries there are for that bear to eat. The bear must decide how long to stay and thus when to leave that patch and move to a new patch. Movement depends on the travel time between patches and the energy gained from one patch versus another. Since traveling to another patch requires effort, the animal may tolerate a lower energy gain if the distance between patches is larger. In other words, when energy is low, the bear should focus most of its time on obtaining the highest-quality food available in areas where it is most abundant and closest. This is based on the marginal value theorem, can be used to assess how the distance between patches, the quality of food in a patch, and the animal's energy extraction efficiency impact the giving up time. 
+Central place foraging theory is a version of the patch model. This model describes the behavior of a forager that must return to a particular place to consume food, or perhaps to hoard food or feed it to a mate or offspring. Chipmunks are a good example of this model. As travel time between the patch and their hiding place increased, the chipmunks stayed longer at the patch.
+In recent decades, optimal foraging theory has often been applied to the foraging behavior of human hunter-gatherers. Although this is controversial, coming under some of the same kinds of attack as the application of sociobiological theory to human behavior, it does represent a convergence of ideas from human ecology and economic anthropology that has proved fruitful and interesting.
+
+
+=== Group foraging ===
+Group foraging is when animals find, capture and consume prey in the presence of other individuals. In other words, it is foraging when success depends not only on your own foraging behaviors but the behaviors of others as well. The biological behavior also inspired the development of Artificial Intelligence algorithms that try to follow the main concepts of group foraging by autonomous agents. An important note here is that group foraging can emerge in two types of situations. The first situation is frequently thought of and occurs when foraging in a group is beneficial and brings greater rewards known as an aggregation economy. The second situation occurs when a group of animals forage together but it may not be in an animal's best interest to do so known as a dispersion economy. Think of a cardinal at a bird feeder for the dispersion economy. We might see a group of birds foraging at that bird feeder but it is not in the best interest of the cardinal for any of the other birds to be there too. The amount of food the cardinal can get from that bird feeder depends on how much it can take from the bird feeder but also depends on how much the other birds take as well.  In red harvester ants, the foraging process is divided between three different types of workers: nest patrollers, trail patrollers, and foragers. These workers can utilize many different methods of communicating while foraging in a group, such as guiding flights, scent paths, and "jostling runs", as seen in the eusocial bee Melipona scutellaris.
+Chimpanzees in the Taï Forest in Côte d'Ivoire also engage in foraging for meats when they can, which is achieved through group foraging. Positive correlation has been observed between the success of the hunt and the size of the foraging group. The chimps have also been observed implying rules with their foraging, where there is a benefit to becoming involved through allowing successful hunters first access to their kills.
+
+
+==== Cost and benefits of group foraging ====
+
+As already mentioned, group foraging brings both costs and benefits to the members of that group. Some of the benefits of group foraging include being able to capture larger prey, being able to create aggregations of prey, being able to capture prey that are difficult or dangerous and most importantly reduction of predation threat. With regard to costs, however, group foraging results in competition for available resources by other group members. Competition for resources can be characterized by either scramble competition whereby each individual strives to get a portion of the shared resource, or by interference competition whereby the presence of competitors prevents a forager's accessibility to resources. Group foraging can thus reduce an animal's foraging payoff.
+Group foraging may be influenced by the size of a group. In some species like lions and wild dogs, foraging success increases with an increase in group size then declines once the optimal size is exceeded. A myriad number of factors affect the group sizes in different species. For example, lionesses (female lions) do not make decisions about foraging in a vacuum. They make decisions that reflect a balance between obtaining food, defending their territory and protecting their young. In fact, we see that lion foraging behavior does not maximize their energy gain. They are not behaving optimally with respect to foraging because they have to defend their territory and protect young so they hunt in small groups to reduce the risk of being caught alone. Another factor that may influence group size is the cost of hunting. To understand the behavior of wild dogs and the average group size we must incorporate the distance the dogs run.
+Theorizing on hominid foraging during the Aurignacian Blades et al. (2001) defined the forager performing the activity to the optimal efficiency when the individual is having considered the balance of costs for search and pursuit of prey in considerations of prey selection. Also in selecting an area to work within the individual would have had to decide the correct time to move to another location corresponding to perception of yield remaining and potential yields of any given area available.
+
+
+==== Foraging arena theory ====
+A quantitative model that allows for the evaluation of trade-off decisions that occur in aquatic ecosystems. 'Foraging arenas' are the areas in which a juvenile fish can forage closer to their home while also providing an easier escape from potential predators. This theory predicts that feeding activity should be dependent upon the density of juvenile fishes, and the risk of predation within the area. A balance between the growth and mortality of these juvenile fishes is reliant consequent to the duration of foraging performed by said juvenile fish. These components vary with regards to the habitat.
+
+
+==== Group foraging and the ideal free distribution ====
+The theoretical model scientists use to understand group foraging is called ideal free distribution. This is the null model for thinking about what would draw animals into groups to forage and how they would behave in the process. This model predicts that animals will make an instantaneous decision about where to forage based on the quality (prey availability) of the patches available at that time and will choose the most profitable patch, the one that maximizes their energy intake. This quality depends on the starting quality of the patch and the number of predators already there consuming the prey.
+
+
+== See also ==
+List of forageable plants (edible by humans)
+Chesson's index
+Forage
+Avian foraging
+Primate foraging
+Forage fish
+Lévy flight foraging hypothesis
+Scavenging
+
+
+== References ==
+
+
+== External links ==
+
+The Association of Foragers: An international association for teachers of foraging skills.
+Forager's Buddy GPS Foraging
+South West Outdoor Travelers- Wild Edibles, Medicinals, Foraging, Primitive Skills & More
+Institute for the Study of Edible Wild Plants and Other Foragables
+The Big Green Idea Wild Foraging Factsheet
+Caress, Badiday. (2000), The emergence and stability of cooperative fishing on Ifaluk Atoll, for Human Behavior and Adaptation: an Anthropological Perspective Archived 2013-05-31 at the Wayback Machine, edited by L. Cronk, N. Chagnon, and B. Iro ns, pp. 437–472.

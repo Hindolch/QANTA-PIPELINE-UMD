@@ -1,0 +1,789 @@
+The glass–liquid transition, or glass transition, is the gradual and reversible transition in amorphous materials (or in amorphous regions within semicrystalline materials) from a hard and relatively brittle "glassy" state into a viscous or rubbery state as the temperature is increased. An amorphous solid that exhibits a glass transition is called a glass. The reverse transition, achieved by supercooling a viscous liquid into the glass state, is called vitrification.
+The glass-transition temperature Tg of a material characterizes the range of temperatures over which this glass transition occurs (as an experimental definition, typically marked as 100 s of relaxation time). It is always lower than the melting temperature, Tm, of the crystalline state of the material, if one exists, because the glass is a higher energy state (or enthalpy at constant pressure) than the corresponding crystal.
+Hard plastics like polystyrene and poly(methyl methacrylate) are used well below their glass transition temperatures, i.e., when they are in their glassy state. Their Tg values are both at around 100 °C (212 °F). Rubber elastomers like polyisoprene and polyisobutylene are used above their Tg, that is, in the rubbery state, where they are soft and flexible; crosslinking prevents free flow of their molecules, thus endowing rubber with a set shape at room temperature (as opposed to a viscous liquid).
+Despite the change in the physical properties of a material through its glass transition, the transition is not considered a phase transition; rather it is a phenomenon extending over a range of temperature and defined by one of several conventions. Such conventions include a constant cooling rate (20 kelvins per minute (36 °F/min)) and a viscosity threshold of 1012 Pa·s, among others. Upon cooling or heating through this glass-transition range, the material also exhibits a smooth step in the thermal-expansion coefficient and in the specific heat, with the location of these effects again being dependent on the history of the material. The question of whether some phase transition underlies the glass transition is a matter of ongoing research.
+
+
+== Characteristics ==
+The glass transition of a liquid to a solid-like state may occur with either cooling or compression. The transition comprises a smooth increase in the viscosity of a material by as much as 17 orders of magnitude within a temperature range of 500 K without any pronounced change in material structure. This transition is in contrast to the freezing or crystallization transition, which is a first-order phase transition in the Ehrenfest classification and involves discontinuities in thermodynamic and dynamic properties such as volume, energy, and viscosity. In many materials that normally undergo a freezing transition, rapid cooling will avoid this phase transition and instead result in a glass transition at some lower temperature. Other materials, such as many polymers, lack a well defined crystalline state and easily form glasses, even upon very slow cooling or compression. The tendency for a material to form a glass while quenched is called glass forming ability. This ability depends on the composition of the material and can be predicted by the rigidity theory.
+Below the transition temperature range, the glassy structure does not relax in accordance with the cooling rate used. The expansion coefficient for the glassy state is roughly equivalent to that of the crystalline solid. If slower cooling rates are used, the increased time for structural relaxation (or intermolecular rearrangement) to occur may result in a higher density glass product. Similarly, by annealing (and thus allowing for slow structural relaxation) the glass structure in time approaches an equilibrium density corresponding to the supercooled liquid at this same temperature. Tg is located at the intersection between the cooling curve (volume versus temperature) for the glassy state and the supercooled liquid.
+The configuration of the glass in this temperature range changes slowly with time towards the equilibrium structure. The principle of the minimization of the Gibbs free energy provides the thermodynamic driving force necessary for the eventual change. At somewhat higher temperatures than Tg, the structure corresponding to equilibrium at any temperature is achieved quite rapidly. In contrast, at considerably lower temperatures, the configuration of the glass remains sensibly stable over increasingly extended periods of time.
+Thus, the liquid-glass transition is not a transition between states of thermodynamic equilibrium. It is widely believed that the true equilibrium state is always crystalline. Glass is believed to exist in a kinetically locked state, and its entropy, density, and so on, depend on the thermal history. Therefore, the glass transition is primarily a dynamic phenomenon. Time and temperature are interchangeable quantities (to some extent) when dealing with glasses, a fact often expressed in the time–temperature superposition principle. On cooling a liquid, internal degrees of freedom successively fall out of equilibrium. However, there is a longstanding debate whether there is an underlying second-order phase transition in the hypothetical limit of infinitely long relaxation times.
+In a more recent model of glass transition, the glass transition temperature corresponds to the temperature at which the largest openings between the vibrating elements in the liquid matrix become smaller than the smallest cross-sections of the elements or parts of them when the temperature is decreasing. As a result of the fluctuating input of thermal energy into the liquid matrix, the harmonics of the oscillations are constantly disturbed and temporary cavities ("free volume") are created between the elements, the number and size of which depend on the temperature. The glass transition temperature Tg0 defined in this way is a fixed material constant of the disordered (non-crystalline) state that is dependent only on the pressure. As a result of the increasing inertia of the molecular matrix when approaching Tg0, the setting of the thermal equilibrium is successively delayed, so that the usual measuring methods for determining the glass transition temperature in principle deliver Tg values that are too high. In principle, the slower the temperature change rate is set during the measurement, the closer the measured Tg value Tg0 approaches. Techniques such as dynamic mechanical analysis can be used to measure the glass transition temperature.
+
+
+== Formal definitions ==
+The definition of the glass and the glass transition are not settled, and many definitions have been proposed over the past century.
+Franz Simon: Glass is a rigid material obtained from freezing-in a supercooled liquid in a narrow temperature range.
+Zachariasen: Glass is a topologically disordered network, with short range order equivalent to that in the corresponding crystal.
+Glass is a "frozen liquid" (i.e., liquids where ergodicity has been broken), which spontaneously relax towards the supercooled liquid state over a long enough time.
+Glasses are thermodynamically non-equilibrium kinetically stabilized amorphous solids, in which the molecular disorder and the thermodynamic properties corresponding to the state of the respective under-cooled melt at a temperature T* are frozen-in. Hereby T* differs from the actual temperature T.
+Glass is a nonequilibrium, non-crystalline condensed state of matter that exhibits a glass transition. The structure of glasses is similar to that of their parent supercooled liquids (SCL), and they spontaneously relax toward the SCL state. Their ultimate fate is to solidify, i.e., crystallize.
+
+
+== Transition temperature Tg ==
+
+Refer to the figure on the bottom right plotting the heat capacity as a function of temperature. In this context, Tg is the temperature corresponding to point A on the curve.
+Different operational definitions of the glass transition temperature Tg are in use, and several of them are endorsed as accepted scientific standards. Nevertheless, all definitions are arbitrary, and all yield different numeric results: at best, values of Tg for a given substance agree within a few kelvins. One definition refers to the viscosity, fixing Tg at a value of 1013 poise (or 1012 Pa·s). As evidenced experimentally, this value is close to the annealing point of many glasses.
+In contrast to viscosity, the thermal expansion, heat capacity, shear modulus, and many other properties of inorganic glasses show a relatively sudden change at the glass transition temperature. Any such step or kink can be used to define Tg. To make this definition reproducible, the cooling or heating rate must be specified.
+The most frequently used definition of Tg uses the energy release on heating in differential scanning calorimetry (DSC, see figure). Typically, the sample is first cooled with 10 K/min and then heated with that same speed.
+Yet another definition of Tg uses the kink in dilatometry (a.k.a. thermal expansion): refer to the figure on the top right. Here, heating rates of 3–5 K/min (5.4–9.0 °F/min) are common. The linear sections below and above Tg are colored green. Tg is the temperature at the intersection of the red regression lines.
+Summarized below are Tg values characteristic of certain classes of materials.
+
+
+=== Polymers ===
+
+Dry nylon-6 has a glass transition temperature of 47 °C (117 °F). Nylon-6,6 in the dry state has a glass transition temperature of about 70 °C (158 °F). Polyethylene has a glass transition range of −130 to −80 °C (−202 to −112 °F). The above are only approximate values, as the glass transition temperature depends on the cooling rate and molecular weight distribution and could be influenced by additives. For a semi-crystalline material, such as polyethylene that is 60–80% crystalline at room temperature, the quoted glass transition refers to what happens to the amorphous part of the material upon cooling.
+
+
+=== Silicates and other covalent network glasses ===
+
+
+== Linear heat capacity ==
+
+In 1971, Zeller and Pohl discovered that  when glass is at a very low temperature ~1K, its specific heat has a linear component: 
+  
+    
+      
+        c
+        ≈
+        
+          c
+          
+            1
+          
+        
+        T
+        +
+        
+          c
+          
+            3
+          
+        
+        
+          T
+          
+            3
+          
+        
+      
+    
+    {\displaystyle c\approx c_{1}T+c_{3}T^{3}}
+  
+. This is an unusual effect, because crystal material typically has 
+  
+    
+      
+        c
+        ∝
+        
+          T
+          
+            3
+          
+        
+      
+    
+    {\displaystyle c\propto T^{3}}
+  
+, as in the Debye model. This was explained by the two-level system hypothesis, which states that a glass is populated by two-level systems, which look like a double potential well separated by a wall. The wall is high enough such that resonance tunneling does not occur, but thermal tunneling does occur. Namely, if the two wells have energy difference 
+  
+    
+      
+        Δ
+        E
+        ∼
+        
+          k
+          
+            B
+          
+        
+        T
+      
+    
+    {\displaystyle \Delta E\sim k_{B}T}
+  
+, then a particle in one well can tunnel to the other well by thermal interaction with the environment. Now, imagine that there are many two-level systems in the glass, and their 
+  
+    
+      
+        Δ
+        E
+      
+    
+    {\displaystyle \Delta E}
+  
+ is randomly distributed but fixed ("quenched disorder"), then as temperature drops, more and more of these two-level levels are frozen out (meaning that it takes such a long time for a tunneling to occur, that they cannot be experimentally observed).
+Consider a single two-level system that is not frozen-out, whose energy gap is 
+  
+    
+      
+        Δ
+        E
+        =
+        O
+        (
+        1
+        
+          /
+        
+        β
+        )
+      
+    
+    {\displaystyle \Delta E=O(1/\beta )}
+  
+. It is in a Boltzmann distribution, so its average energy 
+  
+    
+      
+        =
+        
+          
+            
+              β
+              Δ
+              E
+            
+            
+              
+                e
+                
+                  β
+                  Δ
+                  E
+                
+              
+              −
+              1
+            
+          
+        
+        
+          β
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle ={\frac {\beta \Delta E}{e^{\beta \Delta E}-1}}\beta ^{-1}}
+  
+.
+Now, assume that the two-level systems are all quenched, so that each 
+  
+    
+      
+        Δ
+        E
+      
+    
+    {\displaystyle \Delta E}
+  
+ varies little with temperature. In that case, we can write 
+  
+    
+      
+        n
+        (
+        Δ
+        E
+        )
+      
+    
+    {\displaystyle n(\Delta E)}
+  
+ as the density of states with energy gap 
+  
+    
+      
+        Δ
+        E
+      
+    
+    {\displaystyle \Delta E}
+  
+. We also assume that 
+  
+    
+      
+        n
+        (
+        Δ
+        E
+        )
+      
+    
+    {\displaystyle n(\Delta E)}
+  
+ is positive and smooth near 
+  
+    
+      
+        Δ
+        E
+        ≈
+        0
+      
+    
+    {\displaystyle \Delta E\approx 0}
+  
+.
+Then, the total energy contributed by those two-level systems is
+  
+    
+      
+        
+          
+            
+              E
+              ¯
+            
+          
+        
+        ∼
+        
+          ∫
+          
+            0
+          
+          
+            O
+            (
+            1
+            
+              /
+            
+            β
+            )
+          
+        
+        
+          
+            
+              β
+              Δ
+              E
+            
+            
+              
+                e
+                
+                  β
+                  Δ
+                  E
+                
+              
+              −
+              1
+            
+          
+        
+        
+          β
+          
+            −
+            1
+          
+        
+        
+        n
+        (
+        Δ
+        E
+        )
+        d
+        Δ
+        E
+        =
+        
+          β
+          
+            −
+            2
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            O
+            (
+            1
+            )
+          
+        
+        
+          
+            a
+            
+              
+                e
+                
+                  a
+                
+              
+              −
+              1
+            
+          
+        
+        n
+        (
+        a
+        
+          /
+        
+        β
+        )
+        d
+        a
+        ∝
+        
+          β
+          
+            −
+            2
+          
+        
+        n
+        (
+        0
+        )
+      
+    
+    {\displaystyle {\bar {E}}\sim \int _{0}^{O(1/\beta )}{\frac {\beta \Delta E}{e^{\beta \Delta E}-1}}\beta ^{-1}\;n(\Delta E)d\Delta E=\beta ^{-2}\int _{0}^{O(1)}{\frac {a}{e^{a}-1}}n(a/\beta )da\propto \beta ^{-2}n(0)}
+  
+
+The effect is that the average energy in these two-level systems is 
+  
+    
+      
+        
+          
+            
+              E
+              ¯
+            
+          
+        
+        ∼
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\bar {E}}\sim T^{2}}
+  
+, leading to a 
+  
+    
+      
+        
+          ∂
+          
+            T
+          
+        
+        
+          
+            
+              E
+              ¯
+            
+          
+        
+        ∝
+        T
+      
+    
+    {\displaystyle \partial _{T}{\bar {E}}\propto T}
+  
+ term.
+
+
+=== Experimental data ===
+In experimental measurements, the specific heat capacity of glass is measured at different temperatures, and a 
+  
+    
+      
+        (
+        
+          T
+          
+            2
+          
+        
+        ,
+        c
+        
+          /
+        
+        T
+        )
+      
+    
+    {\displaystyle (T^{2},c/T)}
+  
+ graph is plotted. Assuming that 
+  
+    
+      
+        c
+        ≈
+        
+          c
+          
+            1
+          
+        
+        T
+        +
+        
+          c
+          
+            3
+          
+        
+        
+          T
+          
+            3
+          
+        
+      
+    
+    {\displaystyle c\approx c_{1}T+c_{3}T^{3}}
+  
+, the graph should show 
+  
+    
+      
+        c
+        
+          /
+        
+        T
+        ≈
+        
+          c
+          
+            1
+          
+        
+        +
+        
+          c
+          
+            3
+          
+        
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle c/T\approx c_{1}+c_{3}T^{2}}
+  
+, that is, a straight line with slope showing the typical Debye-like heat capacity, and a vertical intercept showing the anomalous linear component.
+
+
+== Kauzmann's paradox ==
+
+As a liquid is supercooled, the difference in entropy between the liquid and solid phase decreases. By extrapolating the heat capacity of the supercooled liquid below its glass transition temperature, it is possible to calculate the temperature at which the difference in entropies becomes zero. This temperature has been named the Kauzmann temperature.
+If a liquid could be supercooled below its Kauzmann temperature, and it did indeed display a lower entropy than the crystal phase, this would be paradoxical, as the liquid phase should have the same vibrational entropy, but much higher positional entropy, as the crystal phase. This is the Kauzmann paradox, still not definitively resolved.
+
+
+=== Possible resolutions ===
+There are many possible resolutions to the Kauzmann paradox.
+Kauzmann himself resolved the entropy paradox by postulating that all supercooled liquids must crystallize before the Kauzmann temperature is reached.
+Perhaps at the Kauzmann temperature, glass reaches an ideal glass phase, which is still amorphous, but has a long-range amorphous order which decreases its overall entropy to that of the crystal. The ideal glass would be a true phase of matter. The ideal glass is hypothesized, but cannot be observed naturally, as it would take too long to form. Something approaching an ideal glass has been observed as "ultrastable glass" formed by vapor deposition.
+Perhaps there must be a phase transition before the entropy of the liquid decreases. In this scenario, the transition temperature is known as the calorimetric ideal glass transition temperature T0c. In this view, the glass transition is not merely a kinetic effect, i.e. merely the result of fast cooling of a melt, but there is an underlying thermodynamic basis for glass formation. The glass transition temperature:
+
+  
+    
+      
+        
+          T
+          
+            g
+          
+        
+        →
+        
+          T
+          
+            0
+            c
+          
+        
+        
+           as 
+        
+        
+          
+            
+              d
+              T
+            
+            
+              d
+              t
+            
+          
+        
+        →
+        0.
+      
+    
+    {\displaystyle T_{g}\to T_{0c}{\text{ as }}{\frac {dT}{dt}}\to 0.}
+  
+
+Perhaps the heat capacity of the supercooled liquid near the Kauzmann temperature smoothly decreases to a smaller value.
+Perhaps first order phase transition to another liquid state occurs before the Kauzmann temperature with the heat capacity of this new state being less than that obtained by extrapolation from higher temperature.
+
+
+== Time-temperature superposition and master curves ==
+Time temperature superposition curve is a very powerful tool for the analysis of polymeric and rheological materials near the glass transition temperature. One of the key uses of time temperature superposition (TTS) curves it to extrapolate the long term viscoelastic behavior of materials using the experimental data for the short term viscoelastic behavior of materials. Therefore, it can provide key information for the design of polymeric materials over varying time scales and temperature scales (including the glass transition temperature.).
+As a class of materials, TTS curves are very useful for understanding the behavior of polymeric materials because of their viscoelastic behavior where the flow and the deformation of the material is dependent on both the time and temperature of the material. For example, consider the behavior of a typical polymer subjected to a constant load. You would expect the strain/ deformation of the materials increases with time as the system tends to minimize local stresses by rearranging the molecular configuration. Therefore, any short term measurements of the mechanical performance will provide a significantly lower or higher value depending on the property being measured. One method to determine the desired properties/ mechanical performance of the material is to study the behavior of the material at the exact temperature or time period that is of interest. However, if the time periods or temperatures required are very high, this method can quickly become very expensive in terms of time consumed and the cost. Therefore, TTS curves provide an excellent tool to effectively predict the long term rheology of polymeric materials utilizing data for their short term behavior.
+Time temperature superposition curves, which is also known as the method of reduced variables is based on two key principles/ assumptions. The first assumption is that an increase in temperature results in an increase in the frequency with which molecular rearrangements occur in viscoelastic materials. Therefore, at high temperatures, the deformation and strain will vary at a much higher rate than at relatively low temperatures. The second assumption is that there is a direct equivalency between the temperature and time (frequency). In other words, the effects of increasing the temperature are directly equivalent to the effects of increasing the time scale in terms of their impact on the viscoelastic behavior of polymeric materials. Therefore, if the deformation and strain behavior of a polymeric material are collected over a small time period at a high temperature, the resulting data can be shifted to determine the behavior of the material for a specific temperature over a much larger time scale. This resultant curve which is determined after the shifting is known as the master curve. There are numerous different models which can be utilized to determine the amount of shift required to project the experimental curve in order to arrive at the master curve. However, the two most common models are the Williams Landels Ferry (WLF) model and the Arrhenius equation.
+figure !!!
+The figure above shows a general time temperature superposition plot where the x axis is defined as the log(time) and the y axis is defined as the creep compliance. Typically, y axis is either creep compliance or the elastic/ storage modulus (G'). From the figure above, it can be observed that the short term creep plots are shifted along the x-axis in order to obtain the master curve. This x-axis shift can be determined using the WLF equation or the Arrhenius equation.
+
+  
+    
+      
+        l
+        o
+        g
+        
+          A
+          
+            T
+          
+        
+        =
+        
+          
+            
+              −
+              C
+              1
+              ∗
+              (
+              T
+              −
+              
+                T
+                
+                  r
+                  e
+                  f
+                
+              
+              )
+            
+            
+              C
+              2
+              +
+              (
+              T
+              −
+              
+                T
+                
+                  r
+                  e
+                  f
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle logA_{T}={-C1*(T-T_{ref}) \over C2+(T-T_{ref})}}
+  
+          -     Williams Landels Ferry equation
+The equation above describes the WLF equation where log At represents the x-axis shift required to obtain the master curve. The reference temperature is the temperature at which the master curve is obtained whereas the other temperature variable T represents the temperature at which the short-term creep compliance data is collected. The Williams Landels Ferry is most useful and accurate for understanding the time - temperature behavior of polymeric materials near the glass transition region because of the in-built assumptions of the model. The WLF equation is based on the free volume theory of materials for glass transitions. There are two key assumptions. The first is that there is a linear, increasing relationship between the fractional free volume of the material and the temperature. The second assumption is that as the free volume of the material increases, the viscosity drops rapidly as there is more volume for particles to move (easier flow).
+The other model to determine the shift is the Arrhenius model which is more accurate for temperatures further away from the glass transition region. The equation below describes the Arrhenius model where E is the activation energy and R is the ideal gas constant. The temperature variables T and Tref refer to the measurement temperature and the reference temperature respectively. Another important use of the Arrhenius model is to determine the activation energy of a polymeric material near the glass transition temperature. Although the WLF equation is a more accurate near the glass transition temperature, it can directly be utilized to estimate the activation energy of the material.
+
+  
+    
+      
+        l
+        o
+        g
+        
+          A
+          
+            T
+          
+        
+        =
+        
+          
+            E
+            
+              R
+              ∗
+              (
+              T
+              −
+              
+                T
+                
+                  r
+                  e
+                  f
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle logA_{T}={E \over R*(T-T_{ref})}}
+  
+         -      Arrhenius equation
+On the whole, there are few key application of time temperature superposition curves near the glass transition region for viscoelastic materials: prediction of long term viscoelastic behavior from short term experimental data, characterization of the glass transition region, and the identification of time-temperature equivalency of materials near the glass transition region.
+
+
+== In specific materials ==
+
+
+=== Silica, SiO2 ===
+Silica (the chemical compound SiO2) has a number of distinct crystalline forms in addition to the quartz structure. Nearly all of the crystalline forms involve tetrahedral SiO4 units linked together by shared vertices in different arrangements (stishovite, composed of linked SiO6 octahedra, is the main exception). Si-O bond lengths vary between the different crystal forms. For example, in α-quartz the bond length is 161 picometres (6.3×10−9 in), whereas in α-tridymite it ranges from 154–171 pm (6.1×10−9–6.7×10−9 in). The Si-O-Si bond angle also varies from 140° in α-tridymite to 144° in α-quartz to 180° in β-tridymite. Any deviations from these standard parameters constitute microstructural differences or variations that represent an approach to an amorphous, vitreous or glassy solid.
+The transition temperature Tg in silicates is related to the energy required to break and re-form covalent bonds in an amorphous (or random network) lattice of covalent bonds. The Tg is clearly influenced by the chemistry of the glass. For example, addition of elements such as B, Na, K or Ca to a silica glass, which have a valency less than 4, helps in breaking up the network structure, thus reducing the Tg. Alternatively, P, which has a valency of 5, helps to reinforce an ordered lattice, and thus increases the Tg.
+Tg is directly proportional to bond strength, e.g. it depends on quasi-equilibrium thermodynamic parameters of the bonds e.g. on the enthalpy Hd and entropy Sd of configurons – broken bonds: Tg = Hd / [Sd + R ln[(1 − fc)/ fc] where R is the gas constant and fc is the percolation threshold. For strong melts such as SiO2 the percolation threshold in the above equation is the universal Scher–Zallen critical density in the 3-D space e.g. fc = 0.15, however for fragile materials the percolation thresholds are material-dependent and fc ≪ 1. The enthalpy Hd and the entropy Sd of configurons – broken bonds can be found from available experimental data on viscosity. On the surface of SiO2 films, scanning tunneling microscopy has resolved clusters of ca. 5 SiO2 in diameter that move in a two-state fashion on a time scale of minutes. This is much faster than dynamics in the bulk, but in agreement with models that compare bulk and surface dynamics.
+
+
+=== Polymers ===
+In polymers the glass transition temperature, Tg, is often expressed as the temperature at which the Gibbs free energy is such that the activation energy for the cooperative movement of 50 or so elements of the polymer is exceeded . This allows molecular chains to slide past each other when a force is applied. From this definition, we can see that the introduction of relatively stiff chemical groups (such as benzene rings) will interfere with the flowing process and hence increase Tg.
+The stiffness of thermoplastics decreases due to this effect (see figure.) When the glass temperature has been reached, the stiffness stays the same for a while, i.e., at or near E2, until the temperature exceeds Tm, and the material melts. This region is called the rubber plateau.
+
+In ironing, a fabric is heated through this transition so that the polymer chains become mobile. The weight of the iron then imposes a preferred orientation. Tg can be significantly decreased by addition of plasticizers into the polymer matrix. Smaller molecules of plasticizer embed themselves between the polymer chains, increasing the spacing and free volume, and allowing them to move past one another even at lower temperatures. Addition of plasticizer can effectively take control over polymer chain dynamics and dominate the amounts of the associated free volume so that the increased mobility of polymer ends is not apparent. The addition of nonreactive side groups to a polymer can also make the chains stand off from one another, reducing Tg. If a plastic with some desirable properties has a Tg that is too high, it can sometimes be combined with another in a copolymer or composite material with a Tg below the temperature of intended use. Note that some plastics are used at high temperatures, e.g., in automobile engines, and others at low temperatures.
+
+In viscoelastic materials, the presence of liquid-like behavior depends on the properties of and so varies with rate of applied load, i.e., how quickly a force is applied. The silicone toy Silly Putty behaves quite differently depending on the time rate of applying a force: pull slowly and it flows, acting as a heavily viscous liquid; hit it with a hammer and it shatters, acting as a glass.
+On cooling, rubber undergoes a liquid-glass transition, which has also been called a rubber-glass transition.
+
+
+=== Effect of polymer blending on glass transition ===
+Polymer blending is a process in which two or more polymers are mixed together in order to create a new polymer with properties which are significantly different from the properties of the individual polymers. The blending process can result in enhanced properties like superior strength or flexibility for a variety of applications like packaging, automotive parts and electronics. There are various different classifications of polymer blends but in the discussion of the effect on glass transitions I will classify polymer blends as miscible and immiscible. Miscibility refers to the mixing of the individual polymers at a molecular level. While miscible polymers mix favorably, immiscible polymers remain separate within the blend at a molecular level. The miscibility of polymers has an impact on the glass transition region of the polymer blends.
+Typically, for immiscible polymer blends, the glass transition temperature of the polymer doesn't change with the composition and it maintains the same glass transition temperature region as the bulk value of the polymer. Most polymers are thermodynamically immiscible in nature due to their low configurational entropy of mixing. Immiscible polymer blends are commonly produced using a technique called melt processing, which allows for production at a very low cost.   At the molecular level, the phases in the blend of the individual polymers remain separate which is why the individual polymers maintain the same glass transition temperature / region as in their pure form. In immiscible polymer blends, the separation of the phases for the individual polymers results in distinct glass transition temperature for the individual phases. Using either differential scanning calorimetry (DSC) or Dynamic mechanical analysis (DMA), the glass transition temperature of immiscible polymer blends can be revealed. The results should show two or more distinct peaks depending on the number of separate phases in the immiscible polymer blend. The presence of this distinct and individual glass transition temperature peaks indicates phase separation and can also be utilized to classify whether a polymer blend is immiscible or not.
+On the other hand, for miscible polymer blends in which the individual polymers mix favorably and completely, there is a single glass transition temperature which is typical in between the glass transition temperatures of the individual polymer Tg values. However, the glass transition temperature of the doesn't always have to be in between the individual Tg values. The glass transition temperature of the miscible polymer blend is influenced by the composition and individual Tg values of the polymers. The flory-fox equation/ model can be used to estimate the glass transition temperature of a miscible polymer blend to a good degree of accuracy when there are strong interactions between the individual polymers. The fox model assumes that the mixing is ideal and that the chains are fully interspersed, which is why it only works accurately when there are strong interactions between the individual polymers. The equation below describes the Fox equation where w is the weight fraction of the individual polymer and Tg represents the glass transition temperature.
+
+  
+    
+      
+        
+          
+            1
+            
+              T
+              
+                g
+              
+            
+          
+        
+        =
+        
+          
+            
+              w
+              
+                1
+              
+            
+            
+              T
+              
+                g
+                1
+              
+            
+          
+        
+        +
+        
+          
+            
+              w
+              
+                2
+              
+            
+            
+              T
+              
+                g
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {1 \over T_{g}}={w_{1} \over T_{g1}}+{w_{2} \over T_{g2}}}
+  
+      -    Fox equation
+
+
+=== Bulk metallic glasses (BMGs) ===
+Bulk metallic glasses (BMGs) are a unique class of materials which are fundamentally different from traditional amorphous alloys. While traditional amorphous alloys are typically formed at high cooling rates in order to suppress the nucleation of the crystalline phases, BMGs are formed at very low critical cooling rates. The high cooling rates utilized for the formation of traditional amorphous alloys restricts the form of the finished product to powders, films and ribbons. In comparison to the wide range of different types of glasses, BMGs have superior properties in terms of amorphous character and high mechanical strength. However, the most unique characteristic of BMGs is their glass transition behavior. As metallic glasses are cooled from high to low temperatures, they transform from a supercooled liquid state into a glassy state and vice versa. Scientifically, metallic glasses are defined as amorphous alloys which exhibit a glass transition. This glass transition allows the materials to have a high strength at low temperatures and a very high flexibility at high temperatures due to the abrupt change in the physical and thermal properties of the material at the glass transition temperature.
+Regardless of the atomic configurations, it has been generally accepted by experts that the disorder of metallic glass can only be conserved down to a certain length scale. Atoms in metallic glasses tend to form short range order in which the local nearest neighbor environment of each atom is similar to other equivalent atoms, but this regularity doesn't persist over an appreciable distance. Due to the fact that good glass formers have a higher density than ordinary amorphous alloys with high critical cooling rates, it is recommended to have a composition with high packing density for good glass forming ability.
+The figure 1c shows a differential scanning calorimetry of a bulk metallic glass sample, illustrating the glass transition and the presence of a wide supercooled liquid region.
+The supercooled liquid region is defined in terms of the glass transition temperature (Tg) and the crystallization temperature (Tx). The glass transition temperature represents the temperature below which the material becomes a rigid amorphous solid. Between the glass transition temperature and the crystallization temperature the material is in a supercooled liquid state. A wider supercooled liquid region allows easier formation of glass without unwanted crystallization and increases the probability of forming a more stable amorphous structure during rapid cooling. Finally, the supercooled liquid region gives the material polymer-like forming capabilities (i.e. shaped, molded or formed like thermoplastics) while exhibiting the superior performance characteristics of metals at higher temperatures. The supercooled liquid region is the key property of metallic glasses that makes it useful for applications such as biomedical implants.
+
+
+== Mechanics of vitrification ==
+
+Molecular motion in condensed matter can be represented by a Fourier series whose physical interpretation consists of a superposition of longitudinal and transverse waves of atomic displacement with varying directions and wavelengths. In monatomic systems, these waves are called density fluctuations. (In polyatomic systems, they may also include compositional fluctuations.)
+Thus, thermal motion in liquids can be decomposed into elementary longitudinal vibrations (or acoustic phonons) while transverse vibrations (or shear waves) were originally described only in elastic solids exhibiting the highly ordered crystalline state of matter. In other words, simple liquids cannot support an applied force in the form of a shearing stress, and will yield mechanically via macroscopic plastic deformation (or viscous flow). Furthermore, the fact that a solid deforms locally while retaining its rigidity – while a liquid yields to macroscopic viscous flow in response to the application of an applied shearing force – is accepted by many as the mechanical distinction between the two.
+The inadequacies of this conclusion, however, were pointed out by Frenkel in his revision of the kinetic theory of solids and the theory of elasticity in liquids. This revision follows directly from the continuous characteristic of the viscoelastic crossover from the liquid state into the solid one when the transition is not accompanied by crystallization—ergo the supercooled viscous liquid. Thus we see the intimate correlation between transverse acoustic phonons (or shear waves) and the onset of rigidity upon vitrification, as described by Bartenev in his mechanical description of the vitrification process.
+The velocities of longitudinal acoustic phonons in condensed matter are directly responsible for the thermal conductivity that levels out temperature differentials between compressed and expanded volume elements. Kittel proposed that the behavior of glasses is interpreted in terms of an approximately constant "mean free path" for lattice phonons, and that the value of the mean free path is of the order of magnitude of the scale of disorder in the molecular structure of a liquid or solid. The thermal phonon mean free paths or relaxation lengths of a number of glass formers have been plotted versus the glass transition temperature, indicating a linear relationship between the two. This has suggested a new criterion for glass formation based on the value of the phonon mean free path.
+It has often been suggested that heat transport in dielectric solids occurs through elastic vibrations of the lattice, and that this transport is limited by elastic scattering of acoustic phonons by lattice defects (e.g. randomly spaced vacancies).
+These predictions were confirmed by experiments on commercial glasses and glass ceramics, where mean free paths were apparently limited by "internal boundary scattering" to length scales of 10–100 micrometres (0.00039–0.00394 in). The relationship between these transverse waves and the mechanism of vitrification has been described by several authors who proposed that the onset of correlations between such phonons results in an orientational ordering or "freezing" of local shear stresses in glass-forming liquids, thus yielding the glass transition.
+
+
+=== Electronic structure ===
+The influence of thermal phonons and their interaction with electronic structure is a topic that was appropriately introduced in a discussion of the resistance of liquid metals. Lindemann's theory of melting is referenced, and it is suggested that the drop in conductivity in going from the crystalline to the liquid state is due to the increased scattering of conduction electrons as a result of the increased amplitude of atomic vibration. Such theories of localization have been applied to transport in metallic glasses, where the mean free path of the electrons is very small (on the order of the interatomic spacing).
+The formation of a non-crystalline form of a gold-silicon alloy by the method of splat quenching from the melt led to further considerations of the influence of electronic structure on glass forming ability, based on the properties of the metallic bond.
+Other work indicates that the mobility of localized electrons is enhanced by the presence of dynamic phonon modes. One claim against such a model is that if chemical bonds are important, the nearly free electron models should not be applicable. However, if the model includes the buildup of a charge distribution between all pairs of atoms just like a chemical bond (e.g., silicon, when a band is just filled with electrons) then it should apply to solids.
+Thus, if the electrical conductivity is low, the mean free path of the electrons is very short. The electrons will only be sensitive to the short-range order in the glass since they do not get a chance to scatter from atoms spaced at large distances. Since the short-range order is similar in glasses and crystals, the electronic energies should be similar in these two states. For alloys with lower resistivity and longer electronic mean free paths, the electrons could begin to sense  that there is disorder in the glass, and this would raise their energies and destabilize the glass with respect to crystallization. Thus, the glass formation tendencies of certain alloys may therefore be due in part to the fact that the electron mean free paths are very short, so that only the short-range order is ever important for the energy of the electrons.
+It has also been argued that glass formation in metallic systems is related to the "softness" of the interaction potential between unlike atoms. Some authors, emphasizing the strong similarities between the local structure of the glass and the corresponding crystal, suggest that chemical bonding helps to stabilize the amorphous structure.
+Other authors have suggested that the electronic structure yields its influence on glass formation through the directional properties of bonds. Non-crystallinity is thus favored in elements with a large number of polymorphic forms and a high degree of bonding anisotropy. Crystallization becomes more unlikely as bonding anisotropy is increased from isotropic metallic to anisotropic metallic to covalent bonding, thus suggesting a relationship between the group number in the periodic table and the glass forming ability in elemental solids.
+
+
+== See also ==
+Gardner transition
+Glass formation
+
+
+== References ==
+
+
+== External links ==
+
+Fragility Archived 2007-06-28 at the Wayback Machine
+VFT Eqn.
+Polymers I
+Polymers II Archived 2010-01-11 at the Wayback Machine
+Angell: Aqueous media
+DoITPoMS Teaching and Learning Package- "The Glass Transition in Polymers"
+Glass Transition Temperature short overview

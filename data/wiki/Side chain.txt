@@ -1,0 +1,34 @@
+In organic chemistry and biochemistry, a side chain is a chemical group that is attached to a core part of the molecule called the "main chain" or backbone. The side chain is a hydrocarbon branching element of a molecule that is attached to a larger hydrocarbon backbone. It is one factor in determining a molecule's properties and reactivity. A side chain is also known as a pendant chain, but a pendant group (side group) has a different definition.
+
+
+== Conventions ==
+The placeholder R is often used as a generic placeholder for alkyl (saturated hydrocarbon) group side chains in structural formulae. To indicate other non-carbon groups in structure diagrams, X, Y, or Z are often used.
+
+
+== History ==
+The R symbol was introduced by 19th-century French chemist Charles Frédéric Gerhardt, who advocated its adoption on the grounds that it would be widely recognizable and intelligible given its correspondence in multiple European languages to the initial letter of "root" or "residue": French racine ("root") and résidu ("residue"), these terms' respective English translations along with radical (itself derived from Latin radix below), Latin radix ("root") and residuum ("residue"), and German Rest ("remnant" and, in the context of chemistry, both "residue" and "radical").
+
+
+== Usage ==
+
+
+=== Organic chemistry ===
+In polymer science, the side chain of an oligomeric or polymeric offshoot extends from the backbone chain of a polymer. Side chains have noteworthy influence on a polymer's properties, mainly its crystallinity and density. An oligomeric branch may be termed a short-chain branch, and a polymeric branch may be termed a long-chain branch. Side groups are different from side chains; they are neither oligomeric nor polymeric.
+
+
+=== Biochemistry ===
+In proteins, which are composed of amino acid residues, the side chains are attached to the alpha-carbon atoms of the amide backbone. The side chain connected to the alpha-carbon is specific for each amino acid and is responsible for determining charge and polarity of the amino acid. The amino acid side chains are also responsible for many of the interactions that lead to proper protein folding and function. Amino acids with similar polarity are usually attracted to each other, while nonpolar and polar side chains usually repel each other. Nonpolar/polar interactions can still play an important part in stabilizing the secondary structure due to the relatively large amount of them occurring throughout the protein. Spatial positions of side-chain atoms can be predicted based on protein backbone geometry using computational tools for side-chain reconstruction.
+
+
+== See also ==
+Alkyl
+Backbone-dependent rotamer library
+Backbone chain
+Branching (polymer chemistry)
+Functional group
+Pendant group
+Residue (chemistry)
+Substituent
+
+
+== References ==

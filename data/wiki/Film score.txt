@@ -1,0 +1,238 @@
+A film score is original music written specifically to accompany a film or a television program. The score consists of a number of orchestral, instrumental, or choral pieces called cues, which are timed to begin and end at specific points during the film in order to enhance the dramatic narrative and the emotional impact of the scene in question. Scores are written by one or more composers under the guidance of or in collaboration with the film's director or producer and are then most often performed by an ensemble of musicians – usually including an orchestra (most likely a symphony orchestra) or band, instrumental soloists, and choir or vocalists – known as playback singers – and recorded by a sound engineer. The term is less frequently applied to music written for media such as live theatre, television and radio programs, and video games, and that music is typically referred to as either the soundtrack or incidental music.
+Film scores encompass an enormous variety of styles of music depending on the nature of the films they accompany. While the majority of scores are orchestral works rooted in Western classical music, many scores are also influenced by jazz, rock, pop, blues, new-age and ambient music, and a wide range of ethnic and world music styles. Since the 1950s, a growing number of scores have also included electronic elements, and many scores written today feature a hybrid of orchestral and electronic instruments.
+Since the invention of digital technology and audio sampling, many modern films have been able to rely on digital samples to imitate the sound of acoustic instruments, and some scores are created and performed wholly by the composers themselves, by using music composition software, synthesizers, samplers, and MIDI controllers.
+Songs such as pop songs and rock songs are usually not considered part of the film's score, although songs do also form part of the film's soundtrack. Although some songs, especially in musicals, are based on thematic ideas from the score (or vice versa), scores usually do not have lyrics, except when sung by choirs or soloists as part of a cue. Similarly, pop songs that are dropped into a specific scene in a film for emphasis or as diegetic music (e.g., a song playing on a character's car radio) are not considered part of the score, although the score's composer will occasionally write an original pop song based on their themes, such as James Horner's "My Heart Will Go On" from Titanic, written for Celine Dion.
+
+
+== Terminology ==
+A film score may also be called a background score, background music, film soundtrack, film music, screen composition, screen music, or incidental music.
+
+
+== Process of creation ==
+
+
+=== Spotting ===
+The composer usually enters the creative process towards the end of filming at around the same time as the film is being edited, although on some occasions the composer is on hand during the entire film shoot, especially when actors are required to perform with or be aware of original diegetic music. The composer is shown an unpolished "rough cut" of the film before the editing is completed and talks to the director or producer about what sort of music is required for the film in terms of style and tone. The director and composer will watch the entire film, taking note of which scenes require original music. During this process, composers will take precise timing notes so that they know how long each cue needs to last, where it begins, where it ends, and of particular moments during a scene with which the music may need to coincide in a specific way. This process is known as "spotting".
+Occasionally, a filmmaker will actually edit their film to fit the flow of music, rather than have the composer edit their score to the final cut. Director Godfrey Reggio edited his films Koyaanisqatsi and Powaqqatsi based on composer Philip Glass's music. Similarly, the relationship between director Sergio Leone and composer Ennio Morricone was such that the finale of The Good, the Bad and the Ugly and the films Once Upon a Time in the West and Once Upon a Time in America were edited to Morricone's score as the composer had prepared it months before the film's production ended.
+In another example, the finale of Steven Spielberg's E.T. the Extra-Terrestrial was edited to match the music of his long-time collaborator John Williams: as recounted in a companion documentary on the DVD, Spielberg gave Williams complete freedom with the music and asked him to record the cue without pictures; Spielberg then re-edited the scene later to match the music.
+In some circumstances, a composer will be asked to write music based on their impressions of the script or storyboards without seeing the film itself and has more freedom to create music without the need to adhere to specific cue lengths or mirror the emotional arc of a particular scene. This approach is usually taken by a director who does not wish to have the music comment specifically on a particular scene or nuance of a film and which can instead be inserted into the film at any point the director wishes during the post-production process. Composer Hans Zimmer was asked to write music in this way in 2010 for director Christopher Nolan's film Inception; composer Gustavo Santaolalla did the same thing when he wrote his Oscar-winning score for Brokeback Mountain.
+
+
+=== Syncing ===
+When writing music for film, one goal is to sync dramatic events happening on screen with musical events in the score. There are many different methods for syncing music to picture. These include using sequencing software to calculate timings, using mathematic formulas and free timing with reference timings. Composers work using SMPTE timecode for syncing purposes.
+When syncing music to picture, generally a leeway of 3–4 frames late or early allows the composer to be extremely accurate. Using a technique called Free Timing, a conductor will use either (a) a stopwatch or studio size stop clock, or (b) watch the film on a screen or video monitor while conducting the musicians to predetermined timings. These are represented visually by vertical lines (streamers) and bursts of light called punches. These are put on the film by the Music Editor at points specified by the composer. In both instances, the timings on the clock or lines scribed on the film have corresponding timings which are also at specific points (beats) in the composer/conductor score.
+
+
+==== Written click track ====
+A written click track is a method of writing bars of music in consistent time values (e.g. 4 beats in :02+2⁄3 seconds) to establish a constant tempo in lieu of a metronome value (e.g. 88 bpm). A composer would use a written click if he or she planned to conduct live performers. When using other methods such as a metronome, the conductor has a perfectly spaced audible click playing. This can yield stiff and lifeless performances in slower more expressive cues. A standard bpm value can be converted to a written click where X represents the number of beats per bar and W represents time in seconds by using the following equation:
+
+  
+    
+      
+        
+          
+            60
+            
+              b
+              p
+              m
+            
+          
+        
+        (
+        x
+        )
+        =
+        W
+      
+    
+    {\displaystyle {\frac {60}{bpm}}(x)=W}
+  
+
+Written clicks are expressed using 1⁄3 second increments, so the next step is to round the decimal to either 0,1⁄3, or 2⁄3 of a second. The following is an example for 88 bpm:
+
+  
+    
+      
+        
+          
+            60
+            88
+          
+        
+        (
+        4
+        )
+        =
+        2.72
+      
+    
+    {\displaystyle {\frac {60}{88}}(4)=2.72}
+  
+
+2.72 rounds to 2.66, so the written click is 4 beats in :02+2⁄3 seconds.
+Once the composer has identified the location in the film with which to sync musically, he or she must determine the musical beat this event occurs on. To find this, conductors use the following equation, where bpm is beats per minute, sp is the sync point in real-time (i.e. 33.7 seconds), and B is the beat number in 1⁄3 increments (i.e. 49+2⁄3).
+
+  
+    
+      
+        
+          
+            
+              b
+              p
+              m
+              (
+              s
+              p
+              )
+            
+            60
+          
+        
+        +
+        1
+        =
+        B
+      
+    
+    {\displaystyle {\frac {bpm(sp)}{60}}+1=B}
+  
+
+
+=== Writing ===
+Once the spotting session has been completed and the precise timings of each cue determined, the composer will then work on writing the score. The methods of writing the score vary from composer to composer; some composers prefer to work with a traditional pencil and paper, writing notes by hand on a staff and performing works-in-progress for the director on a piano, while other composers write on computers using sophisticated music composition software such as Digital Performer, Logic Pro, Finale, Cubase, or Pro Tools. Working with software allows composers to create MIDI-based demos of cues, called MIDI mockups, for review by the filmmaker prior to the final orchestral recording.
+The length of time a composer has to write the score varies from project to project; depending on the post-production schedule, a composer may have as little as two weeks or as much as three months to write the score. In normal circumstances, the actual writing process usually lasts around six weeks from beginning to end.
+The actual material of the score depends on several different variables that factor into how a composer may write - for instance, the emotion the composer is trying to convey, the nature of the character on screen, the scenery and geography of the set, along with multiple more different variables. A composition could consist of different instrumentations, varying genres, and different influential styles. 
+Each composer has his or her own inspirations and pragmatic impressions that create unique and compelling sounds that can help to make a scene memorable. One example of this is in the "Lord of The Rings" score where Howard Shore uses a specific melodic idea to refer to The Shire by employing a tin flute to evoke a Celtic feeling. Shore does this throughout the three films of the trilogy to underscore a character's feeling of nostalgic reminiscence (Lawson, Macdonald, 2018).
+Other scores include not only original orchestrations but also popular music that represents the era and or the character being portrayed. Many films do this, such as Guardians of the Galaxy or Back to the Future. Alan Silvestri at times orchestrates compositions that are accompanied by tracks such as "The Power of Love" and "Back in Time", both by Huey Lewis and The News. This creates a sense of lightness that deviates from the fanfare-like main theme.(Lawson, Macdonald,2018).
+Many scores often try to draw from worldly influence to create sound that cements itself into popular culture. An example of this would be the score from The Good, The Bad, and The Ugly. In this score, composer Ennio Morricone uses a culmination of post-tonal music theory, Celtic song, gregorian chant, and mariachi trumpets to create the sound of the spaghetti western, one that is often associated with the wild west (Kalinak 2010).
+
+
+=== Orchestration ===
+Once the music has been written, it must then be arranged or orchestrated in order for the ensemble to be able to perform it. The nature and level of orchestration varies from project to project and composer to composer, but in its basic form the orchestrator's job is to take the single-line music written by the composer and "flesh it out" into instrument-specific sheet music for each member of the orchestra to perform.
+
+Some composers like Ennio Morricone orchestrate their own scores themselves, without using an additional orchestrator. Some composers provide intricate details in how they want this to be accomplished and will provide the orchestrator with copious notes outlining which instruments are being asked to perform which notes, giving the orchestrator no personal creative input whatsoever beyond re-notating the music on different sheets of paper as appropriate. Other composers are less detailed, and will often ask orchestrators to "fill in the blanks", providing their own creative input into the makeup of the ensemble, ensuring that each instrument is capable of performing the music as written, and even allowing them to introduce performance techniques and flourishes to enhance the score. In many cases, time constraints determined by the film's post-production schedule dictate whether composers orchestrate their own scores, as it is often impossible for the composer to complete all the required tasks within the time frame allowed.
+Over the years, several orchestrators have become linked to the work of one particular composer, often to the point where one will not work without the other.
+Once the orchestration process has been completed, the sheet music is physically printed onto paper by one or more music copyists and is ready for performance.
+
+
+=== Recording ===
+When the music has been composed and orchestrated, the orchestra or ensemble then performs it, often with the composer conducting. Musicians for these ensembles are often uncredited in the film or on the album and are contracted individually (and if so, the orchestra contractor is credited in the film or the soundtrack album). However, some films have recently begun crediting the contracted musicians on the albums under the name Hollywood Studio Symphony after an agreement with the American Federation of Musicians. Other performing ensembles that are often employed include the London Symphony Orchestra (performing film music since 1935) the City of Prague Philharmonic Orchestra (an orchestra dedicated mostly to recording), the BBC Philharmonic, and the Northwest Sinfonia.
+The orchestra performs in front of a large screen depicting the film, The conductor and musicians habitually wear headphones that sound a series of clicks called a "click-track" that changes with meter and tempo, assisting to synchronize the music with the film.
+More rarely, the director will talk to the composer before shooting has started, so as to give more time to the composer or because the director needs to shoot scenes (namely song or dance scenes) according to the final score. Sometimes the director will have edited the film using "temp (temporary) music": already published pieces with a character that the director believes to fit specific scenes.
+
+
+== Elements of a film score ==
+Most films have between 45 and 120 minutes of music. However, some films have very little or no music; others may feature a score that plays almost continuously throughout.
+
+
+=== Temp tracks ===
+In some instances, film composers have been asked by the director to imitate a specific composer or style present in the temp track. On other occasions, directors have become so attached to the temp score that they decide to use it and reject the original score written by the film composer. One of the most famous cases is Stanley Kubrick's 2001: A Space Odyssey, where Kubrick opted for existing recordings of classical works, including pieces by composer György Ligeti rather than the score by Alex North, although Kubrick had also hired Frank Cordell to do a score. Other examples include Torn Curtain (Bernard Herrmann), Troy (Gabriel Yared), Pirates of the Caribbean: The Curse of the Black Pearl (Alan Silvestri), Peter Jackson's King Kong (Howard Shore), Air Force One (Randy Newman) and The Bourne Identity (Carter Burwell).
+
+
+=== Structure ===
+Films often have different themes for important characters, events, ideas or objects, an idea often associated with Wagner's use of leitmotif. These may be played in different variations depending on the situation they represent, scattered amongst incidental music. The themes for specific characters or locations are known as a motif where the rest of the track is usually centered around the particular motif and the track develops in line with the motif.
+This common technique may often pass unnoticed by casual moviegoers, but has become well known among genre enthusiasts. One prominent example is John Williams' score for the Star Wars saga, and the numerous themes in Star Wars music associated with individual characters such as Darth Vader, Luke Skywalker, and Princess Leia. Similarly, the music of the Lord of the Rings film series featured recurring themes for many main characters and places. Another notable example is Jerry Goldsmith's Klingon theme from Star Trek: The Motion Picture (1979), which later composers in the Star Trek film series quoted in their Klingon motifs, and which was included on numerous occasions as a theme for Worf, the franchise's most prominent Klingon character. Michael Giacchino employed character themes in the soundtrack for the 2009 animated film Up, for which he received the Academy Award for Best Score. His orchestral soundtrack for the television series Lost also depended heavily on character and situation-specific themes.
+
+
+=== Source music ===
+"Source music" (or a "source cue") comes from an on screen source that can actually be seen or that can be inferred (in academic film theory such music is called "diegetic" music, as it emanates from the "diegesis" or "story world"). An example of "source music" is the use of the Frankie Valli song "Can't Take My Eyes Off You" in Michael Cimino's The Deer Hunter. Alfred Hitchcock's 1963 thriller The Birds is an example of a Hollywood film with no non-diegetic music whatsoever. Dogme 95 is a filmmaking movement, started in Denmark in 1995, with a manifesto that prohibits any use of non-diegetic music in its films.
+
+
+== Artistic merit ==
+
+
+=== Music criticism ===
+The artistic merits of film music are frequently debated. Some critics value it highly, pointing to music such as that written by Erich Wolfgang Korngold, Aaron Copland, Bernard Herrmann, and others. Some consider film music to be a defining genre of classical music in the late 20th century, if only because it is the brand of classical music heard more often than any other. In some cases, film themes have become accepted into the canon of classical music. These are mostly works from already noted composers who have done scores; for instance, Sergei Prokofiev's score to Alexander Nevsky, or Vaughan Williams' score to Scott of the Antarctic. Others see the great bulk of film music as meritless. They consider that much film music is derivative, borrowing heavily from previous works. Composers of film scores typically can produce about three or four per year. The most popular works by composers such as John Williams are still far from entering the accepted classical canon, although there is a growing appreciation for the broader contribution of composers such as Williams among some classical composers and critics; for example, the Norwegian contemporary classical composer Marcus Paus has said that he considers Williams to be "one of the great composers of any century" who has "found a very satisfying way of embodying dissonance and avant-garde techniques within a larger tonal framework" and who "might also have come the closest of any composer to realizing the old Schoenbergian utopia that children of the future would be whistling 12-tone rows." Even so, considering they are often the most popular modern compositions of classical music known to the general public, major orchestras sometimes perform concerts of such music, as do pops orchestras.
+
+
+=== Preservation efforts ===
+In 1983, a non-profit organization, the Society for the Preservation of Film Music, was formed to preserve the "byproducts" of creating a film score, including the music manuscripts (written music) and other documents and studio recordings generated in the process of composing and recording scores which, in some instances, have been discarded by movie studios. The written music must be kept to perform the music on concert programs and to make new recordings of it. Sometimes only after decades has an archival recording of a film score been released on CD.
+
+
+== History ==
+The origins of film music are disputed, although they are generally considered to have aesthetic roots in various media forms associated with nineteenth-century Romanticism. According to Kurt London, film music "began not as a result of any artistic urge, but from a dire need of something which would drown the noise made by the projector. For in those times there was as yet no sound-absorbent walls between the projection machine and the auditorium. This painful noise disturbed visual enjoyment to no small extent. Instinctively cinema proprietors had recourse to music, and it was the right way, using an agreeable sound to neutralize one less agreeable." On the contrary, film historian James Wierzbicki asserts that early film showings (such as the Lumière brothers' first film screening) would have been social events to the capacity that they had no need to mask the sounds of a projector mechanism. As these early films began to move out of exhibition spaces and into vaudeville theaters, the role of film began to shift as well. Given that vaudeville theaters typically employed musicians, it is likely that this is the point when it became commonplace for film to be accompanied by music. Audiences at the time would have come to expect music in the vaudeville space, and as such live musical accompaniment to films grew out naturally.
+Before the age of recorded sound in motion pictures, efforts were taken to provide suitable music for films, usually through the services of an in-house pianist or organist, and, in some cases, entire orchestras, typically given cue sheets as a guide. A pianist was present to perform at the Lumière brothers' first film screening in 1895. In 1914, The Oz Film Manufacturing Company sent full-length scores by Louis F. Gottschalk for their films. Other examples of this include Victor Herbert's score in 1915 to The Fall of a Nation (a sequel to The Birth of a Nation) and Camille Saint-Saëns' music for The Assassination of the Duke of Guise in 1908. It was preceded by Nathaniel D. Mann's score for The Fairylogue and Radio-Plays by four months, but that was a mixture of interrelated stage and film performance in the tradition of old magic lantern shows. Most accompaniments at this time, these examples notwithstanding, comprised pieces by famous composers, also including studies. These were often used to form catalogues of photoplay music, which had different subsections broken down by 'mood' and genre: dark, sad, suspense, action, chase, etc.
+German cinema, which was highly influential in the era of silent movies, provided some original scores such as Fritz Lang's movies Die Nibelungen (1924) and Metropolis (1927) which were accompanied by original full scale orchestral and leitmotific scores written by Gottfried Huppertz, who also wrote piano-versions of his music, for playing in smaller cinemas. Friedrich W. Murnau's movies Nosferatu (1922 – music by Hans Erdmann) and Faust – Eine deutsche Volkssage (1926 – music by Werner Richard Heymann) also had original scores written for them. Other films like Murnau's Der letzte Mann contained a mixing of original compositions (in this case by Giuseppe Becce) and library music / folk tunes, which were artistically included into the score by the composer. Much of this influence can be traced further back to German Romantic forms of music. Richard Wagner's ideas on Gesamtkunstwerk and leitmotif in his operas were later picked up on by prominent film composer Max Steiner. Steiner and his contemporary Erich Korngold both immigrated from Vienna, bringing with them musical structures and ideologies of the late Romantic period.
+In France, before the advent of talkies, Erik Satie composed what many consider the first "frame by frame" synchronous film score for director René Clair's avant-garde short Entr'acte (1924). Anticipating "spotting" techniques and the inconsistencies of projection speeds in screenings of silent films, Satie took precise timings for each sequence and created a flexible, aleatoric score of brief, evocative motifs which could be repeated and varied in tempo as required. American composers Virgil Thomson and Aaron Copland cited Satie's music for Entr'acte as a major influence on their own forays into film scoring.
+When sound came to movies, director Fritz Lang barely used music in his movies anymore. Apart from Peter Lorre whistling a short piece from Edvard Grieg's Peer Gynt, Lang's movie M – Eine Stadt sucht einen Mörder was lacking musical accompaniment completely and Das Testament des Dr. Mabuse only included one original piece written for the movie by Hans Erdmann played at the very beginning and end of the movie. One of the rare occasions on which music occurs in the movie is a song one of the characters sings, that Lang uses to put emphasis on the man's insanity, similar to the use of the whistling in M.
+Early attempts at the synchronization of sound and image were failures, in large part due to mechanical and technological limitations. Phonographs, the only medium available for recorded sound in the early twentieth century, were difficult if not impossible to synchronize with the rotation of film projectors. In the cases where an attempt was made, sound was further limited by an inability to properly amplify it. However, in the 1920s improvements in radio technology allowed for the amplification of sound, and the invention of sound on film allowed for the synchronization thereof. A landmark event in music synchronization with the action in film was achieved in the score composed by Max Steiner for David O. Selznick's 1933 King Kong. A fine example of this is when the aborigine chief slowly approaches the unwanted visitors to Skull Island who are filming the natives' sacred rites. As he strides closer and closer, each footfall is reinforced by a background chord.
+Though "the scoring of narrative features during the 1940s lagged decades behind technical innovations in the field of concert music," the 1950s saw the rise of the modernist film score. Director Elia Kazan was open to the idea of jazz influences and dissonant scoring and worked with Alex North, whose score for A Streetcar Named Desire (1951) combined dissonance with elements of blues and jazz. Kazan also approached Leonard Bernstein to score On the Waterfront (1954) and the result was reminiscent of earlier works by Aaron Copland and Igor Stravinsky with its "jazz-based harmonies and exciting additive rhythms." A year later, Leonard Rosenman, inspired by Arnold Schoenberg, experimented with atonality in his scores for East of Eden (1955) and Rebel Without a Cause (1955). In his ten-year collaboration with Alfred Hitchcock, Bernard Herrmann experimented with ideas in Vertigo (1958) and Psycho (1960). The use of non-diegetic jazz was another modernist innovation, such as jazz star Duke Ellington's score for Otto Preminger's Anatomy of a Murder (1959).
+
+
+== Composers ==
+
+
+=== Academy Award nominees and winners ===
+
+
+=== Box office champions ===
+The following list includes all composers who have scored one of the 100 highest-grossing films of all time but have never been nominated for a major award (Oscar, Golden Globe etc.).
+
+William Alwyn – Swiss Family Robinson (1960)
+Joseph DeBeasi – American Sniper (2014)
+David Buttolph – House of Wax (1953)
+Brad Fiedel – Terminator 2: Judgment Day (1991)
+Alexander Janko – My Big Fat Greek Wedding (2002)
+Bill Justis – Smokey and the Bandit (1977)
+Harald Kloser – The Day After Tomorrow (2004), 2012 (2009)
+Heitor Pereira – Despicable Me (2010), The Smurfs (2011), Despicable Me 2 (2013)
+Trevor Rabin – Armageddon (1998), National Treasure: Book of Secrets (2007)
+Thomas Wanker – 2012 (2009)
+Pharrell Williams – Despicable Me (2010), Despicable Me 2 (2013)
+Chris Wilson – My Big Fat Greek Wedding (2002)
+
+
+== Relation with directors ==
+
+Sometimes, a composer may unite with a director by composing the score for many films of a same director. John Williams' professional relationship with Steven Spielberg and George Lucas is one of the most prominent in film history, with Williams scoring all but five of Spielberg's films, and all the installments of both of Lucas' blockbuster franchises (Star Wars and Indiana Jones); Williams won all five of his Oscars in his collaborations with the two. Additionally, Danny Elfman did the score for all the movies directed by Tim Burton, with the exception of Ed Wood (score by Howard Shore) and Sweeney Todd: The Demon Barber of Fleet Street (score by Stephen Sondheim). Other documented instance of director-composer relationships includes: Bernard Herrmann with Alfred Hitchcock; Jerry Goldsmith with Joe Dante and Franklin Schaffner; Ennio Morricone with Sergio Leone, Mauro Bolognini, and Giuseppe Tornatore; Henry Mancini with Blake Edwards; Georges Delerue with François Truffaut; Alan Silvestri with Robert Zemeckis; Angelo Badalamenti with David Lynch; James Newton Howard with M. Night Shyamalan; Éric Serra with Luc Besson; Patrick Doyle with Kenneth Branagh; Dave Grusin with Sydney Pollack; Howard Shore with David Cronenberg, Peter Jackson, and Martin Scorsese; Carter Burwell with Joel & Ethan Coen; Bill Conti with John G. Avildsen; Lalo Schifrin with Don Siegel, Stuart Rosenberg, and Brett Ratner; Hans Zimmer with Ridley Scott and Christopher Nolan; Harry Gregson-Williams with Tony Scott and Andrew Adamson; Clint Mansell with Darren Aronofsky; Dario Marianelli with Joe Wright; Trent Reznor and Atticus Ross with David Fincher; Steve Jablonsky with Michael Bay, Mychael Danna with Ang Lee and Atom Egoyan, Terence Blanchard with Spike Lee, Randy Newman with John Lasseter; Thomas Newman with Sam Mendes; David Newman with Danny Devito, Brian Levant, and Stephen Herek; John Debney with Jon Favreau and Garry Marshall; Gabriel Yared with Anthony Minghella; Joe Kraemer with Christopher McQuarrie; Michael Giacchino with J. J. Abrams and Brad Bird; James Horner with James Cameron and Ron Howard; John Barry with Bryan Forbes, Anthony Harvey, Terence Young, and Guy Hamilton; Elmer Bernstein with John Landis, John Sturges, and Robert Mulligan; Maurice Jarre with David Lean, Peter Weir, and Georges Franju; Philip Glass with Godfrey Reggio; Cliff Martinez and David Holmes with Steven Soderbergh; Akira Ifukube with Ishirō Honda; A. R. Rahman with Mani Ratnam; George Fenton with Richard Attenborough, Nicholas Hynter, Ken Loach, and Stephen Frears; Klaus Badelt and Ernst Reijseger with Werner Herzog; Randy Edelman with Ivan Reitman and Rob Cohen; Marc Shaiman with Rob Reiner; Elliot Goldenthal with Julie Taymor and Neil Jordan; Rachel Portman with Beeban Kidron, Lasse Hallström, and Jonathan Demme; Christophe Beck with Shawn Levy; Arthur B. Rubinstein and David Shire with John Badham; John Powell with Doug Liman and Paul Greengrass; Trevor Rabin with Renny Harlin and Jon Turteltaub; Harald Kloser with Roland Emmerich; David Arnold with Michael Apted and John Singleton; Michael Kamen with Richard Donner, John McTiernan, and Terry Gilliam; Jorge Arriagada with Raúl Ruiz; Zbigniew Preisner with Krzysztof Kieślowski; Mark Isham with Alan Rudolph and Robert Redford; Basil Poledouris with John Millius; Joseph Trapanese with Joseph Kosinski; Jonny Greenwood and Jon Brion with Paul Thomas Anderson; Brian Tyler with Justin Lin and Sylvester Stallone; John Ottman with Bryan Singer; Marco Beltrami with Wes Craven and Guillermo del Toro; Tyler Bates with James Gunn, Zack Snyder, and Rob Zombie; Pino Donaggio with Brian De Palma; and Alexandre Desplat with Wes Anderson, Roman Polanski, Gareth Edwards, and George Clooney.
+
+
+== Production music ==
+
+Many companies provide music to various film, TV and commercial projects for a fee. Sometimes called library music, the music is owned by production music libraries and licensed to customers for use in film, television, radio and other media. Examples of firms include Warner Chappell Production Music, Jingle Punks, Associated Production Music, FirstCom Music, VideoHelper and Extreme Music. Unlike popular and classical music publishers, who typically own less than 50 percent of the copyright in a composition, music production libraries own all of the copyrights of their music, meaning that it can be licensed without seeking the composer's permission, as is necessary in licensing music from normal publishers. This is because virtually all music created for music libraries is done on a work for hire basis. Production music is therefore a very convenient medium for media producers – they can be assured that they will be able to license any piece of music in the library at a reasonable rate.
+Production music libraries will typically offer a broad range of musical styles and genres, enabling producers and editors to find much of what they need in the same library. Music libraries vary in size from a few hundred tracks up to many thousands. The first production music library was set up by De Wolfe Music in 1927 with the advent of sound in film, the company originally scored music for use in silent film. Another music library was set up by Ralph Hawkes of Boosey & Hawkes Music Publishers in the 1930s. APM, the largest US library, has over 250,000 tracks.
+
+
+== See also ==
+
+Show tune
+AFI's 100 Years of Film Scores
+Fictional music
+List of film score composers
+List of film director–composer collaborations
+Score: A Film Music Documentary
+Film Score Monthly
+
+
+== References ==
+
+
+== Further reading ==
+Andersen, Martin Stig. "Electroacoustic Sound and Audiovisual Structure in Film". eContact! 12.4 — Perspectives on the Electroacoustic Work / Perspectives sur l'œuvre électroacoustique (August 2010). Montréal: CEC.
+Dorschel, Andreas (ed.). Tonspuren. Musik im Film: Fallstudien 1994–2001. Universal Edition, Vienna 2005 (Studien zur Wertungsforschung 46). ISBN 3-7024-2885-2. Scrutinizes film score practice at the turn from the 20th to 21st century. In German.
+Elal, Sammy and Kristian Dupont (eds.). "The Essentials of Scoring Film". Minimum Noise. Copenhagen, Denmark.
+Harris, Steve. Film, Television, and Stage Music on Phonograph Records: A Discography. Jefferson, N.C.: McFarland & Co., 1988. ISBN 0-89950-251-2.
+MacDonald, Laurence E. (1998) The Invisible Art of Film Music: A Comprehensive History. Scarecrow Press. ISBN 9781461673040.
+Holly Rogers and Jeremy Barham, The Music and Sound of Experimental Film. Oxford: Oxford University Press, 2017.
+Slowik, Michael. After the Silents: Hollywood Film Music in the Early Sound Era, 1926–1934. New York: Columbia University Press, 2014.
+Spande, Robert. "The Three Regimes – A Theory of Film Music" Archived November 17, 2021, at the Wayback Machine Minneapolis, 1996.
+Stoppe, Sebastian, ed. Film in concert: film scores and their relation to classical concert music. Glückstadt: Verlag Werner Hülsbusch, 2014. ISBN 978-3-86488060-5. doi:10.25969/mediarep/16802.
+Stubblevine, Donald J. Cinema Sheet Music: A Comprehensive Listing of Published Film Music, from Squaw Man (1914) to Batman (1989). Jefferson, N.C.: McFarland & Co., 1991. ISBN 0-89950-569-4.
+Various contributors [wiki]. "Films with Significant Electroacoustic Content". eContact! 8.4 — Ressources éducatives / Educational Resources (September 2006). Montréal: CEC.
+Skinner, Frank. Underscore: A Combination Method-Text-Treatise on Scoring Music for Motion Picture Films or T.V. Hollywood, CA: Skinner Music Company, 1950.https://archive.org/embed/skinner-frank.-underscore.-hollywood-ca-skinner-music-company-1950
+
+
+== External links ==
+Film music organizations
+Film Music Society
+International Film Music Critics Association
+Journals (online and print)
+Film Music Magazine
+Film Music Review
+The Journal of Film Music
+Education
+International School for Film Score Composition and Production
+Language
+"Terms of Art: Film Composer Lingo with Carter Burwell". Studio 360. Public Radio International and WNYC. August 31, 2017 [March 23, 2017]. Retrieved September 3, 2017.

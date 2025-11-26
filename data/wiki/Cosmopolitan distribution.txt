@@ -1,0 +1,46 @@
+In biogeography, a cosmopolitan distribution is the range of a taxon that extends across most or all of the surface of the Earth, in appropriate habitats; most cosmopolitan species are known to be highly adaptable to a range of climatic and environmental conditions, though this is not always so. Killer whales (orcas) are among the most well-known cosmopolitan species on the planet, as they maintain several different resident and transient populations in every major oceanic body on Earth, from the Arctic Circle to Antarctica and every coastal and open-water region in-between. Such a taxon (usually a species) is said to have a cosmopolitan distribution, or exhibit cosmopolitanism, as a species; another example, the rock dove (commonly referred to as a 'pigeon'), in addition to having been bred domestically for centuries, now occurs in most urban areas around the world.
+The extreme opposite of a cosmopolitan species is an endemic (native) species, or one found only in a single geographical location. Endemism usually results in organisms with specific adaptations to one particular climate or region, and the species would likely face challenges if placed in a different environment. There are far more examples of endemic species than cosmopolitan species; one example being the snow leopard, a species found only in Central Asian mountain ranges, an environment to which the cats have adapted over millions of years.
+
+
+== Qualification ==
+The caveat "in appropriate habitat" is used to qualify the term "cosmopolitan distribution", excluding in most instances polar regions, extreme altitudes, oceans, deserts, or small, isolated islands. For example, the housefly is highly cosmopolitan, yet is neither oceanic nor polar in its distribution.
+
+
+== Related terms and concepts ==
+The term pandemism also is in use, but not all authors are consistent in the sense in which they use the term; some speak of pandemism mainly in referring to diseases and pandemics, and some as a term intermediate between endemism and cosmopolitanism, in effect regarding pandemism as subcosmopolitanism. This means near cosmopolitanism, but with major gaps in the distribution, say, complete absence from Australia. Terminology varies, and there is some debate whether the true opposite of endemism is pandemism or cosmopolitanism.
+
+
+== Oceanic obstacles ==
+A related concept in biogeography is that of oceanic cosmopolitanism and endemism. Rather than allow ubiquitous travel, the World Ocean is complicated by physical obstacles such as temperature gradients. These prevent migration of tropical species between the Atlantic and Indian/Pacific oceans. Conversely, the Northern marine regions and Southern Ocean are separated by the tropics, too warm for many species to traverse.
+
+
+== Ecological delimitation ==
+Another aspect of cosmopolitanism is that of ecological limitations. A species that is apparently cosmopolitan because it occurs in all oceans might in fact occupy only littoral zones, or only particular ranges of depths, or only estuaries, for example. Analogously, terrestrial species might be present only in forests, or mountainous regions, or sandy arid regions or the like. Such distributions might be patchy, or extended, but narrow. Factors of such a nature are taken widely for granted, so they seldom are mentioned explicitly in mentioning cosmopolitan distributions.
+
+
+== Regional and temporal variation in populations ==
+Cosmopolitanism of a particular species or variety should not be confused with cosmopolitanism of higher taxa.  For example, the family Myrmeleontidae is cosmopolitan in the sense that every continent except Antarctica is home to some indigenous species within the Myrmeleontidae, but nonetheless no one species, nor even genus, of the Myrmeleontidae is cosmopolitan. Conversely, partly as a result of human introduction of unnatural apiculture to the New World, Apis mellifera probably is the only cosmopolitan member of its family; the rest of the family Apidae have modest distributions.
+Even where a cosmopolitan population is recognised as a single species, such as indeed Apis mellifera, there generally will be variation between regional sub-populations. Such variation commonly is at the level of subspecies, varieties or morphs, whereas some variation is too slight or inconsistent for formal recognition.
+For an example of subspecific variation, consider the African honey bee (Apis mellifera scutellata)—best known for being hybridized with various European subspecies of the western honey bee to create the so-called "killer bee"—and the Cape honey bee, which is the subspecies Apis mellifera capensis; both of them are in the same cosmopolitan species Apis mellifera, but their ranges barely overlap.
+Other cosmopolitan species, such as the house sparrow and osprey, present similar examples, but in yet other species there are less familiar complications: some migratory birds such as the Arctic tern occur from the Arctic to the Southern Ocean, but at any one season of the year they are likely to be largely in passage or concentrated at only one end of the range. Also, some such species breed only at one end of the range. Seen purely as an aspect of cosmopolitanism, such distributions could be seen as temporal, seasonal variations.
+Other complications of cosmopolitanism on a planet too large for local populations to interbreed routinely with each other include genetic effects such as ring species, such as in the Larus gulls, and the formation of clines such as in Drosophila.
+
+
+== Examples ==
+
+Cosmopolitan distributions can be observed both in extinct and extant species. For example, Lystrosaurus was cosmopolitan in the Early Triassic after the Permian-Triassic extinction event.
+In the modern world, the orca, the blue whale, and the great white shark all have cosmopolitan distribution, extending over most of the Earth's oceans. The wasp Copidosoma floridanum is another example, as it is found around the world. Other examples, including species which have gained a cosmopolitan distribution as a result of human assistance, include humans, cats, dogs, the western honey bee, brown rats, the mushroom Amanita muscaria, the foliose lichen Parmelia sulcata, and the mollusc genus Mytilus. The term can also apply to some diseases. It may result from a broad range of environmental tolerances or from rapid dispersal compared to the time needed for speciation. Cosmopolitan species of birds include the mallard and peregrine falcon.
+
+
+== See also ==
+Ecoregion
+Gondwanan distribution
+Holarctic
+Pantropical
+
+
+== References ==
+
+
+== External links ==
+ The dictionary definition of cosmopolitan at Wiktionary

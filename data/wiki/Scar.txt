@@ -1,0 +1,154 @@
+A scar (or scar tissue) is an area of fibrous tissue that replaces normal skin after an injury. Scars result from the biological process of wound repair in the skin, as well as in other organs, and tissues of the body. Thus, scarring is a natural part of the healing process. With the exception of very minor lesions, every wound (e.g., after accident, disease, or surgery) results in some degree of scarring. An exception to this are animals with complete regeneration, which regrow tissue without scar formation.
+Scar tissue is composed of the same protein (collagen) as the tissue that it replaces, but the fiber composition of the protein is different; instead of a random basketweave formation of the collagen fibers found in normal tissue, in fibrosis the collagen cross-links and forms a pronounced alignment in a single direction. This collagen scar tissue alignment is usually of inferior functional quality to the normal collagen randomised alignment. For example, scars in the skin are less resistant to ultraviolet radiation, and sweat glands and hair follicles do not grow back within scar tissues. A myocardial infarction, commonly known as a heart attack,  causes scar formation in the heart muscle, which leads to loss of muscular power and possibly heart failure. However, there are some tissues (e.g. bone) that can heal without any structural or functional deterioration.
+
+
+== Types ==
+
+All scarring is composed of the same collagen as the tissue it has replaced, but the composition of the scar tissue, compared to the normal tissue, is different. Scar tissue also lacks elasticity unlike normal tissue which distributes fiber elasticity. Scars differ in the amounts of collagen overexpressed. Labels have been applied to the differences in overexpression. Two of the most common types are hypertrophic and keloid scarring, both of which experience excessive stiff collagen bundled growth overextending the tissue, blocking off regeneration of tissues. Another form is atrophic scarring (sunken scarring), which also has an overexpression of collagen blocking regeneration. This scar type is sunken, because the collagen bundles do not overextend the tissue. Stretch marks (striae) are regarded as scars by some.
+High melanin levels and either African or Asian ancestry may make adverse scarring more noticeable.
+
+
+=== Hypertrophic ===
+
+Hypertrophic scars occur when the body overproduces collagen, which causes the scar to be raised above the surrounding skin. Hypertrophic scars take the form of a red raised lump on the skin for lighter pigmented skin and the form of dark brown for darker pigmented skin. They usually occur within 4 to 8 weeks following wound infection or wound closure with excess tension and/or other traumatic skin injuries.
+
+
+=== Keloid ===
+
+Keloid scars are a more serious form of excessive scarring, because they can grow indefinitely into large, tumorous (although benign) neoplasms.
+Hypertrophic scars are often distinguished from keloid scars by their lack of growth outside the original wound area, but this commonly taught distinction can lead to confusion.
+Keloid scars can occur on anyone, but they are most common in dark-skinned people. They can be caused by surgery, cuts, accident, acne or, sometimes, body piercings. In some people, keloid scars form spontaneously. Although they can be a cosmetic problem, keloid scars are only inert masses of collagen and therefore completely harmless and not cancerous. However, they can be itchy or painful in some individuals. They tend to be most common on the shoulders and chest. Hypertrophic scars and keloids tend to be more common in wounds closed by secondary intention. Surgical removal of keloid is risky and may exacerbate the condition and worsening of the keloid.
+
+
+=== Atrophic ===
+
+An atrophic scar takes the form of a sunken recess in the skin, which has a pitted appearance. These are caused when underlying structures supporting the skin, such as fat or muscle, are lost. This type of scarring is often associated with acne, chickenpox, other diseases (especially Staphylococcus infection), surgery, certain insect and spider bites, or accidents. It can also be caused by a genetic connective tissue disorder, such as Ehlers–Danlos syndrome.
+
+
+=== Stretch marks ===
+
+Stretch marks (technically called striae) are also a form of scarring. These are caused when the skin is stretched rapidly (for instance during pregnancy, significant weight gain, or adolescent growth spurts), or when skin is put under tension during the healing process (usually near joints). This type of scar usually improves in appearance after a few years.
+Elevated corticosteroid levels are implicated in striae development.
+
+
+=== Umbilical ===
+Humans and other placental mammals have an umbilical scar (commonly referred to as a belly button or navel) which starts to heal when the umbilical cord is cut after birth. Egg-laying animals have an umbilical scar which, depending on the species, may remain visible for life or disappear within a few days after birth.
+
+
+== Pathophysiology ==
+
+A scar is the product of the body's repair mechanism after tissue injury. If a wound heals quickly within two weeks with new formation of skin, minimal collagen will be deposited and no scar will form. When the extracellular matrix senses elevated mechanical stress loading, tissue will scar, and scars can be limited by stress shielding wounds. Small full thickness wounds under 2mm reepithelize fast and heal scar free. Deep second-degree burns heal with scarring and hair loss. Sweat glands do not form in scar tissue, which impairs the regulation of body temperature. Elastic fibers are generally not detected in scar tissue younger than 3 months old. In scars, rete pegs are lost; through a lack of rete pegs, scars tend to shear easier than normal tissue.
+The endometrium, the inner lining of the uterus, is the only adult tissue to undergo rapid cyclic shedding and regeneration without scarring, shedding and restoring roughly inside a 7-day window on a monthly basis. All other adult tissues, upon rapid shedding or injury, can scar.
+Prolonged inflammation, as well as the fibroblast proliferation, can occur. Redness that often follows an injury to the skin is not a scar and is generally not permanent (see wound healing). The time it takes for this redness to dissipate may, however, range from a few days to, in some serious and rare cases, a few years.
+Scars form differently based on the location of the injury on the body and the age of the person who was injured.
+The more severe the initial damage is, the more significant the scar will generally be. 
+Skin scars occur when the dermis (the deep, thick layer of skin) is damaged. Most skin scars are flat and leave a trace of the original injury that caused them.
+Wounds allowed to heal secondarily tend to scar more significantly than wounds from primary closure.
+
+
+=== Collagen synthesis ===
+An injury does not become a scar until the wound has completely healed; this can take many months, or years in the worst pathological cases, such as keloids. To begin to patch the damage, a clot is created; this clot is the beginning process that results in a provisional matrix. In the process, the first layer is a provisional matrix and is not a scar. Over time, the wounded body tissue overexpresses collagen inside the provisional matrix to create a collagen matrix. This collagen overexpression continues and crosslinks the fiber arrangement inside the collagen matrix, making the collagen dense. This densely packed collagen, morphing into an inelastic whitish collagen scar wall, blocks off cell communication and regeneration; as a result, the new tissue generated will have a different texture and quality than the surrounding unwounded tissue. This prolonged collagen-producing process results in a fortuna scar.
+
+
+==== Fibroblasts ====
+The scarring is created by fibroblast proliferation, a process that begins with a reaction to the clot. To mend the damage, fibroblasts slowly form the collagen scar. The fibroblast proliferation is circular and cyclically, the fibroblast proliferation lays down thick, whitish collagen inside the provisional and collagen matrix, resulting in the abundant production of packed collagen on the fibers giving scars their uneven texture. Over time, the fibroblasts continue to crawl around the matrix, adjusting more fibers and, in the process, the scarring settles and becomes stiff. This fibroblast proliferation also contracts the tissue. In unwounded tissue, these fibers are not overexpressed with thick collagen and do not contract.
+EPF and ENF fibroblasts have been genetically traced with the Engrailed-1 genetic marker. EPFs are the primary contributors to all fibrotic outcomes after wounding. ENFs do not contribute to fibrotic outcomes.
+
+
+==== Myofibroblast ====
+Mammalian wounds that involve the dermis of the skin heal by repair, not regeneration (except in 1st trimester inter-uterine wounds and in the regeneration of deer antlers). Full-thickness wounds heal by a combination of wound contracture and edge re-epitheliasation. Partial thickness wounds heal by edge re-epithelialisation and epidermal migration from adnexal structures (hair follicles, sweat glands and sebaceous glands). The site of keratinocyte stem cells remains unknown but stem cells are likely to reside in the basal layer of the epidermis and below the bulge area of hair follicles.
+The fibroblast involved in scarring and contraction is the myofibroblast, which is a specialized contractile fibroblast. These cells express α-smooth muscle actin (α-SMA). 
+The myofibroblasts are absent in the first trimester in the embryonic stage where damage heals scar-free;  in small incisional or excision wounds less than 2 mm that also heal without scarring; and in adult unwounded tissues where the fibroblast in itself is arrested; however, the myofibroblast is found in massive numbers in adult wound healing which heals with a scar.
+The myofibroblasts make up a high proportion of the fibroblasts proliferating in the postembryonic wound at the onset of healing. In the rat model, for instance, myofibroblasts can constitute up to 70% of the fibroblasts, and is responsible for fibrosis on tissue. Generally, the myofibroblasts disappear from the wound within 30 days, but can remain in pathological cases in hypertrophy, such as keloids. Myofibroblasts have plasticity and in mice can be transformed into fat cells, instead of scar tissue, via the regeneration of hair follicles.
+
+
+== Mechanical stress ==
+Wounds under 2 millimeters generally do not scar, but larger wounds generally do scar. In 2011, it was found that mechanical stress can stimulate scarring and that stress shielding can reduce scarring in wounds. In 2021, it was found that using chemicals to manipulate fibroblasts to not sense mechanical stress brought scar-free healing. The scar-free healing also occurred when mechanical stress was placed onto a wound.
+
+
+== Treatment ==
+Early and effective treatment of acne scarring can prevent severe acne and the scarring that often follows. In 2004, no prescription drugs for the treatment or prevention of scars were available.
+
+
+=== Chemical peels ===
+Chemical peels are chemicals which destroy the epidermis in a controlled manner, leading to exfoliation and the alleviation of certain skin conditions, including superficial acne scars. Various chemicals can be used depending upon the depth of the peel, and caution should be used, particularly for dark-skinned individuals and those individuals susceptible to keloid formation or with active infections.
+
+
+=== Filler injections ===
+Filler injections of collagen can be used to raise atrophic scars to the level of surrounding skin. Risks vary based upon the filler used, and can include further disfigurement and allergic reaction.
+
+
+=== Laser treatment ===
+Nonablative lasers, such as the 585 nm pulsed dye laser, 1064 nm and 1320 nm Nd:YAG, or the 1540 nm Er:Glass are used as laser therapy for hypertrophic scars and keloids. There is tentative evidence for burn scars that they improve the appearance.
+Ablative lasers such as the carbon dioxide laser (CO2) or Er:YAG offer the best results for atrophic and acne scars. Like dermabrasion, ablative lasers work by removing the epidermis. Healing times for ablative therapy are much longer and the risk profile is greater compared to nonablative therapy; however, nonablative therapy offers only minor improvements in cosmetic appearance of atrophic and acne scars.
+
+
+=== Radiotherapy ===
+Low-dose, superficial radiotherapy is sometimes used to prevent recurrence of severe keloid and hypertrophic scarring. It is thought to be effective despite a lack of clinical trials, but only used in extreme cases due to the perceived risk of long-term side effects.
+
+
+=== Dressings and topical silicone ===
+Silicone scar treatments are commonly used in preventing scar formation and improving existing scar appearance. A meta-study by the Cochrane collaboration found weak evidence that silicone gel sheeting helps prevent scarring. However, the studies examining it were of poor quality and susceptible to bias.
+Pressure dressings are commonly used in managing burn and hypertrophic scars, although supporting evidence is lacking. Care providers commonly report improvements, however, and pressure therapy has been effective in treating ear keloids. The general acceptance of the treatment as effective may prevent it from being further studied in clinical trials.
+
+
+=== Verapamil-containing silicone gel ===
+Verapamil, a type of calcium channel blocker, is considered a candidate drug for the treatment of hypertrophic scars. A study conducted by the Catholic University of Korea concluded that verapamil-releasing silicone gel is effective and is a superior alternative to the conventional silicone gel where decreased median SEI, fibroblast count, and collagen density in all verapamil-added treatment groups were observed. Gross morphologic features suggested that the combination of verapamil and silicone improves the overall quality of hypertrophic scars by reducing scar height and redness. This was verified with quantifiable histomorphometric parameters; however, oral verapamil is not a good choice because of its effect of lowering blood pressure. Intralesional injection of verapamil is also suboptimal because of the required frequency for injections. Topical silicone gel combined with verapamil does not lead to systemic hypotension, is convenient to apply, and shows enhanced results.
+
+
+=== Steroids ===
+A long-term course of corticosteroid injections into the scar may help flatten and soften the appearance of keloid or hypertrophic scars.
+Topical steroids are ineffective. However, clobetasol propionate can be used as an alternative treatment for keloid scars.
+Topical steroid applied immediately after fractionated CO2 laser treatment is however very effective (and more efficacious than laser treatment alone) and has shown benefit in numerous clinical studies.
+
+
+=== Surgery ===
+
+Scar revision is a process of cutting the scar tissue out. After the excision, the new wound is usually closed up to heal by primary intention, instead of secondary intention. Deeper cuts need a multilayered closure to heal optimally, otherwise depressed or dented scars can result.
+Surgical excision of hypertrophic or keloid scars is often associated to other methods, such as pressotherapy or silicone gel sheeting. Lone excision of keloid scars, however, shows a recurrence rate close to 45%. A clinical study is currently ongoing to assess the benefits of a treatment combining surgery and laser-assisted healing in hypertrophic or keloid scars.
+Subcision is a process used to treat deep rolling scars left behind by acne or other skin diseases. It is also used to lessen the appearance of severe glabella lines, though its effectiveness in this application is debatable. Essentially the process involves separating the skin tissue in the affected area from the deeper scar tissue. This allows the blood to pool under the affected area, eventually causing the deep rolling scar to level off with the rest of the skin area. Once the skin has leveled, treatments such as laser resurfacing, microdermabrasion or chemical peels can be used to smooth out the scarred tissue.
+
+
+=== Vitamins ===
+Research shows the use of vitamin E and onion extract (sold as Mederma) as treatments for scars is ineffective. Vitamin E causes contact dermatitis in up to 33% of users and in some cases it may worsen scar appearance and could cause minor skin irritations, but Vitamin C and some of its esters fade the dark pigment associated with some scars.
+
+
+=== Other ===
+Cosmetics; Medical makeup can temporarily conceal scars. This is most commonly used for facial scars.
+Dermabrasion involves the removal of the surface of the skin with special equipment, and usually involves a local anaesthetic.
+A 2012 literature review found weak evidence that massage was efficacious in scar management. Any beneficial effect appeared to be greater in wounds created by surgical incision than for traumatic or burn wounds. A 2022 scoping review covering twenty-five studies of  1515 participants reported that all studies reviewed reported favorable outcomes for scar massage, but that "while there may be benefits to scar massage in reducing pain, increasing movement and improving scar characteristics", there was a lack of "consistent research methods, intervention protocols and outcome measures".
+Microneedling
+
+
+== Society and culture ==
+
+
+=== Intentional scarring ===
+
+The permanence of scarring has led to its intentional use as a form of body art within some cultures and subcultures. These forms of  ritual and non-ritual scarring practices can be found in many groups and cultures around the world.
+
+
+=== Etymology ===
+First attested in English in the late 14th century, the word scar derives from a conflation of Old French escharre, from Late Latin eschara, which is the Latinisation of the Greek ἐσχάρα (eskhara), meaning "hearth, fireplace", but in medicine "scab, eschar on a wound caused by burning or otherwise", and Middle English skar ("cut, crack, incision"), which is from Old Norse skarð ("notch, gap"). The conflation helped to form the English meaning. Compare the place name Scarborough for evolution of skarð to scar.
+
+
+== Research ==
+
+Research, before 2009, focused on scar improvements with research into molecular mechanisms. Treatments involving molecular mechanisms including avotermin, ribosomal s6 kinase (RSK), and osteopontin were investigated at the time. After successful phase I/II trials, human recombinant TGF-β3 (avotermin, planned trade name Juvista) failed in Phase III trials.
+In 2011, the scientific literature highlighted stress shielding a fresh wound through the wound healing process, brings significant scar improvement and smaller scars.
+By 2016, skin had been regenerated in vivo and in vitro. and scar-free healing had been operationalized and induced by four main regeneration techniques: by instrument, by materials, by drugs, and by in vitro 3-D printing. In 2018, a silk-derived sericin hydrogel dressing  was undergoing research, the material was shown to prevent scar formation. By 2021, more people were paying attention to the possibility of scar revision and new technologies.
+In 2021, researchers found that, verteporfin, an FDA-approved drug for eye disease, could enable scar-free healing in mice. According to the study, the drug works by blocking mechanical stress signals in fibroblast cells.
+
+
+== See also ==
+Wound healing
+Regeneration in humans
+
+
+== References ==
+
+
+== External links ==
+
+WebMd.com: Skin Scars Directory (archived 21 September 2017)
+American Academy of Dermatology: What is a scar? Archived 21 November 2018 at the Wayback Machine

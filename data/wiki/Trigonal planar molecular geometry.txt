@@ -1,0 +1,20 @@
+In chemistry, trigonal planar is a molecular geometry model with one atom at the center and three atoms at the corners of an equilateral triangle, called peripheral atoms, all in one plane. In an ideal trigonal planar species, all three ligands are identical and all bond angles are 120°. Such species belong to the point group D3h. Molecules where the three ligands are not identical, such as H2CO, deviate from this idealized geometry. Examples of molecules with trigonal planar geometry include boron trifluoride (BF3), formaldehyde (H2CO), phosgene (COCl2), and sulfur trioxide (SO3). Some ions with trigonal planar geometry include nitrate (NO−3), carbonate (CO2−3), and guanidinium (C(NH2)+3). In organic chemistry, planar, three-connected carbon centers that are trigonal planar are often described as having sp2 hybridization.
+Nitrogen inversion is the distortion of pyramidal amines through a transition state that is trigonal planar.
+Pyramidalization is a distortion of this molecular shape towards a tetrahedral molecular geometry. One way to observe this distortion is in pyramidal alkenes.
+
+
+== See also ==
+AXE method
+Molecular geometry
+VSEPR theory
+
+
+== References ==
+
+
+== External links ==
+3D Chem Chemistry, Structures, and 3D Molecules
+Indiana University Molecular Structure Center
+Interactive molecular examples for point groups
+Molecular Modeling
+Animated Trigonal Planar Visual

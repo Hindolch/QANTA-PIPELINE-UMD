@@ -1,0 +1,134 @@
+The Norns (Old Norse: norn [ˈnorn], plural: nornir [ˈnornɪr]) are a group of deities in Norse mythology responsible for shaping the course of human destinies.
+The Norns are often represented as three goddesses known as Urðr, Verðandi, and Skuld, who weave the threads of fate and tend to the world tree, Yggdrasil, ensuring it stays alive at the center of the cosmos.
+
+
+== Etymology ==
+The origin of the name norn is uncertain; it may derive from a word meaning 'to twine', which would refer to their twining the thread of fate. Bek-Pedersen suggests that the word norn has relation to the Swedish dialect word norna (nyrna), a verb that means 'communicate secretly'. This interpretation relates to the perception of norns as shadowy, background figures who only really ever reveal their fateful secrets to people as their fates come to pass.
+The name Urðr (Old English: Wyrd, 'weird') means 'fate'. Wyrd and urðr are etymological cognates, a situation that does not mean necessarily that wyrd and urðr share the same semantic quality of "fate" over time.  Both Urðr and Verðandi are derived from the Old Norse verb verða, 'to become', which itself derives from Proto-Germanic *wurdiz, from Proto-Indo-European *wrti-, which is a verbal abstract from the root *wert- ("to turn") Often, it is asserted that while Urðr derives from the past tense ('that which became or happened'), Verðandi derives from the present tense of verða ('that which is happening'). Skuld is derived from the Old Norse verb skulu, "need/ought to be/shall be"; its meaning is "that which should become, or that needs to occur". Due to this, it has often been inferred that the three norns are in some way connected with the past, present and future respectively, but it has been disputed that their names really imply a temporal distinction. It has been emphasised that the words do not in their own right denote chronological periods in Old Norse but rather the idea of past, present, and future in terms of fate itself.
+
+
+== Relation to other Germanic female deities ==
+
+There is no clear distinction between norns, fylgjas, hamingjas, and valkyries, nor with the generic term dísir. Moreover, artistic license permitted such terms to be used for mortal women in Old Norse poetry. To quote Snorri Sturluson's Skáldskaparmál on the various names used for women:
+
+Woman is also metaphorically called by the names of the Asynjur or the Valkyrs or Norns or women of supernatural kind.
+
+
+== Attestations ==
+
+There are a number of surviving Old Norse sources that relate to the norns. The most important sources are the Prose Edda and the Poetic Edda. The latter contains pagan poetry where the Norns are frequently referred to, while the former contains pagan poetry as well as retellings, descriptions and commentaries by the 12th and 13th century Icelandic chieftain and scholar Snorri Sturluson.
+
+
+=== Skaldic poetry ===
+A skaldic reference to the norns appears in Hvini's poem in Ynglingatal 24 found in Ynglingasaga 47, where King Halfdan is put to rest by his men at Borró. This reference brings in the phrase "norna dómr" which means "judgment of the nornir". In most cases, when the norns pass judgment, it means death to those who have been judged - in this case, Halfdan. Along with being associated with being bringers of death, Bek-Pedersen suggests that this phrase brings in a quasi-legal aspect to the nature of the norns. This legal association is employed quite frequently within skaldic and eddic sources. This phrase can also be seen as a threat, as death is the final and inevitable decision that the norns can make with regard to human life.
+
+
+=== Poetic Edda ===
+The Poetic Edda is valuable in representing older material in poetry from which Snorri Sturluson tapped information in the Prose Edda. Like Gylfaginning, the Poetic Edda mentions the existence of many lesser norns beside the three main norns.  Moreover, it also agrees with Gylfaginning by telling that they were of several races and that the dwarven norns were the daughters of Dvalin. It also suggests that the three main norns were giantesses (female Jotuns).
+Fáfnismál contains a discussion between the hero Sigurd and the dragon Fafnir who is dying from a mortal wound from Sigurd. The hero asks Fafnir of many things, among them the nature of the norns. Fafnir explains that they are many and from several races:
+
+It appears from Völuspá and Vafþrúðnismál that the three main norns were not originally goddesses but giants (Jotuns), and that their arrival ended the early days of bliss for the gods, but that they come for the good of humankind.
+Völuspá relates that three giants of huge might are reported to have arrived to the gods from Jotunheim:
+
+Vafþrúðnismál probably refers to the norns when it talks of maiden giants who arrive to protect the people of Earth as protective spirits (hamingjas):
+
+The Völuspá contains the names of the three main Norns referring to them as maidens like Vafþrúðnismál probably does:
+
+
+==== Helgakviða Hundingsbana I ====
+
+The norns visited each newly born child to allot his or her future, and in Helgakviða Hundingsbana I, the hero Helgi Hundingsbane has just been born and norns arrive at the homestead:
+
+
+==== Helgakviða Hundingsbana II ====
+In Helgakviða Hundingsbana II, Helgi Hundingsbane blames the norns for the fact that he had to kill Sigrún's father Högni and brother Bragi in order to wed her:
+
+
+==== Reginsmál ====
+As Snorri Sturluson stated in Gylfaginning, one's fate depended on the Norn's good or bad will. In Reginsmál, the water dwelling dwarf Andvari blames his plight on an evil norn, presumably one of the daughters of Dvalin:
+
+
+==== Sigurðarkviða hin skamma ====
+Another account blaming the Norns for misfortune occurs in  Sigurðarkviða hin skamma, where the valkyrie Brynhild blames malevolent Norns for her yearning for the embrace of Sigurd:
+
+
+==== Guðrúnarkviða II ====
+
+In Guðrúnarkviða II, the Norns actively enter the series of events by informing Atli in a dream that his wife would kill him. Brynhild's solution was to have Gunnarr and his brothers, the lords of the Burgundians, kill Sigurd and afterwards to commit suicide in order to join Sigurd in the afterlife. Her brother Atli (Attila the Hun) avenged her death by killing the lords of the Burgundians, but since he was married to their sister Guðrún, Atli would soon be killed by her.  The description of the dream begins with this stanza:
+
+
+==== Guðrúnarhvöt ====
+In Guðrúnarhvöt, after having killed both her husband and son, Guðrún blames the Norns themselves for her misfortune. In this excerpt Guðrún talks of trying to escaping the wrath of the Norns by making an attempt on her own life, attempting to escape the fate they had woven for her:
+
+
+==== Hamðismál ====
+
+Guðrúnarhvöt deals with how Guðrún incited her sons to avenge the cruel death of their sister Svanhild. In Hamðismál, her sons' expedition to the Gothic King Ermanaric to exact vengeance. Knowing that he is about to die at the hands of the Goths, her son Sörli talks of the cruelty of the norns:
+
+
+==== Sigrdrífumál ====
+
+The Norns were known as beings of ultimate power who worked in the dark and were often referred to in charms, as they are by Sigrdrífa in Sigrdrífumál:
+
+
+=== Prose Edda ===
+In the part of Snorri Sturluson's Prose Edda which is called Gylfaginning, Gylfi, the king of Sweden, has arrived at Valhalla calling himself Gangleri. There, he receives an education in Norse mythology from what is Odin in the shape of three men. They explain to Gylfi that there are three primary Norns, but also many others of various races, æsir, elves and dwarves:
+
+A hall stands there, fair, under the ash by the well, and out of that hall come three maids, who are called thus: Urdr, Verdandi, Skuld; these maids determine the period of men's lives: we call them Norns; but there are many norns: those who come to each child that is born, to appoint his life; these are of the race of the gods, but the second are of the Elf-people, and the third are of the kindred of the dwarves, as it is said here:
+Most sundered in birth
+I say the Norns are;
+They claim no common kin:
+Some are of Æsir-kin,
+some are of Elf-kind,
+Some are Dvalinn's daughters.
+Then said Gangleri: "If the Norns determine the weirds of men, then they apportion exceeding unevenly, seeing that some have a pleasant and luxurious life, but others have little worldly goods or fame; some have long life, others short." Hárr said: "Good norns and of honorable race appoint good life; but those men that suffer evil fortunes are governed by evil norns."
+The three main norns take water out of the well of Urd and water Yggdrasil:
+
+It is further said that these Norns who dwell by the Well of Urdr take water of the well every day, and with it that clay which lies about the well, and sprinkle it over the Ash, to the end that its limbs shall not wither nor rot; for that water is so holy that all things which come there into the well become as white as the film which lies within the egg-shell,--as is here said:
+I know an Ash standing
+called Yggdrasill,
+A high tree sprinkled
+with snow-white clay;
+Thence come the dews
+in the dale that fall--
+It stands ever green
+above Urdr's Well.
+That dew which falls from it onto the earth is called by men honey-dew, and thereon are bees nourished. Two fowls are fed in Urdr's Well: they are called Swans, and from those fowls has come the race of birds which is so called."
+
+Snorri Sturluson furthermore informs the reader that the Norn of present, Skuld, is also a valkyrie, taking part in the selection of warriors from the slain:
+
+These are called Valkyrs: them Odin sends to every battle; they determine men's feyness and award victory. Gudr and Róta and the youngest Norn, she who is called Skuld, ride ever to take the slain and decide fights.
+
+
+=== Legendary sagas ===
+Some of the legendary sagas also contain references to the Norns. The Hervarar saga contains a poem named Hlöðskviða, where the Gothic king Angantýr defeats a Hunnish invasion led by his Hunnish half-brother Hlöðr. Knowing that his sister, the shieldmaiden Hervör, is one of the casualties, Angantýr looks at his dead brother and laments the cruelty of the Norns:
+
+In younger legendary sagas, such as Norna-Gests þáttr and Hrólfs saga kraka, the Norns appear to have been synonymous with völvas (witches, female shamans). In Norna-Gests þáttr, where they arrive at the birth of the hero to shape his destiny, the Norns are not described as weaving the web of fate, instead Norna appears to be interchangeable and possibly a synonym of vala (völva).
+One of the last legendary sagas to be written down, the Hrólfs saga kraka references the Norns as evil witches. When the malevolent half-elven princess Skuld assembles her army to attack Hrólfr Kraki, it contains in addition to undead warriors, elves and Norns.
+
+
+=== Runic inscription N 351 M ===
+Runic inscription N 351 M from the Borgund stave church attests to the belief in the Norns as bringers of both gain and loss after the Christianisation of Scandinavia, reading:
+
+Þórir carved these runes on the eve of Olaus-mass, when he travelled past here. The norns did both good and evil, great toil ... they created for me.
+
+
+== See also ==
+Deities and fairies of fate in Slavic mythology
+Fates
+Laima
+Matrones
+Moirai
+Parcae
+Valkyries
+Weird Sisters, witches in Shakespeare's Macbeth
+
+
+== Citations ==
+
+
+== General and cited references ==
+
+
+== External links ==
+ Media related to Norns at Wikimedia Commons

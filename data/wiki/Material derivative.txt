@@ -1,0 +1,1515 @@
+In continuum mechanics, the material derivative describes the time rate of change of some physical quantity (like heat or momentum) of a material element that is subjected to a space-and-time-dependent macroscopic velocity field. The material derivative can serve as a link between Eulerian and Lagrangian descriptions of continuum deformation.
+For example, in fluid dynamics, the velocity field is the flow velocity, and the quantity of interest might be the temperature of the fluid. In this case, the material derivative then describes the temperature change of a certain fluid parcel with time, as it flows along its pathline (trajectory).
+
+
+== Other names ==
+There are many other names for the material derivative, including:
+
+advective derivative
+convective derivative
+derivative following the motion
+hydrodynamic derivative
+Lagrangian derivative
+particle derivative
+substantial derivative
+substantive derivative
+Stokes derivative
+total derivative, although the material derivative is actually a special case of the total derivative
+
+
+== Definition ==
+The material derivative is defined for any tensor field 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  
+ that is macroscopic, with the sense that it depends only on position and time coordinates, 
+  
+    
+      
+        y
+        =
+        y
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle y=y(x,t)}
+  
+:
+
+  
+    
+      
+        
+          
+            
+              
+                D
+              
+              y
+            
+            
+              
+                D
+              
+              t
+            
+          
+        
+        ≡
+        
+          
+            
+              ∂
+              y
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          u
+        
+        ⋅
+        ∇
+        y
+        ,
+      
+    
+    {\displaystyle {\frac {\mathrm {D} y}{\mathrm {D} t}}\equiv {\frac {\partial y}{\partial t}}+\mathbf {u} \cdot \nabla y,}
+  
+
+where 
+  
+    
+      
+        ∇
+        y
+      
+    
+    {\displaystyle \nabla y}
+  
+ is the covariant derivative of the tensor, and 
+  
+    
+      
+        
+          u
+        
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle \mathbf {u} (x,t)}
+  
+ is the flow velocity. Generally the convective derivative of the field 
+  
+    
+      
+        
+          u
+        
+        ⋅
+        ∇
+        y
+      
+    
+    {\displaystyle \mathbf {u} \cdot \nabla y}
+  
+, the one that contains the covariant derivative of the field, can be interpreted both as involving the streamline tensor derivative of the field 
+  
+    
+      
+        
+          u
+        
+        ⋅
+        ∇
+        y
+      
+    
+    {\displaystyle \mathbf {u} \cdot \nabla y}
+  
+, or as involving the streamline directional derivative of the field 
+  
+    
+      
+        (
+        
+          u
+        
+        ⋅
+        ∇
+        )
+         
+        y
+      
+    
+    {\displaystyle (\mathbf {u} \cdot \nabla )\ y}
+  
+, leading to the same result. 
+Only this spatial term containing the flow velocity describes the transport of the field in the flow, while the other describes the intrinsic variation of the field, independent of the presence of any flow. Confusingly, sometimes the name "convective derivative" is used for the whole material derivative 
+  
+    
+      
+        
+          D
+        
+        
+          /
+        
+        
+          D
+        
+        t
+      
+    
+    {\displaystyle \mathrm {D} /\mathrm {D} t}
+  
+, instead for only the spatial term 
+  
+    
+      
+        
+          u
+        
+        ⋅
+        ∇
+      
+    
+    {\displaystyle \mathbf {u} \cdot \nabla }
+  
+. The effect of the time-independent terms in the definitions are for the scalar and tensor case respectively known as advection and convection.
+
+
+=== Scalar and vector fields ===
+For example, for a macroscopic scalar field 
+  
+    
+      
+        ϕ
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle \phi (x,t)}
+  
+ and a macroscopic vector field 
+  
+    
+      
+        
+          A
+        
+        (
+        
+          x
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle \mathbf {A} (\mathbf {x} ,t)}
+  
+ the definition becomes:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      
+                        D
+                      
+                      ϕ
+                    
+                    
+                      
+                        D
+                      
+                      t
+                    
+                  
+                
+              
+              
+                
+                ≡
+                
+                  
+                    
+                      ∂
+                      ϕ
+                    
+                    
+                      ∂
+                      t
+                    
+                  
+                
+                +
+                
+                  u
+                
+                ⋅
+                ∇
+                φ
+                ,
+              
+            
+            
+              
+                
+                  
+                    
+                      
+                        D
+                      
+                      
+                        A
+                      
+                    
+                    
+                      
+                        D
+                      
+                      t
+                    
+                  
+                
+              
+              
+                
+                ≡
+                
+                  
+                    
+                      ∂
+                      
+                        A
+                      
+                    
+                    
+                      ∂
+                      t
+                    
+                  
+                
+                +
+                
+                  u
+                
+                ⋅
+                ∇
+                
+                  A
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\frac {\mathrm {D} \phi }{\mathrm {D} t}}&\equiv {\frac {\partial \phi }{\partial t}}+\mathbf {u} \cdot \nabla \varphi ,\\[3pt]{\frac {\mathrm {D} \mathbf {A} }{\mathrm {D} t}}&\equiv {\frac {\partial \mathbf {A} }{\partial t}}+\mathbf {u} \cdot \nabla \mathbf {A} .\end{aligned}}}
+  
+
+In the scalar case 
+  
+    
+      
+        ∇
+        ϕ
+      
+    
+    {\displaystyle \nabla \phi }
+  
+ is simply the gradient of a scalar, while 
+  
+    
+      
+        ∇
+        
+          A
+        
+      
+    
+    {\displaystyle \nabla \mathbf {A} }
+  
+ is the covariant derivative of the macroscopic vector (which can also be thought of as the Jacobian matrix of 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {A} }
+  
+ as a function of 
+  
+    
+      
+        
+          x
+        
+      
+    
+    {\displaystyle \mathbf {x} }
+  
+).  
+In particular for a scalar field in a three-dimensional Cartesian coordinate system 
+  
+    
+      
+        (
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        
+          x
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle (x_{1},x_{2},x_{3})}
+  
+, the components of the velocity 
+  
+    
+      
+        
+          u
+        
+      
+    
+    {\displaystyle \mathbf {u} }
+  
+ are 
+  
+    
+      
+        
+          u
+          
+            1
+          
+        
+        ,
+        
+          u
+          
+            2
+          
+        
+        ,
+        
+          u
+          
+            3
+          
+        
+      
+    
+    {\displaystyle u_{1},u_{2},u_{3}}
+  
+, and the convective term is then:
+
+  
+    
+      
+        
+          u
+        
+        ⋅
+        ∇
+        φ
+        =
+        
+          u
+          
+            1
+          
+        
+        
+          
+            
+              ∂
+              φ
+            
+            
+              ∂
+              
+                x
+                
+                  1
+                
+              
+            
+          
+        
+        +
+        
+          u
+          
+            2
+          
+        
+        
+          
+            
+              ∂
+              φ
+            
+            
+              ∂
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          u
+          
+            3
+          
+        
+        
+          
+            
+              ∂
+              φ
+            
+            
+              ∂
+              
+                x
+                
+                  3
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathbf {u} \cdot \nabla \varphi =u_{1}{\frac {\partial \varphi }{\partial x_{1}}}+u_{2}{\frac {\partial \varphi }{\partial x_{2}}}+u_{3}{\frac {\partial \varphi }{\partial x_{3}}}.}
+  
+
+
+== Development ==
+Consider a scalar quantity φ(x, t), where t is time and x is position. Here φ may be some physical variable such as temperature or chemical concentration. The physical quantity, whose scalar quantity is φ, exists in a continuum, and whose macroscopic velocity is represented by the vector field u(x, t).
+The (total) derivative with respect to time of φ is expanded using the multivariate chain rule:
+
+  
+    
+      
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        φ
+        (
+        
+          x
+        
+        (
+        t
+        )
+        ,
+        t
+        )
+        =
+        
+          
+            
+              ∂
+              φ
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          
+            
+              
+                x
+              
+              ˙
+            
+          
+        
+        ⋅
+        ∇
+        φ
+        .
+      
+    
+    {\displaystyle {\frac {\mathrm {d} }{\mathrm {d} t}}\varphi (\mathbf {x} (t),t)={\frac {\partial \varphi }{\partial t}}+{\dot {\mathbf {x} }}\cdot \nabla \varphi .}
+  
+
+It is apparent that this derivative is dependent on the vector
+
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              ˙
+            
+          
+        
+        ≡
+        
+          
+            
+              
+                d
+              
+              
+                x
+              
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\dot {\mathbf {x} }}\equiv {\frac {\mathrm {d} \mathbf {x} }{\mathrm {d} t}},}
+  
+
+which describes a chosen path x(t) in space. For example, if 
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              ˙
+            
+          
+        
+        =
+        
+          0
+        
+      
+    
+    {\displaystyle {\dot {\mathbf {x} }}=\mathbf {0} }
+  
+ is chosen, the time derivative becomes equal to the partial time derivative, which agrees with the definition of a partial derivative: a derivative taken with respect to some variable (time in this case) holding other variables constant (space in this case). This makes sense because if 
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              ˙
+            
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\dot {\mathbf {x} }}=0}
+  
+, then the derivative is taken at some constant position. This static position derivative is called the Eulerian derivative.
+An example of this case is a swimmer standing still and sensing temperature change in a lake early in the morning: the water gradually becomes warmer due to heating from the sun. In which case the term 
+  
+    
+      
+        
+          ∂
+          φ
+        
+        
+          /
+        
+        
+          ∂
+          t
+        
+      
+    
+    {\displaystyle {\partial \varphi }/{\partial t}}
+  
+ is sufficient to describe the rate of change of temperature.
+If the sun is not warming the water (i.e. 
+  
+    
+      
+        
+          ∂
+          φ
+        
+        
+          /
+        
+        
+          ∂
+          t
+        
+        =
+        0
+      
+    
+    {\displaystyle {\partial \varphi }/{\partial t}=0}
+  
+), but the path x(t) is not a standstill, the time derivative of φ may change due to the path. For example, imagine the swimmer is in a motionless pool of water, indoors and unaffected by the sun. One end happens to be at a constant high temperature and the other end at a constant low temperature. By swimming from one end to the other the swimmer senses a change of temperature with respect to time, even though the temperature at any given (static) point is a constant. This is because the derivative is taken at the swimmer's changing location and the second term on the right 
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              ˙
+            
+          
+        
+        ⋅
+        ∇
+        φ
+      
+    
+    {\displaystyle {\dot {\mathbf {x} }}\cdot \nabla \varphi }
+  
+ is sufficient to describe the rate of change of temperature. A temperature sensor attached to the swimmer would show temperature varying with time, simply due to the temperature variation from one end of the pool  to the other.
+The material derivative finally is obtained when the path x(t) is chosen to have a velocity equal to the fluid velocity
+
+  
+    
+      
+        
+          
+            
+              
+                x
+              
+              ˙
+            
+          
+        
+        =
+        
+          u
+        
+        .
+      
+    
+    {\displaystyle {\dot {\mathbf {x} }}=\mathbf {u} .}
+  
+
+That is, the path follows the fluid current described by the fluid's velocity field u. So, the material derivative of the scalar φ is
+
+  
+    
+      
+        
+          
+            
+              
+                D
+              
+              φ
+            
+            
+              
+                D
+              
+              t
+            
+          
+        
+        =
+        
+          
+            
+              ∂
+              φ
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          u
+        
+        ⋅
+        ∇
+        φ
+        .
+      
+    
+    {\displaystyle {\frac {\mathrm {D} \varphi }{\mathrm {D} t}}={\frac {\partial \varphi }{\partial t}}+\mathbf {u} \cdot \nabla \varphi .}
+  
+
+An example of this case is a lightweight, neutrally buoyant particle swept along a flowing river and experiencing  temperature changes as it does so. The temperature of the water locally may be increasing due to one portion of the river being sunny and the other in a shadow, or the water as a whole may be heating as the day progresses. The changes due to the particle's motion (itself caused by fluid motion) is called advection (or convection if a vector is being transported).
+The definition above relied on the physical nature of a fluid current; however, no laws of physics were invoked (for example, it was assumed that a lightweight particle in a river will follow the velocity of the water), but it turns out that many physical concepts can be described concisely using the material derivative. The general case of advection, however, relies on conservation of mass of the fluid stream; the situation becomes slightly different if advection happens in a non-conservative medium.
+Only a path was considered for the scalar above. For a vector, the gradient becomes a tensor derivative; for tensor fields we may want to take into account not only translation of the coordinate system due to the fluid movement but also its rotation and stretching. This is achieved by the upper convected time derivative.
+
+
+== Orthogonal coordinates ==
+It may be shown that, in orthogonal coordinates, the j-th component of the convection term of the material derivative of a vector field 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {A} }
+  
+ is given by
+
+  
+    
+      
+        [
+        
+          (
+          
+            
+              u
+            
+            ⋅
+            ∇
+          
+          )
+        
+        
+          A
+        
+        
+          ]
+          
+            j
+          
+        
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          
+            
+              u
+              
+                i
+              
+            
+            
+              h
+              
+                i
+              
+            
+          
+        
+        
+          
+            
+              ∂
+              
+                A
+                
+                  j
+                
+              
+            
+            
+              ∂
+              
+                q
+                
+                  i
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              A
+              
+                i
+              
+            
+            
+              
+                h
+                
+                  i
+                
+              
+              
+                h
+                
+                  j
+                
+              
+            
+          
+        
+        
+          (
+          
+            
+              u
+              
+                j
+              
+            
+            
+              
+                
+                  ∂
+                  
+                    h
+                    
+                      j
+                    
+                  
+                
+                
+                  ∂
+                  
+                    q
+                    
+                      i
+                    
+                  
+                
+              
+            
+            −
+            
+              u
+              
+                i
+              
+            
+            
+              
+                
+                  ∂
+                  
+                    h
+                    
+                      i
+                    
+                  
+                
+                
+                  ∂
+                  
+                    q
+                    
+                      j
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle [\left(\mathbf {u} \cdot \nabla \right)\mathbf {A} ]_{j}=\sum _{i}{\frac {u_{i}}{h_{i}}}{\frac {\partial A_{j}}{\partial q^{i}}}+{\frac {A_{i}}{h_{i}h_{j}}}\left(u_{j}{\frac {\partial h_{j}}{\partial q^{i}}}-u_{i}{\frac {\partial h_{i}}{\partial q^{j}}}\right),}
+  
+
+where the hi are related to the metric tensors by 
+  
+    
+      
+        
+          h
+          
+            i
+          
+        
+        =
+        
+          
+            
+              g
+              
+                i
+                i
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle h_{i}={\sqrt {g_{ii}}}.}
+  
+
+In the special case of a three-dimensional Cartesian coordinate system (x, y, z), and A being a 1-tensor (a vector with three components), this is just:
+
+  
+    
+      
+        (
+        
+          u
+        
+        ⋅
+        ∇
+        )
+        
+          A
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      u
+                      
+                        x
+                      
+                    
+                    
+                      
+                        
+                          ∂
+                          
+                            A
+                            
+                              x
+                            
+                          
+                        
+                        
+                          ∂
+                          x
+                        
+                      
+                    
+                    +
+                    
+                      u
+                      
+                        y
+                      
+                    
+                    
+                      
+                        
+                          ∂
+                          
+                            A
+                            
+                              x
+                            
+                          
+                        
+                        
+                          ∂
+                          y
+                        
+                      
+                    
+                    +
+                    
+                      u
+                      
+                        z
+                      
+                    
+                    
+                      
+                        
+                          ∂
+                          
+                            A
+                            
+                              x
+                            
+                          
+                        
+                        
+                          ∂
+                          z
+                        
+                      
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      u
+                      
+                        x
+                      
+                    
+                    
+                      
+                        
+                          ∂
+                          
+                            A
+                            
+                              y
+                            
+                          
+                        
+                        
+                          ∂
+                          x
+                        
+                      
+                    
+                    +
+                    
+                      u
+                      
+                        y
+                      
+                    
+                    
+                      
+                        
+                          ∂
+                          
+                            A
+                            
+                              y
+                            
+                          
+                        
+                        
+                          ∂
+                          y
+                        
+                      
+                    
+                    +
+                    
+                      u
+                      
+                        z
+                      
+                    
+                    
+                      
+                        
+                          ∂
+                          
+                            A
+                            
+                              y
+                            
+                          
+                        
+                        
+                          ∂
+                          z
+                        
+                      
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                      u
+                      
+                        x
+                      
+                    
+                    
+                      
+                        
+                          ∂
+                          
+                            A
+                            
+                              z
+                            
+                          
+                        
+                        
+                          ∂
+                          x
+                        
+                      
+                    
+                    +
+                    
+                      u
+                      
+                        y
+                      
+                    
+                    
+                      
+                        
+                          ∂
+                          
+                            A
+                            
+                              z
+                            
+                          
+                        
+                        
+                          ∂
+                          y
+                        
+                      
+                    
+                    +
+                    
+                      u
+                      
+                        z
+                      
+                    
+                    
+                      
+                        
+                          ∂
+                          
+                            A
+                            
+                              z
+                            
+                          
+                        
+                        
+                          ∂
+                          z
+                        
+                      
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        
+          
+            
+              ∂
+              (
+              
+                A
+                
+                  x
+                
+              
+              ,
+              
+                A
+                
+                  y
+                
+              
+              ,
+              
+                A
+                
+                  z
+                
+              
+              )
+            
+            
+              ∂
+              (
+              x
+              ,
+              y
+              ,
+              z
+              )
+            
+          
+        
+        
+          u
+        
+      
+    
+    {\displaystyle (\mathbf {u} \cdot \nabla )\mathbf {A} ={\begin{pmatrix}\displaystyle u_{x}{\frac {\partial A_{x}}{\partial x}}+u_{y}{\frac {\partial A_{x}}{\partial y}}+u_{z}{\frac {\partial A_{x}}{\partial z}}\\\displaystyle u_{x}{\frac {\partial A_{y}}{\partial x}}+u_{y}{\frac {\partial A_{y}}{\partial y}}+u_{z}{\frac {\partial A_{y}}{\partial z}}\\\displaystyle u_{x}{\frac {\partial A_{z}}{\partial x}}+u_{y}{\frac {\partial A_{z}}{\partial y}}+u_{z}{\frac {\partial A_{z}}{\partial z}}\end{pmatrix}}={\frac {\partial (A_{x},A_{y},A_{z})}{\partial (x,y,z)}}\mathbf {u} }
+  
+
+where 
+  
+    
+      
+        
+          
+            
+              ∂
+              (
+              
+                A
+                
+                  x
+                
+              
+              ,
+              
+                A
+                
+                  y
+                
+              
+              ,
+              
+                A
+                
+                  z
+                
+              
+              )
+            
+            
+              ∂
+              (
+              x
+              ,
+              y
+              ,
+              z
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial (A_{x},A_{y},A_{z})}{\partial (x,y,z)}}}
+  
+ is a Jacobian matrix.
+There is also a vector-dot-del identity for the case 
+  
+    
+      
+        
+          u
+        
+        =
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {u} =\mathbf {A} }
+  
+, for which the material derivative for a vector field 
+  
+    
+      
+        
+          A
+        
+      
+    
+    {\displaystyle \mathbf {A} }
+  
+ can be expressed as:
+
+  
+    
+      
+        
+          
+            (
+            
+              A
+            
+            ⋅
+            ∇
+            )
+            
+              A
+            
+            =
+            
+              
+                1
+                2
+              
+            
+            ∇
+            
+              |
+            
+            
+              A
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+            −
+            
+              A
+            
+            ×
+            (
+            ∇
+            ×
+            
+              A
+            
+            )
+            =
+            
+              
+                1
+                2
+              
+            
+            ∇
+            
+              |
+            
+            
+              A
+            
+            
+              
+                |
+              
+              
+                2
+              
+            
+            +
+            (
+            ∇
+            ×
+            
+              A
+            
+            )
+            ×
+            
+              A
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\displaystyle (\mathbf {A} \cdot \nabla )\mathbf {A} ={\frac {1}{2}}\nabla |\mathbf {A} |^{2}-\mathbf {A} \times (\nabla \times \mathbf {A} )={\frac {1}{2}}\nabla |\mathbf {A} |^{2}+(\nabla \times \mathbf {A} )\times \mathbf {A} }.}
+  
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Cohen, Ira M.; Kundu, Pijush K (2008). Fluid Mechanics (4th ed.). Academic Press. ISBN 978-0-12-373735-9.
+Lai, Michael; Krempl, Erhard; Ruben, David (2010). Introduction to Continuum Mechanics (4th ed.). Elsevier. ISBN 978-0-7506-8560-3.

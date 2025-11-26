@@ -1,0 +1,153 @@
+The term string quartet is a type of musical composition or a group of four people who play them. Many composers from the mid-18th century onwards wrote string quartets. The associated musical ensemble consists of two violinists, a violist, and a cellist.
+The string quartet was developed into its present form by the Austrian composer Joseph Haydn, whose works in the 1750s established the ensemble as a group of four more-or-less equal partners. Since that time, the string quartet has been considered a prestigious form; writing for four instruments with broadly similar characteristics both constrains and tests a composer. String quartet composition flourished in the Classical era, and Mozart, Beethoven and Schubert each wrote a number of them. Many Romantic and early-twentieth-century composers composed string quartets, including Mendelssohn, Schumann, Brahms, Dvořák, Janáček, and Debussy. There was a slight lull in string quartet composition later in the 19th century, but it received a resurgence in the 20th century, with the Second Viennese School, Bartók, Shostakovich, Babbitt, and Carter producing highly regarded examples of the genre, and it remains an important and refined musical form.
+The standard structure for a string quartet as established in the Classical era is four movements, with the first movement in sonata form, allegro, in the tonic key; a slow movement in a related key and a minuet and trio follow; and the fourth movement is often in rondo form or sonata rondo form, in the tonic key.
+Some string quartet ensembles play together for many years and become established and promoted as an entity in a manner similar to an instrumental soloist or an orchestra.
+
+
+== History and development ==
+
+
+=== Early history ===
+
+The early history of the string quartet is in many ways the history of the development of the genre by the Austrian composer Joseph Haydn. There had been examples of divertimenti for two solo violins, viola and cello by the Viennese composers Georg Christoph Wagenseil and Ignaz Holzbauer; and there had long been a tradition of performing orchestral works one instrument to a part. The British musicologist David Wyn Jones cites the widespread practice of four players, one to a part, playing works written for string orchestra, such as divertimenti and serenades, there being no separate (fifth) contrabass part in string scoring before the 19th century. However, these composers showed no interest in exploring the development of the string quartet as a medium.
+The origins of the string quartet can be further traced back to the Baroque trio sonata, in which two solo instruments performed with a continuo section consisting of a bass instrument (such as the cello) and keyboard. A very early example is a four-part sonata for string ensemble by the Italian composer Gregorio Allegri that might be considered an important prototype. By the early 18th century, composers were often adding a third soloist; and moreover it became common to omit the keyboard part, letting the cello support the bass line alone. Thus when Alessandro Scarlatti wrote a set of six works entitled Sonata à Quattro per due Violini, Violetta [viola], e Violoncello senza Cembalo (Sonata for four instruments: two violins, viola, and cello without harpsichord), this was a natural evolution from the existing tradition.
+
+
+=== Haydn's impact ===
+The musicologist Hartmut Schick has suggested that Franz Xaver Richter invented the "classical" string quartet around 1757, but the consensus amongst most authorities is that Haydn is responsible for the genre in its currently accepted form. The string quartet enjoyed no recognized status as an ensemble in the way that two violins with basso continuo – the so-called 'trio sonata' – had for more than a hundred years. Even the composition of Haydn's earliest string quartets owed more to chance than artistic imperative. 
+During the 1750s, when the young composer was still working mainly as a teacher and violinist in Vienna, he would occasionally be invited to spend time at the nearby castle at Weinzierl of the music-loving Austrian nobleman Karl Joseph Weber, Edler von Fürnberg. There he would play chamber music in an ad hoc ensemble consisting of Fürnberg's steward, a priest, and a local cellist, and when the Baron asked for some new music for the group to play, Haydn's first string quartets were born. It is not clear whether any of these works ended up in the two sets published in the mid-1760s and known as Haydn's Opp. 1 and 2 ('Op. 0' is a quartet included in some early editions of Op. 1, and only rediscovered in the 1930s), but it seems reasonable to assume that they were at least similar in character.
+Haydn's early biographer Georg August Griesinger tells the story thus:
+
+The following purely chance circumstance had led him to try his luck at the composition of quartets. A Baron Fürnberg had a place in Weinzierl, several stages from Vienna, and he invited from time to time his pastor, his manager, Haydn, and Albrechtsberger (a brother of the celebrated contrapuntist Albrechtsberger) in order to have a little music. Fürnberg requested Haydn to compose something that could be performed by these four amateurs. Haydn, then eighteen years old [sic], took up this proposal, and so originated his first quartet which, immediately it appeared, received such general approval that Haydn took courage to work further in this form.
+Haydn went on to write nine other quartets around this time. These works were published as his Op. 1 and Op. 2; one quartet went unpublished, and some of the early "quartets" are actually symphonies missing their wind parts. They have five movements and take the form: fast movement, minuet and trio I, slow movement, minuet and trio II, and fast finale. As Ludwig Finscher notes, they draw stylistically on the Austrian divertimento tradition.
+After these early efforts, Haydn did not return to the string quartet for several years, but when he did so, it was to make a significant step in the genre's development. The intervening years saw Haydn begin his employment as Kapellmeister to the Esterházy princes, for whom he was required to compose numerous symphonies and dozens of trios for violin, viola, and the bass instrument called the baryton (played by Prince Nikolaus Esterházy himself). The opportunities for experiment which both these genres offered Haydn perhaps helped him in the pursuit of the more advanced quartet style found in the eighteen works published in the early 1770s as Opp. 9, 17, and 20. These are written in a form that became established as standard both for Haydn and for other composers. Clearly composed as sets, these quartets feature a four-movement layout having broadly conceived, moderately paced first movements and, in increasing measure, a democratic and conversational interplay of parts, close-knit thematic development, and skillful though often restrained use of counterpoint. The convincing realizations of the progressive aims of the Op. 20 set of 1772, in particular, makes them the first major peak in the history of the string quartet. Certainly they offered to their own time state-of-the art models to follow for the best part of a decade; the teenage Mozart, in his early quartets, was among the composers moved to imitate many of their characteristics, right down to the vital fugues with which Haydn sought to bring greater architectural weight to the finales of nos. 2, 5 and 6.
+After Op. 20, it becomes harder to point to similar major jumps in the string quartet's development in Haydn's hands, though not due to any lack of invention or application on the composer's part. As Donald Tovey put it: "with Op. 20 the historical development of Haydn's quartets reaches its goal; and further progress is not progress in any historical sense, but simply the difference between one masterpiece and the next."
+
+The musicologist Roger Hickman has however dissented from this consensus view. He notes a change in string quartet writing towards the end of the 1760s, featuring characteristics which are today thought of as essential to the genre – scoring for two violins, viola and cello, solo passages, and absence of actual or potential basso continuo accompaniment. Noting that at this time other composers than Haydn were writing works conforming to these 'modern' criteria, and that Haydn's earlier quartets did not meet them, he suggests that "one casualty [of such a perspective] is the notion that Haydn "invented" the string quartet... Although he may still be considered the 'father' of the 'Classical' string quartet, he is not the creator of the sting quartet genre itself... This old and otiose myth not only misrepresents the achievements of other excellent composers, but also distorts the character and qualities of Haydn's opp. 1, 2 and 9". 
+The musicologist Cliff Eisen contextualizes the Op. 20 quartets as follows: "Haydn's quartets of the late 1760s and early 1770s [opp. 9, 17, and 20] are high points in the early history of the quartet. Characterized by a wide range of textures, frequent asymmetries and theatrical gestures...these quartets established the genre's four-movement form, its larger dimensions, and ...its greater aesthetic pretensions and expressive range."
+That Haydn's string quartets were already "classics" that defined the genre by 1801 can be judged by Ignaz Pleyel's publication in Paris of a "complete" series that year, and the quartet's evolution as vehicle for public performance can be judged by Pleyel's ten-volume set of miniature scores intended for hearers rather than players – early examples of this genre of music publishing. Since Haydn's day, the string quartet has been prestigious and considered one of the true tests of a composer's art. This may be partly because the palette of sound is more restricted than with orchestral music, forcing the music to stand more on its own rather than relying on tonal color; or from the inherently contrapuntal tendency in music written for four equal instruments.
+
+
+=== After Haydn ===
+Quartet composition flourished in the Classical era. Mozart, Beethoven and Schubert each composed a number of quartets: "Beethoven in particular is credited with developing the genre in an experimental and dynamic fashion, especially in his later series of quartets written in the 1820s up until his death. Their forms and ideas inspired and continue to inspire musicians and composers, such as Wagner and Bartók." Schubert's last musical wish was to hear Beethoven's Quartet in C♯ minor, Op. 131, which he heard on 14 November 1828, just five days before his death. Upon listening to an earlier performance of this quartet, Schubert had remarked, "After this, what is left for us to write?" Wagner, when reflecting on Op. 131's first movement, said that it "reveals the most melancholy sentiment expressed in music". Of the late quartets, Beethoven cited his own favorite as Op. 131, which he saw as his most perfect single work.
+Mendelssohn's six string quartets span the full range of his career, from 1828 to 1847; Schumann's three string quartets were all written in 1842 and dedicated to Mendelssohn, whose quartets Schumann had been studying in preparation, along with those of Haydn, Mozart and Beethoven. Several Romantic-era composers wrote only one quartet, while Dvořák wrote 14.
+
+
+=== In the 20th century ===
+In the modern era, the string quartet played a key role in the development of Schoenberg (who added a soprano in his String Quartet No. 2), Bartók, and Shostakovich especially. After the Second World War, some composers, such as Messiaen questioned the relevance of the string quartet and avoided writing them. However, from the 1960s onwards, many composers have shown a renewed interest in the genre. 
+During his tenure as Master of the Queen's Music, Peter Maxwell Davies produced a set of ten entitled the Naxos Quartets (to a commission from Naxos Records) from 2001 to 2007. Margaret Jones Wiles composed over 50 string quartets. David Matthews has written eleven, and Robin Holloway both five quartets and six "quartettini". Over nearly five decades, Elliott Carter wrote a total of five string quartets, winning Pulitzer Prizes for two of them, No. 2 and No. 3. Three important string quartets were written by Helmut Lachenmann.  The late 20th century also saw the string quartet expand in various ways: Morton Feldman's vast Second String Quartet is one of the longest ever written, and Karlheinz Stockhausen's Helikopter-Streichquartett is to be performed by the four musicians in four helicopters.
+
+
+== String quartets of the classical period ==
+
+Quartets written during the classical period usually had four movements, with a structure similar to that of a symphony:
+
+The positions of the slow movement and third movement are flexible. For example, in Mozart's six quartets dedicated to Haydn, three have a minuet followed by a slow movement and three have the slow movement before the minuet.
+Substantial modifications to the typical structure were already present by the time of Beethoven's late quartets, and despite some notable examples to the contrary, composers writing in the twentieth century increasingly abandoned this structure. Bartók's fourth and fifth string quartets, written in the 1930s, are five-movement works, symmetrical around a central movement. Shostakovich's final quartet, written in the 1970s, comprises six slow movements.
+
+
+== Variations of string quartet ==
+
+Many other chamber groups can be seen as modifications of the string quartet:
+
+The string quintet is a string quartet augmented by a fifth string instrument. Mozart employed two violas in his string quintets, while Schubert's string quintet utilized two cellos. Boccherini wrote a few quintets with a double bass as the fifth instrument. Most of Boccherini's string quintets are for two violins, viola, and two cellos. Another composer who wrote a string quintet with two cellos is Ethel Smyth.
+The string trio has one violin, a viola, and a cello.
+The piano trio has a piano, a violin, and a cello.
+The piano quintet is a string quartet with an added piano.
+The piano quartet is a string quartet with one of the violins replaced by a piano.
+The clarinet quintet is a string quartet with an added clarinet, such as those by Mozart and Brahms.
+The string sextet contains two each of violins, violas, and cellos. Brahms, for example, wrote two string sextets.
+Further expansions have also produced works such as the String octet by Mendelssohn, consisting of the equivalent of two string quartets. Notably, Schoenberg included a soprano in the last two movements of his second string quartet, composed in 1908. Adding a voice has since been done by Milhaud, Ginastera, Ferneyhough, Davies, İlhan Mimaroğlu and many others. Another variation on the traditional string quartet is the electric string quartet with players performing on electric instruments.
+
+
+== Notable string quartets ==
+
+Notable works for string quartet include:
+
+Joseph Haydn's 68 string quartets, in particular Op. 20, Op. 33, Op. 76, Op. 64, No. 5 ("The Lark") and the string quartet version of "The Seven Last Words of Our Saviour On the Cross" (Op. 51)
+Wolfgang Amadeus Mozart's 23 string quartets, in particular the set of six dedicated to Haydn, including K. 465 ("Dissonance")
+Ludwig van Beethoven's 16 string quartets, in particular the five "middle" quartets Op. 59 nos 1–3 (“Rasumovsky”), Op. 74 and Op. 95; as well as the five late quartets, Opp. 127, 130, 131, 132, and 135, plus the Grosse Fuge, Op. 133, the original final movement of Op. 130.
+Franz Schubert's 15 string quartets, in particular the String Quartet No. 12 in C minor ("Quartettsatz"), String Quartet No. 13 in A minor ("Rosamunde"), String Quartet No. 14 in D minor ("Death and the Maiden"), and String Quartet No. 15 in G major
+Felix Mendelssohn's 6 numbered string quartets, in particular the String Quartet No. 2 (early example of cyclic form), and the early unnumbered string quartet in E♭ major
+Robert Schumann's three string quartets, Op. 41, in A minor, F major and A major (1842)
+Johannes Brahms's three string quartets, Op. 51 No. 1 (in C minor), Op. 51 No. 2 (in A minor) and Op. 67 (in B♭ major)
+Giuseppe Verdi's String Quartet (1873)
+Pyotr Ilyich Tchaikovsky's three string quartets (1871, 1873/74, 1876)
+Anton Arensky's Second String Quartet, unusually scored for violin, viola and two cellos (1894)
+Antonín Dvořák's String Quartets Nos. 9–14, particularly String Quartet No. 12 in F major, "American"; also No. 3 is an exceptionally long quartet (lasting 65 minutes)
+Bedřich Smetana's two quartets, especially String Quartet No. 1 in E minor, "From my Life" (1876), considered the first piece of chamber programme music
+César Franck's String Quartet in D major (1889–1890)
+Claude Debussy's String Quartet in G minor, Op. 10 (1893)
+Maurice Ravel's String Quartet, in F major (1903)
+Max Reger's six string quartets (including an early unnumbered one), especially long Quartet No. 3 in D minor, Op. 74 (1903-04), Quartet No. 4 in E♭ major, Op. 109 (1909), and the last, Quartet No. 5 in F♯ minor, Op. 121 (1911)
+Jean Sibelius's String Quartet in D minor, Op. 56, Voces intimae (1909)
+Alexander Zemlinsky's Second String Quartet, Op. 15 (1913–15)
+Edward Elgar’s String Quartet op. 83 in E minor (1918)
+Gabriel Fauré’s String Quartet op. 121 in E minor (1924), the composer’s last work
+Leoš Janáček's two string quartets, String Quartet No. 1, "Kreutzer Sonata" (1923), inspired by Leo Tolstoy's novel The Kreutzer Sonata, itself named after Beethoven's Kreutzer Sonata; and his second string quartet, Intimate Letters (1928)
+Béla Bartók's six string quartets (1909, 1915–17, 1926, 1927, 1934, 1939)
+Arnold Schoenberg's four string quartets – No. 1 Op. 7 (1904–05) No. 2 Op. 10 (1907–08, noteworthy for its first ever inclusion of the human voice in a string quartet), No. 3 Op. 30 (1927) and No. 4 Op. 37 (1936)
+Alban Berg's String Quartet, Op. 3 (1910) and Lyric Suite (1925–26), later adapted for string orchestra
+Anton Webern's Five Movements, Op.5 (1909), Six Bagatelles, Op.9 (1913), and Quartet, Op. 28 (1937–38)
+Darius Milhaud's set of 18 string quartets written between 1912 and 1950, particularly nos. 14 and 15 op. 291 (1948–49), which can be played simultaneously as a string octet
+Heitor Villa-Lobos's 17 string quartets (1915–57), in particular the Fifth ("Popular"), Sixth ("Brazilian"), and Seventeenth String Quartets.
+Ruth Crawford-Seeger's string quartet (1931)
+Alois Hába's 16 string quartets (1919–67), some of them in quarter-tone tuning, the last in fifth-tone tuning
+Dmitri Shostakovich's 15 string quartets, in particular the No. 8 in C minor, Op. 110 (1960), and No. 15 Op. 144 (1974) in six Adagio movements
+John Cage's String Quartet in Four Parts (1950)
+Elliott Carter's five string quartets (1951, 1959, 1971, 1986, 1995)
+Iannis Xenakis's ST/4 (1962), Tetras (1983), Tetora (1990) and Ergma (1994)
+Karlheinz Stockhausen's Helikopter-Streichquartett (1992–93), to be played by the four musicians in four helicopters
+Brian Ferneyhough's six string quartets (1963, 1980, 1987, 1989–90, 2006, 2010) as well as his Sonatas for String Quartet (1967), Adagissimo (1983), Dum transisset I–IV (2007), Exordium (2008) and Silentium (2014)
+Salvatore Sciarrino's eight string quartets (1967–2008)
+Wolfgang Rihm's 13 string quartets (1970–2011)
+Helmut Lachenmann's three string quartets (Gran Torso, 1972; Reigen seliger Geister, 1989; Grido, 2001)
+Morton Feldman's Second String Quartet (1983), which typically takes about five hours in performance
+Georges Lentz's 43-hour digital String Quartet(s) (2000–2023), a vast four-channel multi-disciplinary work permanently played in the Cobar Sound Chapel
+
+
+== String quartets (ensembles) ==
+
+Whereas individual string players often group together to make ad hoc string quartets, others continue to play together for many years in ensembles which may be named after the first violinist (e.g. the Takács Quartet), a composer (e.g. the Borodin Quartet) or a location (e.g. the Budapest Quartet). Established quartets may undergo changes in membership whilst retaining their original name.
+
+
+== References ==
+
+
+=== Sources ===
+Baldassarre, Antonio : "String Quartet: §4", in: The New Grove Dictionary of Music and Musicians, edited by Stanley Sadie and John Tyrrell (London: Macmillan Publishers, 2001).
+Beaumont, Antony. 2001. "Zemlinsky [Zemlinszky], Alexander (von). The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan Publishers.
+Eisen, Cliff: "String Quartet: §§1–3", in: The New Grove Dictionary of Music and Musicians, edited by Stanley Sadie and John Tyrrell (London: Macmillan Publishers, 2001).
+Finscher, Ludwig: Joseph Haydn und seine Zeit (Laaber, Germany: Laaber, 2000).
+Griesinger, Georg August: Biographical Notes Concerning Joseph Haydn (Leipzig: Breitkopf & Härtel, [1810] 1963). English translation by Vernon Gotwals, in Haydn: Two Contemporary Portraits (Milwaukee: University of Wisconsin Press).
+Griffiths, Paul (1983). The String Quartet: A History. Thames and Hudson. ISBN 0-500-27383-9.
+Griffiths, Paul: "String Quartet: §§5–9", in: The New Grove Dictionary of Music and Musicians, edited by Stanley Sadie and John Tyrrell (London: Macmillan Publishers, 2001).
+Scholes, Percy A. (1938). The Oxford Companion to Music. Oxford University Press.
+Tovey, Donald: Essays in Musical Analysis. 
+Webster, James & Feder, Georg: "Joseph Haydn", article in: The New Grove Dictionary of Music and Musicians (London & New York: Macmillan, 2001). Published separately as a book: The New Grove Haydn (New York: Macmillan 2002, ISBN 0-19-516904-2).
+Wyn Jones, David: "The Origins of the Quartet", in Robin Stowell (ed.): The Cambridge Companion to the String Quartet (Cambridge: Cambridge University Press, 2003); ISBN 0-521-00042-4.
+
+
+== Further reading ==
+Barrett-Ayres, Reginald: Joseph Haydn and the String Quartet (New York: Schirmer Books, 1974); ISBN 0-02-870400-2.
+Blum, David: The Art of Quartet Playing: The Guarneri Quartet in Conversation with David Blum (New York: Alfred A. Knopf, 1986); ISBN 0-394-53985-0.
+Eisler, Edith: 21st-Century String Quartets (String Letter Publishing, 2000); ISBN 1-890490-15-6.
+Keller, Hans: The Great Haydn Quartets. Their Interpretation (London: J. M. Dent, 1986); ISBN 0-460-86107-7.
+Krummacher, Friedhelm (2005). Geschichte des Streichquartetts [History of the String Quartet] (in German). Vol. 3 vols: Volume 1, Die Zeit der Wiener Klassik, volume 2, Romantik und Moderne, volume 3, Neue Musik und Avantgarde (2nd ed.). Laaber: Laaber-Verlag.
+Rounds, David: The Four & the One: In Praise of String Quartets (Fort Bragg, California: Lost Coast Press, 1999); ISBN 1-882897-26-9.
+Rosen, Charles: The Classical Style: Haydn, Mozart, Beethoven (London: Faber and Faber, 1971); ISBN 0-571-10234-4 (soft covers), ISBN 0-571-09118-0 (hardback).
+Steinhardt, Arnold: Indivisible by Four (Farrar, Straus Giroux, 1998); ISBN 0-374-52700-8.
+Vernon, David (5 September 2023). Beethoven: The String Quartets. Edinburgh: Candle Row Press, 2023. ISBN 978-1739659929.
+Vuibert, Francis: Répertoire universel du quatuor à cordes (2009) ProQuartet-CEMC; ISBN 978-2-9531544-0-5.
+Winter, Robert (ed.): The Beethoven Quartet Companion (University of California Press, 1996).
+
+
+== External links ==
+Greg Sandow – Introducing String Quartets at the Wayback Machine (archived July 18, 2011)
+A brief history of the development of the String Quartet up to Beethoven
+Beethoven's string quartets
+Art of the States: string quartet works for string quartet by American composers
+String Quartet Sound-bites from lesser known composers E.G. Onslow, Viotti, Rheinberger, Gretchaninov, A.Taneyev, Kiel, Busoni & many more.
+European archive String quartet recordings on copyright free LPs at the European Archive (for non-American users only).
+Shostakovich: the string quartets
+String quartet compositions and performers since about 1914 and the connections between them

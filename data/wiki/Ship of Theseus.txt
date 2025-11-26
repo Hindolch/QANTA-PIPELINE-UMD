@@ -1,0 +1,70 @@
+The Ship of Theseus, also known as Theseus's Paradox, is a paradox and common thought experiment about whether an object (in the most common stating of the paradox, a ship) is the same object after having all of its original components replaced with others over time.
+In Greek mythology, Theseus, the mythical king of the city of Athens, rescued the children of Athens from King Minos after slaying the minotaur and then escaped onto a ship going to Delos. Each year, the Athenians would commemorate this by taking the craft on a pilgrimage to Delos to honour Apollo. Over time, some of its boards rotted and were replaced.  A question was raised by ancient philosophers: If no pieces of the original made up the current ship, was it still the Ship of Theseus? If it was no longer the same, when had it ceased existing as the original ship? Seventeenth century philosopher Thomas Hobbes raised the further question of how to consider a second ship that had been built entirely from pieces removed from the original.
+In contemporary philosophy, the thought experiment has applications to the philosophical study of identity over time. Within the contemporary philosophy of mind, it has inspired a variety of proposed solutions and concepts regarding the persistence of personal identity.
+
+
+== History ==
+
+In its original formulation, the "Ship of Theseus" paradox concerns a debate over whether a ship that has had all of its components replaced one by one would remain the same ship. The account of the problem has been preserved by Plutarch in his Life of Theseus:
+
+The ship wherein Theseus and the youth of Athens returned from Crete had thirty oars, and was preserved by the Athenians down even to the time of Demetrius Phalereus, for they took away the old planks as they decayed, putting in new and strong timber in their places, insomuch that this ship became a standing example among the philosophers, for the logical question of things that grow; one side holding that the ship remained the same, and the other contending that it was not the same.
+The seventeenth century philosopher Thomas Hobbes extended the thought experiment by supposing that a ship custodian gathered up all of the decayed parts as they were disposed and used them to build a second ship,  then asked which of the two—the custodian's or the Athenians'—was the "original" ship.
+
+For if that Ship of Theseus (concerning the Difference whereof, made by continual restoration, in taking out the old Planks, and putting in new, the sophisters of Athens were wont to dispute) were, after all the Planks were changed, the same Numerical Ship it was at the beginning; and if some Man had kept the Old Planks as they were taken out, and by putting them afterward together in the same order, had again made a Ship of them, this would, without doubt, had also been the same Numerical Ship with that which was at the beginnings and so there would have been two Ships Numerically the same, which is absurd... But we must consider by what name anything is called when we inquire concerning the Identity of it... so that a Ship, which signifies Matter so figured, will be the same, as long as the Matter remains the same; but if no part of the Matter is the same, then it is Numerically another Ship; and if part of the Matter remains, and part is changed, then the Ship will be partly the same, and partly not the same.
+Hobbes considers the two resulting ships as illustrating two definitions of "Identity" or sameness, form and matter, that are being compared to the original ship:
+
+the ship that maintains the same "form" as the original, that which persists through complete replacement of material and;
+the ship made of the same "matter", that which stops being 100 per cent the same ship when the first part is replaced.
+
+
+== Proposed resolutions ==
+The Ship of Theseus paradox can be thought of as an example of a puzzle of material constitution — that is, a problem with determining the relationship between an object and the material of which it is made.
+
+
+=== Constitution is not identity ===
+According to the Stanford Encyclopedia of Philosophy, the most popular solution is to accept the conclusion that the material out of which the ship is made is not the same object as the ship, but that the two objects simply occupy the same space at the same time.
+
+
+=== Temporal parts ===
+
+Another common theory, put forth by twentieth century American philosopher David Lewis, is to divide up all objects into three-dimensional time-slices which are temporally distinct. This avoids the issue that the two different ships exist in the same space at one time and a different space at another time by considering the objects to be distinct from each other at all points in time.
+
+
+=== Cognitive science ===
+According to other scientists, the thought puzzle arises because of extreme externalism: the assumption that what is true in our minds also holds true in the world. Noam Chomsky says that this is not an unassailable assumption, from the perspective of the natural sciences, because human intuition is often mistaken. Cognitive science would treat this thought puzzle as the subject of an investigation of the human mind. Studying this human confusion can reveal much about the brain's operation, but little about the nature of the human-independent external world.
+Following on from this observation, a significant strand in cognitive science would consider the ship not as a thing, nor even a collection of objectively existing thing parts, but rather as an organisational structure that has perceptual continuity.
+
+
+=== Deflationism ===
+According to the Stanford Encyclopedia of Philosophy, the deflationist view is that the facts of the thought experiment are undisputed; the only dispute is over the meaning of the term "ship" and is thus merely verbal. American philosopher Hilary Putnam asserts that "the logical primitives themselves, and in particular the notions of object and existence, have a multitude of different uses rather than one absolute 'meaning'." This thesis—that there are many meanings for the existential quantifier that are equally natural and equally adequate for describing all the facts—is often referred to as "the doctrine of quantifier variance."
+
+
+=== Continued identity theory ===
+This solution (proposed by Kate, Ernest et al.) sees an object as staying the same as long as it continuously and metaphysically exists under the same identity without being fully transformed at one time. For instance, a house that has its front wall destroyed and replaced at Year One, the ceiling replaced at Year Two, and so on, until every part of the house has been replaced will still be understood as the same house. However, if every wall, the floor, and the roof are destroyed and replaced at the same time, it will be regarded as a new house.
+
+
+== Alternative forms ==
+In Europe, several independent tales and stories feature knives of which the blades and handles had been replaced several times but are still used and represent the same knife. France has Jeannot's knife, Spain uses Jeannot's knife as a proverb, though it is referred to simply as "the family knife", and Hungary has "Lajos Kossuth's pocket knife". Several variants or alternative statements of the underlying problem are known, including the grandfather's axe and Trigger's broom, where an old axe or broom has had both its head and its handle replaced, leaving no original components.
+The ancient Buddhist text Da zhidu lun contains a similar philosophical puzzle: a story of a traveller who encountered two demons in the night. As one demon ripped off all parts of the traveler's body one by one, the other demon replaced them with those of a corpse, and the traveller was confused about who he was.
+The French critic and essayist Roland Barthes refers at least twice to a ship that is entirely rebuilt, in the preface to his Essais Critiques (1971) and later in his Roland Barthes par Roland Barthes (1975); in the latter, the persistence of the form of the ship is seen as a key structuralist principle. He calls this ship the Argo, on which Theseus was said to have sailed with Jason; he may have confused the Argo (referred to in passing in Plutarch's Theseus at 19.4) with the ship that sailed from Crete (Theseus, 23.1).
+In Japan, the Ise Grand Shrine is rebuilt every twenty years with entirely "new wood". The continuity over the centuries is considered spiritual and comes from the source of the wood, which is harvested from an adjoining forest that is considered sacred.
+In the United States, a man claims to own the axe that George Washington used to cut down the cherry tree, but the axe's handle has been replaced twice and its head once.
+
+
+== See also ==
+
+
+== Citations ==
+
+
+== General and cited references ==
+
+
+== Further reading ==
+Brown, Christopher (2005). Aquinas and the Ship of Theseus: Solving Puzzles about Material Objects. A&C Black. ISBN 978-1-84714-402-7. Retrieved 24 September 2022.
+Deutsch, Harry; Garbacz, Pawel. "Relative Identity". In Zalta, Edward N. (ed.). Stanford Encyclopedia of Philosophy.
+
+
+== External links ==
+
+S. Marc Cohen's Lecture notes on "Identity, Persistence, and the Ship of Theseus" from the University of Washington

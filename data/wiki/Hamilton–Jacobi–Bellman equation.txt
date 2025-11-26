@@ -1,0 +1,1224 @@
+The Hamilton-Jacobi-Bellman (HJB) equation is a nonlinear partial differential equation that provides necessary and sufficient conditions for optimality of a control with respect to a loss function. Its solution is the value function of the optimal control problem which, once known, can be used to obtain the optimal control by taking the maximizer (or minimizer) of the Hamiltonian involved in the HJB equation.
+The equation is a result of the theory of dynamic programming which was pioneered in the 1950s by Richard Bellman and coworkers. The connection to the Hamilton–Jacobi equation from classical physics was first drawn by Rudolf Kálmán. In discrete-time problems, the analogous difference equation is usually referred to as the Bellman equation.
+While classical variational problems, such as the brachistochrone problem, can be solved using the Hamilton–Jacobi–Bellman equation, the method can be applied to a broader spectrum of problems. Further it can be generalized to stochastic systems, in which case the HJB equation is a second-order elliptic partial differential equation. A major drawback, however, is that the HJB equation admits classical solutions only for a sufficiently smooth value function, which is not guaranteed in most situations. Instead, the notion of a viscosity solution is required, in which conventional derivatives are replaced by (set-valued) subderivatives.
+
+
+== Optimal Control Problems ==
+Consider the following problem in deterministic optimal control over the time period 
+  
+    
+      
+        [
+        0
+        ,
+        T
+        ]
+      
+    
+    {\displaystyle [0,T]}
+  
+:
+
+  
+    
+      
+        V
+        (
+        x
+        (
+        0
+        )
+        ,
+        0
+        )
+        =
+        
+          min
+          
+            u
+          
+        
+        
+          {
+          
+            
+              ∫
+              
+                0
+              
+              
+                T
+              
+            
+            C
+            [
+            x
+            (
+            t
+            )
+            ,
+            u
+            (
+            t
+            )
+            ]
+            
+            d
+            t
+            +
+            D
+            [
+            x
+            (
+            T
+            )
+            ]
+          
+          }
+        
+      
+    
+    {\displaystyle V(x(0),0)=\min _{u}\left\{\int _{0}^{T}C[x(t),u(t)]\,dt+D[x(T)]\right\}}
+  
+
+where 
+  
+    
+      
+        C
+        [
+        ⋅
+        ]
+      
+    
+    {\displaystyle C[\cdot ]}
+  
+ is the scalar cost rate function and 
+  
+    
+      
+        D
+        [
+        ⋅
+        ]
+      
+    
+    {\displaystyle D[\cdot ]}
+  
+ is a function that gives the bequest value at the final state, 
+  
+    
+      
+        x
+        (
+        t
+        )
+      
+    
+    {\displaystyle x(t)}
+  
+  is the system state vector, 
+  
+    
+      
+        x
+        (
+        0
+        )
+      
+    
+    {\displaystyle x(0)}
+  
+ is assumed given, and 
+  
+    
+      
+        u
+        (
+        t
+        )
+      
+    
+    {\displaystyle u(t)}
+  
+ for 
+  
+    
+      
+        0
+        ≤
+        t
+        ≤
+        T
+      
+    
+    {\displaystyle 0\leq t\leq T}
+  
+ is the control vector that we are trying to find.  Thus, 
+  
+    
+      
+        V
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle V(x,t)}
+  
+ is the value function.
+The system must also be subject to
+
+  
+    
+      
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        =
+        F
+        [
+        x
+        (
+        t
+        )
+        ,
+        u
+        (
+        t
+        )
+        ]
+        
+      
+    
+    {\displaystyle {\dot {x}}(t)=F[x(t),u(t)]\,}
+  
+
+where 
+  
+    
+      
+        F
+        [
+        ⋅
+        ]
+      
+    
+    {\displaystyle F[\cdot ]}
+  
+ gives the vector determining physical evolution of the state vector over time.
+
+
+== The Partial Differential Equation ==
+For this simple system, the Hamilton–Jacobi–Bellman partial differential equation is
+
+  
+    
+      
+        
+          
+            
+              ∂
+              V
+              (
+              x
+              ,
+              t
+              )
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          min
+          
+            u
+          
+        
+        
+          {
+          
+            
+              
+                
+                  ∂
+                  V
+                  (
+                  x
+                  ,
+                  t
+                  )
+                
+                
+                  ∂
+                  x
+                
+              
+            
+            ⋅
+            F
+            (
+            x
+            ,
+            u
+            )
+            +
+            C
+            (
+            x
+            ,
+            u
+            )
+          
+          }
+        
+        =
+        0
+      
+    
+    {\displaystyle {\frac {\partial V(x,t)}{\partial t}}+\min _{u}\left\{{\frac {\partial V(x,t)}{\partial x}}\cdot F(x,u)+C(x,u)\right\}=0}
+  
+
+subject to the terminal condition
+
+  
+    
+      
+        V
+        (
+        x
+        ,
+        T
+        )
+        =
+        D
+        (
+        x
+        )
+        ,
+        
+      
+    
+    {\displaystyle V(x,T)=D(x),\,}
+  
+
+As before, the unknown scalar function 
+  
+    
+      
+        V
+        (
+        x
+        ,
+        t
+        )
+      
+    
+    {\displaystyle V(x,t)}
+  
+ in the above partial differential equation is the Bellman value function, which represents the cost incurred from starting in state 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ at time 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  
+ and controlling the system optimally from then until time 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+.
+
+
+== Deriving the Equation ==
+Intuitively, the HJB equation can be derived as follows. If 
+  
+    
+      
+        V
+        (
+        x
+        (
+        t
+        )
+        ,
+        t
+        )
+      
+    
+    {\displaystyle V(x(t),t)}
+  
+ is the optimal cost-to-go function (also called the 'value function'), then by Richard Bellman's principle of optimality, going from time t to t + dt, we have
+
+  
+    
+      
+        V
+        (
+        x
+        (
+        t
+        )
+        ,
+        t
+        )
+        =
+        
+          min
+          
+            u
+          
+        
+        
+          {
+          
+            V
+            (
+            x
+            (
+            t
+            +
+            d
+            t
+            )
+            ,
+            t
+            +
+            d
+            t
+            )
+            +
+            
+              ∫
+              
+                t
+              
+              
+                t
+                +
+                d
+                t
+              
+            
+            C
+            (
+            x
+            (
+            s
+            )
+            ,
+            u
+            (
+            s
+            )
+            )
+            
+            d
+            s
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle V(x(t),t)=\min _{u}\left\{V(x(t+dt),t+dt)+\int _{t}^{t+dt}C(x(s),u(s))\,ds\right\}.}
+  
+
+Note that the Taylor expansion of the first term on the right-hand side is
+
+  
+    
+      
+        V
+        (
+        x
+        (
+        t
+        +
+        d
+        t
+        )
+        ,
+        t
+        +
+        d
+        t
+        )
+        =
+        V
+        (
+        x
+        (
+        t
+        )
+        ,
+        t
+        )
+        +
+        
+          
+            
+              ∂
+              V
+              (
+              x
+              ,
+              t
+              )
+            
+            
+              ∂
+              t
+            
+          
+        
+        
+        d
+        t
+        +
+        
+          
+            
+              ∂
+              V
+              (
+              x
+              ,
+              t
+              )
+            
+            
+              ∂
+              x
+            
+          
+        
+        ⋅
+        
+          
+            
+              x
+              ˙
+            
+          
+        
+        (
+        t
+        )
+        
+        d
+        t
+        +
+        
+          
+            o
+          
+        
+        (
+        d
+        t
+        )
+        ,
+      
+    
+    {\displaystyle V(x(t+dt),t+dt)=V(x(t),t)+{\frac {\partial V(x,t)}{\partial t}}\,dt+{\frac {\partial V(x,t)}{\partial x}}\cdot {\dot {x}}(t)\,dt+{\mathcal {o}}(dt),}
+  
+
+where 
+  
+    
+      
+        
+          
+            o
+          
+        
+        (
+        d
+        t
+        )
+      
+    
+    {\displaystyle {\mathcal {o}}(dt)}
+  
+ denotes the terms in the Taylor expansion of higher order than one in little-o notation. Then if we subtract 
+  
+    
+      
+        V
+        (
+        x
+        (
+        t
+        )
+        ,
+        t
+        )
+      
+    
+    {\displaystyle V(x(t),t)}
+  
+ from both sides, divide by dt, and take the limit as dt approaches zero, we obtain the HJB equation defined above.
+
+
+== Solving the Equation ==
+The HJB equation is usually solved backwards in time, starting from 
+  
+    
+      
+        t
+        =
+        T
+      
+    
+    {\displaystyle t=T}
+  
+ and ending at 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+  
+.
+When solved over the whole of state space and 
+  
+    
+      
+        V
+        (
+        x
+        )
+      
+    
+    {\displaystyle V(x)}
+  
+ is continuously differentiable, the HJB equation is a necessary and sufficient condition for an optimum when the terminal state is unconstrained. If one can solve for 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  
+, there exists a control 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ that achieves the minimum cost.
+In general case, the HJB equation does not have a classical (smooth) solution. Several notions of generalized solutions have been developed to cover such situations, including viscosity solution (Pierre-Louis Lions and Michael Crandall), minimax solution (Andrei Izmailovich Subbotin), and others.
+Approximate dynamic programming has been introduced by D. P. Bertsekas and J. N. Tsitsiklis with the use of artificial neural networks (multilayer perceptrons) for approximating the Bellman function in general. This is an effective mitigation strategy for reducing the impact of dimensionality by replacing the memorization of the complete function mapping for the whole space domain with the memorization of the sole neural network parameters. In particular, for continuous-time systems, an approximate dynamic programming approach that combines both policy iterations with neural networks was introduced. In discrete-time, an approach to solve the HJB equation combining value iterations and neural networks was introduced.
+Alternatively, it has been shown that sum-of-squares optimization can yield an approximate polynomial solution to the Hamilton–Jacobi–Bellman equation arbitrarily well with respect to the 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    {\displaystyle L^{1}}
+  
+ norm.
+
+
+== Extension to Stochastic Problems ==
+The idea of solving a control problem by applying Bellman's principle of optimality and then working out backwards in time an optimizing strategy can be generalized to stochastic control problems. Consider similar as above
+
+  
+    
+      
+        
+          min
+          
+            u
+          
+        
+        
+          E
+        
+        
+          {
+          
+            
+              ∫
+              
+                0
+              
+              
+                T
+              
+            
+            C
+            (
+            t
+            ,
+            
+              X
+              
+                t
+              
+            
+            ,
+            
+              u
+              
+                t
+              
+            
+            )
+            
+            d
+            t
+            +
+            D
+            (
+            
+              X
+              
+                T
+              
+            
+            )
+          
+          }
+        
+      
+    
+    {\displaystyle \min _{u}\mathbb {E} \left\{\int _{0}^{T}C(t,X_{t},u_{t})\,dt+D(X_{T})\right\}}
+  
+
+now with 
+  
+    
+      
+        (
+        
+          X
+          
+            t
+          
+        
+        
+          )
+          
+            t
+            ∈
+            [
+            0
+            ,
+            T
+            ]
+          
+        
+        
+        
+      
+    
+    {\displaystyle (X_{t})_{t\in [0,T]}\,\!}
+  
+ the stochastic process to optimize and 
+  
+    
+      
+        (
+        
+          u
+          
+            t
+          
+        
+        
+          )
+          
+            t
+            ∈
+            [
+            0
+            ,
+            T
+            ]
+          
+        
+        
+        
+      
+    
+    {\displaystyle (u_{t})_{t\in [0,T]}\,\!}
+  
+ the steering. By first using Bellman and then expanding 
+  
+    
+      
+        V
+        (
+        
+          X
+          
+            t
+          
+        
+        ,
+        t
+        )
+      
+    
+    {\displaystyle V(X_{t},t)}
+  
+ with Itô's rule, one finds the stochastic HJB equation
+
+  
+    
+      
+        
+          min
+          
+            u
+          
+        
+        
+          {
+          
+            
+              
+                A
+              
+            
+            V
+            (
+            x
+            ,
+            t
+            )
+            +
+            C
+            (
+            t
+            ,
+            x
+            ,
+            u
+            )
+          
+          }
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle \min _{u}\left\{{\mathcal {A}}V(x,t)+C(t,x,u)\right\}=0,}
+  
+
+where 
+  
+    
+      
+        
+          
+            A
+          
+        
+      
+    
+    {\displaystyle {\mathcal {A}}}
+  
+ represents the stochastic differentiation operator, and subject to the terminal condition
+
+  
+    
+      
+        V
+        (
+        x
+        ,
+        T
+        )
+        =
+        D
+        (
+        x
+        )
+        
+        
+        .
+      
+    
+    {\displaystyle V(x,T)=D(x)\,\!.}
+  
+
+Note that the randomness has disappeared. In this case a solution 
+  
+    
+      
+        V
+        
+        
+      
+    
+    {\displaystyle V\,\!}
+  
+ of the latter does not necessarily solve the primal problem, it is a candidate only and a further verifying argument is required. This technique is widely used in Financial Mathematics to determine optimal investment strategies in the market (see for example Merton's portfolio problem).
+
+
+=== Application to LQG-Control ===
+As an example, we can look at a system with linear stochastic dynamics and quadratic cost. If the system dynamics is given by
+
+  
+    
+      
+        d
+        
+          x
+          
+            t
+          
+        
+        =
+        (
+        a
+        
+          x
+          
+            t
+          
+        
+        +
+        b
+        
+          u
+          
+            t
+          
+        
+        )
+        d
+        t
+        +
+        σ
+        d
+        
+          w
+          
+            t
+          
+        
+        ,
+      
+    
+    {\displaystyle dx_{t}=(ax_{t}+bu_{t})dt+\sigma dw_{t},}
+  
+
+and the cost accumulates at rate 
+  
+    
+      
+        C
+        (
+        
+          x
+          
+            t
+          
+        
+        ,
+        
+          u
+          
+            t
+          
+        
+        )
+        =
+        r
+        (
+        t
+        )
+        
+          u
+          
+            t
+          
+          
+            2
+          
+        
+        
+          /
+        
+        2
+        +
+        q
+        (
+        t
+        )
+        
+          x
+          
+            t
+          
+          
+            2
+          
+        
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle C(x_{t},u_{t})=r(t)u_{t}^{2}/2+q(t)x_{t}^{2}/2}
+  
+, the HJB equation is given by
+
+  
+    
+      
+        −
+        
+          
+            
+              ∂
+              V
+              (
+              x
+              ,
+              t
+              )
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        q
+        (
+        t
+        )
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          
+            
+              ∂
+              V
+              (
+              x
+              ,
+              t
+              )
+            
+            
+              ∂
+              x
+            
+          
+        
+        a
+        x
+        −
+        
+          
+            
+              b
+              
+                2
+              
+            
+            
+              2
+              r
+              (
+              t
+              )
+            
+          
+        
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  V
+                  (
+                  x
+                  ,
+                  t
+                  )
+                
+                
+                  ∂
+                  x
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        +
+        
+          
+            
+              σ
+              
+                2
+              
+            
+            2
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              V
+              (
+              x
+              ,
+              t
+              )
+            
+            
+              ∂
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle -{\frac {\partial V(x,t)}{\partial t}}={\frac {1}{2}}q(t)x^{2}+{\frac {\partial V(x,t)}{\partial x}}ax-{\frac {b^{2}}{2r(t)}}\left({\frac {\partial V(x,t)}{\partial x}}\right)^{2}+{\frac {\sigma ^{2}}{2}}{\frac {\partial ^{2}V(x,t)}{\partial x^{2}}}.}
+  
+
+with optimal action given by
+
+  
+    
+      
+        
+          u
+          
+            t
+          
+        
+        =
+        −
+        
+          
+            b
+            
+              r
+              (
+              t
+              )
+            
+          
+        
+        
+          
+            
+              ∂
+              V
+              (
+              x
+              ,
+              t
+              )
+            
+            
+              ∂
+              x
+            
+          
+        
+      
+    
+    {\displaystyle u_{t}=-{\frac {b}{r(t)}}{\frac {\partial V(x,t)}{\partial x}}}
+  
+
+Assuming a quadratic form for the value function, we obtain the usual Riccati equation for the Hessian of the value function as is usual for Linear-quadratic-Gaussian control.
+
+
+== See also ==
+Bellman equation, discrete-time counterpart of the Hamilton–Jacobi–Bellman equation.
+Pontryagin's maximum principle, necessary but not sufficient condition for optimum, by maximizing a Hamiltonian, but this has the advantage over HJB of only needing to be satisfied over the single trajectory being considered.
+
+
+== References ==
+
+
+== Further reading ==
+Bertsekas, Dimitri P. (2005). Dynamic Programming and Optimal Control. Athena Scientific.
+Pham, Huyên (2009). "The Classical PDE Approach to Dynamic Programming". Continuous-time Stochastic Control and Optimization with Financial Applications. Springer. pp. 37–60. ISBN 978-3-540-89499-5.
+Stengel, Robert F. (1994). "Conditions for Optimality". Optimal Control and Estimation. New York: Dover. pp. 201–222. ISBN 0-486-68200-5.

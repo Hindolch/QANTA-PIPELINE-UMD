@@ -1,0 +1,3054 @@
+In mathematics, the Yoneda lemma is a fundamental result in category theory. It is an abstract result on functors of the type morphisms into a fixed object. It is a vast generalisation of Cayley's theorem from group theory (viewing a group as a miniature category with just one object and only isomorphisms). It also generalizes the information-preserving relation between a term and its continuation-passing style transformation from programming language theory. It allows the embedding of any locally small category into a category of functors (contravariant set-valued functors) defined on that category. It also clarifies how the embedded category of representable functors and their natural transformations relates to the other objects in the larger functor category. It is an important tool that underlies several modern developments in algebraic geometry and representation theory. It is named after Nobuo Yoneda.
+
+
+== Generalities ==
+The Yoneda lemma suggests that instead of studying the locally small category 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+, one should study the category of all functors of 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ into 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+ (the category of sets with functions as morphisms). 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+ is a category we think we understand well, and a functor of 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ into 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+ can be seen as a "representation" of 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ in terms of known structures. The original category 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ is contained in this functor category, but new objects appear in the functor category, which were absent and "hidden" in 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+. Treating these new objects just like the old ones often unifies and simplifies the theory.
+This approach is akin to (and in fact generalizes) the common method of studying a ring by investigating the modules over that ring. The ring takes the place of the category 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+, and the category of modules over the ring is a category of functors defined on 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+.
+
+
+== Formal statement ==
+Yoneda's lemma concerns functors from a fixed category 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ to a category of sets, 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+. If 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ is a locally small category (i.e. the hom-sets are actual sets and not proper classes), then each object 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ of 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ gives rise to a functor to 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+ called a hom-functor. This functor is denoted:
+
+  
+    
+      
+        
+          h
+          
+            A
+          
+        
+        (
+        −
+        )
+        ≡
+        
+          H
+          o
+          m
+        
+        (
+        A
+        ,
+        −
+        )
+      
+    
+    {\displaystyle h_{A}(-)\equiv \mathrm {Hom} (A,-)}
+  
+.
+The (covariant) hom-functor 
+  
+    
+      
+        
+          h
+          
+            A
+          
+        
+      
+    
+    {\displaystyle h_{A}}
+  
+ sends 
+  
+    
+      
+        X
+        ∈
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle X\in {\mathcal {C}}}
+  
+ to the set of morphisms 
+  
+    
+      
+        
+          H
+          o
+          m
+        
+        (
+        A
+        ,
+        X
+        )
+      
+    
+    {\displaystyle \mathrm {Hom} (A,X)}
+  
+ and sends a morphism 
+  
+    
+      
+        f
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle f\colon X\to Y}
+  
+ (where 
+  
+    
+      
+        Y
+        ∈
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle Y\in {\mathcal {C}}}
+  
+) to the morphism 
+  
+    
+      
+        f
+        ∘
+        −
+      
+    
+    {\displaystyle f\circ -}
+  
+ (composition with 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  
+ on the left) that sends a morphism 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ in 
+  
+    
+      
+        
+          H
+          o
+          m
+        
+        (
+        A
+        ,
+        X
+        )
+      
+    
+    {\displaystyle \mathrm {Hom} (A,X)}
+  
+ to the morphism 
+  
+    
+      
+        f
+        ∘
+        g
+      
+    
+    {\displaystyle f\circ g}
+  
+ in 
+  
+    
+      
+        
+          H
+          o
+          m
+        
+        (
+        A
+        ,
+        Y
+        )
+      
+    
+    {\displaystyle \mathrm {Hom} (A,Y)}
+  
+. That is,
+
+  
+    
+      
+        
+          h
+          
+            A
+          
+        
+        (
+        f
+        )
+        =
+        
+          H
+          o
+          m
+        
+        (
+        A
+        ,
+        f
+        )
+        ,
+        
+           or
+        
+      
+    
+    {\displaystyle h_{A}(f)=\mathrm {Hom} (A,f),{\text{ or}}}
+  
+
+  
+    
+      
+        
+          h
+          
+            A
+          
+        
+        (
+        f
+        )
+        (
+        g
+        )
+        =
+        f
+        ∘
+        g
+      
+    
+    {\displaystyle h_{A}(f)(g)=f\circ g}
+  
+
+Yoneda's lemma says that:
+
+Here the notation 
+  
+    
+      
+        
+          
+            S
+            e
+            t
+          
+          
+            
+              C
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {Set} ^{\mathcal {C}}}
+  
+ denotes the category of functors from 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ to 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+.
+Given a natural transformation 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+  
+ from 
+  
+    
+      
+        
+          h
+          
+            A
+          
+        
+      
+    
+    {\displaystyle h_{A}}
+  
+ to 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+, the corresponding element of 
+  
+    
+      
+        F
+        (
+        A
+        )
+      
+    
+    {\displaystyle F(A)}
+  
+ is 
+  
+    
+      
+        u
+        =
+        
+          Φ
+          
+            A
+          
+        
+        (
+        
+          
+            i
+            d
+          
+          
+            A
+          
+        
+        )
+      
+    
+    {\displaystyle u=\Phi _{A}(\mathrm {id} _{A})}
+  
+; and given an element 
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+ of 
+  
+    
+      
+        F
+        (
+        A
+        )
+      
+    
+    {\displaystyle F(A)}
+  
+, the corresponding natural transformation is given by 
+  
+    
+      
+        
+          Φ
+          
+            X
+          
+        
+        (
+        f
+        )
+        =
+        F
+        (
+        f
+        )
+        (
+        u
+        )
+      
+    
+    {\displaystyle \Phi _{X}(f)=F(f)(u)}
+  
+ which assigns to a morphism 
+  
+    
+      
+        f
+        :
+        A
+        →
+        X
+      
+    
+    {\displaystyle f\colon A\to X}
+  
+ a value of 
+  
+    
+      
+        F
+        (
+        X
+        )
+      
+    
+    {\displaystyle F(X)}
+  
+.
+
+
+=== Contravariant version ===
+There is a contravariant version of Yoneda's lemma, which concerns contravariant functors from 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ to 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+. This version involves the contravariant hom-functor
+
+  
+    
+      
+        
+          h
+          
+            A
+          
+        
+        (
+        −
+        )
+        ≡
+        
+          H
+          o
+          m
+        
+        (
+        −
+        ,
+        A
+        )
+        ,
+      
+    
+    {\displaystyle h^{A}(-)\equiv \mathrm {Hom} (-,A),}
+  
+
+which sends 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ to the hom-set 
+  
+    
+      
+        
+          H
+          o
+          m
+        
+        (
+        X
+        ,
+        A
+        )
+      
+    
+    {\displaystyle \mathrm {Hom} (X,A)}
+  
+. Given an arbitrary contravariant functor 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ from 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ to 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+, Yoneda's lemma asserts that
+
+  
+    
+      
+        
+          N
+          a
+          t
+        
+        (
+        
+          h
+          
+            A
+          
+        
+        ,
+        G
+        )
+        ≅
+        G
+        (
+        A
+        )
+        .
+      
+    
+    {\displaystyle \mathrm {Nat} (h^{A},G)\cong G(A).}
+  
+
+
+=== Naturality ===
+The bijections provided in the (covariant) Yoneda lemma (for each 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ and 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+) are the components of a natural isomorphism between two certain functors from 
+  
+    
+      
+        
+          
+            C
+          
+        
+        ×
+        
+          
+            S
+            e
+            t
+          
+          
+            
+              C
+            
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}\times \mathbf {Set} ^{\mathcal {C}}}
+  
+ to 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+. One of the two functors is the evaluation functor
+
+  
+    
+      
+        −
+        (
+        −
+        )
+        :
+        
+          
+            C
+          
+        
+        ×
+        
+          
+            S
+            e
+            t
+          
+          
+            
+              C
+            
+          
+        
+        →
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle -(-)\colon {\mathcal {C}}\times \mathbf {Set} ^{\mathcal {C}}\to \mathbf {Set} }
+  
+
+  
+    
+      
+        −
+        (
+        −
+        )
+        :
+        (
+        A
+        ,
+        F
+        )
+        ↦
+        F
+        (
+        A
+        )
+      
+    
+    {\displaystyle -(-)\colon (A,F)\mapsto F(A)}
+  
+
+that sends a pair 
+  
+    
+      
+        (
+        f
+        ,
+        Φ
+        )
+      
+    
+    {\displaystyle (f,\Phi )}
+  
+ of a morphism 
+  
+    
+      
+        f
+        :
+        A
+        →
+        B
+      
+    
+    {\displaystyle f\colon A\to B}
+  
+ in 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ and a natural transformation 
+  
+    
+      
+        Φ
+        :
+        F
+        →
+        G
+      
+    
+    {\displaystyle \Phi \colon F\to G}
+  
+ to the map
+
+  
+    
+      
+        
+          Φ
+          
+            B
+          
+        
+        ∘
+        F
+        (
+        f
+        )
+        =
+        G
+        (
+        f
+        )
+        ∘
+        
+          Φ
+          
+            A
+          
+        
+        :
+        F
+        (
+        A
+        )
+        →
+        G
+        (
+        B
+        )
+        .
+      
+    
+    {\displaystyle \Phi _{B}\circ F(f)=G(f)\circ \Phi _{A}\colon F(A)\to G(B).}
+  
+
+This is enough to determine the other functor since we know what the natural isomorphism is. Under the second functor
+
+  
+    
+      
+        Nat
+        ⁡
+        (
+        hom
+        ⁡
+        (
+        −
+        ,
+        −
+        )
+        ,
+        −
+        )
+        :
+        
+          
+            C
+          
+        
+        ×
+        
+          Set
+          
+            
+              C
+            
+          
+        
+        →
+        Set
+        ,
+      
+    
+    {\displaystyle \operatorname {Nat} (\hom(-,-),-)\colon {\mathcal {C}}\times \operatorname {Set} ^{\mathcal {C}}\to \operatorname {Set} ,}
+  
+
+  
+    
+      
+        Nat
+        ⁡
+        (
+        hom
+        ⁡
+        (
+        −
+        ,
+        −
+        )
+        ,
+        −
+        )
+        :
+        (
+        A
+        ,
+        F
+        )
+        ↦
+        Nat
+        ⁡
+        (
+        hom
+        ⁡
+        (
+        A
+        ,
+        −
+        )
+        ,
+        F
+        )
+        ,
+      
+    
+    {\displaystyle \operatorname {Nat} (\hom(-,-),-)\colon (A,F)\mapsto \operatorname {Nat} (\hom(A,-),F),}
+  
+
+the image of a pair 
+  
+    
+      
+        (
+        f
+        ,
+        Φ
+        )
+      
+    
+    {\displaystyle (f,\Phi )}
+  
+ is the map
+
+  
+    
+      
+        Nat
+        ⁡
+        (
+        hom
+        ⁡
+        (
+        f
+        ,
+        −
+        )
+        ,
+        Φ
+        )
+        =
+        Nat
+        ⁡
+        (
+        hom
+        ⁡
+        (
+        B
+        ,
+        −
+        )
+        ,
+        Φ
+        )
+        ∘
+        Nat
+        ⁡
+        (
+        hom
+        ⁡
+        (
+        f
+        ,
+        −
+        )
+        ,
+        F
+        )
+        =
+        Nat
+        ⁡
+        (
+        hom
+        ⁡
+        (
+        f
+        ,
+        −
+        )
+        ,
+        G
+        )
+        ∘
+        Nat
+        ⁡
+        (
+        hom
+        ⁡
+        (
+        A
+        ,
+        −
+        )
+        ,
+        Φ
+        )
+      
+    
+    {\displaystyle \operatorname {Nat} (\hom(f,-),\Phi )=\operatorname {Nat} (\hom(B,-),\Phi )\circ \operatorname {Nat} (\hom(f,-),F)=\operatorname {Nat} (\hom(f,-),G)\circ \operatorname {Nat} (\hom(A,-),\Phi )}
+  
+
+that sends a natural transformation 
+  
+    
+      
+        Ψ
+        :
+        hom
+        ⁡
+        (
+        A
+        ,
+        −
+        )
+        →
+        F
+      
+    
+    {\displaystyle \Psi \colon \hom(A,-)\to F}
+  
+ to the natural transformation 
+  
+    
+      
+        Φ
+        ∘
+        Ψ
+        ∘
+        hom
+        ⁡
+        (
+        f
+        ,
+        −
+        )
+        :
+        hom
+        ⁡
+        (
+        B
+        ,
+        −
+        )
+        →
+        G
+      
+    
+    {\displaystyle \Phi \circ \Psi \circ \hom(f,-)\colon \hom(B,-)\to G}
+  
+, whose components are
+
+  
+    
+      
+        (
+        Φ
+        ∘
+        Ψ
+        ∘
+        hom
+        ⁡
+        (
+        f
+        ,
+        −
+        )
+        
+          )
+          
+            C
+          
+        
+        (
+        g
+        )
+        =
+        (
+        Φ
+        ∘
+        Ψ
+        
+          )
+          
+            C
+          
+        
+        (
+        g
+        ∘
+        f
+        )
+        
+        (
+        g
+        :
+        B
+        →
+        C
+        )
+        .
+      
+    
+    {\displaystyle (\Phi \circ \Psi \circ \hom(f,-))_{C}(g)=(\Phi \circ \Psi )_{C}(g\circ f)\qquad (g\colon B\to C).}
+  
+
+
+=== Naming conventions ===
+The use of 
+  
+    
+      
+        
+          h
+          
+            A
+          
+        
+      
+    
+    {\displaystyle h_{A}}
+  
+ for the covariant hom-functor and 
+  
+    
+      
+        
+          h
+          
+            A
+          
+        
+      
+    
+    {\displaystyle h^{A}}
+  
+ for the contravariant hom-functor is not completely standard. Many texts and articles either use the opposite convention or completely unrelated symbols for these two functors. However, most modern algebraic geometry texts starting with Alexander Grothendieck's foundational EGA use the convention in this article.
+The mnemonic "falling into something" can be helpful in remembering that 
+  
+    
+      
+        
+          h
+          
+            A
+          
+        
+      
+    
+    {\displaystyle h_{A}}
+  
+ is the covariant hom-functor. When the letter 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ is falling (i.e. a subscript), 
+  
+    
+      
+        
+          h
+          
+            A
+          
+        
+      
+    
+    {\displaystyle h_{A}}
+  
+ assigns to an object 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ the morphisms from 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ into 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+.
+
+
+=== Proof ===
+Since 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+  
+ is a natural transformation, we have the following commutative diagram:
+
+This diagram shows that the natural transformation 
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+  
+ is completely determined by 
+  
+    
+      
+        
+          Φ
+          
+            A
+          
+        
+        (
+        
+          
+            i
+            d
+          
+          
+            A
+          
+        
+        )
+        =
+        u
+      
+    
+    {\displaystyle \Phi _{A}(\mathrm {id} _{A})=u}
+  
+ since for each morphism 
+  
+    
+      
+        f
+        :
+        A
+        →
+        X
+      
+    
+    {\displaystyle f\colon A\to X}
+  
+ one has
+
+  
+    
+      
+        
+          Φ
+          
+            X
+          
+        
+        (
+        f
+        )
+        =
+        (
+        F
+        f
+        )
+        u
+        .
+      
+    
+    {\displaystyle \Phi _{X}(f)=(Ff)u.}
+  
+
+Moreover, any element 
+  
+    
+      
+        u
+        ∈
+        F
+        (
+        A
+        )
+      
+    
+    {\displaystyle u\in F(A)}
+  
+ defines a natural transformation in this way. The proof in the contravariant case is completely analogous.
+
+
+=== The Yoneda embedding ===
+An important special case of Yoneda's lemma is when the functor 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+  
+ from 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ to 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+ is another hom-functor 
+  
+    
+      
+        
+          h
+          
+            B
+          
+        
+      
+    
+    {\displaystyle h_{B}}
+  
+. In this case, the covariant version of Yoneda's lemma states that
+
+  
+    
+      
+        
+          N
+          a
+          t
+        
+        (
+        
+          h
+          
+            A
+          
+        
+        ,
+        
+          h
+          
+            B
+          
+        
+        )
+        ≅
+        
+          H
+          o
+          m
+        
+        (
+        B
+        ,
+        A
+        )
+        .
+      
+    
+    {\displaystyle \mathrm {Nat} (h_{A},h_{B})\cong \mathrm {Hom} (B,A).}
+  
+
+That is, natural transformations between hom-functors are in one-to-one correspondence with morphisms (in the reverse direction) between the associated objects. Given a morphism 
+  
+    
+      
+        f
+        :
+        B
+        →
+        A
+      
+    
+    {\displaystyle f\colon B\to A}
+  
+ the associated natural transformation is denoted 
+  
+    
+      
+        
+          H
+          o
+          m
+        
+        (
+        f
+        ,
+        −
+        )
+      
+    
+    {\displaystyle \mathrm {Hom} (f,-)}
+  
+.
+Mapping each object 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ in 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ to its associated hom-functor 
+  
+    
+      
+        
+          h
+          
+            A
+          
+        
+        =
+        
+          H
+          o
+          m
+        
+        (
+        A
+        ,
+        −
+        )
+      
+    
+    {\displaystyle h_{A}=\mathrm {Hom} (A,-)}
+  
+ and each morphism 
+  
+    
+      
+        f
+        :
+        B
+        →
+        A
+      
+    
+    {\displaystyle f\colon B\to A}
+  
+ to the corresponding natural transformation 
+  
+    
+      
+        
+          H
+          o
+          m
+        
+        (
+        f
+        ,
+        −
+        )
+      
+    
+    {\displaystyle \mathrm {Hom} (f,-)}
+  
+ determines a contravariant functor 
+  
+    
+      
+        
+          h
+          
+            ∙
+          
+        
+      
+    
+    {\displaystyle h_{\bullet }}
+  
+ from 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ to 
+  
+    
+      
+        
+          
+            S
+            e
+            t
+          
+          
+            
+              C
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {Set} ^{\mathcal {C}}}
+  
+, the functor category of all (covariant) functors from 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ to 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+. One can interpret 
+  
+    
+      
+        
+          h
+          
+            ∙
+          
+        
+      
+    
+    {\displaystyle h_{\bullet }}
+  
+ as a covariant functor:
+
+  
+    
+      
+        
+          h
+          
+            ∙
+          
+        
+        :
+        
+          
+            
+              C
+            
+          
+          
+            op
+          
+        
+        →
+        
+          
+            S
+            e
+            t
+          
+          
+            
+              C
+            
+          
+        
+        .
+      
+    
+    {\displaystyle h_{\bullet }\colon {\mathcal {C}}^{\text{op}}\to \mathbf {Set} ^{\mathcal {C}}.}
+  
+
+The meaning of Yoneda's lemma in this setting is that the functor 
+  
+    
+      
+        
+          h
+          
+            ∙
+          
+        
+      
+    
+    {\displaystyle h_{\bullet }}
+  
+ is fully faithful, and therefore gives an embedding of 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            
+              o
+              p
+            
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}^{\mathrm {op} }}
+  
+ in the category of functors to 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+. The collection of all functors 
+  
+    
+      
+        {
+        
+          h
+          
+            A
+          
+        
+        
+          |
+        
+        A
+        ∈
+        C
+        }
+      
+    
+    {\displaystyle \{h_{A}|A\in C\}}
+  
+ is a subcategory of 
+  
+    
+      
+        
+          
+            S
+            e
+            t
+          
+          
+            
+              C
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {Set} ^{\mathcal {C}}}
+  
+. Therefore, Yoneda embedding implies that the category 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            
+              o
+              p
+            
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}^{\mathrm {op} }}
+  
+ is isomorphic to the category 
+  
+    
+      
+        {
+        
+          h
+          
+            A
+          
+        
+        
+          |
+        
+        A
+        ∈
+        C
+        }
+      
+    
+    {\displaystyle \{h_{A}|A\in C\}}
+  
+.
+The contravariant version of Yoneda's lemma states that
+
+  
+    
+      
+        
+          N
+          a
+          t
+        
+        (
+        
+          h
+          
+            A
+          
+        
+        ,
+        
+          h
+          
+            B
+          
+        
+        )
+        ≅
+        
+          H
+          o
+          m
+        
+        (
+        A
+        ,
+        B
+        )
+        .
+      
+    
+    {\displaystyle \mathrm {Nat} (h^{A},h^{B})\cong \mathrm {Hom} (A,B).}
+  
+
+Therefore, 
+  
+    
+      
+        
+          h
+          
+            ∙
+          
+        
+      
+    
+    {\displaystyle h^{\bullet }}
+  
+ gives rise to a covariant functor from 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ to the category of contravariant functors to 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+:
+
+  
+    
+      
+        
+          h
+          
+            ∙
+          
+        
+        :
+        
+          
+            C
+          
+        
+        →
+        
+          
+            S
+            e
+            t
+          
+          
+            
+              
+                
+                  C
+                
+              
+              
+                
+                  o
+                  p
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle h^{\bullet }\colon {\mathcal {C}}\to \mathbf {Set} ^{{\mathcal {C}}^{\mathrm {op} }}.}
+  
+
+Yoneda's lemma then states that any locally small category 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ can be embedded in the category of contravariant functors from 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ to 
+  
+    
+      
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle \mathbf {Set} }
+  
+ via 
+  
+    
+      
+        
+          h
+          
+            ∙
+          
+        
+      
+    
+    {\displaystyle h^{\bullet }}
+  
+. This is called the Yoneda embedding.
+The Yoneda embedding is sometimes denoted by よ, the hiragana Yo.
+
+
+=== Representable functor ===
+
+The Yoneda embedding essentially states that for every (locally small) category, objects in that category can be represented by presheaves, in a full and faithful manner.  That is,
+
+  
+    
+      
+        
+          N
+          a
+          t
+        
+        (
+        
+          h
+          
+            A
+          
+        
+        ,
+        P
+        )
+        ≅
+        P
+        (
+        A
+        )
+      
+    
+    {\displaystyle \mathrm {Nat} (h^{A},P)\cong P(A)}
+  
+
+for a presheaf P.  Many common categories are, in fact, categories of pre-sheaves, and on closer inspection, prove to be categories of sheaves, and as such examples are commonly topological in nature, they can be seen to be topoi in general. The Yoneda lemma provides a point of leverage by which the topological structure of a category can be studied and understood.
+
+
+=== In terms of (co)end calculus ===
+
+Given two categories 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbf {C} }
+  
+ and 
+  
+    
+      
+        
+          D
+        
+      
+    
+    {\displaystyle \mathbf {D} }
+  
+ with two functors 
+  
+    
+      
+        F
+        ,
+        G
+        :
+        
+          C
+        
+        →
+        
+          D
+        
+      
+    
+    {\displaystyle F,G:\mathbf {C} \to \mathbf {D} }
+  
+, natural transformations between them can be written as the following end.
+
+  
+    
+      
+        
+          N
+          a
+          t
+        
+        (
+        F
+        ,
+        G
+        )
+        =
+        
+          ∫
+          
+            c
+            ∈
+            
+              C
+            
+          
+        
+        
+          
+            H
+            o
+            m
+          
+          
+            
+              D
+            
+          
+        
+        (
+        F
+        c
+        ,
+        G
+        c
+        )
+      
+    
+    {\displaystyle \mathrm {Nat} (F,G)=\int _{c\in \mathbf {C} }\mathrm {Hom} _{\mathbf {D} }(Fc,Gc)}
+  
+
+For any functors 
+  
+    
+      
+        K
+        :
+        
+          
+            C
+          
+          
+            o
+            p
+          
+        
+        →
+        
+          S
+          e
+          t
+          s
+        
+      
+    
+    {\displaystyle K\colon \mathbf {C} ^{op}\to \mathbf {Sets} }
+  
+ and 
+  
+    
+      
+        H
+        :
+        
+          C
+        
+        →
+        
+          S
+          e
+          t
+          s
+        
+      
+    
+    {\displaystyle H\colon \mathbf {C} \to \mathbf {Sets} }
+  
+ the following formulas are all formulations of the Yoneda lemma.
+
+  
+    
+      
+        K
+        ≅
+        
+          ∫
+          
+            c
+            ∈
+            
+              C
+            
+          
+        
+        K
+        c
+        ×
+        
+          
+            H
+            o
+            m
+          
+          
+            
+              C
+            
+          
+        
+        (
+        −
+        ,
+        c
+        )
+        ,
+        
+        K
+        ≅
+        
+          ∫
+          
+            c
+            ∈
+            
+              C
+            
+          
+        
+        (
+        K
+        c
+        
+          )
+          
+            
+              
+                H
+                o
+                m
+              
+              
+                
+                  C
+                
+              
+            
+            (
+            c
+            ,
+            −
+            )
+          
+        
+        ,
+      
+    
+    {\displaystyle K\cong \int ^{c\in \mathbf {C} }Kc\times \mathrm {Hom} _{\mathbf {C} }(-,c),\qquad K\cong \int _{c\in \mathbf {C} }(Kc)^{\mathrm {Hom} _{\mathbf {C} }(c,-)},}
+  
+
+  
+    
+      
+        H
+        ≅
+        
+          ∫
+          
+            c
+            ∈
+            
+              C
+            
+          
+        
+        H
+        c
+        ×
+        
+          
+            H
+            o
+            m
+          
+          
+            
+              C
+            
+          
+        
+        (
+        c
+        ,
+        −
+        )
+        ,
+        
+        H
+        ≅
+        
+          ∫
+          
+            c
+            ∈
+            
+              C
+            
+          
+        
+        (
+        H
+        c
+        
+          )
+          
+            
+              
+                H
+                o
+                m
+              
+              
+                
+                  C
+                
+              
+            
+            (
+            −
+            ,
+            c
+            )
+          
+        
+        .
+      
+    
+    {\displaystyle H\cong \int ^{c\in \mathbf {C} }Hc\times \mathrm {Hom} _{\mathbf {C} }(c,-),\qquad H\cong \int _{c\in \mathbf {C} }(Hc)^{\mathrm {Hom} _{\mathbf {C} }(-,c)}.}
+  
+
+
+== Preadditive categories, rings and modules ==
+
+A preadditive category is a category where the morphism sets form abelian groups and the composition of morphisms is bilinear; examples are categories of abelian groups or modules. In a preadditive category, there is both a "multiplication" and an "addition" of morphisms, which is why preadditive categories are viewed as generalizations of rings. Rings are preadditive categories with one object.
+The Yoneda lemma remains true for preadditive categories if we choose as our extension the category of additive contravariant functors from the original category into the category of abelian groups; these are functors which are compatible with the addition of morphisms and should be thought of as forming a module category over the original category. The Yoneda lemma then yields the natural procedure to enlarge a preadditive category so that the enlarged version remains preadditive — in fact, the enlarged version is an abelian category, a much more powerful condition. In the case of a ring 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+, the extended category is the category of all right modules over 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+, and the statement of the Yoneda lemma reduces to the well-known isomorphism
+
+  
+    
+      
+        M
+        ≅
+        
+          
+            H
+            o
+            m
+          
+          
+            R
+          
+        
+        (
+        R
+        ,
+        M
+        )
+      
+    
+    {\displaystyle M\cong \mathrm {Hom} _{R}(R,M)}
+  
+   for all right modules 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  
+ over 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  
+.
+
+
+== Relationship to Cayley's theorem ==
+As stated above, the Yoneda lemma may be considered as a vast generalization of Cayley's theorem from group theory. To see this, let 
+  
+    
+      
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle {\mathcal {C}}}
+  
+ be a category with a single object 
+  
+    
+      
+        ∗
+      
+    
+    {\displaystyle *}
+  
+ such that every morphism is an isomorphism (i.e. a groupoid with one object). Then 
+  
+    
+      
+        G
+        =
+        
+          
+            H
+            o
+            m
+          
+          
+            
+              C
+            
+          
+        
+        (
+        ∗
+        ,
+        ∗
+        )
+      
+    
+    {\displaystyle G=\mathrm {Hom} _{\mathcal {C}}(*,*)}
+  
+ forms a group under the operation of composition, and any group can be realized as a category in this way.
+In this context, a covariant functor 
+  
+    
+      
+        
+          
+            C
+          
+        
+        →
+        
+          S
+          e
+          t
+        
+      
+    
+    {\displaystyle {\mathcal {C}}\to \mathbf {Set} }
+  
+ consists of a set 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ and a group homomorphism 
+  
+    
+      
+        G
+        →
+        
+          P
+          e
+          r
+          m
+        
+        (
+        X
+        )
+      
+    
+    {\displaystyle G\to \mathrm {Perm} (X)}
+  
+, where 
+  
+    
+      
+        
+          P
+          e
+          r
+          m
+        
+        (
+        X
+        )
+      
+    
+    {\displaystyle \mathrm {Perm} (X)}
+  
+ is the group of permutations of 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+; in other words, 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+ is a G-set. A natural transformation between such functors is the same thing as an equivariant map between 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+-sets: a set function 
+  
+    
+      
+        α
+        :
+        X
+        →
+        Y
+      
+    
+    {\displaystyle \alpha \colon X\to Y}
+  
+ with the property that 
+  
+    
+      
+        α
+        (
+        g
+        ⋅
+        x
+        )
+        =
+        g
+        ⋅
+        α
+        (
+        x
+        )
+      
+    
+    {\displaystyle \alpha (g\cdot x)=g\cdot \alpha (x)}
+  
+ for all 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ in 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ and 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  
+ in 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+. (On the left side of this equation, the 
+  
+    
+      
+        ⋅
+      
+    
+    {\displaystyle \cdot }
+  
+ denotes the action of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ on 
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+, and on the right side the action on 
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+.)
+Now the covariant hom-functor 
+  
+    
+      
+        
+          
+            H
+            o
+            m
+          
+          
+            
+              C
+            
+          
+        
+        (
+        ∗
+        ,
+        −
+        )
+      
+    
+    {\displaystyle \mathrm {Hom} _{\mathcal {C}}(*,-)}
+  
+ corresponds to the action of 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ on itself by left-multiplication (the contravariant version corresponds to right-multiplication). The Yoneda lemma with 
+  
+    
+      
+        F
+        =
+        
+          
+            H
+            o
+            m
+          
+          
+            
+              C
+            
+          
+        
+        (
+        ∗
+        ,
+        −
+        )
+      
+    
+    {\displaystyle F=\mathrm {Hom} _{\mathcal {C}}(*,-)}
+  
+ states that
+
+  
+    
+      
+        
+          N
+          a
+          t
+        
+        (
+        
+          
+            H
+            o
+            m
+          
+          
+            
+              C
+            
+          
+        
+        (
+        ∗
+        ,
+        −
+        )
+        ,
+        
+          
+            H
+            o
+            m
+          
+          
+            
+              C
+            
+          
+        
+        (
+        ∗
+        ,
+        −
+        )
+        )
+        ≅
+        
+          
+            H
+            o
+            m
+          
+          
+            
+              C
+            
+          
+        
+        (
+        ∗
+        ,
+        ∗
+        )
+      
+    
+    {\displaystyle \mathrm {Nat} (\mathrm {Hom} _{\mathcal {C}}(*,-),\mathrm {Hom} _{\mathcal {C}}(*,-))\cong \mathrm {Hom} _{\mathcal {C}}(*,*)}
+  
+,
+that is, the equivariant maps from this 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+-set to itself are in bijection with 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+. But it is easy to see that (1) these maps form a group under composition, which is a subgroup of 
+  
+    
+      
+        
+          P
+          e
+          r
+          m
+        
+        (
+        G
+        )
+      
+    
+    {\displaystyle \mathrm {Perm} (G)}
+  
+, and (2) the function which gives the bijection is a group homomorphism. (Going in the reverse direction, it associates to every 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ in 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ the equivariant map of right-multiplication by 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+.) Thus 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+  
+ is isomorphic to a subgroup of 
+  
+    
+      
+        
+          P
+          e
+          r
+          m
+        
+        (
+        G
+        )
+      
+    
+    {\displaystyle \mathrm {Perm} (G)}
+  
+, which is the statement of Cayley's theorem.
+
+
+== History ==
+Yoshiki Kinoshita stated in 1996 that the term "Yoneda lemma" was coined by Saunders Mac Lane following an interview he had with Yoneda in the Gare du Nord station.
+
+
+== See also ==
+Representation theorem
+Completions in category theory
+2-Yoneda lemma
+
+
+== Notes ==
+
+
+== References ==
+
+Yoneda lemma at the nLab
+
+
+== External links ==
+Mizar system proof: Wojciechowski, M. (1997). "Yoneda Embedding". Formalized Mathematics Journal. 6 (3): 377–380. CiteSeerX 10.1.1.73.7127.
+Beurier, Erwan; Pastor, Dominique (July 2019). "A crash course on Category Theory".

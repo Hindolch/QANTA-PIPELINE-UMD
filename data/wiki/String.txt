@@ -1,0 +1,187 @@
+String is a long flexible tool made from fibers twisted together into a single strand, or from multiple such strands which are in turn twisted together. String is used to tie, bind, or hang other objects. It is also used as a material to make things, such as textiles, and in arts and crafts. String is a simple tool, and its use by humans is known to have been developed tens of thousands of years ago. String may also be a component in other tools, and in devices as diverse as weapons, musical instruments, and toys. The ubiquity of string as a tool has led to conceptual and scientific uses of the term, including strings in computer science, cosmic strings, and string theory. 
+
+
+== History ==
+String, along with twine and other cordage, was used in prehistoric times for hafting sharp stone tips onto spears, in beadwork, to ease firelighting (as part of a bow drill), as well as for fishing lines and nets, clothing, shelter-making materials, bow string, sutures, traps, and countless other uses.
+Bow drills, which use string as the mechanism for turning a drill bit, were used in Mehrgarh between the 4th and 5th millennium BC. Similar drills were found in other parts of the Indus Valley civilization and Iran one millennium later. In Roman times, the same principle also was used widely in drilling for purposes of woodworking and dentistry.
+
+
+== Physical types and uses ==
+There are many types of string, adapted to many uses. The following subsections summarize common categories.
+
+
+=== Twine ===
+
+Twine is a light string or strong thread composed of two or more smaller strands or yarns twisted, and then twisted together. More generally, the term can be applied to a cord. Natural fibres used for making twine include cotton, sisal, jute, hemp, henequen, and coir. A variety of synthetic fibres are also used.
+
+
+=== Yarn ===
+
+Yarn is a long continuous length of interlocked fibres, suitable for use in the production of textiles, sewing, crocheting, knitting, weaving, embroidery, and ropemaking. Thread is a type of yarn intended for sewing by hand or machine. Modern manufactured sewing threads may be finished with wax or other lubricants to withstand the stresses involved in sewing. Embroidery threads are yarns specifically designed for hand or machine embroidery.
+
+
+==== Thread ====
+
+Thread is a type of yarn used for sewing. Thread is made from a wide variety of materials. The following table lists common materials, a general description and what they are supposed to be good for. If your machine will sew with the thread, any thread can be used for just about any purpose. This is very useful for someone who is trying to learn sewing. However, it should be remembered that where a thread is stronger than the material that it is being used to join, if seams are placed under strain the material may tear before the thread breaks. Garments are usually sewn with threads of lesser strength than the fabric so that if stressed the seam will break before the garment. Heavy goods that must withstand considerable stresses such as upholstery, car seating, tarpaulins, tents, and saddlery require very strong threads. Attempting repairs with light weight thread will usually result in rapid failure, though again, using a thread that is stronger than the material being sewn can end up causing rips in that material before the thread itself gives way.
+
+
+=== Bowstring ===
+
+A bowstring joins the two ends of the bow stave and launches the arrow. Desirable properties include light weight, strength, resistance to abrasion, and resistance to water. Mass has most effect at the center of the string; one gram (0.035 oz) of extra mass in the middle of the string slows the arrow about as much as 3.5 grams (0.12 oz) at the ends. Traditional materials include linen, hemp, other vegetable fibers, sinew, silk, and rawhide. Almost any fiber may be used in emergency.
+
+
+=== Drawstring ===
+
+A drawstring (draw string, draw-string) is a string, cord, lace, or rope used to "draw" (gather, or shorten) fabric or other material. The ends of the drawstring may be tied to hold it in place (and/or simultaneously close an opening). Alternately, the drawstring may be kept drawn using a cordlock. Typically, the drawstring is loose when not being used, and tightened when needed during use.
+
+
+=== Pullstring ===
+
+A pullstring (pull string, pull-string), pullcord (pull cord, pull-cord), or pullchain (pull-chain, pull chain) is a string, cord, or chain wound on a spring-loaded spindle that engages a mechanism when it is pulled. It is most commonly used in toys and motorized equipment. More generally and commonly, a pullstring can be any type of string, cord, rope, chain, or cable attached to an object in some way used to pull or mechanically manipulate part of it.
+
+
+=== Shoestrings ===
+
+Shoelaces, also called shoestrings (US English) or bootlaces (UK English), are a system commonly used to secure shoes, boots and other footwear. They typically consist of a pair of strings or cords, one for each shoe, finished off at both ends with stiff sections, known as aglets. Each shoelace typically passes through a series of holes, eyelets, loops or hooks on either side of the shoe. Loosening the lacing allows the shoe to open wide enough for the foot to be inserted or removed. Tightening the lacing and tying off the ends secures the foot within the shoe.
+
+
+== Strings in music and sport ==
+
+
+=== Musical instrument strings ===
+
+In music, a string is the vibrating element that produces sound in string instruments such as the guitar, harp, piano (piano wire), and members of the violin family. Strings are lengths of a flexible material that a musical instrument holds under tension so that they can vibrate freely, but controllably. Strings may be "plain" (consisting only of a single material, like catgut, nylon, or steel). "Wound" strings have a "core" of one material, with an overwinding of other materials. This is to make the string vibrate at the desired pitch, while maintaining a low profile and sufficient flexibility for playability.
+The invention of wound strings, such as nylon covered in wound metal, was a crucial step in string instrument technology, because a metal-wound string can produce a lower pitch than a catgut string of similar thickness. This enabled stringed instruments to be made with less thick bass strings. On string instruments that the player plucks or bows directly (e.g., double bass), this enabled instrument makers to use thinner strings for the lowest-pitched strings, which made the lower-pitch strings easier to play. On stringed instruments in which the player presses a keyboard, causing a mechanism to strike the strings, such as a piano, this enabled piano builders to use shorter, thicker strings to produce the lowest-pitched bass notes, enabling the building of smaller upright pianos designed for small rooms and practice rooms.
+
+
+=== Tennis strings ===
+
+In tennis, the strings are the part of a tennis racquet which make contact with the ball. The strings form a woven network inside the head (or "hoop") of the racquet. Strings have been made with a variety of materials and possess varying properties that have been measured, such as dynamic stiffness, tension retention, thickness (gauge), string texture (shape of the string), and rebound efficiency.
+
+
+== Tools, construction, and measurement ==
+
+
+=== Chalk line ===
+
+A chalk line or chalk box is a tool for marking long, straight lines on relatively flat surfaces, much farther than is practical by hand or with a straightedge. It is an important tool in construction and carpentry, the working of timber in a rough and unplaned state, as it does not require the timber to have a straight or squared edge formed onto it beforehand. A chalk line draws straight lines by the action of a taut nylon or similar string that has been previously coated with a loose dye, usually chalk. The string is then laid across the surface to be marked and pulled tight. Next, the string is then plucked or snapped sharply, causing the string to strike the surface, which then transfers its chalk to the surface along that straight line where it struck.
+
+
+=== Plumb bob ===
+
+A plumb bob, or plummet, is a weight, usually with a pointed tip on the bottom, suspended from a string and used as a vertical reference line, or plumb-line. It is essentially the vertical equivalent of a "water level".
+
+
+== Textiles, clothing, and household uses ==
+
+
+=== Cloth ===
+
+A textile or cloth is a flexible material consisting of a network of natural or artificial fibres (yarn or thread). Yarn is produced by spinning raw fibres of wool, flax, cotton, or other material to produce long strands. Textiles are formed by weaving, knitting, crocheting, knotting, or felting.
+
+
+=== Clothes line ===
+
+A clothes line or washing line is any type of rope, cord, or twine that has been stretched between two points (e.g. two sticks), outside or indoors, above the level of the ground. Clothing that has recently been washed is hung along the line to dry, using clothes pegs or clothespins. Washing lines are attached either from a post or a wall, and are frequently located in back gardens, or on balconies. Longer washing lines often have props holding up sections in the middle due to the weight of the usually wet clothing.
+
+
+=== Clothing ===
+In addition to the use of cloth made from strings in the construction of clothing, certain articles of clothing may employ strings in other ways.
+For example, a drawstring is used to "draw" (gather, or shorten) fabric or other material. Ends of a drawstring are often terminated with a sheath called an aglet, and may be tied to hold the drawstring in place (and simultaneously close an opening). Alternatively, it may be kept drawn using a cordlock. Typically, the drawstring is loose when not being used and tightened when needed during use. A drawstring may be threaded through a hem or casing (a continuous tube of material) or laced through holes, which may be lined with eyelets. A shoelace is a drawstring that may also be laced through loops attached to the material, in the same way that belt loops are.
+A string bikini is a scantier and more revealing version of the bikini, deriving its name from the string characteristics of its design. One of the most popular variations of bikinis, it consists of two triangular shaped pieces connected at the groin but not at the sides, where a thin "string" wraps around the waist connecting the two parts. String bikini tops are similar and are tied in place by the attached "string" pieces. String pieces can either be continuous or tied. A string bikini bottom can have minimal to a maximum coverage of a woman's backside. The term string bikini first came into use in 1974. There is an urban myth that the Brazilian fashion model Rose di Primo created the first string bikini when she had to sew one with insufficient fabric available to her for a photo shoot.
+
+
+== Crafts, art, and play ==
+
+
+=== Bead stringing ===
+
+Bead stringing is the putting of beads on string. It can range from simply sliding a single bead onto any thread-like medium (string, silk thread, leather thong, thin wire, multi-stranded beading wire, or a soft, flexible wire) to complex creations that have multiple strands or interwoven levels. The choice of stringing medium can be an important point in the overall design, since string-type mediums might be subject to unwanted stretching if the weight of the beads is considerable. Similarly, certain bead types with sharp edges, such as hollow metal beads or some varieties of stone or glass, might abrade the string and cause the strand to eventually break.
+
+
+=== Knot tying ===
+
+A knot is a method of fastening or securing linear material such as string by tying or interweaving. It may consist of a length of one or several segments of string, twine, cord, strap, rope, or even chain interwoven such that the line can bind to itself or to some other object (the "load").
+
+
+=== Macramé ===
+
+Macramé or macrame is a form of textile-making using knotting rather than weaving or knitting. Its primary knots are the square knot (a variant of the reef knot) and forms of "hitching": full hitch and double half hitches. It was long crafted by sailors, especially in elaborate or ornamental knotting forms, to decorate anything from knife handles to bottles to parts of ships.
+
+
+=== String art ===
+
+String art, or pin and thread art, is characterized by an arrangement of colored thread strung between points to form geometric patterns or representational designs such as a ship's sails, sometimes with other artist material comprising the remainder of the work. Thread, wire, or string is wound around a grid of nails hammered into a velvet-covered wooden board. Though straight lines are formed by the string, the slightly different angles and metric positions at which strings intersect gives the appearance of Bézier curves (as in the mathematical concept of envelope of a family of straight lines). Quadratic Bézier curve are obtained from strings based on two intersecting segments. Other forms of string art include Spirelli, which is used for cardmaking and scrapbooking, and curve stitching, in which string is stitched through holes.
+
+
+==== String figures ====
+
+A string figure is a design formed by manipulating string on, around, and using one's fingers or sometimes between the fingers of multiple people. String figures may also involve the use of the mouth, wrist, and feet. They may consist of singular images or be created and altered as a game, known as a string game, or as part of a story involving various figures made in sequence (string story).
+
+
+=== String toys ===
+
+
+==== Astrojax ====
+
+Astrojax is a toy consisting of three balls on a string. One ball is fixed at each end of the string, and the center ball is free to slide along the string between the two end balls. Inside each ball is a metal weight. The metal weight lowers the moment of inertia of the center ball so it can rotate rapidly in response to torques applied by the string. This prevents the string from snagging or tangling around the center ball.
+
+
+==== Yo-yo ====
+
+A yo-yo (also spelled yoyo) is a toy which in its simplest form is an object consisting of an axle connected to two disks, and a length of string looped around the axle, similar to a slender spool. It is played by holding the free end of the string known as the handle (usually by inserting one finger into a slip knot) allowing gravity or the force of a throw to spin the yo-yo and unwind the string (similar to how a pullstring works), then allowing the yo-yo to wind itself back to one's hand, exploiting its spin (and the associated rotational energy). This is often called "yo-yoing". First made popular in the 1920s, yo-yoing remains a popular pastime of many generations and cultures. It was first invented in ancient Greece.
+
+
+== Weaving ==
+
+Weaving is a method of textile production in which two distinct sets of yarns or threads are interlaced at right angles to form a fabric or cloth. Other methods are knitting, felting, and braiding or plaiting. The longitudinal threads are called the warp and the lateral threads are the weft or filling. (Weft or woof is an old English word meaning "that which is woven".) The method in which these threads are interwoven affects the characteristics of the cloth. Cloth is usually woven on a loom, a device that holds the warp threads in place while filling threads are woven through them. A fabric band which meets this definition of cloth (warp threads with a weft thread winding between) can also be made using other methods, including tablet weaving, back-strap, or other techniques without looms.
+
+
+== Conceptual and scientific uses ==
+
+
+=== Strings of objects ===
+Beyond its literal sense as a physical object, string is widely used as an analogy for things arranged in a line or occurring in succession. Use of the word "string" to mean any items arranged in a line, series or succession, originates with the placement of beads or comparable objects on a string, and dates back centuries. In 19th-century typesetting, compositors used the term "string" to denote a length of type printed on paper; the string would be measured to determine the compositor's pay.
+Use of the word "string" to mean "a sequence of symbols or linguistic elements in a definite order" emerged from mathematics, symbolic logic, and linguistic theory to speak about the formal behavior of symbolic systems, setting aside the symbols' meaning.
+For example, logician C. I. Lewis wrote in 1918:
+
+A mathematical system is any set of strings of recognisable marks in which some of the strings are taken initially and the remainder derived from these by operations performed according to rules which are independent of any meaning assigned to the marks. That a system should consist of 'marks' instead of sounds or odours is immaterial.
+
+
+=== Computer science ===
+In computer science generally, and computer programming specifically, a string is traditionally a sequence of characters, either as a literal constant or as some kind of variable. The latter may allow its elements to be mutated and the length changed, or it may be fixed (after creation). A string is often implemented as an array data structure of bytes (or words) that stores a sequence of elements, typically characters, using some character encoding. More general, string may also denote a sequence (or list) of data other than just characters.
+Depending on the programming language and precise data type used, a variable declared to be a string may either cause storage in memory to be statically allocated for a predetermined maximum length or employ dynamic allocation to allow it to hold a variable number of elements.
+When a string appears literally in source code, it is known as a string literal or an anonymous string.
+In formal languages, which are used in mathematical logic and theoretical computer science, a string is a finite sequence of symbols that are chosen from a set called an alphabet.
+A primary purpose of strings in computer science is to store human-readable text, like words and sentences. Strings are used to communicate information from a computer program to the user of the program. A program may also accept string input from its user. Further, strings may store data expressed as characters yet not intended for human reading.
+Example computer strings and their purposes:
+
+A message like "file upload complete" is a string that software shows to end users. In the program's source code, this message would likely appear as a string literal.
+User-entered text, like "I got a new job today" as a status update on a social media service. Instead of a string literal, the software would likely store this string in a database.
+Alphabetical data, like "AGATGCCGT" representing nucleic acid sequences of DNA.
+Computer settings or parameters, like "?action=edit" as a URL query string. Often these are intended to be somewhat human-readable, though their primary purpose is to communicate to computers.
+Within this field, the term string may also designate a sequence of data or computer records other than characters — like a "string of bits" — but when used without qualification it refers to strings of characters.
+
+
+=== Cosmic strings and string theory ===
+In physics and cosmology, the analogy has extended to hypothetical structures such as cosmic strings and to theoretical frameworks in string theory. Unlike elementary particles, which are zero-dimensional or point-like by definition, the basic concept of a string in physics is a one-dimensional extended entity.
+
+
+== See also ==
+Biggest ball of twine
+Cord (sewing)
+Kite
+Quipu
+Rope
+Stampede string – a long string usually made from leather or Human hair and typically run half-way around the crown of a cowboy hat
+String bag
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+A Brief History of String, Fall 2006, Cabinet magazine.

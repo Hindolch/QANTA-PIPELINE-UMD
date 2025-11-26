@@ -1,0 +1,170 @@
+Linear A is a writing system that was used by the Minoans of Crete from 1800 BC to 1450 BC. Linear A was the primary script used in palace and religious writings of the Minoan civilization. It evolved into Linear B, which was used by the Mycenaeans to write an early form of Greek. It was discovered by the archaeologist Sir Arthur Evans in 1900. No texts in Linear A have yet been deciphered. Evans named the script "Linear" because its characters consisted simply of lines inscribed in clay, in contrast to the more pictographic characters in Cretan hieroglyphs – likewise undeciphered – that were used during the same period.
+Linear A belongs to a group of scripts that evolved independently of the Egyptian and Mesopotamian systems. During the second millennium BC, there were four major branches: Linear A, Linear B, Cypro-Minoan, and Cretan hieroglyphic. In the 1950s, Linear B was deciphered and found to have an underlying language of Mycenaean Greek. Linear A shares many glyphs and alloglyphs with Linear B, and the syllabic glyphs are thought to notate similar syllabic values, but none of the proposed readings lead to a language that scholars can understand.
+
+
+== Script ==
+Linear A consists of over 300 signs including regional variants and ones which occur only once. Among these, a core group of 90 occur with some frequency throughout the script's  geographic and chronological extent.
+
+As a logosyllabic writing system, Linear A includes signs which stand for syllables as well as others standing for words or concepts. Linear A's signs could be combined via ligature to form complex signs. Complex signs usually behave as ideograms and most are hapax legomena, meaning that they occur only once in the surviving corpus. Linear A signs are divided into four categories:
+
+syllabic signs
+ligatures and composite signs
+ideograms
+numerals and metrical signs
+Linear A was usually written left-to-right, but a handful of documents were written right-to-left or boustrophedon.
+
+
+=== Signary ===
+
+
+=== Special signs ===
+Furthermore, the following ‘supplementary’ syllabograms for more complex syllables can be identified (where in some cases the exact pronunciation is or used to be unknown even for Linear B, hence the use of subscript numbers):
+
+
+=== Ideograms ===
+The following list contains some frequent ideograms/logograms whose meaning is known and uncontroversial and almost all of which are preserved in Linear B. The meaning of many others is debated. Note that some of the ideograms are also used as syllabograms; in such cases, the sound value is indicated in the table before the Bennett number.
+
+
+== Numerals ==
+
+These numerals follow a decimal system: units are represented by vertical dashes, tens by horizontal dashes, hundreds by circles, and thousands by circles with rays. There are special symbols to indicate fractions and weights. Specific signs that coincide with numerals are regarded as fractions; these sign combinations are known as klasmatograms.
+Integers can be read and the operations of addition, subtraction, multiplication, and division are quite straightforward, similarly to Roman numerals.
+
+
+=== Fractions ===
+There is a lack of scholarly agreement about signs, generally called klasmatograms, for Linear A fractions. In 2021 Corazza et al. proposed the following values, most of which had been previously suggested:
+
+Other fractions are composed by addition: the common JE and DD are 3⁄4 and 1⁄3 (2⁄6), BB = 2⁄5, EF = 3⁄8, etc. (and indeed B 1⁄5 looks like it might derive from KK 2⁄10).  L, Y, and Ω are hapax legomena (only occur once) and it has been proposed that glyph L is spurious.
+Several of these values are supported by Linear B. Although Linear B used a different numbering system, several of the Linear A fractions were adopted as fractional units of measurement. For example, Linear B DD and (presumably AA) are 1⁄3 and 1⁄12 of a lana, while K is 1⁄10 of the main unit for dry weight.
+
+
+== Corpus ==
+
+Linear A has been found chiefly on Crete, but also at other sites in Greece, as well as Turkey and Israel. The extant corpus, comprising some 1,427 specimens totals 7,362 to 7,396 signs. Linear A has been written on various media, such as stone offering tables and vessels, gold and silver hairpins, roundels, and ceramics. The earliest inscriptions of Linear A come from Phaistos, in a layer dated at the end of the Middle Minoan II period: that is, no later than c. 1700 BC. Linear A inscriptions have been found throughout the island of Crete and also on some Aegean islands (Kythera, Kea, Thera, Melos, Samothrace), in mainland Greece (Ayios Stephanos) in Laconia, on the west coast of Asia Minor (Miletus, Troy), and in the Levant (Tel Haror, Tel Lachish).
+The first comprehensive compendium of Linear A inscriptions (sometimes referred to as GORILA) was produced by Louis Godart and Jean-Pierre Olivier in multiple volumes between 1976 and 1985. In 2011 work began on a supplement to that compendium. In 2020 a project was begun, called SigLA, to put all the known Linear A inscriptions online at a single site.
+
+
+=== Tablets ===
+
+Almost all Linear A tablets, most in a fragmentary condition, have been found on the island of Crete, dated to the Neopalatial Period. At that time Crete was divided by mountains and other geographic features into a number of polities, each with its own urban center. These tablets have been found at Hagia Triada (147 tablets), Petras (2 tablets), Phaistos (26 tablets), Knossos (6 tablets), Archanes (7 tablets), Myrtos Pyrgos (2 tablets), Palaikastro (2 tablets), Zakros (31 tablets), Tylissos (2 tablets), Malia (6 tablets), Gournia (1 tablet), and Khania (99 tablets). One Linear A tablet was found on Kea in the Cyclades. Three tablet fragments were found on the island of Santorini (Thera). The handful of known Cretan Hieroglyphs tablets (with relatively few signs) were also found on Crete at Malia and Kato Symi.
+
+
+=== Sealed documents ===
+
+Seals and clay sealings served the same role of inventory control and ownership as in the ancient Near East and Egypt. Large numbers of sealings have been found, primarily on Crete and in the Late Minoan IB period. The primary sources of sealed documents come from Haghia Triada (1103), Zakros (560), Khania (210), Knossos (125), Phaistos (35), Malia (6), and Tylissos (5). It is not clear what was commonly used to impress the sealing as only a few Linear A inscribed "seal stones" have been found. In other regions cylinder seals and stamp seals fulfilled this role.
+Sealed documents are divided by archaeologists into four classes:
+
+Roundels – disks of clay with sealing on the edges
+Hanging nodules – sealed lumps of clay originally attached to string
+Parcel nodules – lumps of clay with sealing on back
+Noduli – clay lumps like hanging nodules but not formerly string attached
+
+
+=== Libation tables ===
+A group of Minoan finds, usually from sanctuaries, have traditionally been called libation tables. They come in full sized and miniature versions, usually of stone. Because of the findspots, at cultic sites like Mount Juktas, they are usually assumed to be religious in nature though that is not certain. So far about 1000 libation tables have been recovered at 27 different sites on Crete, of which 41 have Linear A inscriptions. These inscriptions follow a standardized "libation formula", a formula also found on a few other objects, primarily vessels.
+The "libation formula" has been much studied. A similar construct in Cretan Hieroglyphs, the "Archanes Formula", is the main proposed link to Linear A.
+
+
+=== Other sources ===
+
+While most of the recovered Linear A signs have come from tablets, libation tables and related ritual objects, and sealed documents, a number of very short Linear A inscriptions have been found in the Minoan area of operation, primarily in the form of potmarks and mason's marks. A problem is that it can be difficult to tell if a single-sign (or even doubleton) is Linear A, Linear B, or Cretan Hieroglyphs because of the overlap in sign use. Vessel sherds were found at Traostalos, bearing three signs in total. Four vase sherds were found at Thera with signs, as well as a ostrakon with one sign. A vessel fragment was found at Miletus. Two pithoi with very fragmentary inscriptions were found at Pseira. Graffiti has been found at places like Hagia Triada. A small clay ball with three Linear A signs was found at Mikro Vouni on the island of Samothrace. A small stone tab with two signs was excavated in Ayios Stephanos, Laconia. A silver hair pin and a gold ring, both with fairly long Linear A inscriptions, were found at Mavro Spelio in Knossos. At Armenoi a stone amulet was found in a tholos grave from the Linear Minoan IB period inscribed with a combination of two Linear A ideograms.
+A Linear A inscription was said to have been found in southeast Bulgaria. Another, somewhat more solid, find was at Tel Lachish. A Minoan graffito found at Tel Haror on a vessel fragment is either Linear A or Cretan hieroglyphs.
+Several tablets inscribed in signs similar to Linear A were found at Troy in northwestern Anatolia. While their status is disputed, they may be imports, as there is no evidence of Minoan presence in the Troad. Classification of these signs as a unique Trojan script (proposed by contemporary Russian linguist Nikolai Kazansky) is not accepted by other linguists. Two Linear A inscribed clay spindle whorls were also found at Troy.
+
+
+== Chronology ==
+
+The earliest attestation of Linear A begins around 1800 BC (Middle Minoan IB) during the Protopalatial period. It became prominent around 1625 BC (Middle Minoan IIIB) and went out of use around 1450 BC (Late Minoan I) during the Neopalatial period. It was contemporary with and possibly derived from Cretan hieroglyphs, and may be an ancestor of Linear B. The Cypro-Minoan syllabary, used between Cyprus and its trading partners around the Mediterranean, was also in use during this period. The sequence and the geographical spread of Cretan hieroglyphs, Linear A, and Linear B, the three overlapping but distinct writing systems on Bronze Age Crete and the Greek mainland, can be summarized as follows:
+
+
+== Decipherment ==
+
+Linear A has not been fully deciphered. However, researchers are reasonably confident in the approximate sound values of most syllabic signs and are able to make inferences about the meanings of some texts.
+
+
+=== Challenges to decipherment ===
+One major barrier to its decipherment is the limited surviving corpus. Only around 1400 Linear A inscriptions survive, in contrast to the 6000 available for Linear B. As a result, researchers are stuck with limited sample sizes, making it difficult to reliably detect patterns. Similarly, Linear A inscriptions are often fragmentary, damaged, or otherwise hard to read. It can be difficult to individuate particular signs and to distinguish separate signs from handwriting variants. Finally, Linear A inscriptions tend to be brief and repetitive. Rather than complete sentences, many are lists where each entry consists of a toponym or personal name followed by a logogram and then a numeral. Thus, the surviving corpus contains few spelled-out words and limited evidence of the grammatical structure.
+A second barrier is the scarcity of external evidence. No bilingual inscriptions have been found, preventing the script from being deciphered in the manner that Egyptian hieroglyphs were deciphered using the Rosetta Stone. The underlying language of Linear A has not been determined, and it is not clear that the same language was used for its entire period of use. The grammatical evidence that can be gleaned from the surviving corpus suggests that it was not a close relative of any known language.
+
+
+=== Phonetic values ===
+For most of Linear A's syllabic signs, approximate sound values can be inferred based on the values of corresponding signs in Linear B. These sound values are widely accepted by current researchers, though they are not considered incontrovertible and many details remain up for debate. This does not amount to a complete decipherment, since it results in words that are uninterpretable.
+These values are based on the homomorphy-homophony principle which states that in related writing systems, signs with similar forms will generally have similar phonetic values. Although this principle is not reliable across the board, there are a number of reasons why scholars have concluded that it does generally hold between Linear A and Linear B. 
+One reason is that is already known to hold in many cases between Linear B and the Cypriot syllabary, another script which descends from Linear A. This fact is taken as evidence that these signs were inherited by both scripts along with their Linear A phonetic values. For example, the Linear B 𐀮 and Cypriot 𐠩 both have the sound value "se", suggesting that the homomorphic Linear A sign 𐘈 had the same sound value. Similarly, since Linear B 𐀞 and Cypriot 𐠞 were both pronounced "pa", the homomorphic Linear A sign 𐘂 is likely to have had a similar pronunciation. Among the core syllabic signs, roughly 10 show clear signs of such parallels across the scripts, though additional correspondences have been proposed on the basis of less secure paleographic evidence.
+Another reason is that many Linear B sign sequences that denote toponyms and personal names appear in Linear A documents as well. This fact would be explained if these sign sequences were pronounced similarly. For example, the Linear A toponym 𐘂𐘚𐘄 would be read as Pa-i-to, corresponding to the placename Phaistos attested in Linear B as 𐀞𐀂𐀵 Pa-i-to. Similar instances have been found for toponyms such as "se-to-i-ja" and "su-ki-ri-ta", and for personal names such as "da-i-pi-ta" and "pa-ra-ne". In some cases, Linear A names appear in Linear B with Greek case endings, for instance Linear A "qa-qa-ru" corresponding to Linear B "qa-qa-ro" and "di-de-ru" to "di-de-ro". These shared words have been taken as evidence for shared sound values of the signs that appear in them.
+Another reason is that Linear A words sometimes come in multiple variants whose differences would be phonologically motivated if Linear B sound values are assumed. For example, the Linear A word 𐘇𐘞𐘞𐘴𐘋 also comes in the variant 𐘱𐘞𐘞𐘴𐘋, differing only in its initial sign. The alternation between the initial signs would be explained if these signs had a systematic phonological relationship, similar to the method of Kober's Triplets, used in the decipherment of Linear B. Such a relationship would exist if the Linear A signs 𐘇 and 𐘱 were pronounced as "a" and "ja" respectively, just like the homomorphic Linear B signs 𐀀 and 𐘱. In this case, the words would differ only in the presence of a "j-" prefix, while the "a" vowel would be preserved. Similar arguments have been made based on other seemingly morphologically related pairs.
+However, in particular cases scholars have identified reasons to expect divergence in pronunciation between Linear A and Linear B. Some scholars have argued that Minoan did not really have the vowel /o/ as a phoneme, that it may not have had the labialised velars that the q-signs express in Mycenaean, and that the only apparent voiced stop, d, was really a dental fricative in Minoan. The latter note is further supported by the principle that if a voicing contrast is used at all in a language, it normally runs right across the various categories of consonants.
+The following table shows signs that are known to be syllabograms and for which provisional and approximate sound values are assumed primarily based on the known pronunciations of identical or similar signs in Linear B.
+
+While many of those assumed to be syllabic signs are similar to ones in Linear B, approximately 80% of Linear A's logograms are unique; the difference in sound values between Linear A and Linear B signs ranges from 9% to 13%.
+
+
+=== Underlying language ===
+
+Linear A does not encode any known language. The placeholder term Minoan language is often used, though it is not certain that the texts are all in the same language. Minoan appears to be agglutinative, making copious use of prefixes and suffixes. It has been argued to have had a three vowel system, since it shares Linear B's /i/, /u/, and /a/ series, but not all of Linear B's /o/ and /e/ series. Based on regularities in the Linear A Libation Formulas, it has been argued that its word order was Verb Subject Object.
+
+ 
+Scholars have noted a number of potential parallels between Minoan and Anatolian languages such as Luwian and Lycian, as well as with Semitic languages such as Phoenician and Ugaritic. However, even if these connections are not coincidental, it is unclear whether Minoan is related to one of these languages or if the parallels arose through language contact.
+
+
+== Unicode ==
+
+The Linear A alphabet (U+10600–U+1077F) was added to the Unicode Standard in June 2014 with the release of version 7.0. Current as of the latest Unicode version, 15.1.
+
+
+== See also ==
+Aegean numerals
+Cypro-Minoan syllabary
+Phaistos Disc
+Arkalochori Axe
+
+
+== References ==
+
+
+=== Works cited ===
+
+
+== Further reading ==
+John Bennet, "Now You See It; Now You Don’t! The disappearance of the Linear A script on Crete", In: The Disappearance of Writing Sys- tems:Perspectives on Literacy and Communication. Ed. by John Baines, John Bennet, and Stephen Houston. London and Oakville, pp. 1–29, 2008
+Best, Jan G. P. (1972). Some Preliminary Remarks on the Decipherment of Linear A. Amsterdam: Hakkert.
+[10] Braović, Maja, et al., "A Systematic Review of Computational Approaches to Deciphering Bronze Age Aegean and Cypriot Scripts", Computational Linguistics, pp. 1–54, 2024
+Brice, William C., "Notes on Linear A". Kadmos, vol. 22, no. 1, pp. 81–106, 1983
+Brice, William C., "Some observations on the linear A inscriptions", Kadmos, vol. 1, no. 1, pp. 42–48, 1962
+G.P. Carratelli, "Le epigraphi di Haghia Triada in lineare A", Salamanca, 1963
+Davis, S. (March 1959). "New Light on Linear A". Greece & Rome. 6 (1): 20–30. doi:10.1017/S0017383500013231. ISSN 1477-4550. JSTOR 641970. S2CID 162763789.
+Giorgi, Lavinia, "Writing in Crete: a comparison between Cretan hieroglyphic and Linear A", Appunti romani di filologia: studi e comunicazioni di filologia, linguistica e letteratura greca e latina: XXVI, pp. 75–90, 2024
+Facchetti, Giulio M. (2003). "On Some Recent Attempts to Identify Linear A Minoan Language". Minos (37–38): 89–94. ISSN 0544-3733.
+Ferrara, Silvia; Valério, Miguel; Montecchi, Barbara (2022). "The Relationship between Cretan Hieroglyphic and Linear A: a palaeographic and structural approach" (PDF). Pasiphae – Journal of Aegean Philology and Antiquity. 26 (16): 81–109. doi:10.19272/202233301006. ISSN 2037-738X.
+Judson, A. P. (2020). The Undeciphered Signs of Linear B. Interpretation and Scribal Practices. Cambridge: Cambridge University Press. ISBN 9781108796910.
+Kvashilava, Gia (2019). On Decipherment of the Inscriptions of Linear A in the Common Kartvelian Language: ku-ro and ki-ro [11]
+Militello, Pietro, "Ayia Triada tablets, findspots and scribes. A reappraisal", Pasiphae, vol. 000, no. 005, pp. 59–69, 2011
+P. Militello, "Riconsiderazioni preliminari sulla documentazione in Lineare A da Haghia Triadaî", Sileno, 14, pp. 233–261, 1988
+Montecchi, Barbara, "Linear a Banqueting Lists?", Kadmos, vol. 51, no. 1, pp. 1–26, 2012
+Montecchi, Barbara (January 2010). "A Classification Proposal of Linear A Tablets from Haghia Triada in Classes and Series". Kadmos. 49 (1): 11–38. doi:10.1515/KADMOS.2010.002. ISSN 0022-7498. S2CID 124902710.
+Montecchi, Barbara (1 February 2022). "Rebus compositions in Linear A?". Kadmos. 61 (1–2): 97–106. doi:10.1515/kadmos-2022-0004.
+Nagy, Gregory (October 1965). "Observations on the Sign-Grouping and Vocabulary of Linear A". American Journal of Archaeology. 69 (4): 295–330. doi:10.2307/502181. ISSN 0002-9114. JSTOR 502181. S2CID 191385596.
+Notti, Erika (2010). "The Theran Epigraphic Corpus of Linear A : Geographical and Chronological Implications". Pasiphae (4): 93–96. doi:10.1400/168368. ISSN 2037-738X.
+Notti, Erika, "Writing in Late Bronze Age Thera. Further Observations on the Theran Corpus of Linear A", Pasiphae, vol. 000, no. 015, 2021 ISSN: 2037-738X
+Palmer, Ruth (1995). "Linear A Commodities: A Comparison of Resources" (PDF). Aegeum. 12. Archived from the original (PDF) on 2 April 2015. Retrieved 24 March 2015.
+Rjabchikov Sergei V. (2025). The Decipherment of two Records of Linear A on the Ivory Mirror from Knossos, Crete. In: I.I. Ivanovskaya and L.A. Kuzmina (eds.) Tendantsii i problemy razvitiya sovremennoy nauki. Sbornik statey IV Mezhdunarodnoy nauchno-prakticheskoy konferentsii, sostoyavsheysya 18 avgusta 2025 g. v g. Petrozavodske. Petrozavodsk: International Center for Scientific Partnership “New Science”, pp. 100-106.
+Salgarella, Ester (2020). Aegean Linear Script(s): Rethinking the Relationship between Linear A and Linear B. Cambridge: Cambridge University Press. ISBN 9781108479387.
+[12]Salgarella, Ester, and Anna P. Judson, "Signs of the times? Testing the chronological significance of Linear A and B palaeography", Ariadne, pp. 359-379, 2025.
+Salgarella, Ester (2025). Writing in Bronze Age Crete: ‘Minoan’ Linear A. of Elements in Writing in the Ancient World. Cambridge: Cambridge University Press.
+Schoep, Ilse (2002). "The Administration of Neopalatial Crete. A Critical Assessment of the Linear A Tablets and their Role in the Administrative Process". Minos (Supplementary Volume no. 17). Salamanca: 1–230. ISSN 0544-3733. OCLC 52610144.
+Steele, Philippa (2024). Exploring Writing Systems and Practices in the Bronze Age Aegean (PDF). Oxbow Books. ISBN 978-1-78925-902-5.
+van Soesbergen, Peter (2016). "Part 1, Text". Hurrians and Hurrian in Minoan Crete. Minoan Linear A. Vol. I. Amsterdam: Brave New Books. ISBN 978-0-19-956778-2.
+[13] Tomas, Helena, "The Administration of Haghia Triada", Opvscvla archaeologica 25.1, pp. 39–57, 2001
+Thomas, Helena (2003). Understanding the transition from Linear A to Linear B script (D. Phil. thesis). University of Oxford. Unpublished PhD dissertation. Supervisor: Professor John Bennet. Includes bibliographical references (leaves 311–338).
+Was, Daniël A., "The land-tenure texts from Hagia Triada", Kadmos, vol. 17, no. 2, pp. 91–101, 1978
+Was, Daniel A., "The land-tenure texts from Hagia Triada", Kadmos, vol. 20, no. 1–2, pp. 7–25, 1981
+
+
+== External links ==
+John Younger's Linear A Texts & Inscriptions in phonetic transcription & Commentary (December 2023 - final archived edition)
+Cracking the Cretan code Ester Salgarella AEON 2022
+The mathematical values of Linear A fraction signs – Science Daily – September 8, 2020
+Interactive database of Linear A inscriptions Description
+Mnamon: Antiche Scritture del Mediterraneo (Antique Writings of the Mediterranean)
+GORILA Volume 1
+Linear A Explorer

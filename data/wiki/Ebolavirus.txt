@@ -1,0 +1,85 @@
+The genus Ebolavirus (- or ; ee-BOH-lə- or ə-BOH-lə-VY-rəs) is a virological taxon included in the family Filoviridae (filament-shaped viruses), order Mononegavirales. The members of this genus are called ebolaviruses, and encode their genome in the form of single-stranded negative-sense RNA. The six known virus species are named for the region where each was originally identified: Bundibugyo ebolavirus, Reston ebolavirus, Sudan ebolavirus, Taï Forest ebolavirus (originally Côte d'Ivoire ebolavirus), Zaire ebolavirus, and Bombali ebolavirus. The last is the most recent species to be named and was isolated from Angolan free-tailed bats in Sierra Leone. Each species of the genus Ebolavirus has one member virus, and four of these cause Ebola virus disease (EVD) in humans, a type of hemorrhagic fever having a very high case fatality rate. The Reston virus has caused EVD in other primates. Zaire ebolavirus has the highest mortality rate of the ebolaviruses and is responsible for the largest number of outbreaks of the six known species of the genus, including the 1976 Zaire outbreak and the outbreak with the most deaths (2014).
+Ebolaviruses were first described after outbreaks of EVD in southern Sudan in June 1976 and in Zaire in August 1976. The name Ebolavirus is derived from the Ebola River in Zaire (now the Democratic Republic of the Congo), near the location of the 1976 outbreak, and the taxonomic suffix -virus (denoting a viral genus). This genus was introduced in 1998 as the "Ebola-like viruses". In 2002, the name was changed to Ebolavirus and in 2010, the genus was emended. Ebolaviruses are closely related to marburgviruses.
+
+
+== Structure ==
+Ebolavirus is a filamentous, enveloped virus within the order Mononegavirales which also contains rabies and measles viruses. This order is characterized by non-segmented, single-stranded negative-sense RNA (-ssRNA) genomes that are surrounded by a helical nucleocapsid. Filoviruses encode seven different proteins that include: NP (nucleoprotein), VP35 (part of the polymerase complex), VP40 (matrix protein), GP (glycoprotein spike), VP30 (transcription activator), VP24 (second matrix protein), and L (RdRp). Of these proteins, GP and NP proteins are crucial for viral entry and replication.
+GP is the protein responsible for pathogenic differences among ebolaviruses. GP encodes two glycoproteins, one of which is sGP (soluble glycoprotein) which has a role in Ebola pathogenesis. Research has suggested that sGP is able to subvert the host immune response increasing the EBOV pathogenesis.
+NP contains both the filoviral genome and the antigenome. NP oligomerization is responsible for the NC (helical nucleocapsid) formation which allows the -ssRNA genome to be protected against host cell degradation by endonucleases and host immune response. NP is also shown to recruit host cell proteins to facilitate virus transcription and replication within the cytoplasm.
+Ebolaviruses vary in size across variants, exhibiting cylindrical cores that are between 50 - 80 nm in diameter and lengths between 10 - 14 μm. Ebolavirus spikes extend out 10 nm and are spaced about 10 nm apart.
+
+
+== Hosts ==
+Researchers have found evidence of Ebola infection in three species of fruit bat. The bats show no symptoms of the disease, indicating that they may be the main natural reservoirs of the Ebolavirus. It is possible that there are other reservoirs and vectors. Understanding where the virus incubates between outbreaks and how it is transmitted between species will help protect humans and other primates from the virus.
+The researchers found that bats of three species – Franquet's epauletted fruit bat (Epomops franqueti), the hammer-headed bat (Hypsignathus monstrosus) and the little collared fruit bat (Myonycteris torquata) – had either genetic material from the Ebola virus, known as RNA sequences, or evidence of an immune response to the disease. The bats showed no symptoms themselves.
+The Bombali ebolavirus (BOMV) was isolated from the little free-tailed bat (Chaerephon pumilus) and the Angolan free-tailed bat (Mops condylurus) in Sierra Leone.
+
+
+== Entry pathway ==
+The entry pathway that the virus uses is a key step in its cycle. Several pathways have been suggested for Ebolavirus such as phagocytosis and clathrin and caveolin mediated endocytosis. However, Nanbo et al. (2010) and Saeed et al. (2010) independently proved that neither of these pathways is actually used.
+They discovered that Ebolavirus uses macropinocytosis to enter the host cells. Induction of macropinocytosis leads to the formation of macropinocytosis-specific endosomes (macropinosomes), which are large enough to accommodate Ebola virions. This discovery was proven by the fact that Ebolavirus co-localizes with sorting nexin 5 (SNX5), which consists of a large family of peripheral membrane proteins that associate with newly formed macropinosomes. Also, blocking the macropinocytosis pathway has been proven to stop Ebolavirus from entering the cells. Four different macropinocytosis specific inhibitors were tested: cytochalasin D (depolymerizing agent), wortmannin (Wort), LY-294002 (both are inhibitors of PI3K) and EIPA (5-(N-ethyl-N-isopropyl) amiloride), an inhibitor of the Na+/H+ exchanger specific for pinocytosis.
+Then, internalized EBOV particles are transported to late endosomes and, there, co-localization with GTPase Rab7 (marker of late endosomes) is observed. Mutation of both Rab5 and Rab7 GTPases additionally inhibits viral entry. After trafficking to late endosomes, Ebola virus binds the intracellular receptor Neimann-Pick C1 (NPC1) and the viral membrane fuses with the endosomal membrane, allowing the virus to release its genome into the cytoplasm.
+
+
+== Treatment ==
+The main reason that there are not many available treatments is that Ebola is such a severe virus, with a 90% fatality rate. It can only be explored in a BSL-4 laboratory which is very selective. In order for it to be studied more widely, BSL-2 laboratories have been able to use systems that are substitutes for the actual infectious virus. Scientists have used pseudo types that have the same glycoprotein on the surface that is used for entry into the host cell. They also use noninfectious Ebola-like particles as a replacement system to study.
+The search for a vaccine for Ebola began immediately after it was first discovered in 1976. There are currently only two FDA approved drugs. In October 2020 Immazab was officially approved and in December 2020, Ebanga was also officially approved. The difference between the two treatments is that Immazeb uses three monoclonal antibodies whereas Ebanga only has one monoclonal antibody. Both of these treatments are designed to attack the glycoprotein in order to prevent the virus from entering a new host cell and replicating. Besides these two drugs, there is more general treatment care such as managing symptoms that are caused by Ebola such as vomiting, fever, diarrhea, and any pain.
+
+
+== Taxonomy notes ==
+According to the rules for taxon naming established by the International Committee on Taxonomy of Viruses (ICTV), the name of the genus Ebolavirus is always to be capitalized, italicized, never abbreviated, and to be preceded by the word "genus". The names of its members (ebolaviruses) are to be written in lower case, are not italicized, and used without articles.
+
+
+== Genus inclusion criteria ==
+A virus of the family Filoviridae is a member of the genus Ebolavirus if
+
+its genome has several gene overlaps
+its fourth gene (GP) encodes four proteins (sGP, ssGP, Δ-peptide, and GP1,2) using cotranscriptional editing to express ssGP and GP1,2 and proteolytic cleavage to express sGP and Δ-peptide
+peak infectivity of its virions is associated with particles ≈805 nm in length
+its genome differs from that of Marburg virus by ≥50% and from that of Zaire ebolavirus by <50% at the nucleotide level
+its virions show almost no antigenic cross reactivity with marburg virions
+
+
+== Classification ==
+
+The genera Ebolavirus and Marburgvirus were originally classified as the species of the now-obsolete genus Filovirus. In March 1998, the Vertebrate Virus Subcommittee proposed in the International Committee on Taxonomy of Viruses (ICTV) to change the genus Filovirus to the family Filoviridae with two specific genera: Ebola-like viruses and Marburg-like viruses. This proposal was implemented in Washington, D.C., as of April 2001 and in Paris as of July 2002. In 2000, another proposal was made in Washington, D.C., to change the "-like viruses" to "-virus" resulting in today's Ebolavirus and Marburgvirus.
+Five characterised species of the genus Ebolavirus are:
+
+Zaire ebolavirus (ZEBOV)
+Also known simply as the Zaire virus, ZEBOV has the highest case-fatality rate, up to 90% in some epidemics, with an average case fatality rate of approximately 83% over 27 years. There have been more outbreaks of Zaire ebolavirus than of any other species. The first outbreak took place on 26 August 1976 in Yambuku. Mabalo Lokela, a 44‑year-old schoolteacher, became the first recorded case. The symptoms resembled malaria, and subsequent patients received quinine. Transmission has been attributed to reuse of unsterilized needles and close personal contact. The virus is responsible for the 2014 West Africa Ebola virus outbreak, the deadliest Filovirus outbreak to date.
+Sudan ebolavirus (SUDV)
+The Sudan ebolavirus, like ZEBOV, emerged in 1976; it was at first assumed to be identical with ZEBOV. SUDV is believed to have broken out first amongst cotton factory workers in Nzara, Sudan (now in South Sudan), in June 1976, with the first case reported as a worker exposed to a potential natural reservoir. Scientists tested local animals and insects in response to this; however, none tested positive for the virus. The carrier is still unknown. The lack of barrier nursing (or "bedside isolation") facilitated the spread of the disease. The average fatality rates for SUDV were 53% in 1976, 65% in 1979, and 53% in 2000.
+Reston ebolavirus (RESTV)
+This virus was discovered during an outbreak of simian hemorrhagic fever virus (SHFV) in crab-eating macaques from Hazleton Laboratories (now Fortrea) in 1989. Since the initial outbreak in Reston, Virginia, it has since been found in nonhuman primates in Pennsylvania, Texas, and Siena, Italy. In each case, the affected animals had been imported from a facility in the Philippines, where the virus has also infected pigs. Despite its status as a Level‑4 organism and its apparent pathogenicity in monkeys, RESTV did not cause disease in exposed human laboratory workers.
+Taï Forest ebolavirus (TAFV)
+Formerly known as "Côte d'Ivoire ebolavirus", it was first discovered among chimpanzees from the Tai Forest in Côte d'Ivoire, Africa, in 1994. Necropsies showed blood within the heart to be brown; no obvious marks were seen on the organs; and one necropsy displayed lungs filled with blood. Studies of tissues taken from the chimpanzees showed results similar to human cases during the 1976 Ebola outbreaks in Zaire and Sudan. As more dead chimpanzees were discovered, many tested positive for Ebola using molecular techniques. The source of the virus was believed to be the meat of infected western red colobus monkeys (Procolobus badius) upon which the chimpanzees preyed. One of the scientists performing the necropsies on the infected chimpanzees contracted Ebola. She developed symptoms similar to those of dengue fever approximately a week after the necropsy, and was transported to Switzerland for treatment. She was discharged from hospital after two weeks and had fully recovered six weeks after the infection.
+Bundibugyo ebolavirus (BDBV)
+On November 24, 2007, the Uganda Ministry of Health confirmed an outbreak of Ebola in the Bundibugyo District. After confirmation of samples tested by the United States National Reference Laboratories and the CDC, the World Health Organization confirmed the presence of the new species. On 20 February 2008, the Uganda Ministry officially announced the end of the epidemic in Bundibugyo, with the last infected person discharged on 8 January 2008. An epidemiological study conducted by WHO and Uganda Ministry of Health scientists determined there were 116 confirmed and probable cases of the new Ebola species, and that the outbreak had a mortality rate of 34% (39 deaths).
+
+
+== Evolution ==
+Rates of genetic change are 8*10−4 per site per year and are thus one fourth as fast as influenza A in humans. Extrapolating backwards, Ebolavirus and Marburgvirus probably diverged several thousand years ago. A study done in 1995 and 1996 found that the genes of Ebolavirus and Marburgvirus differed by about 55% at the nucleotide level, and at least 67% at the amino acid level. The same study found that the strains of Ebolavirus differed by about 37–41% across the nucleotide level and 34–43% across the amino acid level. The EBOV strain was found to have an almost 2% change in the nucleotide level from the original 1976 strain from the Yambuki outbreak and the  strain from the 1995 Kikwit outbreak. However, paleoviruses of filoviruses found in mammals indicate that the family itself is at least tens of millions of years old.
+
+
+== Genus organization and common names ==
+The genus Ebolavirus has been organized into six species; however, the nomenclature has proven somewhat controversial, with many authors continuing to use common names rather than species names when referring to these viruses.  In particular, the generic term "Ebola virus" is widely used to refer specifically to members of the species Zaire ebolavirus.  Consequently, in 2010, a group of researchers recommended that the name "Ebola virus" be adopted for a subclassification within the species Zaire ebolavirus and that similar common names be formally adopted for other Ebolavirus species.  In 2011, the International Committee on Taxonomy of Viruses (ICTV) rejected a proposal (2010.010bV) to formally recognize these names, as they do not designate names for subtypes, variants, strains, or other subspecies level groupings.  As such, the widely used common names are not formally recognized as part of the taxonomic nomenclature.  In particular, "Ebola virus" does not have an official meaning recognized by ICTV, and rather they continue to use and recommend only the species designation Zaire ebolavirus.
+The threshold for putting isolates into different species is usually a difference of more than 30% at the nucleotide level, compared to the type strain. If a virus is in a given species but differs from the type strain by more than 10% at the nucleotide level, it is proposed that it be named as a new virus. None of the Ebolavirus species contain members divergent enough to receive more than one "virus" designation.
+
+
+== Research ==
+A 2013 study isolated antibodies from fruit bats in Bangladesh, against Ebola Zaire and Reston viruses, thus identifying potential virus hosts and signs of the filoviruses in Asia.
+A recent alignment-free analysis of Ebola virus genomes from the current outbreak reveals the presence of three short DNA sequences that appear nowhere in the human genome, suggesting that the identification of specific species sequences may prove to be useful for the development of both diagnosis and therapeutics.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+ICTV Report: Genus: Orthoebolavirus
+ViralZone: Ebola-like viruses – Virological repository from the Swiss Institute of Bioinformatics
+Virus Pathogen Database and Analysis Resource (ViPR): Ebolavirus
+3D macromolecular structures of the Ebola virus archived in the EM Data Bank (EMDB) Archived 2014-08-08 at the Wayback Machine

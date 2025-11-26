@@ -1,0 +1,155 @@
+Regular may refer to:
+
+
+== Arts, entertainment, and media ==
+
+
+=== Music ===
+"Regular" (Badfinger song)
+Regular tunings of stringed instruments, tunings with equal intervals between the paired notes of successive open strings
+
+
+=== Other uses ===
+Regular character, a main character who appears more frequently and/or prominently than a recurring character
+Regular division of the plane, a series of drawings by the Dutch artist M. C. Escher which began in 1936
+
+
+== Language ==
+Regular inflection, the formation of derived forms such as plurals in ways that are typical for the language
+Regular verb
+Regular script, the newest of the Chinese script styles
+
+
+== Mathematics ==
+
+
+=== Algebra and number theory ===
+Regular category, a kind of category that has similarities to both Abelian categories and to the category of sets
+Regular chains in computer algebra
+Regular element (disambiguation), certain kinds of elements of an algebraic structure
+Regular extension of fields
+Regular ideal (multiple definitions)
+Regular Lie group
+Regular matrix (disambiguation)
+Regular monomorphisms and regular epimorphisms, monomorphisms (resp. epimorphisms) which equalize (resp. coequalize) some parallel pair of morphisms
+Regular numbers, numbers which evenly divide a power of 60
+Regular p-group, a concept capturing some of the more important properties of abelian p-groups, but general enough to include most "small" p-groups
+Regular prime, a prime number p > 2 that does not divide the class number of the p-th cyclotomic field
+The regular representation of a group G, the linear representation afforded by the group action of G on itself
+Regular ring, a ring such that all its localizations have Krull dimension equal to the minimal number of generators of the maximal ideal
+von Neumann regular ring, or absolutely flat ring (unrelated to the previous sense)
+Regular semi-algebraic systems in computer algebra
+Regular semigroup, related to the previous sense
+*-regular semigroup
+
+
+=== Analysis ===
+Borel regular measure
+Cauchy-regular function (or Cauchy-continuous function,) a continuous function between metric spaces which preserves Cauchy sequences
+Regular functions, functions that are analytic and single-valued (unique) in a given region
+Regular measure, a measure for which every measurable set is "approximately open" and "approximately closed"
+The regular part, of a Laurent series, the series of terms with positive powers
+Regular singular points, in theory of ordinary differential equations where the growth of solutions is bounded by an algebraic function
+Regularity, the degree of differentiability of a function
+Regularity conditions arise in the study of first-class constraints in Hamiltonian mechanics
+Regularity of an elliptic operator
+Regularity theory of elliptic partial differential equations
+
+
+=== Combinatorics, discrete math, and mathematical computer science ===
+Regular algebra, or Kleene algebra
+Regular code, an algebraic code with a uniform distribution of distances between codewords
+Regular expression, a type of pattern describing a set of strings in computer science
+Regular graph, a graph such that all the degrees of the vertices are equal
+Szemerédi regularity lemma, some random behaviors in large graphs
+Regular language, a formal language recognizable by a finite state automaton (related to the regular expression)
+Regular map (graph theory), a symmetric tessellation of a closed surface
+Regular matroid, a matroid which can be represented over any field
+Regular paperfolding sequence, also known as the dragon curve sequence
+Regular tree grammar
+
+
+=== Geometry ===
+Castelnuovo–Mumford regularity of a coherent sheaf
+Closed regular sets in solid modeling
+Irregularity of a surface in algebraic geometry
+Regular curves
+Regular grid, a tesselation of Euclidean space by congruent bricks
+Regular map (algebraic geometry), a map between varieties given by polynomials
+Regular point, a non-singular point of an algebraic variety
+Regular point of a differentiable map, a point at which a map is a submersion
+Regular polygons, polygons with all sides and angles equal
+Regular polyhedron, a generalization of a regular polygon to higher dimensions
+Regular polytope, a generalization of a regular polygon to higher dimensions
+Regular skew polyhedron
+
+
+=== Logic, set theory, and foundations ===
+Axiom of Regularity, also called the Axiom of Foundation, an axiom of set theory asserting the non-existence of certain infinite chains of sets
+Partition regularity
+Regular cardinal, a cardinal number that is equal to its cofinality
+Regular modal logic
+
+
+=== Probability and statistics ===
+Regular conditional probability, a concept that has developed to overcome certain difficulties in formally defining conditional probabilities for continuous probability distributions
+Regular stochastic matrix, a stochastic matrix such that all the entries of some power of the matrix are positive
+
+
+=== Topology ===
+Free regular set, a subset of a topological space that is acted upon disjointly under a given group action
+Regular homotopy
+Regular isotopy in knot theory, the equivalence relation of link diagrams that is generated by using the 2nd and 3rd Reidemeister moves only
+Regular space (or 
+  
+    
+      
+        
+          T
+          
+            3
+          
+        
+      
+    
+    {\displaystyle T_{3}}
+  
+) space, a topological space in which a point and a closed set can be separated by neighborhoods
+
+
+== Military ==
+Regular army, the official army of a state or country
+British Regulars, of the 18th and 19th centuries
+Regular Army (United States)
+Regular Force, of the Canadian Forces
+
+
+== Organizations ==
+Regular Baptists, an 18th-century American and Canadian Baptist group
+Regular clergy,  members of a religious order subject to a rule of life
+Regular Masonic jurisdictions, or regularity, refers to the constitutional mechanism by which Freemasonry Grand Lodges or Grand Orients give one another mutual recognition
+
+
+== People ==
+Moses Regular (born 1971), America football player
+
+
+== Science and social science ==
+Regular economy, an economy characterized by an excess demand function whose slope at any equilibrium price vector is non-zero
+Regular moon, a natural satellite that has low eccentricity and a relatively close and prograde orbit
+Regular solutions in chemistry, solutions that diverge from the behavior of an ideal solution only moderately
+
+
+== Other uses ==
+Regular bowel movements, the opposite of constipation
+Regular customer, a person who frequently visits the same restaurant, pub, store, transit provider, etc.
+Regular octane rating of gasoline, as a differentiation from "premium" and similar variants
+Regular stance (or footedness) in boardsports, a stance in which the left foot leads (as compared to "goofy")
+Regular type, referring to Roman type, an upright style of typeface or computer font, as compared to italic and blackletter
+
+
+== See also ==
+All pages with titles beginning with regular
+All pages with titles containing regular
+Irregular (disambiguation)
+Regular set (disambiguation)
