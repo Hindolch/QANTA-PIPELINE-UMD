@@ -27,7 +27,7 @@ All components are modular and can be reused or swapped.
 ## 🏗️ Project Structure
 
 ```
-qb_converter/
+QANTA-PIPELINE-UMD/
 │
 ├── batch_convert_all_rounds.py        # Orchestrates full DOCX → JSON → CSV pipeline
 │
