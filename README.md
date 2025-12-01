@@ -277,7 +277,8 @@ Question ID,Fold,Answer,Category,Text
 
 ## HuggingFace dataset view 
 
-![alt text](<../Screenshot 2025-12-01 221843.png>)
+<img width="1887" height="903" alt="Screenshot 2025-12-01 221843" src="https://github.com/user-attachments/assets/403570b6-6bc8-46c7-b8b8-ea484b229a26" />
+
 
 ---
 
