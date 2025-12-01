@@ -257,7 +257,7 @@ def main():
     merged_csv = os.path.join(args.output_dir, '2025_pace_nsc_qanta.csv')
     merge_csvs_into_dataset(args.output_dir, merged_csv)
     
-    # Step 4: (Optional) Push to Hugging Face
+    # Step 4: Push to Hugging Face
     if args.push_hf:
         print("\n=== Step 4: Pushing merged dataset to Hugging Face Hub ===")
         if not args.hf_token:
@@ -266,7 +266,7 @@ def main():
         
         push_to_huggingface(merged_csv, args.hf_repo, args.hf_token)
     else:
-        print("\n✓ Batch conversion complete!")
+        print("\nBatch conversion complete!")
         print(f"   CSV files: {args.output_dir}")
         print(f"   Wiki files: {args.wiki_dir}")
         print(f"   Merged dataset: {merged_csv}")
