@@ -388,7 +388,6 @@ The converter outputs **one JSON file and one QANTA CSV file per packet/round**,
 
 ## 🔗 Links
 
-- **GitHub:** https://github.com/Hindolch/QANTA-PIPELINE-UMD
 - **Hugging Face:** https://huggingface.co/datasets/kenzi123/UMD-QANTA-PIPELINE
 - **Original QANTA:** https://people.cs.umass.edu/~miyyer/qblearn/index.html
 
