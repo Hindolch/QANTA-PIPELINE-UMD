@@ -19,6 +19,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.env
 
 # Virtual environments
 venv/
@@ -34,10 +35,10 @@ env/
 .DS_Store
 
 # Project specific
-data/output/*.json
-data/output/*.jsonl
-data/output/*.csv
-data/output/*.txt
+# data/output/*.json
+# data/output/*.jsonl
+# data/output/*.csv
+# data/output/*.txt
 *.cache
 answer_cache.json
 .cache/
