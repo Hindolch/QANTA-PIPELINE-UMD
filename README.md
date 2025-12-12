@@ -32,6 +32,7 @@ All components are modular and can be reused or swapped.
 QANTA-PIPELINE-UMD/
 │
 ├── batch_convert_all_rounds.py        # Orchestrates full pipeline: DOCX → JSON → CSV → merge → HF push
+├── app.py        
 │
 ├── src/
 │   ├── docx_parser.py                 # Parses .docx packets into raw question blocks
@@ -368,6 +369,13 @@ Default local URL: http://localhost:8501
 Notes:
 - The UI creates output/wiki directories automatically; it warns and can back up/clear existing outputs to avoid accidental overwrite.
 - To push the merged CSV only, enable "Push to Hugging Face Hub", enter your HF repo (e.g. username/repo) and token — the app will display a link to the dataset after successful upload.
+
+<img width="1906" height="960" alt="Screenshot 2025-12-12 125942" src="https://github.com/user-attachments/assets/34b9c170-f935-4cf6-897a-37e48fabbaa6" />
+
+<img width="1908" height="797" alt="Screenshot 2025-12-12 141419" src="https://github.com/user-attachments/assets/4bd5e972-0192-4181-b9c9-4c7059a26d7f" />
+
+<img width="1905" height="931" alt="Screenshot 2025-12-12 141501" src="https://github.com/user-attachments/assets/ddc56793-311a-44d9-b38d-df9ff9692fe4" />
+
 
 ---
 
