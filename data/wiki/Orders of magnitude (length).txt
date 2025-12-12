@@ -1429,6 +1429,9 @@ To help compare different orders of magnitude, this section lists distances star
 
 >1 Rm – >105.7 billion light-years – size of universe beyond the cosmic light horizon, depending on its curvature; if the curvature is zero (i.e. the universe is spatially flat), the value can be infinite (see Shape of the universe) as previously mentioned.
 2.764 Rm - 292.2 billion light-years – circumference of the observable universe, as it is in the shape of a sphere.
+
+
+== Upper limits ==
 ≈101010122light-years – the possible size of the universe after cosmological inflation.
 ≈∞ light-years – theoretical size of the multiverse if it exists.
 
@@ -1438,6 +1441,9 @@ Fermi problem
 Scale (analytical tool)
 Spatial scale
 The Scale of the Universe
+Cosmic Eye
+Cosmic Voyage
+Powers of Ten
 
 
 == Notes ==

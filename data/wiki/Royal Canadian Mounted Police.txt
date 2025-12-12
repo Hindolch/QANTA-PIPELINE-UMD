@@ -72,6 +72,44 @@ In 2023, the Mass Casualty Commission recommended that the RCMP replace its Depo
 In the early 2020s, the cities of Surrey, British Columbia, and Grande Prairie, Alberta, both established independent municipal police forces to replace the RCMP. In the wake of these decisions, and similar moves by the governments of Alberta and Saskatchewan to establish supplementary provincial police services to support (and, according to some critics, eventually replace) the RCMP, Commissioner Mike Duheme indicated that the RCMP was learning how to better manage transitions to local policing from contract policing. Similar transitions have been proposed, debated, or approved in some Alberta First Nations, rural Manitoba, and rural New Brunswick.
 
 
+=== Response to protests ===
+Policing by the RCMP and other public and private security has been central to disputes over land claims and assertions of sovereignty over land use by Indigenous peoples (First Nations and Métis). Recent notable confrontations over rights to self-determination of land use precipitated around opposition to pipeline infrastructure through traditional and ancestral lands of Indigenous peoples. Recent scholarship highlights how the policing of anti-pipeline movements (e.g. against the Coastal GasLink pipeline or the Dakota Access pipeline in North Dakota, United States) can actively enforce the violation of Indigenous rights and perpetuate Canada’s fossil fuel dependency and the country’s contribution to the climate crisis.
+
+The Canadian Broadcasting Corporation (CBC) gained access to internal police documents exposing “[a]n RCMP national security unit monitored First Nations-led anti-pipeline activism for ‘potential threats to the energy, transportation and banking sectors between 2021 and 2022.” This unit, named the Community-Industry Response Group (C-IRG), was formed in 2016, originally to secure the Coastal GasLink pipeline project, a pipeline carrying natural gas from northeastern BC to the BC coast transiting Wetʼsuwetʼen and other First Nations territories, much of which remains unceded.
+Surveillance by the RCMP and CSIS also played a role in suppressing environmental activists. Internal RCMP accounting shows that the C-IRG unit spent almost $50 million on policing pipeline, logging standoffs in BC in its first five years of operations. This spending comprised approximately $3.5 million, $27.6 million, and $18.7 million policing the Trans Mountain Expansion pipeline, CoastalGas Link pipeline, and Fairy Creek logging blockage, respectively.
+
+
+==== Policing targets ====
+
+
+===== Land defence =====
+
+
+====== Northern Gateway Pipeline ======
+An access-to-information request revealed requests by the National Energy Board to the RCMP and CSIS to monitor and report on advocacy groups who opposed pipeline projects. According to the records, a member of CSIS or RCMP allegedly infiltrated a community organizing meeting and wrote a report that was shared with Enbridge — the company that owned the never-built Northern Gateway pipeline project — as well as other prominent oil and gas industry leaders part of Natural Resources Canada. The BC Civil Liberties Association launched two complaints regarding “improper surveillance” on advocacy groups, claiming the act unconstitutional and illegal to surveil such “peaceful democratic activities.”
+
+
+====== Trans Mountain Pipeline ======
+Project Sitka was a coordinated intelligence effort to compile names of Indigenous and non-Indigenous activists who may use "unlawful tactics" in Indigenous resistance protests. The initiative was concluded in 2015 but was revived in 2016 after the Trans Mountain pipeline expansion's approval. The RCMP instructed officers to "provide any updates to Project Sitka's list of disruptive and volatile subjects from respective divisions."
+The RCMP spent around $3.5 million policing protests around the Trans Mountain Expansion project.
+Tiny House Warriors, a group of Indigenous activists who erected small houses along the pipeline's right of way, were attacked by a group of masked assailants who destroyed ritual installations, attacked activists, and stole and drove one of the activists cars into their protest house. A spokesperson for the Tiny House Warriors, Kanahus Manuel, whose car was used by assailants to attempt to demolish her house, told The Tyee that "there was not even any attempt by the RCMP to look for these guys."
+
+
+===== Coastal Gas Link pipeline =====
+
+On December 14, 2018, a provincial court granted TransCanada (now TC Energy) an injunction to proceed with construction of their Coastal Gas Link pipeline — a 670 km long pipeline that passes through the Wetʼsuwetʼen Nation. At the time, the Unistʼotʼen Camp blockade was protesting the development. A new checkpoint was set up on land of the Gitimʼten), one of the five clans of the Wetʼsuwetʼen Nation, to continue blocking access to the construction site.
+
+On January 7, 2018, the RCMP raided the Gitimʼten checkpoint, arresting 14 people. Prior to the raid, RCMP commanders had instructed and encouraged violence, "lethal overwatch" (a term to deploy lethal force), and that arrests were necessary to "sterilize the site."
+After the violent evictions, and surveillance recorded of Indigenous land defenders, the United Nations' Committee on the Elimination of Racial Discrimination published a letter calling for more information on the ceasing of construction of the Trans Mountain Pipeline and the Coastal Gas Link Pipeline due to the related harms caused to the Secwépemc and Wetʼsuwetʼen peoples.
+A report by Amnesty International detailed widespread "intimidation and harassment" of Wetʼsuwetʼen people by the RCMP when protecting the CoastalGas Link's construction.
+
+
+===== Global summits =====
+Several global summits where protests erupted decrying global injustices suffered violent repression by RCMP and local police forces. The Asia-Pacific Economic Cooperation (APEC) 3rd Summit of the Americas hosted in Quebec City from April 20 to 22, 2001 faced massive protests, referred to as the Quebec City (or A20) protests. Police liberally fired tear gas and rubber bullets and deployed water cannons to attack and disperse the crowd. On November 13, 2003, the complaint's chairwoman Shirley Heafey argued that "RCMP members used excessive and unjustified force in releasing tear gas to move the protesters when a more measured response could have been attempted first."
+
+Other summits where the RCMP played a role in a controversial police response to protests include the Security and Prosperity Partnership of North America (SPP) summit in Montebello, Quebec in August 2007, where masked protesters believed to be undercover police incited violence. There was also what was then named the "largest-ever police spy operation" aimed at activists organizing the 2010 G20 Summit protests in Toronto, Ontario. It was revealed via Freedom of Information requests that "at least 12 undercover officers infiltrated groups" spanning Vancouver, southern Ontario, Toronto, Montreal, and Ottawa, in one of the largest-ever such operations internal to Canada.
+
+
 === Role in the colonization of Canada ===
 
 As the federal police service of the Government of Canada, the RCMP has had an expansive and controversial role in the colonization of Canada. One of the RCMP's two preceding agencies—the Royal Northwest Mounted Police (RNWMP)—had enjoyed a relatively positive relationship with the Indigenous peoples of Canada, buoyed by their role in restoring order to the Canadian West, which had been disrupted by immigrant settlement, and the stark contrast between Canadian policy and the ongoing American Indian Wars in the late 19th century. After the signing of the Numbered Treaties between 1871 and 1899, however, the service generally failed to provide Indigenous communities with police services equal to those provided to non-Indigenous communities.
@@ -92,44 +130,6 @@ In the 1920s, Saskatchewan provincial pathologist Frances Gertrude McGill began 
 On May 23, 1974, RCMP Commissioner Maurice Nadon announced that the RCMP would accept applications from women as regular members of the service. Troop 17 was the first group of 32 women at Depot in Regina on September 16, 1974, for regular training. This first all-female troop of 30 women graduated from Depot on March 3, 1975.
 After initially wearing different uniforms, female officers were finally issued the standard RCMP uniforms. Now all officers are identically attired, with two exceptions. The ceremonial dress uniform, or "walking-out order", for female members has a long, blue skirt and higher-heeled slip-on pumps plus a small black clutch purse (however, in 2012 the RCMP began to allow women to wear trousers and boots with all their formal uniforms). The second exception is the official maternity uniform for pregnant female officers assigned to administrative duties.
 The following years saw the first women attain certain positions. 
-
-
-== RCMP response to protests ==
-Policing by the RCMP and other public and private security has been central to disputes over land claims and assertions of sovereignty over land use by Indigenous peoples in Canada (First Nations and Metis). Recent notable confrontations over rights to self-determination of land use have precipitated around opposition to pipeline infrastructure through traditional and ancestral lands of Indigenous peoples. Recent scholarship highlights how the policing of anti-pipeline movements (e.g. against the Coastal GasLink pipeline or the Dakota Access pipeline in North Dakota, USA) can serve to actively enforce the violation of Indigenous rights and perpetuate Canada’s fossil fuel dependency and the country’s contribution to the climate crisis.
-
-The Canadian Broadcasting Corporation (CBC) gained access to internal police documents exposing “[a]n RCMP national security unit monitored First Nations-led anti-pipeline activism for ‘potential threats to the energy, transportation and banking sectors between 2021 and 2022.” This unit, named the Community-Industry Response Group (C-IRG), was formed in 2016, originally to secure the Coastal GasLink pipeline project, a pipeline carrying natural gas from gas plays in Northeastern BC to the BC coast transiting through Wet'suwet'en and other First Nations territories, much of which remains unceded.
-Surveillance by the RCMP and CSIS has also played a critical role in suppressing civil society, notably environmental activists. The financial expense incurred to the public for these policing efforts are significant—internal RCMP accounting shows that the C-IRG unit spent almost $50M on policing pipeline, logging standoffs in BC in its first five years of operations. This spending comprised approximately $3.5M, $27.6M, and $18.7M policing the Trans Mountain Expansion pipeline, CoastalGas Link pipeline, and Fairy Creek logging blockage, respectively.
-
-
-=== Policing targets ===
-
-
-==== Land defence ====
-
-
-===== Northern Gateway Pipeline =====
-An Access to Information request revealed documents containing requests by the National Energy Board to the RCMP and CSIS to monitor and report on advocacy groups who opposed pipeline projects. According to the records, a member of CSIS or RCMP allegedly infiltrated a community organizing meeting and wrote a report on their findings sharing with Enbridge — the company that owns the Northern Gateway pipeline project — as well as other prominent oil and gas industry leaders part of Natural Resources Canada. The BC Civil Liberties Association launched two formal complaints regarding “improper surveillance” on civilian advocacy groups, claiming the act unconstitutional and illegal to surveil such “peaceful democratic activities.”
-
-
-===== Trans Mountain Pipeline =====
-Project Sitka was a coordinated intelligence effort to compile names of Indigenous and non-Indigenous activists who may use "unlawful tactics" in Indigenous resistance protests. The initiative was concluded in 2015 but was revived in 2016 after the Trans Mountain pipeline expansion's approval. The RCMP instructed officers to "provide any updates to Project Sitka's list of disruptive and volatile subjects from respective divisions."
-The RCMP spent around $3.5M policing protests around the Trans Mountain Expansion pipeline project.
-Tiny House Warriors — a group of Indigenous activists who erected small houses along the pipeline's right of way — were attacked by a group of masked assailants who destroyed ritual installations, physically attacked activists, and stole and drove one of the activists cars into their protest house. A prominent spokesperson for the Tiny House Warriors, Kanahus Manuel, who was based about 175 kilometres northeast of Kamloops and whose car was used by assailants to attempt to demolish her house, told the Tyee that she was convinced "there was not even any attempt by the RCMP to look for these guys."
-
-
-==== Coastal Gas Link pipeline ====
-
-On December 14, 2018, a provincial court granted TransCanada (now TC Energy) an injunction to proceed with construction efforts of their Coastal Gas Link pipeline — a 670 km long pipeline that would pass through the Wetʼsuwetʼen Nation. At the time, the Unistʼotʼen Camp blockade was actively protesting the development. A new checkpoint was set up on land of the Gitimʼten (Gitimdʼen), one of the five clans of the Wetʼsuwetʼen Nation, to continue blocking access to the construction site.
-
-On January 7, 2018, the RCMP conducted a militarized raid on the Gitim'ten checkpoint, arresting 14 people. Investigations revealed that prior to the raid, RCMP commanders had instructed and encouraged violence, "lethal overwatch" (a term to deploy lethal force), and that arrests were necessary to "sterilize the site."
-After the violent evictions, and surveillance recorded of Indigenous land defenders, the United Nations' Committee on the Elimination of Racial Discrimination published a letter calling for more information on the ceasing of construction of the Trans Mountain Pipeline and the Coastal Gas Link Pipeline due to the related harms caused to the Secwépemc and Wetʼsuwetʼen peoples.
-A report by Amnesty International detailed widespread "intimidation and harassment" of Wetʼsuwetʼen people by the RCMP when acting to protect the CoastalGas Link's construction.
-
-
-==== Global Summits ====
-Several global summits where protests erupted decrying global injustices suffered violent repression by RCMP and local police forces. The Asia-Pacific Economic Cooperation (APEC) 3rd Summit of the Americas hosted in Quebec City from April 20 to 22, 2001 faced massive protests, referred to as the Quebec City (or A20) protests. Police liberally fired tear gas and rubber bullets and deployed water cannons to attack and disperse the crowd. On November 13, 2003, the complaint's chairwoman Shirley Heafey argued that "RCMP members used excessive and unjustified force in releasing tear gas to move the protesters when a more measured response could have been attempted first."
-
-Other summits where the RCMP played a role in a controversial police response to protests include the Security and Prosperity Partnership of North America (SPP) summit in Montebello, Quebec in August 2007, where masked protesters believed to be undercover police incited violence. There was also what was then named the "largest-ever police spy operation" aimed at activists organizing the 2010 G20 Summit protests in Toronto, Ontario. It was revealed via Freedom of Information requests that "at least 12 undercover officers infiltrated groups" spanning Vancouver, southern Ontario, Toronto, Montreal, and Ottawa, in one of the largest-ever such operations internal to Canada.
 
 
 == Organization ==

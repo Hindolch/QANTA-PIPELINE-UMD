@@ -111,7 +111,7 @@ Courts
 === Municipal organization ===
 
 Its political administration is carried out through a City Council, of democratic management, whose components are chosen every four years by universal suffrage. The electoral roll is composed of all residents registered in Granada over 18 years of age, of Spanish nationality and of the other member countries of the European Union. According to the provisions of the General Electoral Regime Law, which establishes the number of eligible councilors according to the population of the municipality, the Municipal Corporation of Granada is made up of 27 councilors.
-In the municipal elections held in 2019 the constitution of the City Council was eleven councilors belonging to the Popular Party, eight to the Socialist Party, four belonging to Citizens Party, three to Vamos, Granada and one to the United Left-Socialist Alternative-For the People. Luis Salvador, leader of Citizens, became mayor with support from the PP and Vox. Salvador resigned in 2021, having lost the support of the PP. He was succeeded by the Socialist Francisco Cuenca who had previously served as mayor from 2016-2019. In the 2023 Spanish local elections Cuenca was ousted by Marifrán Carazo of the PP. Carazo increased the PP's number of seats from 7 to 14, gaining her a slim majority and making her the first female mayor of the city.
+In the municipal elections held in 2019 the constitution of the City Council was eleven councilors belonging to the Popular Party, eight to the Socialist Party, four belonging to Citizens Party, three to Vamos, Granada and one to the United Left-Socialist Alternative-For the People. Luis Salvador, leader of Citizens, became mayor with support from the PP and Vox. Salvador resigned in 2021, having lost the support of the PP. He was succeeded by the Socialist Francisco Cuenca who had previously served as mayor from 2016 to 2019. In the 2023 Spanish local elections Cuenca was ousted by Marifrán Carazo of the PP. Carazo increased the PP's number of seats from 7 to 14, gaining her a slim majority and making her the first female mayor of the city.
 
 
 === Municipal districts and neighborhoods ===
@@ -357,11 +357,11 @@ Granada has a 14,507-capacity bullring named Plaza de toros de Granada.
 
 
 == Notable people ==
-Ibn al-Jayyab (1274-1349), poet and vizier
-al-Sahili (1290-1346), poet, islamic scholar, architect and traveler
-Ibn Juzayy (1294-1340), Maliki scholar
+Ibn al-Jayyab (1274–1349), poet and vizier
+al-Sahili (1290–1346), poet, Islamic scholar, architect and traveler
+Ibn Juzayy (1294–1340), Maliki scholar
 Ibn al-Khatib (1313–1374), poet and historian
-Ibn Zamrak (1333-1393), poet and vizier
+Ibn Zamrak (1333–1393), poet and vizier
 Ibn Khalaf al-Muradi (11th century), engineer and inventor
 Al-Tighnari (died 1118), agronomist, botanist, poet and traveler
 Abu Hamid al-Gharnati (c.1080-1170), traveler
@@ -369,15 +369,15 @@ Ibn Tufail (1105–1185), philosopher and astronomer
 Judah ben Saul ibn Tibbon (1120–1190), translator and physician
 Al-Zuhri (fl. 1130s–1150s), geographer
 Ibn Sa'id al-Maghribi (1213–1286), geographer, historian and poet
-Abu Hayyan al-Gharnati (1256-1344), quranic commentator, grammarian and traveler
-Abu Ishaq al-Shatibi (1320-1388), islamic scholar and linguist
-Abu'l-Hasan ibn Ali al-Qalasadi (1412-1486), mathematician
-Ibn al-Azraq (1427-1491), jurist
+Abu Hayyan al-Gharnati (1256–1344), quranic commentator, grammarian and traveler
+Abu Ishaq al-Shatibi (1320–1388), Islamic scholar and linguist
+Abu'l-Hasan ibn Ali al-Qalasadi (1412–1486), mathematician
+Ibn al-Azraq (1427–1491), jurist
 Aixa (fl.1492/1493), mother of Boabdil
-Morayma (1467-1493), wife of Boabdil
+Morayma (1467–1493), wife of Boabdil
 Leo Africanus (c. 1494 – c. 1554), Andalusian diplomat and author
-Aben Humeya (1520-1569), leader of the Morisco revolt
-Luis del Mármol Carvajal (1524-1600), Spanish chronicler and traveler
+Aben Humeya (1520–1569), leader of the Morisco revolt
+Luis del Mármol Carvajal (1524–1600), Spanish chronicler and traveler
 Álvaro de Bazán (1526–1588), admiral
 Francisco Suárez SJ (1548–1617), Spanish Jesuit priest, philosopher and theologian
 Alonso Cano (1601–1667), painter, sculptor and architect
@@ -391,13 +391,13 @@ Eugenia de Montijo (1826–1920), last Empress consort of France
 Rogelia León (1828–1870), poet, playwright, essayist, and narrative writer
 Enriqueta Lozano (1829/30–1895), writer
 Cristino Martos y Balbí (1830–1893), Spanish politician and lawyer
-Emilia Serrano y García (1834-1923), writer, journalist, feminist, traveler
+Emilia Serrano y García (1834–1923), writer, journalist, feminist, traveler
 Ángel Ganivet (1865–1898), writer and dramatist
 Mariano Fortuny y Madrazo (1871–1949), painter, photographer, designer and scenographer
 Emilio Herrera Linares (1879–1967), military engineer and physicist
 Melchor Fernández Almagro (1893–1966), literary critic, historian and journalist
 Federico García Lorca (1898–1936), poet and dramatist
-Agustina González López (1891-1936), writer and artist from the Generation of '27
+Agustina González López (1891–1936), writer and artist from the Generation of '27
 Luis Rosales Camacho (1910–1992), poet and essayist from the Generation of '36
 José Tamayo (1920–2003), theatre director
 Manuel Jiménez de Parga (1929–2014), lawyer, politician, diplomat and jurist
@@ -406,7 +406,7 @@ Luis García Montero (born 1958), poet and literary critic
 Chus Gutiérrez (born 1962), film director, actress and journalist
 Pilar Ramírez Tello (born 1976), English-Spanish translator who translated The Hunger Games and Divergent series to Spanish
 Antonio Velázquez (born 1981), actor
-Federico Corriente (1940-2020), arabist, lexicographer and academic
+Federico Corriente (1940–2020), Arabist, lexicographer and academic
 Yung Beef (born 1990), rapper, singer, record producer and model
 María Dueñas (born 2002), violinist, musician, and composer
 
@@ -420,17 +420,8 @@ Lidia Redondo (born 1992), gymnast
 Sam Hidalgo-Clyne (born 1993), Scotland international rugby union player (born in Granada, but moved to Scotland at age 3)
 
 
-== Twin towns - sister cities ==
-Granada shares twin cities status with these cities:
-
-Aix-en-Provence, France, 1979
-Tetuán, Morocco, 1988
-Tlemcen, Algeria, 1989
-Coral Gables, Florida, United States, 1989
-Freiburg im Breisgau, Germany, 1991
-Marrakech, Morocco, 1994
-Belo Horizonte, Brazil, 2002
-Sharjah, United Arab Emirates, 2009
+== Twin towns – sister cities ==
+Granada is twinned with:
 
 
 == See also ==

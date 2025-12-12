@@ -63,7 +63,7 @@ Meanwhile, the electronic musical instrument standard called MIDI doesn't specif
 
 === Pitch frequency in hertz ===
 
-Pitch is associated with the frequency of physical oscillations measured in hertz (Hz) representing the number of these oscillations per second. While notes can have any arbitrary frequency, notes in more consonant music tends to have pitches with simpler mathematical ratios to each other.
+Pitch is associated with the frequency of physical oscillations measured in hertz (Hz) representing the number of these oscillations per second. While notes can have any arbitrary frequency, notes in more consonant music tend to have pitches with simpler mathematical ratios to each other.
 Western music defines pitches around a central reference "concert pitch" of A4, currently standardized as 440 Hz. Notes played in tune with the 12 equal temperament system will be an integer number 
   
     

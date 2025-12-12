@@ -1,4 +1,4 @@
-Guatemala, officially the Republic of Guatemala, is a country in Central America. It is bordered to the north and west by Mexico, to the northeast (in the adjacency zone) by Belize, to the east by Honduras, and to the southeast by El Salvador. It is bounded by the Pacific Ocean to the south and the Gulf of Honduras to the northeast.
+Guatemala, officially the Republic of Guatemala, is a country in northern Central America. It is bordered to the north and west by Mexico, to the northeast (in the adjacency zone) by Belize, to the east by Honduras, and to the southeast by El Salvador. It is bounded by the Pacific Ocean to the south and the Gulf of Honduras to the northeast.
 The territory of modern Guatemala hosted the core of the Maya civilization, which extended across Mesoamerica; in the 16th century, most of this was conquered by the Spanish and claimed as part of the viceroyalty of New Spain. Guatemala attained independence from Spain and Mexico in 1821. From 1823 to 1841, it was part of the Federal Republic of Central America. For the latter half of the 19th century, Guatemala suffered instability and civil strife. From the early 20th century, it was ruled by a series of dictators backed by the United States. In 1944, authoritarian leader Jorge Ubico was overthrown by a pro-democratic military coup, initiating a decade-long revolution that led to social and economic reforms. In 1954, a U.S.-backed military coup ended the revolution and installed a dictatorship. From 1960 to 1996, Guatemala endured a bloody civil war fought between the U.S.-backed government and leftist rebels, including genocidal massacres of the Maya population perpetrated by the Guatemalan military. The United Nations negotiated a peace accord, resulting in economic growth and successive democratic elections.
 Guatemala's abundance of biologically significant and unique ecosystems includes many endemic species and contributes to Mesoamerica's designation as a biodiversity hotspot. Although rich in export goods, around a quarter of the population (4.6 million) face food insecurity; other major issues include poverty, crime, corruption, drug trafficking, and civil instability.
 With an estimated population of around 17.6 million, Guatemala is the most populous country in Central America, the fourth most populous country in North America and the 11th most populous country in the Americas. Its capital and largest city, Guatemala City, is the most populous city in Central America.
@@ -292,7 +292,7 @@ Traditional Maya religion persists through the process of inculturation, in whic
 
 During the colonial era Guatemala received immigrants (settlers) only from Spain. In the mid 19th century and early 20th century Guatemala received waves of immigration from Europe,  primarily from Germany. These immigrants installed coffee and cardamom fincas in Alta Verapaz, Zacapa, Quetzaltenango, Baja Verapaz and Izabal. To a lesser extent people came from Spain, France, Belgium, England, Italy, Sweden, and other European countries.
 Many European immigrants to Guatemala were politicians, refugees, and entrepreneurs as well as families looking to settle. Up to 1950 Guatemala was the Central American country that received the most immigrants, behind Costa Rica, and large numbers of immigrants are still received today. Since the 1890s, there has been immigration from East Asia. Also, beginning with the First World War, the immigrant population is being strengthened by Jewish immigration.
-During the second half of the twentieth century, Latin American immigration to Guatemala increased, particularly from Mexico, Cuba, and Argentina, although most of these immigrants stayed only temporarily before proceding to their final destinations in the United States. Currently, the largest groups of immigrants in Guatemala come from neighboring El Salvador and Mexico.
+During the second half of the twentieth century, Latin American immigration to Guatemala increased, particularly from Mexico, Cuba, and Argentina, although most of these immigrants stayed only temporarily before proceeding to their final destinations in the United States. Currently, the largest groups of immigrants in Guatemala come from neighboring El Salvador and Mexico.
 
 
 === Education ===
@@ -356,7 +356,6 @@ The Guatemalan Olympic Committee was founded in 1947 and recognized by the Inter
 
 == See also ==
 
-Index of Guatemala-related articles
 Outline of Guatemala
 
 

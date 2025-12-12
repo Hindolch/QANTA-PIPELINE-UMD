@@ -214,7 +214,7 @@ Chile is home to the world-renowned Patagonian Trail that resides on the border 
 
 Due to Chile's topography a functioning transport network is vital to its economy. In 2020, Chile had 85,984 km (53,428 mi) of highways, with 21,289 km (13,228 mi) paved. In the same year, the country had 3,347 km (2,080 mi) of duplicated highways, the second largest network in South America, after Brazil. Since the mid-1990s, there has been a significant improvement in the country's roads, through bidding processes that allowed the construction of an efficient road network, with emphasis on the duplication of continuous 1,950 km (1,212 mi) of the Panamerican Highway (Chile Route 5) between Puerto Montt and Caldera (in addition to the planned duplication in the Atacama Desert area), the excerpts in between Santiago, Valparaiso and the Central Coast, and the northern access to Concepción and the large project of the Santiago urban highways network, opened between 2004 and 2006. Buses are now the main means of long-distance transportation in Chile, following the decline of its railway network. The bus system covers the entire country, from Arica to Santiago (a 30-hour journey) and from Santiago to Punta Arenas (about 40 hours, with a change at Osorno).
 Chile has a total of 372 runways (62 paved and 310 unpaved). Important airports in Chile include Chacalluta International Airport (Arica), Diego Aracena International Airport (Iquique), Andrés Sabella Gálvez International Airport
-(Antofagasta), Carriel Sur International Airport (Concepción), El Tepual International Airport (Puerto Montt), Presidente Carlos Ibáñez del Campo International Airport (Punta Arenas), La Araucanía International Airport (Temuco), Mataveri International Airport (Easter Island), the most remote airport in the world, as defined by distance to another airport, and the Arturo Merino Benítez International Airport (Santiago) with a traffic of 12,105,524 passengers in 2011. Santiago is headquarters of Latin America's largest airline holding company and Chilean flag carrier LATAM Airlines.
+(Antofagasta), Carriel Sur International Airport (Concepción), El Tepual International Airport (Puerto Montt), Presidente Carlos Ibáñez del Campo International Airport (Punta Arenas), La Araucanía International Airport (Temuco), Mataveri International Airport (Easter Island), the most remote airport in the world, as defined by distance to another airport, and the Arturo Merino Benítez International Airport (Santiago) with a traffic of 26,254,957 passengers in 2024. Santiago is headquarters of Latin America's largest airline holding company and Chilean flag carrier LATAM Airlines.
 
 
 === Internet and telecommunications ===
@@ -341,7 +341,6 @@ Basketball is a popular sport in which Chile earned a bronze medal in the first 
 
 == See also ==
 
-Index of Chile-related articles
 Outline of Chile
 
 

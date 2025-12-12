@@ -9,9 +9,10 @@ Maps are a widespread invention, having been found in several societies across t
 
 == Geography ==
 
-Cartography or map-making is the study and practice of crafting representations of the Earth upon a flat surface (see History of cartography), and one who makes maps is called a cartographer or mapmaker.
+Cartography or map-making is the study and practice of crafting representations of the Earth upon a flat surface, and one who makes maps is called a cartographer or mapmaker.
 Road maps are perhaps the most widely used maps today. They are a subset of navigational maps, which also include aeronautical and nautical charts, railroad network maps, and hiking and bicycling maps. In terms of quantity, the largest number of drawn map sheets is probably made up by local surveys, carried out by municipalities, utilities, tax assessors, emergency services providers, and other local agencies. Many national surveying projects have been carried out by the military, such as the British Ordnance Survey: a civilian government agency, internationally renowned for its comprehensively detailed work.
 The location information showed by maps may include contour lines, indicating constant values of elevation, temperature, rainfall, etc.
+Scholars of critical geography , including John Brian Harley, have posited that all maps are charged with rhetorical biases and should therefore be viewed with a level of skepticism. These scholars argue that maps can change or enforce a certain view of a place by changing the viewer's perspective of the world. For example, Americans widely thought that they were insulated from European conflicts by the Atlantic and Pacific Oceans before aviation maps highlighted the closeness between North America and Europe across the North Pole. The social power of maps has given rise to an entire study of how maps can alter human perspectives of the globe.  
 
 
 == Orientation ==

@@ -132,7 +132,7 @@ The fusion rate in the core is in a self-correcting equilibrium: a slightly high
 
 === Radiative zone ===
 
-The radiative zone is the thickest layer of the Sun, at 0.45 solar radii. From the core out to about 0.7 solar radii, thermal radiation is the primary means of energy transfer. The temperature drops from approximately 7 million to 2 million kelvins with increasing distance from the core. This temperature gradient is less than the value of the adiabatic lapse rate and hence cannot drive convection, which explains why the transfer of energy through this zone is by radiation instead of thermal convection. Ions of hydrogen and helium emit photons, which travel only a brief distance before being reabsorbed by other ions. The density drops a hundredfold (from 20,000 kg/m3 to 200 kg/m3) between 0.25 solar radii and 0.7 radii, the top of the radiative zone.
+The radiative zone is the thickest layer of the Sun. It starts above the core at about 0.25 solar radii and out to about 0.7 solar radii. The zone is so named because thermal radiation is the primary means of energy transfer:  photons scatter from dense gas so often that they take a million years to cross this zone. The temperature drops from approximately 7 million to 2 million kelvins with increasing distance from the core. This temperature gradient is less than the value of the adiabatic lapse rate and hence cannot drive convection, which explains why the transfer of energy through this zone is by radiation instead of thermal convection.  The density drops a hundredfold (from 20,000 kg/m3 to 200 kg/m3) between 0.25 solar radii and 0.7 radii, the top of the radiative zone.
 
 
 === Tachocline ===

@@ -7,8 +7,8 @@ Campbell's theories regarding the concept of a "monomyth" have been the subject 
 
 == Background ==
 
-The study of hero myth narratives can be traced back to 1871 with anthropologist Edward Burnett Tylor's observations of common patterns in the plots of heroes' journeys. The German philologist Johann Georg von Hahn also compiled a list of common motifs, character traits, situations, and events that often appeared in Indo-European hero stories in his 1876 book Sagwissenschaftliche Studien (Scientific Studies).
-In narratology and comparative mythology, others have proposed narrative patterns such as psychoanalyst Otto Rank in 1909 and amateur anthropologist Lord Raglan in 1936. Both Rank and Raglan have lists of cross-cultural traits often found in the accounts of mythical heroes and discuss hero narrative patterns in terms of Freudian psychoanalysis and ritualism.  According to Robert Segal, "The theories of Rank, Campbell, and Raglan typify the array of analyses of hero myths."
+The study of hero myth narratives can be traced back to 1871 with anthropologist Edward Burnett Tylor's observations of common patterns in the plots of heroes' journeys. The German philologist Johann Georg von Hahn also compiled a list of common motifs, character traits, situations, and events that often appeared in Indo-European hero stories in his text Sagwissenschaftliche Studien (Scientific Studies) (1876).
+In narratology and comparative mythology, narrative patterns have been proposed by a number of theorists, such as psychoanalyst Otto Rank in 1909, and amateur anthropologist Lord Raglan in 1936. Both Rank and Raglan have lists of cross-cultural traits often found in the accounts of mythical heroes and discuss hero narrative patterns in terms of Freudian psychoanalysis and ritualism. According to Robert Segal: "The theories of Rank, Campbell, and Raglan typify the array of analyses of hero myths."
 
 
 == Terminology ==
@@ -53,12 +53,14 @@ The adventure is always and everywhere a passage beyond the veil of the known in
 
 
 ==== Belly of the Whale ====
-The belly of the whale represents the final separation from the hero's known world and self. By entering this stage, the person shows a willingness to undergo a metamorphosis. When first entering the stage the hero may encounter a minor danger or setback. According to Campbell,The idea that the passage of the magical threshold is a transit into a sphere of rebirth is symbolized in the worldwide womb image of the belly of the whale. The hero, instead of conquering or conciliating the power of the threshold, is swallowed into the unknown and would appear to have died.
-…
+The belly of the whale represents the final separation from the hero's known world and self. By entering this stage, the person shows a willingness to undergo a metamorphosis. When first entering the stage the hero may encounter a minor danger or setback. According to Campbell:
+
+The idea that the passage of the magical threshold is a transit into a sphere of rebirth is symbolized in the worldwide womb image of the belly of the whale. The hero, instead of conquering or conciliating the power of the threshold, is swallowed into the unknown and would appear to have died.
+...
 
 This popular motif gives emphasis to the lesson that the passage of the threshold is a form of self-annihilation. … [I]nstead of passing outward, beyond the confines of the visible world, the hero goes inward, to be born again. The disappearance corresponds to the passing of a worshipper into the temple—where he is to be quickened by the recollection of who and what he is, namely dust and ashes unless immortal. The temple interior, the belly of the whale, and the heavenly land beyond, above, and below the confines of the world, are one and the same. That is why the approaches of and entrances to temples are flanked and defended by colossal gargoyles [equivalent to] the two rows of teeth of the whale. They illustrate the fact that the devotee at the moment of entry into a temple undergoes a metamorphosis. … Once inside he may be said to have died to time and returned to the World Womb, the World Navel, the Earthly Paradise. … Allegorically, then, the passage into a temple and the hero-dive through the jaws of the whale are identical adventures, both denoting in picture language, the life-centering, life-renewing act.
 In the exemplary Book of Jonah, the eponymous Israelite refuses God's command to prophesy the destruction of Nineveh and attempts to flee by sailing to Tarshish. A storm arises, and the sailors cast lots to determine that Jonah is to blame. He allows himself to be thrown overboard to calm the storm, and is saved from drowning by being swallowed by a "great fish". Over three days, Jonah commits to God's will, and he is vomited safely onto the shore. He subsequently goes to Nineveh and preaches to its inhabitants. Jonah's passage through the belly of the whale can be viewed as a symbolic death and rebirth in Jungian analysis.
-In The Power of Myth, Campbell agrees with Bill Moyers that the original Star Wars film's trash-compactor scene on the Death Star is a strong example of this step of the journey.
+In The Power of Myth, Campbell agrees with Bill Moyers that the original Star Wars film's trash-compactor scene on the Death Star is a strong example of this step of the journey. George Lucas himself has explicitly said that Star Wars was deliberately structured with the hero's journey archetype in mind.
 
 
 === Initiation ===

@@ -4,7 +4,7 @@ Genetic processes work in combination with an organism's environment and experie
 
 
 == Etymology ==
-The word genetics stems from the ancient Greek γενετικός genetikos meaning "genitive"/"generative", which in turn derives from γένεσις genesis meaning "origin".
+William Bateson coined genetics from the ancient Greek γενετικός genetikos meaning "genitive"/"generative", which in turn derives from γένεσις genesis meaning "origin".
 
 
 == History ==
@@ -50,7 +50,7 @@ When studying human genetic diseases, geneticists often use pedigree charts to r
 
 === Multiple gene interactions ===
 
-Organisms have thousands of genes, and in sexually reproducing organisms these genes generally assort independently of each other. This means that the inheritance of an allele for yellow or green pea color is unrelated to the inheritance of alleles for white or purple flowers. This phenomenon, known as "Mendel's second law" or the "law of independent assortment," means that the alleles of different genes get shuffled between parents to form offspring with many different combinations. Different genes often interact to influence the same trait. In the Blue-eyed Mary (Omphalodes verna), for example, there exists a gene with alleles that determine the color of flowers: blue or magenta. Another gene, however, controls whether the flowers have color at all or are white. When a plant has two copies of this white allele, its flowers are white—regardless of whether the first gene has blue or magenta alleles. This interaction between genes is called epistasis, with the second gene epistatic to the first.
+Organisms have thousands of genes, and in sexually reproducing organisms these genes generally assort independently of each other. This means that the inheritance of an allele for yellow or green pea color is unrelated to the inheritance of alleles for white or purple flowers. This phenomenon, known as "Mendel's law of independent assortment, means that the alleles of different genes get shuffled between parents to form offspring with many different combinations. Different genes often interact to influence the same trait. In the Blue-eyed Mary (Omphalodes verna), for example, there exists a gene with alleles that determine the color of flowers: blue or magenta. Another gene, however, controls whether the flowers have color at all or are white. When a plant has two copies of this white allele, its flowers are white—regardless of whether the first gene has blue or magenta alleles. This interaction between genes is called epistasis, with the second gene epistatic to the first.
 Many traits are not discrete features (e.g. purple or white flowers) but are instead continuous features (e.g. human height and skin color). These complex traits are products of many genes. The influence of these genes is mediated, to varying degrees, by the environment an organism has experienced. The degree to which an organism's genes contribute to a complex trait is called heritability. Measurement of the heritability of a trait is relative—in a more variable environment, the environment has a bigger influence on the total variation of the trait. For example, human height is a trait with complex causes. It has a heritability of 89% in the United States. In Nigeria, however, where people experience a more variable access to good nutrition and health care, height has a heritability of only 62%.
 
 

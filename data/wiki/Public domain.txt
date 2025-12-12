@@ -33,7 +33,7 @@ The Musopen project records music in the public domain for the purposes of makin
 
 === Films ===
 
-A public-domain film is a film that was never under copyright, was released to public domain by its author, or whose copyright has expired. All films released in the United States before 1 January 1930 have been entered in the public domain in that country.
+A public-domain film is a film that was never under copyright, was released to public domain by its author, or whose copyright has expired. All films released in the United States before 1 January 1930 have entered the public domain in that country.
 
 
 == Value ==
@@ -97,7 +97,7 @@ In the United States, work created by the federal government is not subject to c
 
 
 ==== Release without copyright notice ====
-Before 1 March 1989, in the US, works could be easily given into the public domain by just releasing it without an explicit copyright notice. With the Berne Convention Implementation Act of 1988 (and the earlier Copyright Act of 1976, which went into effect in 1978), all works were by default copyright protected and needed to be actively given into public domain by a waiver statement/anti-copyright can call notice. Not all legal systems have processes for reliably donating works to the public domain, e.g. civil law of continental Europe. This may even "effectively prohibit any attempt by copyright owners to surrender rights automatically conferred by law, particularly moral rights".
+Before 1 March 1989, in the US, works could be easily given into the public domain by just releasing it without an explicit copyright notice. With the Berne Convention Implementation Act of 1988 (and the earlier Copyright Act of 1976, which went into effect in 1978), all works were by default copyright-protected and needed to be actively given into public domain by a waiver statement/anti-copyright can call notice. Not all legal systems have processes for reliably donating works to the public domain, e.g. civil law of continental Europe. This may even "effectively prohibit any attempt by copyright owners to surrender rights automatically conferred by law, particularly moral rights".
 
 
 ==== Public-domain-like licenses ====

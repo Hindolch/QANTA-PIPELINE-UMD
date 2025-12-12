@@ -188,7 +188,7 @@ By smashing into the asteroid Dimorphos, NASA's Double Asteroid Redirection Test
 
 === Dark comets ===
 
-First identified in 2024, dark comets are asteroids that show non-gravitational acceleration, a behavior normally seen in comets but not asteroids, but have no coma or tail, appearing visually as asteroids. Two families have been identified. The Outer Family consists of objects larger than 100 meters, and have orbits that reach out nearly to Jupiter, resembling Jupiter family comets. The Inner Family dark comets were smaller than 50 meters, darker, and had roughly circular orbits. All dark comets orbit in the main asteroid belt except for 'Oumuamua, an interstellar object, which was the first asteroid-like object to show non-gravitation acceleration, while appearing visually as an asteroid.
+First identified in 2024, dark comets are asteroids that show non-gravitational acceleration, a behavior normally seen in comets but not asteroids, but have no coma or tail, appearing visually as asteroids. Two families have been identified. The Outer Family consists of objects larger than 100 meters, and have orbits that reach out nearly to Jupiter, resembling Jupiter family comets. The Inner Family dark comets were smaller than 50 meters, darker, and had roughly circular orbits. All dark comets orbit in the main asteroid belt except for ʻOumuamua, an interstellar object, which was the first asteroid-like object to show non-gravitation acceleration, while appearing visually as an asteroid.
 
 
 == Observation and exploration ==

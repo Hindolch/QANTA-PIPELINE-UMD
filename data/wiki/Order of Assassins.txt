@@ -1,5 +1,5 @@
-The Order of Assassins (Arabic: حَشّاشِین, romanized: Ḥaššāšīyīn; Persian: حشاشين, romanized: Ḥaššāšīn) was a Nizari Isma'ili religious order of that existed between 1090 and 1275 AD, founded by Hasan al-Sabbah, that was responsible for various high-profile assassinations in the Levant during the time of the crusader states.
-During that time, the members lived in the mountain castles in Persia and the Levant, and held a strict subterfuge policy throughout the Middle East, posing a substantial strategic threat to Fatimid, Abbasid, and Seljuk authority, and killing several Christian leaders. Over the course of nearly 200 years, they killed hundreds who were considered leading enemies of the Nizari Isma'ili state. The modern term assassination is believed to stem from the tactics used by the Assassins.
+The Order of Assassins (Arabic: حَشّاشِین, romanized: Ḥaššāšīyīn; Persian: حشاشين, romanized: Ḥaššāšīn) was a Nizari Isma'ili religious order of that existed between 1090 and 1275 AD, founded by Hasan-i Sabbah, that was responsible for various high-profile assassinations in the Levant during the time of the crusader states.
+During that time, the members lived in the mountain castles in Persia and the Levant, and held a strict subterfuge policy throughout the Middle East, posing a substantial strategic threat to Fatimid, Abbasid, and Seljuk authority, and killing several Christian leaders. Over the course of nearly 200 years, they killed hundreds who were considered leading enemies of the Nizari Isma'ili state. The modern term "assassination" is believed to have stemmed from the tactics used by the Assassins.
 Contemporaneous historians include ibn al-Qalanisi, Ali ibn al-Athir, and Ata-Malik Juvayni. The former two referred to the Assassins as batiniyya, an epithet widely accepted by Isma'ilis themselves.
 
 
@@ -132,6 +132,7 @@ The most widespread awareness of the Assassins in modern Europe, and their incor
 The Assassins appear in many role-playing games and video games, especially in massively multiplayer online games, in addition to shows and books. The assassin character class is a common feature of many such games, usually specializing in single combat and stealth skills, often combined in order to defeat an opponent without exposing the assassin to counter-attack.
 
 The Exile series of action role-playing games revolves around a time-traveling Syrian Assassin who assassinates various religious historical figures and modern world leaders.
+
 The Assassin's Creed video game series portrays a heavily fictionalized Ḥashshāshīn order, which has expanded beyond its Levantine confines and is depicted as having existed throughout recorded history (along with their nemesis, the Knights Templar). Both orders are portrayed as fundamentally philosophical orders, rather than religious orders, in nature, and they are expressly said to predate the faiths that their real-life counterparts arose from, thus allowing their respective "histories" to be expanded, both before and after their factual time-frames. In addition, Assassin's Creed draws much of its content from historical facts, and incorporates the purported last words of Hassan i Sabbah as the actual creed ("Nothing is true; everything is permitted"); the sources of that quote are largely unreliable. Since its release, the series has developed into a franchise which consists of novels, comic books, video games, manga, board games, short films and a theatrically released movie.
 In the Sword of Islam DLC for Paradox Interactive's grand strategy game Crusader Kings II, the Hashashin are a holy order associated with Shi'a Islam. Once established, Shi'ite rulers may hire the Hashashin to fight against non-Shi'a realms, and can potentially vassalize them. The Monks and Mystics DLC expands their role, making the Assassins a unique secret society that Shi'a characters may join.
 In the Disney movie Prince of Persia: The Sands of Time the "Hassansins" were fierce warriors, who served the kings of Persia, until disbanded. The movie's antagonist, Nizam hires them to hunt the protagonist Dastan and steal from him the Dagger of Time.
@@ -139,7 +140,6 @@ In the Netflix series Marco Polo, the emperor Kublai Khan is attacked by a group
 Louis L'Amour, in his book The Walking Drum, used the assassins and the stronghold of Alamut as the location of his main character's enslaved father. Mathurin Kerbouchard, who initially seeks his father in the 12th-century Moor-controlled Spain, then throughout Europe, must ultimately travel to the Stronghold of Alamut in order to rescue Jean Kerbouchard.
 Many of Terry Pratchett's Discworld series of fantasy novels are set in the fictional city of Ankh-Morpork, where crime has become officially regulated by being organised into a number of guilds, including a Guild of Assassins. In most of the novels, the city is led by the autocrat Patrician Lord Vetinari, who began his career as a member of the Assassins Guild.
 The Faceless men, a guild of assassins in the book series A Song of Ice and Fire by George R. R. Martin and in the TV series Game of Thrones are inspired by the Order of Assassins.
-Dota 2, multiplayer online battle arena contains a character named Lanaya, who is described as a "Templar Assassin".
 There are various Assassin class Servants who go by the name of "Hassan-i Sabbah" in the Fate/stay night anime-and-visual novel-franchise. It is established that "Hassan-i-Sabbah" is a title used by each of the nineteen leaders of the Hashshashin. The founder of the Order, identified as the "First Hassan", appears in Fate/Grand Order with the title of "Grand Assassin" due to being the origin of the word itself.
 In Batman comics and related media, the League of Assassins is a fictional offshoot of the Order of Assassins that has survived clandestinely into modern times under the immortal DC Comics supervillain Ra's al Ghul.
 In the Turkish television series Uyanış: Büyük Selçuklu, the Order of Assassins and Hassan-i Sabbah are shown as villains who are the enemies of the Seljuk Empire and Malik-Shah I.
@@ -153,10 +153,10 @@ List of assassinations by the Order of the Assassins
 List of the Order of Assassins
 
 
-== Notes ==
-
-
 == References ==
+
+
+== Sources ==
 Thatcher, Griffithes Wheeler (1911). Assassins. Encyclopædia Britannica, 11th Edition, Volume 2, pp. 774–775.
 Boyle, John Andrew, Editor (1958), History of the World Conqueror by Ala Ad Din Ata Malik Juvaini, Harvard University Press.
 Burman, Edward (1987). The Assassins. Wellingborough: Crucible. ISBN 1-85274-027-2.

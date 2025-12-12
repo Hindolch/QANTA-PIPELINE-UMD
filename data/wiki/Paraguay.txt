@@ -150,7 +150,7 @@ The Central Bank of Paraguay is Paraguay's highest monetary authority, and the c
 === Agriculture ===
 Paraguay is the sixth-largest soybean producer in the world, the second-largest producer of stevia and the ninth-largest exporter of beef.
 In 2018, in addition to soy, the country had a large production of maize and sugar cane, where it positioned itself as the 21st largest producer in the world; other important cultures of the country are cassava, rice, wheat, orange, yerba mate, and sorghum. In livestock, Paraguay produced, in 2020, 481 thousand tons of beef, being the 26th largest producer in the world.
-Soy farming was largely introduced by Brazilians: in 2019, almost 70% of soy and rice producers in Paraguay were people from Brazil, or descendants of Brazilians (the so-called brasiguaios). The first Brazilian producers began to arrive in the country in the 1980s, causing a social disruption up to nowadays. Before the Brazilian influx, much of the land in Paraguay was uncultivated.
+Soy farming was largely introduced by Brazilians: in 2019, almost 70% of soy and rice producers in Paraguay were people from Brazil, or descendants of Brazilians (also known as brasiguaios). The first Brazilian producers began to arrive in the country in the 1980s, causing a social disruption up to nowadays. Before the Brazilian influx, much of the land in Paraguay was uncultivated.
 More than 80% of the cultivable land is owned by 2.6% of landowners. Nearly 8 million hectares were illegally granted, in violation of the agrarian law, to regime supporters during the dictatorship of Alfredo Stroessner (1954–1989), and the state has done nothing since to identify the beneficiaries of this illicit enrichment. These owners include generals, businessmen, and politicians, former presidents of the Republic, Nicaraguan dictator Anastasio Somoza Debayle, and even the ruling Colorado Party. More than 130 peasant leaders have been assassinated since the fall of Stroessner in 1989.
 The methods of appropriating land in Paraguay are numerous. Economist Luis Rojas says that the most common method is to buy land from small producers: "The peasant is offered a sum of money he has never seen in his life. He imagines it's a fortune, leaves for the city, spends it all in three or four months and makes the misery belts grow, because there is no work." Oxfam estimates that 900,000 people have been evicted from the countryside in the last ten years, which represents nearly one-seventh of the population. This crowd of landless peasants is swelling the poverty belts around Asunción, the capital.
 
@@ -171,7 +171,7 @@ Only 2.5% of Paraguay's indigenous population had access to clean drinking water
 
 According to official data from the M.O.P.C (Ministry of Public Works and Communications of Paraguay), in 2019, there were a total of 78,850 km (48,995 mi) of roads, of which 10,372 km (6,445 mi) were paved. One of the most important recent investments in the country's history is the construction of the Bioceanic Corridor, which will cross the north of Paraguay in a horizontal line, connecting Brazil to Argentina, reaching both the ports of northern Chile, as to Brazilian ports. The work will open a new route for exports of products to Asia, and will enable the development of an isolated region of Paraguay, the Chaco. In February 2022, Paraguay inaugurated 275 km of the road (about half of the route), connecting Carmelo Peralta (Alto Paraguay), on the border with Brazil, to Loma Plata (Boquerón), in the center of the country. Paraguay has also been implementing the country's first double highway: 149 km of the Route 2, which connects the capital Asunción to Ciudad del Este, on the border with Brazil (the highway that also connects with port of Paranaguá). In January 2022, there were almost 100 km duplicated.
 The Paraguay-Paraná waterway system is a natural north–south downstream waterway of 1,600 km of a navigable network area, that gives the region direct access to the ocean, therefore, river transport is important and extensive, concentrating the most commercial maritime traffic to the port of Buenos Aires. Asunción is one of the main ports of Paraguay.
-Asunción airport is an important stopover for international airlines and Ciudad del Este airport, is an important international air cargo hub.
+Asunción airport is an important stopover for international airlines and Guaraní International Airport is an important international air cargo hub.
 
 
 === Energy ===
@@ -197,7 +197,7 @@ Traditionally, the majority of the Paraguayan population is considered mixed (me
 Spanish and Guaraní are the two main languages in Paraguay, with both having official status. The Guaraní language is a remarkable trace of the indigenous Guaraní culture that has endured in Paraguay. Guaraní is one of the last commonly used indigenous national languages in South America. In 2015, Spanish was spoken by about 87% of the population, while Guaraní is spoken by more than 90%, or slightly more than 5.8 million speakers. Of rural Paraguayans, 52% are bilingual in Guaraní and Spanish. While Guaraní is still widely spoken, Spanish is generally given a preferential treatment in government, business, media and education as a South American lingua franca.
 Portuguese is the third most used language, spoken by 10% in the country, mostly in the departments bordering Brazil. It is spoken by the so-called "Brasiguayos", Brazilians or descendants who crossed west of the border from the 1970s seeking cheap land.
 There are also approximately 19 other indigenous languages spoken in Paraguay, many of which are threatened by extinction. Languages such as Guana, Ayoreo, and Ishir (Chamacoco) are considered endangered.
-Paraguay ranks relatively well at the EF English Proficiency Index, being at the top 50, as it is the 3rd most English proficient country in South America, after Argentina and Uruguay.
+Paraguay ranks relatively well at the EF English Proficiency Index, being at the top 50, as it is the third most English proficient country in South America, after Argentina and Uruguay.
 
 
 === Religion ===
@@ -207,7 +207,7 @@ Christianity, particularly Catholicism, is the dominant religion in Paraguay. Ac
 
 === Education ===
 
-Literacy was about 93.6% and 87.7% of Paraguayans finish the fifth grade according to UNESCO's last Educational Development Index 2008. Literacy does not differ much by gender. A more recent study reveals that attendance at primary school by children between 6 and 12 years old is about 98%. Primary education is free, mandatory and takes nine years. Secondary education takes three years.
+Literacy was about 93.6% and 87.7% of Paraguayans finished the fifth grade according to UNESCO's Educational Development Index 2008. Literacy does not differ much by gender. A more recent study reveals that attendance at primary school by children between 6 and 12 years old is about 98%. Primary education is free, mandatory and takes nine years. Secondary education takes three years.
 Main universities, all in the capital city, in Paraguay include:
 
 National University of Asunción (public and founded in 1889)
@@ -246,7 +246,6 @@ basketball are most popular. Other sports such as volleyball, handball, futsal, 
 == See also ==
 
 Bibliography of Paraguay
-Index of Paraguay-related articles
 Outline of Paraguay
 
 

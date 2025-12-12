@@ -1,5 +1,4 @@
 A snail is a shelled gastropod. The name is most often applied to land snails, terrestrial pulmonate gastropod molluscs. However, the common name snail is also used for most of the members of the molluscan class Gastropoda that have a coiled shell that is large enough for the animal to retract completely into. When the word "snail" is used in this most general sense, it includes not just land snails but also numerous species of sea snails and freshwater snails. Gastropods that naturally lack a shell, or have only an internal shell, are mostly called slugs, and land snails that have only a very small shell (that they cannot retract into) are sometimes called semi-slugs.
-Snails have considerable human relevance, including as food items, as pests, and as vectors of disease, and their shells are used as decorative objects and are incorporated into jewelry. The snail has also had some cultural significance, tending to be associated with lethargy. The snail has also been used as a figure of speech in reference to very slow-moving things.
 
 
 == Overview ==
@@ -41,6 +40,19 @@ A shell-less animal is much more maneuverable and compressible, so even quite la
 Slugs as a group are far from monophyletic; scientifically speaking "slug" is a term of convenience with little taxonomic significance. The reduction or loss of the shell has evolved many times independently within several very different lineages of gastropods. The various taxa of land and sea gastropods with slug morphology occur within numerous higher taxonomic groups of shelled species; such independent slug taxa are not in general closely related to one another.
 
 
+== Snail speed ==
+Snails are among the slowest land animals, but their exact ranking can vary depending on the species. While a banana slug is often cited as the slowest land animal overall, the garden snail is also consistently ranked as one of the slowest. Garden snails typically move at speeds of about 0.03 mph (50 meters per hour), which is slower than a three-toed sloth's top speed of approximately 0.15 mph (0.24 kph). 
+How snails rank in terms of slowness
+
+Garden snails: are consistently ranked as one of the slowest land animals.
+Banana slugs: are frequently cited as the absolute slowest land animal, moving at an even slower pace than garden snails.
+Reasons for slowness
+
+Slow metabolism: Like other slow animals, snails have a low metabolic rate to conserve energy.
+Movement method: They move by contracting their muscular "ventral foot" in a wave-like motion, which is not an efficient form of locomotion.
+Mucus production: Snails secrete a layer of mucus to help them glide and reduce friction. Producing this mucus takes time and energy, which further slows them down.
+
+
 == Parasitic diseases ==
 Snails can also be associated with parasitic diseases such as schistosomiasis, angiostrongyliasis, fasciolopsiasis, opisthorchiasis, fascioliasis, paragonimiasis and clonorchiasis, which can be transmitted to humans.
 
@@ -56,7 +68,7 @@ The decollate snail (Rumina decollata) will capture and eat garden snails, and b
 
 
 === Textiles ===
-Certain varieties of snails, notably the family Muricidae, produce a secretion that is a color-fast natural dye. The ancient Tyrian purple was made in this way as were other purple and blue dyes. The extreme expense of extracting this secretion is sufficient quantities limited its use to the very wealthy. It is such dyes as these that led to certain shades of purple and blue being associated with royalty and wealth.
+Certain varieties of snails, notably the family Muricidae, produce a secretion that is a color-fast natural dye. The ancient Tyrian purple was made in this way as were other purple and blue dyes. The extreme expense of extracting this secretion in sufficient quantities limited its use to the very wealthy. It is such dyes as these that led to certain shades of purple and blue being associated with royalty and wealth.
 
 
 === As pets ===

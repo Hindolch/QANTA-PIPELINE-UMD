@@ -106,7 +106,7 @@ List of things named after John Horton Conway
 Alpert, Mark (1999). Not Just Fun and Games Scientific American, April 1999
 Boden, Margaret (2006). Mind As Machine, Oxford University Press, 2006, p. 1271
 du Sautoy, Marcus (2008). Symmetry, HarperCollins, p. 308
-Guy, Richard K (1983). Conway's Prime Producing Machine Mathematics Magazine, Vol. 56, No. 1 (Jan. 1983), pp. 26–33
+Guy, Richard K (1983). Conway's Prime Producing Machine Mathematics Magazine, Vol. 56, No. 1 (Jan 1983), pp. 26–33
 Roberts, Siobhan (2015). Genius at play: The curious mind of John Horton Conway. Bloomsbury. ISBN 978-1620405932.
 O'Connor, John J.; Robertson, Edmund F., "John Horton Conway", MacTutor History of Mathematics Archive, University of St Andrews
 John Horton Conway at the Mathematics Genealogy Project

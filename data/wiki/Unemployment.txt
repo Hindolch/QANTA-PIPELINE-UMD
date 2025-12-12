@@ -1,5 +1,4 @@
-Unemployment, according to the OECD (Organisation for Economic Co-operation and Development), is the proportion of people above a specified age (usually 15) not being in paid employment or self-employment but currently available for work during the reference period.
-Unemployment is measured by the unemployment rate, which is the number of people who are unemployed as a percentage of the labour force (the total number of people employed added to those unemployed).
+Unemployment is the state not being in paid employment or self-employment but currently available for work. Unemployment is measured by the unemployment rate, which is the number of people who are unemployed as a percentage of the labour force (the total number of people employed above a specified age added to those unemployed) during the reference period.
 Unemployment can have many sources, such as the following below:
 
 the status of the economy, which can be influenced by a recession
@@ -360,6 +359,7 @@ Dimsdale, Nicholas H.; Nicholas, Horsewood; Arthur, Van Riel (2006). "Unemployme
 Heimberger, Philipp; Kapeller, Jakob; Schütz, Bernhard (2017). "The NAIRU determinants: What's structural about unemployment in Europe?". Journal of Policy Modeling. 39 (5): 883–908. doi:10.1016/j.jpolmod.2017.04.003.
 Kato, Michiya (2010). Unemployment and Public Works Policy in Interwar Britain and Japan: An International Comparison (69-101 ed.).
 Kaufman, Roger T. (1980). Patterns of Unemployment in North America, Western Europe and Japan: Unemployment in Western countries (3-35 ed.). Palgrave Macmillan.
+Keyoe Timothy J., and Edward C. Prescott. Great depressions of the Twentieth Century (Federal Reserve Bank of Minneapolis, 2007), Sixteen essays by experts. covering the US, Europe, & Latin America.
 Nickell, Stephen; Luca, Nunziata; Wolfgang, Ochel (2005). "Unemployment in the OECD since the 1960s. What do we know?". Economic Journal. 115.500: 1–27.
 Stachura, P.D. (1986). Unemployment and the Great Depression in Weimar Germany. Palgrave Macmillan UK. ISBN 978-1-349-18355-5. Retrieved 3 June 2023.
 Topp (2017). "Unemployment and Economic Policy in Denmark in the 1930s". Scandinavian Economic History Review. 56 (1): 71–90.
@@ -369,11 +369,12 @@ Webb, Sidney (1912). How the Government Can Prevent Unemployment. The National C
 === Historical: United States ===
 Hatton, T. J.; Thomas, M. (2010). "Labour markets in the interwar period and economic recovery in the UK and the USA". Oxford Review of Economic Policy. 26 (3): 463–485. doi:10.1093/oxrep/grq023.
 Jensen, Richard J. (1989). "The causes and cures of unemployment in the Great Depression" (PDF). Journal of Interdisciplinary History. 19 (4): 553–583. Archived from the original (PDF) on 2 November 2021. Retrieved 24 January 2021..
-John, K (2019). "The Real U.S. Unemployment Rate Is Twice the Official Rate, and the Phillips Curve" (PDF). CESifo Working Papers: 54–74.
+Komlos, John (2019). "The Real U.S. Unemployment Rate Is Twice the Official Rate, and the Phillips Curve" (PDF). CESifo Working Papers: 54–74.
 Keyssar, Alexander (1986). Out of Work: The First Century of Unemployment in Massachusetts. Cambridge University Press. ISBN 978-0-521-23016-2.
 Margo, Robert A. (1993). "Employment and Unemployment in the 1930s". Journal of Economic Perspectives. 7 (2): 41–59. doi:10.1257/jep.7.2.41.
 Stricker, Frank (2020). American Unemployment: Past, Present, and Future. University of Illinois Press.
 Sundstrom, William A. (1992). "Last Hired, First Fired? Unemployment and Urban Black Workers During the Great Depression". The Journal of Economic History. 52 (2): 415–429. doi:10.1017/S0022050700010834. JSTOR 2123118.
+Vedder, Richard K., and Lowell E. Gallaway. Out of Work: Unemployment and Government in Twentieth-Century America (NYU Press, 1997)
 
 
 == External links ==

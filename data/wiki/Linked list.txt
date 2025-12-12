@@ -44,7 +44,6 @@ In the case of a circular doubly linked list, the first node also points to the 
 
 
 === Sentinel nodes ===
-
 In some implementations an extra 'sentinel' or 'dummy' node may be added before the first data record or after the last one. This convention simplifies and accelerates some list-handling algorithms, by ensuring that all links can be safely dereferenced and that every list (even one that contains no data elements) always has a "first" and "last" node.
 
 

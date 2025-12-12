@@ -335,6 +335,41 @@ options:
 
 ---
 
+## 🖥️ Streamlit Web UI (optional)
+
+A lightweight Streamlit frontend is included to run the entire pipeline from your browser. You can run the full pipeline either via the command-line interface or via this web UI — both perform the same DOCX → JSON → CSV → merge → (optional) Hugging Face upload workflow.
+
+- Run from CLI:
+  ```powershell
+  python batch_convert_all_rounds.py --input-dir "./2025 PACE NSC Packets 2(./YOUR DATA FOLDER PATH)" --output-dir "data/output" --wiki-dir "data/wiki" --push-hf --hf-repo "your-username/your-repo-name"
+  ```
+- Run the Streamlit app:
+  ```powershell
+  streamlit run app.py
+  ```
+
+Features:
+- Point-and-click configuration for Input / Output / Wiki cache directories
+- Optional force re-download of Wikipedia articles
+- Dynamic merged dataset filename
+- Enter your Hugging Face repo ID + token to push the merged CSV to your account
+- Shows a clickable Hugging Face dataset link after upload
+
+Run the UI:
+
+```powershell
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+Default local URL: http://localhost:8501
+
+Notes:
+- The UI creates output/wiki directories automatically; it warns and can back up/clear existing outputs to avoid accidental overwrite.
+- To push the merged CSV only, enable "Push to Hugging Face Hub", enter your HF repo (e.g. username/repo) and token — the app will display a link to the dataset after successful upload.
+
+---
+
 ## 📋 Limitations & Future Improvements
 
 ### 1. **Canonical Answer Mapping**

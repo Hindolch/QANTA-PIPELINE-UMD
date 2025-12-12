@@ -740,7 +740,7 @@ and later structures inspired by their design such as the Taj Mahal in India, th
 The stylized nested squares of a Tibetan mandala, like the design of a stupa, function as a miniature model of the cosmos. Some formats for film photography use a square aspect ratio, notably Polaroid cameras, medium format cameras, and Instamatic cameras. Painters known for their frequent and prominent use of square forms and frames include Josef Albers, Kazimir Malevich Piet Mondrian, and Theo van Doesburg.
 Baseball diamonds and boxing rings are square despite being named for other shapes. In the quadrille and square dance, four couples form the sides of a square. In Samuel Beckett's minimalist television play Quad, four actors walk along the sides and diagonals of a square.
 
-The square go board is said to represent the earth, with the 361 crossings of its lines representing days of the year. The chessboard inherited its square shape from a pachisi-like Indian race game and in turn passed it on to checkers. In two ancient games from Mesopotamia and Ancient Egypt, the Royal Game of Ur and Senet, the game board itself is not square, but rectangular, subdivided into a grid of squares. The ancient Greek Ostomachion puzzle (according to some interpretations) involves rearranging the pieces of a square cut into smaller polygons, as does the Chinese tangram. Another set of puzzle pieces, the polyominos, are formed from squares glued edge-to-edge. Medieval and Renaissance horoscopes were arranged in a square format, across Europe, the Middle East, and China. Other recreational uses of squares include the shape of origami paper, and a common style of quilting involving the use of square quilt blocks. Scrabble players place square lettered tiles onto a grid of 
+The square go board is said to represent the earth, with the 361 crossings of its lines representing days of the year. The chessboard inherited its square shape from a pachisi-like Indian race game and in turn passed it on to checkers. In two ancient games from Mesopotamia and Ancient Egypt, the Royal Game of Ur and Senet, the game board itself is not square, but rectangular, subdivided into a grid of squares. The ancient Greek Ostomachion puzzle (according to some interpretations) involves rearranging the pieces of a square cut into smaller polygons, as does the Chinese tangram. Another set of puzzle pieces, the polyominos, are formed from squares glued edge-to-edge; in this context, a single square is called a monomino. Medieval and Renaissance horoscopes were arranged in a square format, across Europe, the Middle East, and China. Other recreational uses of squares include the shape of origami paper, and a common style of quilting involving the use of square quilt blocks. Scrabble players place square lettered tiles onto a grid of 
   
     
       
@@ -1396,7 +1396,18 @@ Elements IV.6–7 also give constructions for a square inscribed in a circle and
 
 == Related topics ==
 
-The Schläfli symbol of a square is {4}. A truncated square is an octagon. The square belongs to a family of regular polytopes that includes the cube in three dimensions and the hypercubes in higher dimensions, and to another family that includes the regular octahedron in three dimensions and the cross-polytopes in higher dimensions. The cube and hypercubes can be given vertex coordinates that are all 
+The Schläfli symbol of a square is 
+  
+    
+      
+        {
+        4
+        }
+      
+    
+    {\displaystyle \{4\}}
+  
+. A truncated square is an octagon. The square belongs to a family of regular polytopes that includes the cube in three dimensions and the hypercubes in higher dimensions, and to another family that includes the regular octahedron in three dimensions and the cross-polytopes in higher dimensions. The cube and hypercubes can be given vertex coordinates that are all 
   
     
       
@@ -1479,7 +1490,8 @@ The Finsler–Hadwiger theorem states that for two squares
     {\displaystyle B'D}
   
  form a third square. This theorem can be applied repeatedly to prove van Aubel's theorem, that the centers of four squares constructed on the sides of a quadrilateral form a midsquare quadrilateral. A square cannot be dissected into an odd number of equal-area triangles, a result of Monsky's theorem.
-Mathematical puzzles that include squares are square arrays that are filled with numbers in Sudoku with generalized symbols in Latin square, and with color or blank in nonogram, as well as paradoxical optical illusions such as the missing square puzzle and the chessboard paradox.
+Minkowski–Bouligand dimension or box-counting dimension involves squares to determine the fractal dimension of a set in Euclidean space or metric space, the squares are named "boxes". The fractal dimension of a set is attainable by lying on an evenly spaced grid and counting the number of squares required to cover the set. The method of box counting is used when the grid is finer.
+Mathematical puzzles that include squares are square arrays that are filled with numbers in Sudoku with generalized symbols in Latin square, and with color or blank in nonogram, as well as paradoxical optical illusions such as the missing square puzzle and the chessboard paradox. The Langton's ant, in cellular automaton, is a two-dimensional square lattice consisting of a black-or-white colored grid wherein an ant assigns the combination of those colors and its current direction of motion.
 
 
 === Inscribed squares ===
@@ -1490,7 +1502,7 @@ For an inscribed square in a triangle, at least one side of the square lies on a
 
 === Area and quadrature ===
 
-Since ancient times, many units for surface area have been defined from squares, typically with a standard unit of length as its side, for example a square meter or square inch.
+Since ancient times, many units for surface area have been defined from squares, typically with a standard unit of length as its side, for example, a square meter or square inch.
 In ancient Greek deductive geometry, the area of a planar shape was measured and compared by constructing a square with the same area by using only a finite number of steps with compass and straightedge, a process called quadrature or squaring. Euclid's Elements shows how to do this for rectangles, parallelograms, triangles, and then more generally for simple polygons by breaking them into triangular pieces. Some shapes with curved sides could also be squared, such as the lune of Hippocrates and the parabola.
 This use of a square as the defining shape for area measurement also occurs in the Greek formulation of the Pythagorean theorem: squares constructed on the two sides of a right triangle have equal total area to a square constructed on the hypotenuse. Stated in this form, the theorem would be equally valid for other shapes on the sides of the triangle, such as equilateral triangles or semicircles, but the Greeks used squares. In modern mathematics, this formulation of the theorem using areas of squares has been replaced by an algebraic formulation involving squaring numbers: the lengths of the sides and hypotenuse of the right triangle obey the equation 
   
@@ -2031,14 +2043,15 @@ The Euclidean plane can be defined in terms of the real coordinate plane by adop
     
     {\displaystyle 2d}
   
-.
+. Relatedly, a square and circle can become an intermediate shape known as squircle.
 
 
 == See also ==
 
-Minkowski–Bouligand dimension, a way of determining the fractal dimension of a set by covering the number of squares.
+Geometric Shapes (Unicode block), the Unicode block involves squares alongside its similarities
+Orbison illusion, famous optical illusion involving squares
 Square trisection, a problem of cutting and reassembling one square into three squares
-Squircle, a shape intermediate between a square and a circle
+Square wave, a non-sinusoidal periodic wavelength
 Tarski's circle-squaring problem, dividing a disk into sets that can be rearranged into a square
 Thébault's theorem, on squares placed on the sides of a quadrilateral
 

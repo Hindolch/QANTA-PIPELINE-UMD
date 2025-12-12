@@ -40,7 +40,7 @@ In 1938, nearly a third of industrial workers were unemployed, malnutrition was 
 
 === The Blitz and post-war development ===
 
-In the spring of 1941, the German Luftwaffe appeared twice over Belfast. In addition to the shipyards and the Short & Harland aircraft factory, the Belfast Blitz severely damaged or destroyed more than half the city's housing stock, and devastated the old town centre around High Street. In the greatest loss of life in any air raid outside of London, more than a thousand people were killed.
+In the spring of 1941, the German Luftwaffe appeared four times over Belfast. In addition to the shipyards and the Short & Harland aircraft factory, the Belfast Blitz severely damaged or destroyed more than half the city's housing stock, and devastated the old town centre around High Street. In the greatest loss of life in any air raid outside of London, more than a thousand people were killed.
 At the end of the Second World War, the Unionist government undertook programmes of "slum clearance" (the Blitz had exposed the "uninhabitable" condition of much of the city's housing) which involved decanting populations out of mill and factory built red-brick terraces and into new peripheral housing estates. At the same time, a British-funded welfare state "revolutionised access" to education and health care. The resulting rise in expectations; together with the uncertainty caused by the decline of the city's Victorian-era industries, contributed to growing protest, and counter protest, in the 1960s over the Unionist government's record on civil and political rights.
 
 
@@ -198,7 +198,7 @@ Originating in the Short Brothers' missile division, since 2001 the Thales Group
 
 === Fintech and cybersecurity ===
 From the 1990s, Belfast established itself as a significant location for call centres and for other back-office services. Attracting U.S. operators such as Citi, Allstate, Liberty Mutual, Aflac and FD Technologies (Kx Systems), it as since been identified by the UK Treasury as "key fintech [financial technology] hub". Fintech's key areas (its "ABCD") are artificial intelligence, blockchain, cloud computing, and big data.
-The sector's principal constraint, cyber security, has been addressed since 2004 by the Queens University Institute of Electronics, Communications and Information Technology (IECIT), and its Centre for Secure Information Technologies (CSIT). The IECIT is the anchor tenant at Catalyst (science park) in the Titanic Quarter, which hosts a cluster of companies seeking to offer innovative cyber-security solutions.
+The sector's principal constraint, cyber security, has been addressed since 2004 by the Queens University Institute of Electronics, Communications and Information Technology (IECIT), and its Centre for Secure Information Technologies (CSIT). The IECIT is the anchor tenant at Catalyst (science park) in the Titanic Quarter, which hosts a cluster of cyber-security companies.
 
 
 === Film ===

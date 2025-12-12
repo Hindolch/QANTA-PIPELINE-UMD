@@ -8,7 +8,7 @@ Thermonuclear weapons are the only artificial source of explosions above one meg
 
 
 == Terminology ==
-Phrases of the combination "thermonuclear"/"fusion"/"hydrogen" and "weapon"/"bomb"/"device" are applied primarily to multi-stage devices, which allow large fusion yields. These operate on the radiation implosion principle, and are synonymous with the Teller-Ulam design, independently developed by at least five countries.
+The adjectives "thermonuclear," "fusion", and "hydrogen" are used mainly to describe multi-stage nuclear weapons, which allow large fusion yields. These operate on the radiation implosion principle, and are synonymous with the Teller-Ulam design, independently developed by at least five countries.
 "Thermonuclear" refers to thermonuclear fusion, where nuclei are fused via their high collision speeds at high temperatures. Unlike fission weapons, whose detonations are mediated via neutron transport, thermonuclear yield is also more directly dependent on the temperatures and pressures achieved during compression of the secondary.
 These are in contrast to boosted fission devices, which employ thermonuclear fusion, but detonate a single stage design theoretically limited to around one megaton. 
 

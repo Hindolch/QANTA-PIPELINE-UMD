@@ -59,7 +59,7 @@ This is most commonly seen among immigrant communities. The most important facto
 === Cognitive ability ===
 There is no evidence for a bilingual advantage in executive function and lexical difficulties are confined to those who learnt a second language later in life. Some initial reports concluded that people who use more than one language have been reported to be more adept at language learning compared to monolinguals, and this idea persisted in part due to publication bias. Current meta-analyses find no effect.
 Individuals who are highly proficient in two or more languages have been reported to have a certain very marginally enhanced or no different executive function, and older onset for dementia. More recently, however, this claim has come under strong criticism with repeated failures to replicate. 
-Yet, many prior studies do not reliably quantify samples of bilinguals under investigation. An emerging perspective is that studies on bilingual and multilingual cognitive abilities need to account for validated and granular quantifications of language experience in order to identify boundary conditions of possible cognitive effects. 
+Yet, many prior studies do not reliably quantify samples of bilinguals under investigation. An emerging perspective is that studies on bilingual and multilingual cognitive abilities need to account for validated and granular quantifications of language experience in order to identify boundary conditions of possible cognitive effects.
 
 
 === Auditory ability ===
@@ -108,6 +108,12 @@ Bilingual interaction can even take place without speakers switching between lan
 
 == Computing ==
 
+
+=== Artificial Languages ===
+Computer programs are written using artificial languages known as Programming Languages. A computer programmer capable of reading and writing software in a multiple languages can also be called a polyglot.
+
+
+=== Natural Languages ===
 With emerging markets and expanding international cooperation, business users expect to be able to use software and applications in their own language. Multilingualisation (or "m17n", where "17" stands for 17 omitted letters) of computer systems can be considered part of a continuum between internationalization and localization:
 
 A localized system has been adapted or converted for a particular locale (other than the one it was originally developed for), including the language of the user interface, input, and display, and features such as time/date display and currency; but each instance of the system only supports a single locale.
@@ -138,12 +144,13 @@ In Africa, knowledge of English is important not only for multinational companie
 Languages that are used in multiple countries include:
 
 Arabic in Morocco, Tunisia, Algeria, Libya, Mauritania, Egypt, Sudan, Lebanon, Palestine, Syria, Iraq, Jordan, Saudi Arabia, Yemen, United Arab Emirates, Kuwait, Qatar, Bahrain, and Oman; and to a co-official extent in Mali, Chad, Somalia, Eritrea, Djibouti, Zanzibar, and the Comoros.
-Chinese in China, Taiwan, Singapore, and to a co-official extent in Malaysia and Brunei.
+Chinese in China, Taiwan, Singapore, and a minority in Malaysia
 German in Germany, Austria, Switzerland, Liechtenstein, Luxembourg, and Belgium.
 Greek in Greece, Cyprus, southern Albania, and Italy (in Calabria and Salento).
 French in France, Belgium, Luxembourg, Monaco, Andorra, and Switzerland; and to a co-official extent in Canada, as well as much of Francophone Africa including Algeria, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Comoros, Republic of the Congo, Democratic Republic of the Congo, Côte d'Ivoire, Djibouti, Equatorial Guinea, Gabon, Gambia, Guinea, Guinea-Bissau, Madagascar, Mali, Mauritania, Mauritius, Morocco, Tunisia, Niger, Rwanda, Seychelles, and Togo.
+Spanish in Spain, Andorra, much of the Hispanic America including Mexico, Argentina, Bolivia, Paraguay, Peru, etc; Western Sahara, Equatorial Guinea and a minority in the Philippines.
 Portuguese in Portugal, Brazil, Angola, Mozambique, Cape Verde, Guinea-Bissau, Equatorial Guinea, São Tomé e Príncipe, Timor-Leste and Macau.
-English in the United Kingdom, United States of America, Canada, Australia, New Zealand, Ireland, South Africa, Kenya, Nigeria, India, Antigua and Barbuda,The Bahamas, Barbados, Belize, Botswana, Dominica, Eswatini, Fiji, the Gambia, Hong Kong, Singapore, Malaysia, Zambia, Zimbabwe and Malta.
+English in the United Kingdom, United States of America, Canada, Australia, New Zealand, Ireland, South Africa, Kenya, Nigeria, India, Antigua and Barbuda, The Bahamas, Barbados, Belize, Botswana, Dominica, Eswatini, Fiji, the Gambia, Hong Kong, Singapore, Malaysia, Zambia, Zimbabwe and Malta.
 Dutch in the Netherlands, Belgium, Aruba, Sint Maarten, Curaçao, Caribbean Netherlands and Suriname.
 Swedish in Sweden and Finland.
 Italian in Italy, Switzerland, and San Marino; and to a co-official extent in Malta.
@@ -162,7 +169,7 @@ Continued global diversity has led to an increasingly multilingual population. E
 
 == Americas ==
 United States
-According to the US census, there are 76 million multilingual people, 23% of the population. In March of 2025 the White House released an executive order declaring, “...it is in America’s best interest for the Federal Government to designate one — and only one — official language” (The White House). In 2021 there were 5.3 million students receiving English Language Learner services [1]. Additionally, Net immigration rates have drastically increased since 2021 from 247,000 to 2.8 million in 2024 (US census).
+According to the US census, there are 76 million multilingual people, 23% of the population. In March 2025 the White House released an executive order declaring, “...it is in America’s best interest for the Federal Government to designate one — and only one — official language” (The White House). In 2021 there were 5.3 million students receiving English Language Learner services [1]. Additionally, Net immigration rates have drastically increased since 2021 from 247,000 to 2.8 million in 2024 (US census).
 
 
 == Music ==

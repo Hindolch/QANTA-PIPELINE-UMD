@@ -6,15 +6,26 @@ Ammonia boils at −33.34 °C (−28.012 °F) at a pressure of one atmosphere, b
 
 == Etymology ==
 The name ammonia is derived from the name of the Egyptian deity Amun (Ammon in Greek) since priests and travelers of those temples would burn soils rich in ammonium chloride, which came from animal dung and urine. Pliny, in Book XXXI of his Natural History, refers to a salt named hammoniacum, so called because of the proximity of its source to the Temple of Jupiter Amun (Greek Ἄμμων Ammon) in the Roman province of Cyrenaica. However, the description Pliny gives of the salt does not conform to the properties of ammonium chloride. According to Herbert Hoover's commentary in his English translation of Georgius Agricola's De re metallica, it is likely to have been common sea salt. In any case, that salt ultimately gave ammonia and ammonium compounds their name.
+Substances containing ammonia, or those that are similar to it, are called ammoniacal.
 
 
 == Natural occurrence (abiological) ==
-Traces of ammonia/ammonium are found in rainwater. Ammonium chloride (sal ammoniac), and ammonium sulfate are found in volcanic districts. Crystals of ammonium bicarbonate have been found in Patagonia guano.
-Ammonia is found throughout the Solar System on Earth, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto, among other places: on smaller, icy bodies such as Pluto, ammonia can act as a geologically important antifreeze, as a mixture of water and ammonia can have a melting point as low as −100 °C (−148 °F; 173 K) if the ammonia concentration is high enough and thus allow such bodies to retain internal oceans and active geology at a far lower temperature than would be possible with water alone. Substances containing ammonia, or those that are similar to it, are called ammoniacal.
+Ammonia is found throughout the Solar System on Earth, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto, among other places: on smaller, icy bodies such as Pluto, ammonia can act as a geologically important antifreeze, as a mixture of water and ammonia can have a melting point as low as −100 °C (−148 °F; 173 K) if the ammonia concentration is high enough and thus allow such bodies to retain internal oceans and active geology at a far lower temperature than would be possible with water alone. 
+
+
+=== Atmospheric occurrence ===
+Ammonia arises in the atmosphere from both anthropogenic and natural sources. The prevalent source is agriculture at around 80%. This includes fertilizers, urea produced by livestock, and manure in order of contribution. Biomass burning contributes also to atmospheric ammonia, with forest fires and agricultural waste burning emitting roughly the same amount of ammonia into the atmosphere. Ammonia can be emitted naturally from soils and plants when the concentration of ammonia in the soil or plant is higher than the concentration of ammonia in the air. This is known as one part of the bi-directional exchange model.
+The dominant sink for atmospheric ammonia is rain. In soil, ammonia-oxidizing archaea (AOA) and ammonia-oxidizing bacteria (AOB) convert ammonia into nitrite. The atmospheric lifetime of ammonia through these processes vary from 12 to 48 hours. 
+
+
+=== Reactions of atmospheric ammonia ===
+Atmospheric ammonia gives sulfate-nitrate aerosols through reactions with sulfuric acid and nitric acid, with ammonium sulfate being prominent in this process due to its low vapor pressure. These aerosols affect the climate and can impact human health. Atmospheric ammonia can also be oxidized itself by the hydroxyl radical: 
+
+NH3 + ·OH → ·NH2 + H2O
+The lifetime of ammonia through oxidization is much longer than through deposition, with it being as low as 30 days. The amino radical then can be oxidized by multiple compounds to form greenhouse gases such as nitrous oxide. The oxidation of ammonia may also result in the production of nitric oxide, increasing NOx levels significantly in rural areas where relative levels are typically lower compared to urban areas.
 
 
 == Properties ==
-
 Ammonia is a colourless gas with a characteristically pungent smell. It is lighter than air, its density being 0.589 times that of air. It is easily liquefied due to the strong hydrogen bonding between molecules. Gaseous ammonia turns to a colourless liquid, which boils at −33.1 °C (−27.58 °F), and freezes to colourless crystals at −77.7 °C (−107.86 °F). Little data is available at very high temperatures and pressures, but the liquid-vapor critical point occurs at 405 K and 11.35 MPa.
 
 
@@ -38,7 +49,12 @@ These solutions are strong reducing agents. At higher concentrations, the soluti
 
 ==== Redox properties of liquid ammonia ====
 
-The range of thermodynamic stability of liquid ammonia solutions is very narrow, as the potential for oxidation to dinitrogen, E° (N2 + 6 [NH4]+ + 6 e− ⇌ 8 NH3), is only +0.04 V. In practice, both oxidation to dinitrogen and reduction to dihydrogen are slow. This is particularly true of reducing solutions: the solutions of the alkali metals mentioned above are stable for several days, slowly decomposing to the metal amide and dihydrogen. Most studies involving liquid ammonia solutions are done in reducing conditions; although oxidation of liquid ammonia is usually slow, there is still a risk of explosion, particularly if transition metal ions are present as possible catalysts.
+n practice, both oxidation to dinitrogen and reduction to dihydrogen are slow, although ammonia in principle is labile under both conditions. The thermodynamic stability of liquid ammonia solutions is low because it is easily oxidized to dinitrogen:
+
+N2 + 6 [NH4]+ + 6 e− ⇌ 8 NH3 E° = +0.04 V
+Although oxidation of liquid ammonia is usually slow, there is still a risk of explosion, particularly if transition metal ions are present as possible catalysts. The stability of ammonia under reducing conditions is evidenced by the slow (hours) decomposition of solutions containing alkali metals.  That decomposition give metal amide and dihydrogen:
+
+2 NH3 + 2 M  →   2 MNH2 + H2
 
 
 === Structure ===
@@ -47,11 +63,10 @@ The ammonia molecule has a trigonal pyramidal shape, as predicted by the valence
 The ammonia molecule readily undergoes nitrogen inversion at room temperature; a useful analogy is an umbrella turning itself inside out in a strong wind. The energy barrier to this inversion is 24.7 kJ/mol, and the resonance frequency is 23.79 GHz, corresponding to microwave radiation of a wavelength of 1.260 cm. The absorption at this frequency was the first microwave spectrum to be observed and was used in the first maser.
 
 
-=== Amphotericity ===
-One of the most characteristic properties of ammonia is its basicity. Ammonia is considered to be a weak base. It combines with acids to form ammonium salts; thus, with hydrochloric acid it forms ammonium chloride (sal ammoniac); with nitric acid, ammonium nitrate, etc. Perfectly dry ammonia gas will not combine with perfectly dry hydrogen chloride gas; moisture is necessary to bring about the reaction.
+=== Basicity ===
+One of the most characteristic properties of ammonia is its basicity. Ammonia is considered to be a weak base. It combines with acids to form ammonium salts. Thus, with hydrochloric acid it forms ammonium chloride, with nitric acid, ammonium nitrate, etc. Perfectly dry ammonia gas will not combine with perfectly dry hydrogen chloride gas; moisture is necessary to bring about the reaction.
 As a demonstration experiment under air with ambient moisture, opened bottles of concentrated ammonia and hydrochloric acid solutions produce a cloud of ammonium chloride, which seems to appear 'out of nothing' as the salt aerosol forms where the two diffusing clouds of reagents meet between the two bottles.
 
-The salts produced by the action of ammonia on acids are known as the ammonium salts and all contain the ammonium ion ([NH4]+).
 Although ammonia is well known as a weak base, it can also act as an extremely weak acid. It is a protic substance and is capable of formation of amides (which contain the NH−2 ion). For example, lithium dissolves in liquid ammonia to give a blue solution (solvated electron) of lithium amide:
 
 
@@ -89,8 +104,8 @@ Other organonitrogen compounds include alprazolam, ethanolamine, ethyl carbamate
 Nitric acid is generated via the Ostwald process by oxidation of ammonia with air over a platinum catalyst at 700–850 °C (1,292–1,562 °F), ≈9 atm. Nitric oxide and nitrogen dioxide are intermediate in this conversion:
 
 Nitric acid is used for the production of fertilisers, explosives, and many organonitrogen compounds.
-The hydrogen in ammonia is susceptible to replacement by a myriad substituents. 
-Ammonia gas reacts with metallic sodium to give sodamide, NaNH2.
+The hydrogen in ammonia is susceptible to replacement by a myriad substituents. With alkenes and with alcohols, ammonia gives alkylamines. 
+Ammonia gas reacts with metallic sodium to give sodamide, NaNH2
 With chlorine, monochloramine is formed.
 Pentavalent ammonia is known as λ5-amine, nitrogen pentahydride decomposes spontaneously into trivalent ammonia (λ3-amine) and hydrogen gas at normal conditions. This substance was once investigated as a possible solid rocket fuel in 1966.
 Ammonia is also used to make the following compounds:
@@ -105,21 +120,8 @@ Ammonia is a ligand forming metal ammine complexes. For historical reasons, ammo
 Ammonia forms 1:1 adducts with a variety of Lewis acids such as I2, phenol, and Al(CH3)3. Ammonia is a hard base (HSAB theory) and its E & C parameters are EB = 2.31 and CB = 2.04. Its relative donor strength toward a series of acids, versus other Lewis bases, can be illustrated by C-B plots.
 
 
-== Detection and determination ==
-
-
-=== Ammonia in solution ===
-
-Ammonia and ammonium salts can be readily detected, in very minute traces, by the addition of Nessler's solution, which gives a distinct yellow colouration in the presence of the slightest trace of ammonia or ammonium salts. The amount of ammonia in ammonium salts can be estimated quantitatively by distillation of the salts with sodium (NaOH) or potassium hydroxide (KOH), the ammonia evolved being absorbed in a known volume of standard sulfuric acid and the excess of acid then determined volumetrically; or the ammonia may be absorbed in hydrochloric acid and the ammonium chloride so formed precipitated as ammonium hexachloroplatinate, [NH4]2[PtCl6].
-
-
-=== Gaseous ammonia ===
-Sulfur sticks are burnt to detect small leaks in industrial ammonia refrigeration systems. Larger quantities can be detected by warming the salts with a caustic alkali or with quicklime, when the characteristic smell of ammonia will be at once apparent. Ammonia is an irritant and irritation increases with concentration; the permissible exposure limit is 25 ppm, and lethal above 500 ppm by volume. Higher concentrations are hardly detected by conventional detectors, the type of detector is chosen according to the sensitivity required (e.g. semiconductor, catalytic, electrochemical). Holographic sensors have been proposed for detecting concentrations up to 12.5% in volume.
-In a laboratorial setting, gaseous ammonia can be detected by using concentrated hydrochloric acid or gaseous hydrogen chloride. A dense white fume (which is ammonium chloride vapor) arises from the reaction between ammonia and HCl(g).
-
-
-=== Ammoniacal nitrogen (NH3–N) ===
-Ammoniacal nitrogen (NH3–N) is a measure commonly used for testing the quantity of ammonium ions, derived naturally from ammonia, and returned to ammonia via organic processes, in water or waste liquids. It is a measure used mainly for quantifying values in waste treatment and water purification systems, as well as a measure of the health of natural and man-made water reserves. It is measured in units of mg/L (milligram per litre).
+=== Reactions relevant to ammonia detection ===
+Sulfur sticks are burnt to detect small leaks in industrial ammonia refrigeration systems. In a laboratorial setting, gaseous ammonia can be detected by using concentrated hydrochloric acid or gaseous hydrogen chloride. A dense white fume (which is ammonium chloride vapor) arises from the reaction between ammonia and HCl.
 
 
 == History ==
@@ -161,7 +163,7 @@ Ammonia production currently creates 1.8% of global CO2 emissions. 'Green ammoni
 
 ==== Ships and maritime transport ====
 Green ammonia is considered as a potential fuel for new ships, including future container ships. Ammonia is expected to increase in usage as a fuel source for shipping  The IEA forecasts that ammonia will meet approximately 45% of shipping fuel demands by 2050.
-In 2020, the companies DSME and MAN Energy Solutions announced the construction of an ammonia-based ship, DSME plans to commercialize it by 2025. The use of ammonia as a potential alternative fuel for aircraft jet engines is also being explored. In addition, hybrid engine configurations for supersonic aviation employing ammonia fuel have been investigated.  Japan is implementing a plan to develop ammonia co-firing technology that can increase the use of ammonia in power generation, as part of efforts to assist domestic and other Asian utilities to accelerate their transition to carbon neutrality. In October 2021, the first International Conference on Fuel Ammonia (ICFA2021) was held.
+In 2020, the companies DSME and MAN Energy Solutions announced the construction of an ammonia-based ship, DSME plans to commercialize it by 2025. The use of ammonia as a potential alternative fuel for aircraft jet engines is also being explored. In addition, hybrid engine configurations for supersonic aviation employing ammonia fuel have been investigated. Japan is implementing a plan to develop ammonia co-firing technology that can increase the use of ammonia in power generation, as part of efforts to assist domestic and other Asian utilities to accelerate their transition to carbon neutrality. In October 2021, the first International Conference on Fuel Ammonia (ICFA2021) was held.
 In June 2022, IHI Corporation succeeded in reducing greenhouse gases by over 99% during combustion of liquid ammonia in a 2,000-kilowatt-class gas turbine achieving truly CO2-free power generation.
 In July 2022, Quad nations of Japan, the U.S., Australia and India agreed to promote technological development for clean-burning hydrogen and ammonia as fuels at the security grouping's first energy meeting. As of 2022, however, significant amounts of NOx are produced. Nitrous oxide may also be a problem as it is a "greenhouse gas that is known to possess up to 300 times the Global Warming Potential (GWP) of carbon dioxide".
 
@@ -207,16 +209,17 @@ Ammonia has been used to darken quartersawn white oak in Arts & Crafts and Missi
 Ammonia is used as an ingredient in various cleaning products, such as Windex (until 2006), in the form of ammonia solution.
 
 
-=== Safety ===
+== Safety ==
 
 The US Occupational Safety and Health Administration (OSHA) has set a 15-minute exposure limit for gaseous ammonia of 35 ppm by volume in the environmental air and an 8-hour exposure limit of 25 ppm by volume. The National Institute for Occupational Safety and Health (NIOSH) recently reduced the IDLH (Immediately Dangerous to Life or Health, the level to which a healthy worker can be exposed for 30 minutes without suffering irreversible health effects) from 500 to 300 ppm based on recent more conservative interpretations of original research in 1943. Other organisations have varying exposure levels. US Navy Standards [U.S. Bureau of Ships 1962] maximum allowable concentrations (MACs): for continuous exposure (60 days) is 25 ppm; for exposure of 1 hour is 400 ppm.
+Ammonia is an irritant and irritation increases with concentration; the permissible exposure limit is 25 ppm, and lethal above 500 ppm by volume. 
 Ammonia vapour has a sharp, irritating, pungent odor that acts as a warning of potentially dangerous exposure. The average odor threshold is 5 ppm, well below any danger or damage. Exposure to very high concentrations of gaseous ammonia can result in lung damage and death. Ammonia is regulated in the US as a non-flammable gas, but it meets the definition of a material that is toxic by inhalation and requires a hazardous safety permit when transported in quantities greater than 3,500 US gallons (13,000 L; 2,900 imp gal).
-Liquid ammonia is dangerous because it is hygroscopic and because it can cause caustic burns. See Gas carrier § Health effects of specific cargoes carried on gas carriers for more information.
 
 
 == Toxicity ==
-The toxicity of ammonia solutions does not usually cause problems for humans and other mammals, as a specific mechanism exists to prevent its build-up in the bloodstream. Ammonia is converted to carbamoyl phosphate by the enzyme carbamoyl phosphate synthetase, and then enters the urea cycle to be either incorporated into amino acids or excreted in the urine. Fish and amphibians lack this mechanism, as they can usually eliminate ammonia from their bodies by direct excretion. Ammonia even at dilute concentrations is highly toxic to aquatic animals, and for this reason it is classified as "dangerous for the environment". Atmospheric ammonia plays a key role in the formation of fine particulate matter.
-Ammonia is a constituent of tobacco smoke.
+The toxicity of ammonia solutions does not usually cause problems for humans and other mammals because they possess metabolic pathways that prevent ammonia from accumulating in the bloodstream. Ammonia is converted to carbamoyl phosphate by the enzyme carbamoyl phosphate synthetase and then enters the urea cycle, where it is incorporated into amino acids or excreted as urea.
+Fish and amphibians lack this internal detoxification mechanism because they normally eliminate ammonia directly into the surrounding water. As a result, they are highly sensitive to elevated environmental concentrations: even dilute levels in the water can impede excretion and lead to toxic accumulation. For this reason, ammonia in aquatic environments is classified as dangerous for the environment. Atmospheric ammonia also plays a key role in the formation of fine particulate matter.
+Ammonia is also a constituent of tobacco smoke.
 
 
 === Coking wastewater ===

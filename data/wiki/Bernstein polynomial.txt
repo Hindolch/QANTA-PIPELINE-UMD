@@ -2986,7 +2986,7 @@ We will first give intuition for Bernstein's original proof. A continuous functi
     
     {\displaystyle f}
   
- on a lattice, and then (2) smooth out the function outside the lattice to make a polynomial. 
+ on a lattice, and then (2) smooth out the function outside the lattice to make a polynomial.
 The probabilistic proof below simply provides a constructive method to create a polynomial which is approximately equal to 
   
     
@@ -3024,7 +3024,7 @@ The probabilistic proof below simply provides a constructive method to create a 
     
     {\displaystyle f(x)\approx f(X)}
   
- by uniform continuity. 
+ by uniform continuity.
 
 
 ==== Bernstein's proof ====
@@ -3530,7 +3530,7 @@ Noting that our randomness was over K while x is constant, the expectation of f(
     
     {\displaystyle \operatorname {\mathbb {E} _{x}} f\left({\frac {K}{n}}\right)}
   
- is a polynomial in x (the subscript reminding us that x controls the distribution of K). Indeed it is:
+ is a polynomial in x (the subscript reminding us that x controls the distribution of K). Indeed, it is:
 
   
     

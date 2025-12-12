@@ -90,7 +90,7 @@ Now the nature of these methods is such, that the changes on one number comprehe
 Stedman widens the consideration of permutations; he goes on to consider the number of permutations of the letters of the alphabet and of horses from a stable of 20.
 A first case in which seemingly unrelated mathematical questions were studied with the help of permutations occurred around 1770, when Joseph Louis Lagrange, in the study of polynomial equations, observed that properties of the permutations of the roots of an equation are related to the possibilities to solve it. This line of work ultimately resulted, through the work of Évariste Galois, in Galois theory, which gives a complete description of what is possible and impossible with respect to solving polynomial equations (in one unknown) by radicals. In modern mathematics, there are many similar situations in which understanding a problem requires studying certain permutations related to it.
 The study of permutations as substitutions on n elements led to the notion of group as algebraic structure, through the works of Cauchy (1815 memoir).
-Permutations played an important role in the cryptanalysis of the Enigma machine, a cipher device used by Nazi Germany during World War II. In particular, one important property of permutations, namely, that two permutations are conjugate exactly when they have the same cycle type, was used by cryptologist Marian Rejewski to break the German Enigma cipher in turn of years 1932-1933.
+Permutations played an important role in the cryptanalysis of the Enigma machine, a cipher device used by Nazi Germany during World War II. In particular, one important property of permutations, namely, that two permutations are conjugate exactly when they have the same cycle type, was used by cryptologist Marian Rejewski to break the German Enigma cipher in turn of years 1932–1933.
 
 
 == Definition ==
@@ -4512,7 +4512,7 @@ Nested swaps generating algorithm in steps connected to the nested subgroups
     
     {\displaystyle S_{k}\subset S_{k+1}}
   
-. Each permutation is obtained from the previous by a transposition multiplication to the left. Algorithm is connected to the Factorial_number_system of the index.
+. Each permutation is obtained from the previous by a transposition multiplication to the left. Algorithm is connected to the Factorial number system of the index.
 
 
 ==== Generation of permutations in nested swap steps ====
@@ -4855,7 +4855,7 @@ Explicit sequence of swaps (transpositions, 2-cycles
     
     {\displaystyle \tau _{2}=(p_{2}k)\lambda _{k-1}\tau _{1}}
   
-. 
+.
 Continuing the same way, one gets coset representatives 
   
     
@@ -5321,7 +5321,7 @@ Continuing the same way, one gets coset representatives
     
     {\displaystyle \lambda _{k}=\lambda _{k-1}(p_{k-1}k)\lambda _{k-1}(p_{k-2}k)\lambda _{k-1}\cdots \lambda _{k-1}(p_{1}k)\lambda _{k-1}}
   
- and this provides the recursion procedure. 
+ and this provides the recursion procedure.
 EXAMPLES: obviously, for 
   
     
@@ -5579,7 +5579,7 @@ EXAMPLES: obviously, for
     
     {\displaystyle \lambda _{5}=(15)}
   
-. 
+.
 From examples above one can inductively go to higher 
   
     
@@ -6009,7 +6009,7 @@ From examples above one can inductively go to higher
     {\displaystyle \sigma =(1653)(24)}
   
 .
-Because multiplying by swap permutation  takes  short computing time and every new generated permutation requires only one such swap multiplication, this generation procedure is quite efficient. Moreover as there is a simple formula, having the last permutation in each 
+Because multiplying by swap permutation  takes  short computing time and every new generated permutation requires only one such swap multiplication, this generation procedure is quite efficient. Moreover, as there is a simple formula, having the last permutation in each 
   
     
       

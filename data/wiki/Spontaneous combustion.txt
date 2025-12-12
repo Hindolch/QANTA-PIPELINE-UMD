@@ -45,6 +45,10 @@ Copra, the dried, white flesh of the coconut from which coconut oil is extracted
 There have been unconfirmed anecdotal reports of people spontaneously combusting. This alleged phenomenon is not considered true spontaneous combustion, as supposed cases have been largely attributed to the wick effect, whereby an external source of fire ignites nearby flammable materials and human fat or other sources.
 
 
+=== Wool ===
+Self-heating of wet wool in compressed bales is regarded as a likely cause of fires in wool, either at storage facilities or as ship cargoes.
+
+
 == Predictions and preventions ==
 There are many factors that can help predict spontaneous combustion and prevent it. The longer a material sits, the higher the risk of spontaneous combustion. Preventing spontaneous combustion can be as simple as not leaving materials stored for extended periods of time, controlling air flow, moisture, methane, and pressure balances. There are also many materials that prevent spontaneous combustion. For example, spontaneous coal combustion can be prevented by physical based materials such as chlorine salts, ammonium salts, alkalis, inert gases, colloids, polymers, aerosols, and LDHs, as well as chemical-based materials like antioxidants, ionic liquids, and composite materials.
 

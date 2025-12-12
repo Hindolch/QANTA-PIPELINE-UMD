@@ -677,20 +677,22 @@ Then the Lagrangian is
           
         
         
-          (
           
-            ϕ
-            ,
+            (
             
+              ϕ
+              ,
               
                 
-                  ϕ
-                  ˙
+                  
+                    ϕ
+                    ˙
+                  
                 
               
             
+            )
           
-          )
         
         =
         T
@@ -728,7 +730,7 @@ Then the Lagrangian is
         .
       
     
-    {\displaystyle {\mathcal {L}}\left(\phi ,{\dot {\phi }}\right)=T-U={\tfrac {1}{2}}mr^{2}{\dot {\phi }}^{2}.}
+    {\displaystyle {\mathcal {L}}{\left(\phi ,{\dot {\phi }}\right)}=T-U={\tfrac {1}{2}}mr^{2}{\dot {\phi }}^{2}.}
   
 
 The generalized momentum "canonically conjugate to" the coordinate 

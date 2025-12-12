@@ -562,7 +562,7 @@ KSB's primary advantages are its mathematical ease and relatively simple impleme
 Terrestrial atmospheric lens – Concept of using Earth's atmosphere as a large lens
 Galactic lens – Structure of galaxies
 Gravitational lensing formalism – Concept in physics
-Strong gravitational lensing
+Strong gravitational lensing – Gravitational deflection of light
 Einstein cross – Gravitationally lensed image of a quasarPages displaying short descriptions of redirect targets
 Einstein ring – Feature seen when light is gravitationally lensed by an object
 Weak gravitational lensing – Gravitational deflection of light

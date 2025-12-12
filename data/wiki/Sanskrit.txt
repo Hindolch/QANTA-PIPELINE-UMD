@@ -62,6 +62,7 @@ Today, it is believed that Kashmiri is the closest language to Sanskrit.
 
 
 === Dravidian influence on Sanskrit ===
+
 Reinöhl mentions that not only have the Dravidian languages borrowed from Sanskrit vocabulary, but they have also affected Sanskrit on deeper levels of structure, "for instance in the domain of phonology where Indo-Aryan retroflexes have been attributed to Dravidian influence". Similarly, Ferenc Ruzca states that all the major shifts in Indo-Aryan phonetics over two millennia can be attributed to the constant influence of a Dravidian language with a similar phonetic structure to Tamil. Hock et al. quoting George Hart state that there was influence of Old Tamil on Sanskrit. Hart compared Old Tamil and Classical Sanskrit to arrive at a conclusion that there was a common language from which these features both derived – "that both Tamil and Sanskrit derived their shared conventions, metres, and techniques from a common source, for it is clear that neither borrowed directly from the other."
 Reinöhl further states that there is a symmetric relationship between Dravidian languages like Kannada or Tamil, with Indo-Aryan languages like Bengali or Hindi, whereas the same relationship is not found for non-Indo-Aryan languages, for example, Persian or English:
 
@@ -129,7 +130,7 @@ The nasal 'ṃ' is optionally the corresponding nasal consonant before plosives 
 Sanskrit consonants are conventionally arranged into a symmetrical table that is based on how the sound is articulated, though this arrangement is somewhat forced and conceals a certain lack of parallelism among the actual sounds.
 
 Sanskrit has a series of retroflex stops originating as conditioned alternants of dentals.
-jh is a marginal phoneme in Sanskrit occurring mostly from loanwords, hence its phonology is more difficult to reconstruct; it was more commonly employed in the Middle Indo-Aryan languages as a result of phonological processes resulting in the phoneme.
+jh is a marginal phoneme in Sanskrit occurring mostly from loanwords, hence its phonology is more difficult to reconstruct; it was more commonly employed in the Middle Indo-Aryan languages as a result of phonological processes resulting in the phoneme, e.g. jajjhatī jhaṣa.
 The palatal and velar nasals are conditioned variant of n occurring next to palatal and velar obstruents mostly, but there are some onomatopoeic words with them like ña, ṅa, ṅu and declensions like ñuṇūṣate, prāṅ.
 The anusvara that Sanskrit deploys is a conditioned alternant of post-vocalic nasals, under certain sandhi conditions.
 The visarga is a word-final or morpheme-final conditioned alternant of s and r under certain sandhi conditions.

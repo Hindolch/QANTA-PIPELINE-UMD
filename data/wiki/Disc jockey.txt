@@ -59,6 +59,60 @@ In 2007, Mark Katz's article "Men, Women, and Turntables: Gender and the DJ Batt
 Lucy Green has focused on gender in relation to musical performers and creators, and specifically on educational frameworks as they relate to both. She suggests that women's alienation from "areas that have a strong technological tendency such as DJing, sound engineering and producing" are "not necessarily about their dislike of these instruments but relates to the interrupting effect of their dominantly masculine delineations". Despite this, women and girls do increasingly engage in turntable and DJ practices, individually and collectively, and "carve out spaces for themselves in EDM and DJ Culture". Some artists and collectives go beyond these practices to be more gender inclusive.
 
 
+=== Notable women DJs (2000s–present) ===
+The following alphabetical selection lists 50 widely covered women DJs active since the 2000s, reflecting sustained coverage in international polls, critics’ lists and major media (e.g., DJ Mag’s Top 100 DJs, Billboard’s Dance 100, Mixmag, and Resident Advisor). See also recurring international rankings and end-of-year features that document women’s prominence in DJ culture.
+
+Alison Wonderland — Australian DJ and producer working across bass and electro-pop, noted for large-scale festival performances.
+Amelie Lens — Belgian techno DJ and label head of KNTXT, associated with peak-time, hard-edged sets.
+Anna Lunoe — Australian house DJ, vocalist and producer; also known for international radio and club residencies.
+Anja Schneider — German techno/house DJ and producer; longtime label curator and A&R.
+Annie Mac — Irish DJ and broadcaster, former BBC Radio 1 host and champion of emergent dance acts.
+Annie Nightingale — British broadcaster and pioneering BBC Radio 1 DJ who helped mainstream club culture.
+B.Traits — Canadian DJ/producer and former BBC Radio 1 presenter with a multi-genre club and radio profile.
+Cassy — Austrian-born house/techno DJ, producer and vocalist with residencies at leading European clubs.
+Charlotte de Witte — Belgian techno DJ/producer and KNTXT founder, known for high-intensity, streamlined techno.
+Chloé — French DJ/producer associated with minimal, electro and filmic electronics; runs Lumière Noire.
+DJ Minx — Detroit house/techno DJ and founder of Women on Wax, active since the 1990s.
+DJ Paulette — British house DJ with historic residencies at Hacienda, Ministry of Sound and Paris clubs.
+DJ Rap — British DJ/producer linked to drum and bass and jungle; founder of Propa Talent.
+DJ Rekha — British-born, US-based DJ credited with popularizing bhangra in New York through Basement Bhangra.
+DJ Soda — South Korean EDM/pop DJ with a mainstream festival and club presence across Asia.
+DJ Spinderella — American DJ best known as member of Salt-N-Pepa and as a solo club DJ.
+Eclair Fifi — Scottish DJ and curator associated with the LuckyMe collective and forward-looking club music.
+Ellen Allien — German techno DJ/producer; founder of BPitch Control and fixture of Berlin’s scene.
+HAAi — Australian-born, London-based DJ/producer blending psychedelic textures with techno and left-field dance.
+Hannah Wants — British house/bass DJ recognized for energetic club sets and UK radio work.
+Heidi — Canadian-born DJ known for jackin’ house and techno; creator of the Jackathon brand.
+Helena Hauff — German DJ/producer famed for raw electro, acid and industrial-leaning techno.
+Honey Dijon — Chicago-born house DJ/producer with deep roots in US club culture and fashion collaborations.
+Ikonika — British DJ/producer associated with Hyperdub and UK bass/experimental club sounds.
+Jayda G — Canadian DJ/producer bridging disco, house and contemporary club music.
+K-Hand — Detroit techno/house DJ and producer; founder of Acacia Records and early Motor City pioneer.
+Kemistry & Storm — British drum-and-bass duo closely associated with Metalheadz and UK club culture.
+Lady Starlight — American DJ and live techno performer known for hardware-driven sets.
+Laurel Halo — American electronic musician and DJ spanning experimental techno, ambient and sound art.
+Magda — Polish-born American DJ tied to minimal techno and the Minus/Detroit networks.
+Mary Anne Hobbs — English DJ and curator known for radio advocacy of experimental and bass music.
+Maya Jane Coles — British-Japanese DJ/producer across deep and tech house, also records as Nocturnal Sunshine.
+Mija — American DJ/producer working between house, bass and indie-leaning club sounds.
+Miss Djax — Dutch DJ/producer; founder of Djax-Up-Beats and influential in European techno.
+Miss Kittin — French DJ/singer central to electroclash and electro-techno, often with The Hacker.
+Miss Monique — Ukrainian progressive and melodic house DJ/producer; known for widely viewed mixes.
+Monika Kruse — German techno DJ/producer and Terminal M label founder with decades-long career.
+Nastia — Ukrainian DJ/label owner (Propaganda) noted for fast, percussive techno sets.
+Nicole Moudaber — Lebanese-Nigerian DJ/producer; runs MOOD Records and global techno events.
+Nina Kraviz — Russian DJ/producer spanning techno, acid and trance; founder of трип (Trip) label.
+Nina Las Vegas — Australian DJ/curator and former Triple J presenter; head of the NLV Records imprint.
+Nora En Pure — South African-Swiss DJ/producer associated with deep and melodic house; leads Purified brand.
+Paula Temple — British techno DJ/producer known for abrasive, industrial-leaning sound design.
+Peggy Gou — South Korean DJ/producer; Gudu Records founder with global club and festival profile.
+Rezz — Canadian DJ/producer recognized for mid-tempo, hypnotic bass music and immersive visuals.
+Sama' Abdulhadi — Palestinian techno DJ/producer and prominent figure in the West Asian scene.
+Soledad Rodríguez Zubieta — Argentine DJ, radio host and music curator noted for “sonic decoration” in hospitality and retail.
+TOKiMONSTA — American producer/DJ blending hip hop and electronic; founder of Young Art Records.
+Yaeji — Korean-American singer/producer/DJ combining house, pop and bilingual vocals in club contexts.
+
+
 == Equipment ==
 DJs use equipment that enables them to play multiple sources of recorded music and mix them to create seamless transitions and unique arrangements of songs. An important tool for DJs is the specialized DJ mixer, a small audio mixer with a crossfader and cue functions. The crossfader enables the DJ to blend or transition from one song to another. The cue knobs or switches allow the DJ to listen to a source of recorded music in headphones before playing it for the live club or broadcast audience. Previewing the music in headphones helps the DJ pick the next track they want to play, cue up the track to the desired starting location, and align the two tracks' beats in traditional situations where auto-sync technology is not being used. This process ensures that the selected song will mix well with the currently playing music. DJs may align the beats of the music sources so their rhythms do not clash when they are played together to help create a smooth transition from one song to another. Other equipment may include a microphone, effects units such as reverb, and electronic musical instruments such as drum machines and synthesizers.
 As music technology has progressed, DJs have adopted different types of equipment to play and mix music, all of which are still commonly used. Traditionally, DJs used two turntables plugged into a DJ mixer to mix music on vinyl records. As compact discs became popular media for publishing music, specialized high-quality CD players known as CDJs were developed for DJs. CDJs can take the place of turntables or be used together with turntables. Many CDJs can now play digital music files from USB flash drives or SD cards in addition to CDs. With the spread of portable laptops, tablets, and smartphone computers, DJs began using software together with specialized sound cards and DJ controller hardware. DJ software can be used in conjunction with a hardware DJ mixer or be used instead of a hardware mixer.
@@ -131,7 +185,7 @@ British radio disc jockey Jimmy Savile hosted his first live dance party in 1943
 While the "Scotch-Club" in Aachen, where journalist Klaus Quirini (DJ Heinrich) became one of the first DJs to moderate between songs in 1959, is noted as an early discotheque, the country's DJ culture evolved significantly in subsequent decades.
 In the 1960s, Rudy Bozak began making the first DJ mixers, mixing consoles specialized for DJing.
 In the late 1960s to early 1970s Jamaican sound system culture, producer and sound system operator (DJ), (Jamaican) King Tubby and producer Lee "Scratch" Perry were pioneers of the genre known as dub music. They experimented with tape-based composition; emphasized repetitive rhythmic structures (often stripped of their harmonic elements); electronically manipulated spatiality; sonically manipulated pre-recorded musical materials from mass media; and remixed music among other innovative techniques. It is widely known that the Jamaican dancehall culture has had and continues to have a significant impact on the American hip hop culture.
-The stylized term of “deejay” originated in the 1960s and 1970s when reggae performers such as U-Roy and King Stitt toasted over the instrumental (dub music) versions of popular records. These versions were often released on the flip side to the song's 45 record. This gave the deejays the chance to create on-the-fly lyrics to the music. Big Youth, and I-Roy were famous deejays in Jamaica.
+The stylized term of "deejay" originated in the 1960s and 1970s when reggae performers such as U-Roy and King Stitt toasted over the instrumental (dub music) versions of popular records. These versions were often released on the flip side to the song's 45 record. This gave the deejays the chance to create on-the-fly lyrics to the music. Big Youth, and I-Roy were famous deejays in Jamaica.
 DJ turntablism has origins in the invention of direct-drive turntables. Early belt-drive turntables were unsuitable for turntablism and mixing, since they had a slow start-up time, and they were prone to wear-and-tear and breakage, as the belt would break from backspinning or scratching. The first direct-drive turntable was invented by engineer Shuichi Obata at Matsushita (now Panasonic), based in Osaka, Japan. It eliminated belts, and instead employed a motor to directly drive a platter on which a vinyl record rests. In 1969, Matsushita released it as the SP-10, the first direct-drive turntable on the market, and the first in their influential Technics series of turntables.
 In 1972, Technics started making their SL-1200 turntable, featuring high torque direct drive design. The SL-1200 had a rapid start and its durable direct drive enabled DJs to manipulate the platter, as with scratching techniques. Hip hop DJs began using the Technics SL-1200s as musical instruments to manipulate records with turntablism techniques such as scratching and beat juggling rather than merely mixing records. These techniques were developed in the 1970s by DJ Kool Herc, Grand Wizard Theodore, and Afrika Bambaataa, as they experimented with Technics direct-drive decks, finding that the motor would continue to spin at the correct RPM even if the DJ wiggled the record back and forth on the platter.
 Hip hop DJ’s started with DJ Kool Herc, Grandmaster Flash, and Afrika Bambaataa who were members of a block party at South Bronx from 1973 onwards. Kool Herc played records such as James Brown's "Give It Up or Turnit a Loose", Jimmy Castor's "It's Just Begun", Booker T. & the M.G.'s' "Melting Pot", Incredible Bongo Band's "Bongo Rock" and "Apache", and UK rock band Babe Ruth's "The Mexican". With Bronx clubs struggling with street gangs, uptown DJs catering to an older disco crowd with different aspirations, and commercial radio also catering to a demographic distinct from teenagers in the Bronx, Herc's parties had a ready-made audience.

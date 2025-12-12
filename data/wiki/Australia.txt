@@ -167,7 +167,7 @@ Facilities supporting space exploration include the Square Kilometre Array and A
 
 == Demographics ==
 
-The population of Australia is estimated to be 28,161,500 as of 26 November 2025. It is the 54th most populous country in the world and the most populous Oceanian country.
+The population of Australia is estimated to be 28,187,500 as of 11 December 2025. It is the 54th most populous country in the world and the most populous Oceanian country.
 Australia has a population density of 3.4 persons per square kilometre of total land area, which makes it one of the most sparsely populated countries in the world. The population is heavily concentrated on the east coast, and in particular in the south-eastern region between South East Queensland to the north-east and Adelaide to the south-west.
 Australia is also highly urbanised, with 67% of the population living in the Greater Capital City Statistical Areas (metropolitan areas of the state and mainland territorial capital cities) in 2018. Metropolitan areas with more than one million inhabitants are Sydney, Melbourne, Brisbane, Perth and Adelaide.
 In common with many other developed countries, Australia is experiencing a demographic shift towards an older population, with more retirees and fewer people of working age. In 2021, the average age of the population was 39 years.
@@ -256,7 +256,6 @@ The surf lifesaving movement originated in Australia in the early 20th century, 
 == See also ==
 
 Outline of Australia
-Index of Australia-related articles
 
 
 == Notes ==

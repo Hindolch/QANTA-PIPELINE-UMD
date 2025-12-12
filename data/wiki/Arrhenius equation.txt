@@ -1,4 +1,5 @@
 In physical chemistry, the Arrhenius equation is a formula for the temperature dependence of reaction rates. The equation was proposed by Svante Arrhenius in 1889 on the basis of the work of Dutch chemist Jacobus Henricus van 't Hoff, who had noted in 1884 that the Van 't Hoff equation for the temperature dependence of equilibrium constants suggests such a formula for the rates of both forward and reverse reactions. This equation has a vast and important application in determining the rate of chemical reactions and for calculation of energy of activation. Arrhenius provided a physical justification and interpretation for the formula. Currently, it is best seen as an empirical relationship. It can be used to model the temperature variation of diffusion coefficients, population of crystal vacancies, creep rates, and many other thermally induced processes and reactions. The Eyring equation, developed in 1935, also expresses the relationship between rate and energy.
+The temperature dependence arises because a greater fraction of molecular collisions have sufficient energy to exceed the activation barrier as temperature increases.
 
 
 == Formulation ==
@@ -844,7 +845,8 @@ where β is a dimensionless number of order 1. This is typically regarded as a p
 
 
 === Arrhenius's concept of activation energy ===
-Arrhenius argued that for reactants to transform into products, they must first acquire a minimum amount of energy, called the activation energy Ea. At an absolute temperature T, the fraction of molecules that have a kinetic energy greater than Ea can be calculated from statistical mechanics. The concept of activation energy explains the exponential nature of the relationship, and in one way or another, it is present in all kinetic theories.
+Arrhenius argued that for reactants to transform into products, they must first acquire a minimum amount of energy, called the activation energy Ea. At an absolute temperature T, the fraction of molecules that have a kinetic energy greater than Ea can be calculated from statistical mechanics. This fraction increases with temperature because molecular energies follow a Maxwell–Boltzmann distribution, which broadens as T rises and increases the proportion of molecules with kinetic energies equal to or greater than the activation energy.
+The concept of activation energy explains the exponential nature of the relationship, and in one way or another, it is present in all kinetic theories.
 The calculations for reaction rate constants involve an energy averaging over a Maxwell–Boltzmann distribution with 
   
     

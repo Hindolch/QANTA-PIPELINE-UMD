@@ -59,7 +59,7 @@ There is a certain ambiguity and political contestation as to which peoples shou
 
 
 == Languages ==
-Two language groups have coexisted on the Scandinavian Peninsula since prehistory—the North Germanic languages (Scandinavian languages) and the Uralic languages, Sámi and Finnish.
+Two language groups have coexisted in Scandinavia since prehistory—the North Germanic languages (Scandinavian languages) and the Uralic languages, Sámi and Finnish.
 Most people in Scandinavia today speak Scandinavian languages that evolved from Old Norse, originally spoken by ancient Germanic tribes in southern Scandinavia. The Continental Scandinavian languages—Danish, Norwegian and Swedish—form a dialect continuum and are considered mutually intelligible. The Insular Scandinavian languages—Faroese and Icelandic—on the other hand, are only partially intelligible to speakers of the continental Scandinavian languages.
 The Uralic languages are linguistically unrelated to the Scandinavian languages. Finnish is the majority language in Finland, and a recognized minority language in Sweden. Meänkieli and Kven, sometimes considered as dialects of Finnish, are recognized minority languages in Sweden and Norway, respectively. The Sámi languages are indigenous minority languages in Scandinavia, spoken by the Sámi people in northern Scandinavia.
 
@@ -72,16 +72,19 @@ The reason Danish, Swedish and the two official written versions of Norwegian (N
 Danish, Swedish and Norwegian have since medieval times been influenced to varying degrees by Middle Low German and standard German. That influence was due not only to proximity, but also to the rule of Denmark—and later Denmark-Norway—over the German-speaking region of Holstein, and to Sweden's close trade with the Hanseatic League.
 Norwegians are accustomed to variation and may perceive Danish and Swedish only as slightly more distant dialects. This is because they have two official written standards, in addition to the habit of strongly holding on to local dialects. The people of Stockholm, Sweden and Copenhagen, Denmark have the greatest difficulty in understanding other Scandinavian languages. In the Faroe Islands and Iceland, learning Danish is mandatory. This causes Faroese people as well as Icelandic people to become bilingual in two very distinct North Germanic languages, making it relatively easy for them to understand the other two Mainland Scandinavian languages.
 Although Iceland was under the political control of Denmark until a much later date (1918), very little influence and borrowing from Danish has occurred in the Icelandic language. Icelandic remained the preferred language among the ruling classes in Iceland. Danish was not used for official communications, most of the royal officials were of Icelandic descent and the language of the church and law courts remained Icelandic.
+Finland has a Swedish-speaking minority which constitutes approximately 5% of the total population. The Swedish-speakers live mainly on the coastline starting from approximately the city of Porvoo (Sw: Borgå) (in the Gulf of Finland) up to the city of Kokkola (Sw: Karleby) (in the Bay of Bothnia). The coastal region of Ostrobothnia has a Swedish-speaking majority, whereas plenty of areas on this coastline are nearly unilingually Finnish, like the region of Satakunta. Swedish spoken in today's Finland includes a lot of words that are borrowed from Finnish, whereas the written language remains closer to that of Sweden. Åland, an autonomous region of Finland situated in the archipelago between Finland and Sweden, is entirely Swedish-speaking.
 
 
 === Uralic languages ===
+The Scandinavian languages are (as a language family) unrelated to Finnish and the Sámi languages, which as Uralic languages are distantly related to each other. Owing to the close proximity, there is a great deal of borrowing from the Swedish and Norwegian languages in Finnish and Sámi.
 
 
 ==== Finnish ====
 
-The Scandinavian languages are (as a language family) unrelated to Finnish and the Sámi languages, which as Uralic languages are distantly related to each other. Owing to the close proximity, there is still a great deal of borrowing from the Swedish and Norwegian languages in Finnish and Sámi. The long history of linguistic influence of Swedish on Finnish is also due to the fact that Swedish was the dominant language when Finland was part of Sweden. Finnish-speakers had to learn Swedish in order to advance to higher positions of employment. Swedish spoken in today's Finland includes a lot of words that are borrowed from Finnish, whereas the written language remains closer to that of Sweden.
-Finland is officially bilingual, with Finnish and Swedish having mostly the same status at national level. Finland's majority population are Finns, whose mother tongue is either Finnish (approximately 95%), Swedish or both. The Swedish-speakers live mainly on the coastline starting from approximately the city of Porvoo (Sw: Borgå) (in the Gulf of Finland) up to the city of Kokkola (Sw: Karleby) (in the Bay of Bothnia). The Swedish-speaking population is spread out in pockets in this coastal stretch and constitutes approximately 5% of the Finnish population. The coastal province of Ostrobothnia has a Swedish-speaking majority, whereas plenty of areas on this coastline are nearly unilingually Finnish, like the region of Satakunta. Åland, an autonomous province of Finland situated in the Baltic Sea between Finland and Sweden, are entirely Swedish-speaking. Children are taught the other official language at school: for Swedish-speakers this is Finnish (usually from the 3rd grade), while for Finnish-speakers it is Swedish (usually from the 3rd, 5th or 7th grade).
+Finnish is the majority language of Finland, spoken by 95% of the population. Swedish has had a strong influence on Finnish because it served as the dominant administrative and cultural language during the centuries when Finland belonged to the Swedish realm, and it retained a strong position during the subsequent Russian period. Finnish-speakers often needed to learn Swedish in order to pursue higher-status positions.
+Finland is officially bilingual: Finnish and Swedish are both national languages, with equal legal status. Children are taught the other official language at school: for Swedish-speakers this is Finnish (usually from the 3rd grade), while for Finnish-speakers it is Swedish (usually from the 3rd, 5th or 7th grade).
 Finnish speakers constitute a language minority in both Sweden and Norway. Meänkieli and Kven are Finnish dialects mainly spoken in the Swedish part of the Torne Valley and surrounding areas, and in the Norwegian counties of Troms and Finnmark, respectively. Meänkieli has held an official status as a minority language in Sweden since 2000, and Kven in Norway since 2005.
+Karelian is a language closely related to Finnish. In Finland, it has an official status as a non-territorial minority language within the framework of the European Charter for Regional or Minority Languages.
 
 
 ==== Sámi languages ====
@@ -89,7 +92,7 @@ The Sámi languages are indigenous minority languages in Scandinavia. They belon
 
 
 === Other languages ===
-German is a recognized minority language in Denmark. Recent migration has added even more languages, apart from Sámi languages and variants of the majority language of a neighboring state, Yiddish, Romani Chib/Romanes, Scandoromani and Karelian are amongst the languages protected in parts of Scandinavia under the European Charter for Regional or Minority Languages.
+German is a recognized minority language in Denmark. Yiddish, Romani Chib/Romanes, Scandoromani are amongst the languages protected in parts of Scandinavia under the European Charter for Regional or Minority Languages. Recent migration has added even more languages.
 
 
 == History ==

@@ -1,6 +1,6 @@
 The International Space Station (ISS) is a large space station that was assembled and is maintained in low Earth orbit by a collaboration of five space agencies and their contractors: NASA (United States), Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada). As the largest space station ever constructed, it primarily serves as a platform for conducting scientific experiments in microgravity and studying the space environment.
 The station is divided into two main sections: the Russian Orbital Segment (ROS), developed by Roscosmos, and the US Orbital Segment (USOS), built by NASA, ESA, JAXA, and CSA. A striking feature of the ISS is the Integrated Truss Structure, which connect the station's vast system of solar panels and radiators to its pressurized modules. These modules support diverse functions, including scientific research, crew habitation, storage, spacecraft control, and airlock operations. The ISS has eight docking and berthing ports for visiting spacecraft. The station orbits the Earth at an average altitude of 400 kilometres (250 miles) and circles the Earth in roughly 93 minutes, completing 15.5 orbits per day.
-The ISS programme combines two previously planned crewed Earth-orbiting stations: the United States' Space Station Freedom and the Soviet Union's Mir-2. The first ISS module was launched in 1998, with major components delivered by Proton and Soyuz rockets and the Space Shuttle. Long-term occupancy began on 2 November 2000, with the arrival of the Expedition 1 crew. Since then, the ISS has remained continuously inhabited for 25 years and 24 days, the longest continuous human presence in space. As of August 2025, 290 individuals from 26 countries had visited the station.
+The ISS programme combines two previously planned crewed Earth-orbiting stations: the United States' Space Station Freedom and the Soviet Union's Mir-2. The first ISS module was launched in 1998, with major components delivered by Proton and Soyuz rockets and the Space Shuttle. Long-term occupancy began on 2 November 2000, with the arrival of the Expedition 1 crew. Since then, the ISS has remained continuously inhabited for 25 years and 40 days, the longest continuous human presence in space. As of August 2025, 290 individuals from 26 countries had visited the station.
 Future plans for the ISS include the addition of at least one module, Axiom Space's Payload Power Thermal Module. The station is expected to remain operational until the end of 2030, after which it will be de-orbited using the US Deorbit Vehicle.
 
 
@@ -352,11 +352,11 @@ After a 12-year hiatus, the first two wholly space tourism-dedicated private spa
 
 
 === NASA private astronaut missions ===
-The first all private astronaut mission (PAM) to the ISS was Axiom Mission 1, which launched in April, 2022. After evaluating previous flights to ISS which included private spaceflight participants, and the first three flights including only private astronauts, NASA updated requirements for entities providing PAMs. As of August 2025 the most recent mission was Axiom Mission 4. NASA intends to offer up to two PAM opportunities per year.
+The first all private astronaut mission (PAM) to the ISS was Axiom Mission 1, which launched in April 2022. After evaluating previous flights to ISS which included private spaceflight participants, and the first three flights including only private astronauts, NASA updated requirements for entities providing PAMs. As of August 2025 the most recent mission was Axiom Mission 4. NASA intends to offer up to two PAM opportunities per year.
 
 
 === Fleet operations ===
-Various crewed and uncrewed spacecraft have supported the station's operations. Flights to the ISS have included 93 Progress, 72 Soyuz, 50 SpaceX Dragon 37 Space Shuttle, 21 Cygnus, 9 HTV, 5 ATV, and 2 Boeing Starliner missions.
+Various crewed and uncrewed spacecraft have supported the station's operations. Flights to the ISS have included 93 Progress, 73 Soyuz, 50 SpaceX Dragon 37 Space Shuttle, 21 Cygnus, 9 HTV, 5 ATV, and 2 Boeing Starliner missions.
 There are currently eight docking ports for visiting spacecraft, with four additional ports installed but not yet put into service:
 
 Harmony forward (with PMA 2 & IDA 2)
@@ -377,7 +377,7 @@ Cargo spacecraft that will perform an orbital re-boost of the station will typic
 
 ==== Crewed ====
 
-As of 4 August 2025, a total of 290 individuals from 26 countries had visited the International Space Station (ISS), including both government-sponsored astronauts and privately funded spaceflight participants. The United States accounted for 170 of these visitors, followed by Russia with 64, Japan with 11, and Canada with 9. Italy had 6 visitors, while France and Germany had each sent 4. Saudi Arabia, Sweden, and the United Arab Emirates each had 2 individuals visit the ISS. One person had traveled to the ISS from each of the following countries: Belarus, Belgium, Brazil, Denmark, Hungary, India, Israel, Kazakhstan, Malaysia, the Netherlands, Poland, South Africa, South Korea, Spain, Turkey, and the United Kingdom.
+As of 27 November 2025, a total of 292 individuals from 26 countries had visited the International Space Station (ISS), including both government-sponsored astronauts and privately funded spaceflight participants. The United States accounted for 171 of these visitors, followed by Russia with 65, Japan with 11, and Canada with 9. Italy had 6 visitors, while France and Germany had each sent 4. Saudi Arabia, Sweden, and the United Arab Emirates each had 2 individuals visit the ISS. One person had traveled to the ISS from each of the following countries: Belarus, Belgium, Brazil, Denmark, Hungary, India, Israel, Kazakhstan, Malaysia, the Netherlands, Poland, South Africa, South Korea, Spain, Turkey, and the United Kingdom.
 
 
 ===== List of current crew members =====

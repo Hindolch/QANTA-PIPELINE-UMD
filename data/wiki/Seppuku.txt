@@ -15,6 +15,7 @@ The word jigai (自害) means "suicide" in Japanese. The modern word for suicide
 
 
 == Ritual ==
+
 The practice of seppuku was not standardized until the 17th century.  In the 12th and 13th centuries, such as with the seppuku of Minamoto no Yorimasa, the practice of a kaishakunin had not yet emerged; thus, the rite was considered far more painful. The defining characteristic was plunging either the tachi (longsword), wakizashi (shortsword) or tantō (knife) into the gut and slicing the abdomen horizontally. In the absence of a kaishakunin, the samurai would then remove the blade and stab himself in the throat, or fall onto the blade from a standing position with it positioned against his heart.
 During the Edo period (1600–1867), carrying out seppuku came to involve an elaborate, detailed ritual. This was usually performed in front of spectators if it was planned, as opposed to one performed on a battlefield. A samurai was bathed in cold water (to prevent excessive bleeding), dressed in a white kimono called the shiro-shōzoku (白装束), and served his favorite foods for a last meal. When he had finished, the knife and cloth were placed on a sanbo and given to the warrior. Dressed ceremonially, with his sword placed in front of him and sometimes seated on special clothes, the warrior would prepare for death by writing a death poem. He would probably consume a ceremonial drink of sake and would also give his attendant a cup meant for sake.
 With his selected kaishakunin standing by, he would open his kimono, take up his tantō – held by the blade with a cloth wrapped around so that it would not cut his hand and cause him to lose his grip – and plunge it into his abdomen, making a left-to-right cut. The kaishakunin would then perform kaishaku, a cut in which the warrior was partially decapitated. The maneuver should be done in the manners of dakikubi (lit. 'embraced head'), in which a slight band of flesh is left attaching the head to the body so that the head can dangle in front as if embraced. Because of the precision necessary for such a maneuver, the kaishakunin was a skilled swordsman. The principal and the kaishakunin agreed in advance when the latter was to make his cut. Usually, dakikubi would occur as soon as the dagger was plunged into the abdomen.
@@ -29,13 +30,15 @@ Some samurai chose to perform a considerably more taxing form of seppuku known a
 
 
 == Female ritual suicide ==
-Female ritual suicide (incorrectly referred to in some English sources as jigai) was practiced by the wives of samurai who had performed seppuku or brought dishonour.
-
+Female ritual suicide (incorrectly referred to in some English sources as jigai) was practiced by the wives of samurai who had performed seppuku or brought dishonor.
 Some women belonging to samurai families died by suicide by cutting the arteries of the neck with one stroke, using a knife such as a tantō or kaiken. The main purpose was to achieve a quick and certain death in order to avoid capture or rape. Before dying, a woman would often tie her knees together so her body would be found in a "dignified" pose, despite the convulsions of death. Invading armies would often enter homes to find the lady of the house seated alone, facing away from the door. On approaching her, they would find that she had ended her life long before they reached her.
 
 
 === History ===
-Stephen R. Turnbull provides extensive evidence for the practice of female ritual suicide, notably of samurai wives, in pre-modern Japan. One of the largest mass suicides was the 25 April 1185 final defeat of Taira no Tomomori. The wife of Onodera Junai, one of the Forty-seven Ronin, is a notable example of a wife following seppuku of a samurai husband. A large number of "honour suicides" marked the defeat of the Aizu clan in the Boshin War of 1869, leading into the Meiji era. For example, in the family of Saigō Tanomo, who survived, a total of twenty-two female honor suicides are recorded among one extended family.
+
+Stephen R. Turnbull provides extensive evidence for the practice of female ritual suicide, notably of samurai wives, in pre-modern Japan; one of the largest mass suicides was the 25 April 1185 final defeat of Taira no Tomomori, in the Battle of Dan-no-ura.
+Onodera Tan (小野寺 丹), the wife of Onodera Junai of the forty-seven rōnin, is a notable example of a wife following a samurai husband's seppuku: she is said to have starved herself to death after her husband's death. Her grave is located at the site where Ryokaku-in Temple (了覚院), a sub-temple of the Honkoku-ji Temple (本圀寺), once stood, in current-day Shimogyō-ku, Kyoto.
+A large number of "honor suicides" marked the defeat of the Aizu clan in the Boshin War of 1869, leading into the Meiji era. For example, in the family of Saigō Tanomo, who survived, a total of twenty-two female honor suicides are recorded among one extended family.
 
 
 === Religious and social context ===
@@ -50,24 +53,37 @@ Forced seppuku came to be known as "conferred death" over time as it was used fo
 
 == Recorded events ==
 
-On February 15, 1868, eleven French sailors of the Dupleix entered the town of Sakai without official permission. Their presence caused panic among the residents. Security forces were dispatched to turn the sailors back to their ship, but a fight broke out and the sailors were shot dead. Upon the protest of the French representative, financial compensation was paid, and those responsible were sentenced to death. Captain Abel-Nicolas Bergasse du Petit-Thouars was present to observe the execution. As each samurai committed ritual disembowelment, the violent act shocked the captain, and he requested a pardon, as a result of which nine of the samurai were spared. This incident was dramatized in a famous short story, "Sakai Jiken", by Mori Ōgai.
-In the 1860s, the British Ambassador to Japan, Bertram Freeman-Mitford (Lord Redesdale), lived within sight of Sengaku-ji where the Forty-seven Ronin are buried. In his book Tales of Old Japan, he describes a man who had come to the graves to kill himself:
 
-I will add one anecdote to show the sanctity which is attached to the graves of the Forty-seven. In the month of September 1868, a certain man came to pray before the grave of Oishi Chikara. Having finished his prayers, he deliberately performed hara-kiri, and, the belly wound not being mortal, dispatched himself by cutting his throat. Upon his person were found papers setting forth that, being a Ronin and without means of earning a living, he had petitioned to be allowed to enter the clan of the Prince of Choshiu, which he looked upon as the noblest clan in the realm; his petition having been refused, nothing remained for him but to die, for to be a Ronin was hateful to him, and he would serve no other master than the Prince of Choshiu: what more fitting place could he find in which to put an end to his life than the graveyard of these Braves? This happened at about two hundred yards' distance from my house, and when I saw the spot an hour or two later, the ground was all bespattered with blood, and disturbed by the death-struggles of the man.
-Mitford also describes his friend's eyewitness account of a seppuku:
+=== The Kobe Incident ===
 
-There are many stories on record of extraordinary heroism being displayed in the harakiri. The case of a young fellow, only twenty years old, of the Choshiu clan, which was told me the other day by an eye-witness, deserves mention as a marvellous instance of determination. Not content with giving himself the one necessary cut, he slashed himself thrice horizontally and twice vertically. Then he stabbed himself in the throat until the dirk protruded on the other side, with its sharp edge to the front; setting his teeth in one supreme effort, he drove the knife forward with both hands through his throat, and fell dead.During the Meiji Restoration, the Tokugawa shogun's aide performed seppuku:
-One more story and I have done. During the revolution, when the Taikun (Supreme Commander), beaten on every side, fled ignominiously to Yedo, he is said to have determined to fight no more, but to yield everything. A member of his second council went to him and said, "Sir, the only way for you now to retrieve the honor of the family of Tokugawa is to disembowel yourself; and to prove to you that I am sincere and disinterested in what I say, I am here ready to disembowel myself with you." The Taikun flew into a great rage, saying that he would listen to no such nonsense, and left the room. His faithful retainer, to prove his honesty, retired to another part of the castle, and solemnly performed the harakiri.
-In his book Tales of Old Japan, Mitford describes witnessing a hara-kiri:
+In February 1868, following the Kobe Incident, the British Ambassador to Japan, Bertram Freeman-Mitford (Lord Redesdale), was invited to witness the seppuku of Taki Zenzaburō. In his book, Tales of Old Japan (1871), he describes the event in detail:
 
-As a corollary to the above elaborate statement of the ceremonies proper to be observed at the harakiri, I may here describe an instance of such an execution which I was sent officially to witness. The condemned man was Taki Zenzaburo, an officer of the Prince of Bizen, who gave the order to fire upon the foreign settlement at Hyōgo in the month of February 1868, – an attack to which I have alluded in the preamble to the story of the Eta Maiden and the Hatamoto. Up to that time no foreigner had witnessed such an execution, which was rather looked upon as a traveler's fable.
-The ceremony, which was ordered by the Mikado (Emperor) himself, took place at 10:30 at night in the temple of Seifukuji, the headquarters of the Satsuma troops at Hiogo. A witness was sent from each of the foreign legations. We were seven foreigners in all. After another profound obeisance, Taki Zenzaburo, in a voice which betrayed just so much emotion and hesitation as might be expected from a man who is making a painful confession, but with no sign of either in his face or manner, spoke as follows:
+The condemned man was Taki Zenzaburô, an officer of the Prince of Bizen, who gave the order to fire upon the foreign settlement at Hyogo in the month of February 1868. Up to that time no foreigner had witnessed such an execution, which was rather looked upon as a traveler's fable.
+The ceremony, which was ordered by the Mikado [Emperor] himself, took place at 10:30 at night in the temple of Seifukuji, the headquarters of the Satsuma troops at Hiogo. A witness was sent from each of the foreign legations. We were seven foreigners in all.
+[...]
+After another profound obeisance, Taki Zenzaburo, in a voice which betrayed just so much emotion and hesitation as might be expected from a man who is making a painful confession, but with no sign of either in his face or manner, spoke as follows:—
 
-I, and I alone, unwarrantably gave the order to fire on the foreigners at Kobe, and again as they tried to escape. For this crime I disembowel myself, and I beg you who are present to do me the honour of witnessing the act.
+I, and I alone, unwarrantably gave the order to fire on the foreigners at Kôbé, and again as they tried to escape. For this crime I disembowel myself, and I beg you who are present to do me the honour of witnessing the act.
 Bowing once more, the speaker allowed his upper garments to slip down to his girdle, and remained naked to the waist. Carefully, according to custom, he tucked his sleeves under his knees to prevent himself from falling backwards; for a noble Japanese gentleman should die falling forwards. Deliberately, with a steady hand, he took the dirk that lay before him; he looked at it wistfully, almost affectionately; for a moment he seemed to collect his thoughts for the last time, and then stabbing himself deeply below the waist on the left-hand side, he drew the dirk slowly across to the right side, and, turning it in the wound, gave a slight cut upwards. During this sickeningly painful operation he never moved a muscle of his face. When he drew out the dirk, he leaned forward and stretched out his neck; an expression of pain for the first time crossed his face, but he uttered no sound. At that moment the kaishaku, who, still crouching by his side, had been keenly watching his every movement, sprang to his feet, poised his sword for a second in the air; there was a flash, a heavy, ugly thud, a crashing fall; with one blow the head had been severed from the body.
 A dead silence followed, broken only by the hideous noise of the blood throbbing out of the inert heap before us, which but a moment before had been a brave and chivalrous man. It was horrible.
+The kaishaku made a low bow, wiped his sword with a piece of rice paper which he had ready for the purpose, and retired from the raised floor; and the stained dirk was solemnly borne away, a bloody proof of the execution.
+The two representatives of the Mikado then left their places, and, crossing over to where the foreign witnesses sat, called us to witness that the sentence of death upon Taki Zenzaburo had been faithfully carried out. The ceremony being at an end, we left the temple.
 
-The kaishaku made a low bow, wiped his sword with a piece of rice paper which he had ready for the purpose, and retired from the raised floor; and the stained dirk was solemnly borne away, a bloody proof of the execution. The two representatives of the Mikado then left their places, and, crossing over to where the foreign witnesses sat, called us to witness that the sentence of death upon Taki Zenzaburo had been faithfully carried out. The ceremony being at an end, we left the temple. The ceremony, to which the place and the hour gave an additional solemnity, was characterized throughout by that extreme dignity and punctiliousness which are the distinctive marks of the proceedings of Japanese gentlemen of rank; and it is important to note this fact, because it carries with it the conviction that the dead man was indeed the officer who had committed the crime, and no substitute. While profoundly impressed by the terrible scene it was impossible at the same time not to be filled with admiration of the firm and manly bearing of the sufferer, and of the nerve with which the kaishaku performed his last duty to his master.
+
+=== The Sakai incident ===
+
+In March 1868, eleven French sailors of the Dupleix entered the town of Sakai, in the Osaka Prefecture, without official permission. Their presence caused panic among the residents. Security forces were dispatched to turn the sailors back to their ship, but a fight broke out and the sailors were shot dead. This is usually referred to as the "Sakai Incident".
+Upon the protest of the French representative, financial compensation was paid, and those responsible were sentenced to death. Captain Abel-Nicolas Bergasse du Petit-Thouars was present to observe the execution. As each samurai committed ritual disembowelment, the violent act shocked the captain, and he requested a pardon, as a result of which nine of the samurai were spared. This incident was dramatized in a famous short story, "Sakai Jiken", by Mori Ōgai.
+
+
+=== Other accounts ===
+
+In his book, Tales of Old Japan, Mitford also relates living within sight of Sengaku-ji, the temple where the forty-seven rōnin are buried. He describes a man who had come to the graves to kill himself:
+
+In the month of September 1868, a certain man came to pray before the grave of Oishi Chikara. Having finished his prayers, he deliberately performed hara kiri, and, the belly wound not being mortal, dispatched himself by cutting his throat. Upon his person were found papers setting forth that, being a Rônin and without means of earning a living, he had petitioned to be allowed to enter the clan of the Prince of Chôshiu, which he looked upon as the noblest clan in the realm; his petition having been refused, nothing remained for him but to die, for to be a Rônin was hateful to him, and he would serve no other master than the Prince of Chôshiu : what more fitting place could he find in which to put an end to his life than the graveyard of these Braves?
+Mitford also describes someone else's account of a more extreme seppuku:
+
+The case of a young fellow, only twenty years old, of the Choshiu clan, which was told me the other day by an eye-witness, deserves mention as a marvellous instance of determination. Not content with giving himself the one necessary cut, he slashed himself thrice horizontally and twice vertically. Then he stabbed himself in the throat until the dirk protruded on the other side, with its sharp edge to the front; setting his teeth in one supreme effort, he drove the knife forward with both hands through his throat, and fell dead.
 
 
 == In modern Japan ==
@@ -88,6 +104,9 @@ Seppuku is referenced and described multiple times in the 1975 James Clavell nov
 
 
 == See also ==
+
+
+== Notes ==
 
 
 == References ==

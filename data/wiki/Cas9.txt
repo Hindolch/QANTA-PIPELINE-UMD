@@ -1,0 +1,189 @@
+Cas9 (CRISPR-associated protein 9, formerly Cas5, Csn1, or Csx12) is a protein that in tandem with CRISPR can permanently modify a cell’s genome. It is a key tool of genetic engineering. Emmanuelle Charpentier and Jennifer Doudna won the 2020 Nobel Prize in Chemistry for developing the CRISPR-Cas9 genome editing technique. 
+Cas9 serves as a genome editing tool, inducing site-directed double-strand breaks in DNA, enabling gene inactivation or insertion via non-homologous end joining or homologous recombination. Variants like Cas9 nickase (Cas9n), which creates single-strand breaks, or those recognizing different PAM sequences, address limitations in CRISPR-Cas9 editing. 
+
+
+== History ==
+
+
+== Mechanism ==
+160-kilodalton Native Cas9 requires a guide RNA composed of two disparate RNAs that associate – the CRISPR RNA (crRNA), and the trans-activating crRNA (tracrRNA).
+
+
+== Research ==
+In 2013, Mali, et al., as well as Gilbert, et al., reported that non-cleaving Cas9 variants can control transcriptional activators or repressors at specific DNA sequences. Also in 2013, Bikard, et al., reported that dCas9 blocks RNA polymerase at promoters or during elongation, silencing genes.  
+In 2014, Esvelt, Smidler, Catteruccia, and Church suggested that Cas9-based gene drives could edit entire organism populations.
+
+
+=== 2017-19 ===
+In 2017, Li, et al., reported that Cas9 targets Hepatitis B viral genome ends, reducing infection. 
+Jensen et al., reported that fused to chromatin remodelers, dCas9 alters chromatin structure. O’Geen, et al., reported that dCas9 with FOG1 represses genes by methylating H3K27. 
+Lowder, et al., reported that dCas9 represses plant genes like AtCSTF64 when fused to repressor domains. 
+In 2018, Lee, et al., reported that engineered Cas9 reduces off-target effects by altering reaction rates. 
+In 2019, Chen and Page-McCaw reported that Cas9 suppresses HIV-1 long terminal repeats, mutating the viral genome.
+
+
+=== 2020- ===
+In 2020, Uddin, Rudin, and Sen reported that Cas9 variants, such as Cas9 nickase, improve genome editing by reducing off-target effects.  
+
+
+== CRISPR-mediated immunity ==
+CRISPR systems in bacteria and archaea act as programmable restriction enzymes to combat viruses and plasmids. CRISPR loci consist of short, palindromic repeats and variable spacers (24–48 nucleotides) that store sequences from foreign DNA. Adjacent cas genes, including universal cas1 and cas2, and type II-specific cas9, encode proteins for immunity. Cas9 uses crRNA and tracrRNA to form a complex that targets and cleaves foreign DNA matching the spacer sequence. 
+
+
+=== Adaptation ===
+CRISPR systems integrate spacers from viral “protospacers” into the CRISPR locus, requiring a PAM (e.g., NGG in S. pyogenes) for recognition. Cas9 ensures functional spacer acquisition. However, spacers can be lost via homologous recombination. 
+
+
+=== CRISPR processing ===
+RNA polymerase transcribes the CRISPR locus into pre-crRNA, which specific endoribonucleases cleave into small crRNAs containing one spacer and a partial repeat. 
+
+
+=== Interference ===
+The crRNA, within a CASCADE complex, pairs with complementary foreign DNA. Cas9 cleaves the DNA if the spacer matches and the PAM is present, halting viral replication. 
+
+
+== Transcription regulation ==
+Inactive Cas9 (dCas9), lacking endonuclease activity, binds DNA to regulate transcription.  
+In eukaryotes, dCas9 targets enhancer sequences to prevent transcription factor assembly. Gilbert, Horlbeck, Adamson, Villalta, Chen, Whitehead, Guimaraes, Panning, Ploegh, Bassik, Qi, Kampmann, and Weissman conducted genome-wide dCas9 screens for gene repression. O’Connell, Oakes, Sternberg, East-Seletsky, Kaplan, and Doudna reported that Cas9 cleaves mRNA when hybridized with ssDNA containing a PAM complement. dCas9 fused to transcription activators, as in CRISPRa, activates genes, as reported by Gilbert et al. 
+
+
+== Structural studies ==
+Cas9 features a bi-lobed structure with an alpha-helical lobe (REC) and a nuclease lobe (NUC) containing HNH and RuvC domains, connected by a bridge helix. The HNH domain cleaves the target DNA strand, while RuvC cleaves the non-target strand. The PAM-interacting domain (PI, orange) recognizes the NGG PAM sequence. The sgRNA, replacing the crRNA-tracrRNA complex, forms a T-shaped structure with the target DNA. A 2014 study reported that REC1 and bridge helix domains are critical for sgRNA recognition. 
+
+
+=== DNA cleavage ===
+Cas9’s HNH and RuvC domains cleave the target and non-target DNA strands, respectively, requiring a PAM sequence (NGG for S. pyogenes). A 2020 study reported that NAG and NGA PAMs are less efficient. A 2016 study reported that cleavage often produces 1-nucleotide 5’ overhangs, favoring templated insertions. A 2024 study reported that 85% of on-target cleavages are blunt, while 15% have 1-nucleotide overhangs. A 2018 study reported that cleavage efficiency depends on free energy changes in the gRNA-DNA duplex. Another 2016 study reported that stable gRNA folding can impair cleavage. 
+
+
+== Challenges in bacterial editing ==
+A 1995 study reported that bacterial restriction-modification systems cleave foreign DNA, including Cas9-introduced genes, hindering genome editing. 
+
+
+== Applications ==
+
+
+=== Gene editing ===
+Cas9 edits genomes in a range of species, including yeast (Saccharomyces cerevisiae), Candida albicans, zebrafish (Danio rerio), fruit flies (Drosophila melanogaster), ants (Harpegnathos saltator and Ooceraea biroi), mosquitoes (Aedes aegypti), nematodes (Caenorhabditis elegans), plants, mice (Mus musculus domesticus), and monkeys.  
+
+
+=== Cellular defense ===
+CRISPR/Cas9 can help with bacterial defense against invaders such as bacteriophages, plasmids, and DNA viruses. Cas9, guided by RNA, acts as an endonuclease enzyme, targeting and cleaving foreign DNA. It unwinds foreign DNA and cleaves matching sites, similar to the RNA interference mechanism in eukaryotes. 
+
+
+=== Gene regulation ===
+Other versions of Cas9 can bind but not cleave DNA. They can be used to control transcriptional activator or repressor genes and manage gene activation and repression.  
+---  
+More technically, Cas9 is a RNA-guided DNA endonuclease enzyme associated with the Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) adaptive immune system in Streptococcus pyogenes. S. pyogenes utilizes CRISPR to memorize and Cas9 to later interrogate and cleave foreign DNA, such as invading bacteriophage DNA or plasmid DNA. Cas9 performs this interrogation by unwinding foreign DNA and checking for sites complementary to the 20 nucleotide spacer region of the guide RNA (gRNA). If the DNA substrate is complementary to the guide RNA, Cas9 cleaves the invading DNA. In this sense, the CRISPR-Cas9 mechanism parallels the RNA interference (RNAi) mechanism in eukaryotes. 
+Apart from its original function in bacterial immunity, Cas9 has been utilized as a genome engineering tool to induce site-directed double-strand breaks in DNA. These breaks can lead to gene inactivation or the introduction of heterologous genes through non-homologous end joining and homologous recombination respectively in model organisms. Research on cas9 variants has been a promising way of overcoming the limitation of the CRISPR-Cas9 genome editing. Examples include Cas9 nickase (Cas9n), a variant that induces single-stranded breaks (SSBs) or variants recognizing different PAM sequences. Alongside zinc finger nucleases and transcription activator-like effector nuclease (TALEN) proteins, Cas9 is becoming a prominent tool in the field of genome editing.
+Cas9 has gained traction in recent years because it can cleave nearly any sequence complementary to the guide RNA. Because the target specificity of Cas9 stems from the guide RNA:DNA complementarity and not modifications to the protein itself (like TALENs and zinc fingers), engineering Cas9 to target new DNA is straightforward.   Cas9 targeting has been simplified through the engineering of a chimeric single guide RNA (chiRNA). Scientists have suggested that Cas9-based gene drives may be capable of editing the genomes of entire populations of organisms. In 2015, Cas9 was used to modify the genome of human embryos for the first time.
+
+
+== History ==
+The Cas9 endonuclease is a four-component system that includes two small molecules: crRNA and trans-activating CRISPR RNA (tracrRNA). In 2012, Jennifer Doudna and Emmanuelle Charpentier re-engineered the Cas9 endonuclease into a more manageable two-component system by fusing the two RNA molecules into a "single-guide RNA" that, when combined with Cas9, could find and cut the DNA target specified by the guide RNA. This contribution was so significant that it was recognized by the Nobel Prize in Chemistry in 2020. By manipulating the nucleotide sequence of the guide RNA, the artificial Cas9 system could be programmed to target any DNA sequence for separation. Another collaboration comprising Virginijus Šikšnys, Gasiūnas, Barrangou, and Horvath showed that Cas9 from the S. thermophilus CRISPR system can also be reprogrammed to target a site of their choosing by changing the sequence of its crRNA. These advances fueled efforts to edit genomes with the modified CRISPR-Cas9 system.
+Groups led by Feng Zhang and George Church simultaneously published descriptions of genome editing in human cell cultures using CRISPR-Cas9 for the first time. It has since been used in a wide range of organisms, including baker's yeast (Saccharomyces cerevisiae), the opportunistic pathogen Candida albicans, zebrafish (Danio rerio), fruit flies (Drosophila melanogaster), ants (Harpegnathos saltator and Ooceraea biroi), mosquitoes (Aedes aegypti), nematodes (Caenorhabditis elegans), plants, mice (Mus musculus domesticus), monkeys and human embryos.
+CRISPR has been modified to make programmable transcription factors that allow activation or silencing of targeted genes.
+
+The CRISPR-Cas9 system has been shown to make effective gene edits in Human tripronuclear zygotes, as first described in a 2015 paper by Chinese scientists P. Liang and Y. Xu. The system made a successful cleavage of mutant Beta-Hemoglobin (HBB) in 28 out of 54 embryos. Four out of the 28 embryos were successfully recombined using a donor template. The scientists showed that during DNA recombination of the cleaved strand, the homologous endogenous sequence HBD competes with the exogenous donor template. DNA repair in human embryos is much more complicated and particular than in derived stem cells.
+
+
+== CRISPR-mediated immunity ==
+To survive in a variety of challenging, inhospitable habitats that are filled with bacteriophages, bacteria and archaea have evolved methods to evade and fend off predatory viruses. This includes the CRISPR system of adaptive immunity. In practice, CRISPR/Cas systems act as self-programmable restriction enzymes. CRISPR loci are composed of short, palindromic repeats that occur at regular intervals composed of alternate CRISPR repeats and variable CRISPR spacers between 24 and 48 nucleotides long. These CRISPR loci are usually accompanied by adjacent CRISPR-associated (cas) genes. In 2005, it was discovered by three separate groups that the spacer regions were homologous to foreign DNA elements, including plasmids and viruses. These reports provided the first biological evidence that CRISPRs might function as an immune system.
+Cas9 has been used often as a genome-editing tool. Cas9 has been used in recent developments in preventing viruses from manipulating hosts' DNA. Since the CRISPR-Cas9 was developed from bacterial genome systems, it can be used to target the genetic material in viruses. The use of the enzyme Cas9 can be a solution to many viral infections. Cas9 possesses the ability to target specific viruses by the targeting of specific strands of the viral genetic information. More specifically the Cas9 enzyme targets certain sections of the viral genome that prevents the virus from carrying out its normal function. Cas9 has also been used to disrupt the detrimental strand of DNA and RNA that cause diseases and mutated strands of DNA. Cas9 has already showed promise in disrupting the effects of HIV-1. Cas9 has been shown to suppress the expression of the long terminal repeats in HIV-1. When introduced into the HIV-1 genome Cas9 has shown the ability to mutate strands of HIV-1. Cas9 has also been used in the treatment of Hepatitis B through targeting of the ends of certain of long terminal repeats in the Hepatitis B viral genome. Cas9 has been used to repair the mutations causing cataracts in mice.
+
+CRISPR-Cas systems are divided into three major types (type I, type II, and type III) and twelve subtypes, which are based on their genetic content and structural differences. However, the core defining features of all CRISPR-Cas systems are the cas genes and their proteins: cas1 and cas2 are universal across types and subtypes, while cas3, cas9, and cas10 are signature genes for type I, type II, and type III, respectively.
+
+
+=== CRISPR-Cas defense stages ===
+
+
+==== Adaptation ====
+Adaptation involves recognition and integration of spacers between two adjacent repeats in the CRISPR locus. The "Protospacer" refers to the sequence on the viral genome that corresponds to the spacer. A short stretch of conserved nucleotides exists proximal to the protospacer, which is called the protospacer adjacent motif (PAM). The PAM is a recognition motif that is used to acquire the DNA fragment. In type II, Cas9 recognizes the PAM during adaptation in order to ensure the acquisition of functional spacers.
+Loss of spacers and even groups of several have also been observed by Aranaz et al. 2004 and Pourcel et al. 2007. This probably occurs through homologous recombination of the between-repeat material.
+
+
+==== CRISPR processing/biogenesis ====
+CRISPR expression includes the transcription of a primary transcript called a CRISPR RNA (pre-crRNA), which is transcribed from the CRISPR locus by RNA polymerase. Specific endoribonucleases then cleave the pre-crRNAs into small CRISPR RNAs (crRNAs).
+
+
+==== Interference/immunity ====
+Interference involves the crRNAs within a multi-protein complex called CASCADE, which can recognize and specifically base-pair with regions of inserting complementary foreign DNA. The crRNA-foreign nucleic acid complex is then cleaved, however if there are mismatches between the spacer and the target DNA, or if there are mutations in the PAM, then cleavage will not be initiated. In the latter scenario, the foreign DNA is not targeted for attack by the cell, thus the replication of the virus proceeds and the host is not immune to viral infection. The interference stage can be mechanistically and temporally distinct from CRISPR acquisition and expression, yet for complete function as a defense system, all three phases must be functional.
+Stage 1: CRISPR spacer integration. Protospacers and protospacer-associated motifs (shown in red) are acquired at the "leader" end of a CRISPR array in the host DNA. The CRISPR array is composed of spacer sequences (shown in colored boxes) flanked by repeats (black diamonds). This process requires Cas1 and Cas2 (and Cas9 in type II), which are encoded in the cas locus, which are usually located near the CRISPR array.
+Stage 2: CRISPR expression. Pre-crRNA is transcribed starting at the leader region by the host RNA polymerase and then cleaved by Cas proteins into smaller crRNAs containing a single spacer and a partial repeat (shown as hairpin structure with colored spacers).
+Stage 3: CRISPR interference. crRNA with a spacer that has strong complementarity to the incoming foreign DNA begins a cleavage event (depicted with scissors), which requires Cas proteins. DNA cleavage interferes with viral replication and provides immunity to the host. The interference stage can be functionally and temporarily distinct from CRISPR acquisition and expression (depicted by white line dividing the cell).
+
+
+=== Transcription deactivation using dCas9 ===
+dCas9, also referred to as endonuclease deficient Cas9 can be utilized to edit gene expression when applied to the transcription binding site of the desired section of a gene. The optimal function of dCas9 is attributed to its mode of action. Gene expression is inhibited when nucleotides are no longer added to the RNA chain and therefore terminating elongation of that chain, and as a result affects the transcription process. This process occurs when dCas9 is mass-produced so it is able to affect the most genes at any given time via a sequence specific guide RNA molecule. Since dCas9 appears to down regulate gene expression, this action is amplified even more when it is used in conjunction with repressive chromatin modifier domains. The dCas9 protein has other functions outside of the regulation of gene expression. A promoter can be added to the dCas9 protein which allows them to work with each other to become efficient at beginning or stopping transcription at different sequences along a strand of DNA. These two proteins are specific in where they act on a gene. This is prevalent in certain types of prokaryotes when a promoter and dCas9 align themselves together to impede the ability of elongation of polymer of nucleotides coming together to form a transcribed piece of DNA. Without the promoter, the dCas9 protein does not have the same effect by itself or with a gene body.
+When examining the effects of repression of transcription further, H3K27, an amino acid component of a histone, becomes methylated through the interaction of dCas9 and a peptide called FOG1. Essentially, this interaction causes gene repression on the C + N terminal section of the amino acid complex at the specific junction of the gene, and as a result, terminates transcription.
+dCas9 also proves to be efficient when it comes to altering certain proteins that can create diseases. When the dCas9 attaches to a form of RNA called guide-RNA, it prevents the proliferation of repeating codons and DNA sequences that might be harmful to an organism's genome. Essentially, when multiple repeat codons are produced, it elicits a response, or recruits an abundance of dCas9 to combat the overproduction of those codons and results in the shut-down of transcription. dCas9 works synergistically with gRNA and directly affects the DNA polymerase II from continuing transcription.
+Further explanation of how the dCas9 protein works can be found in their utilization of plant genomes by the regulation of gene production in plants to either increase or decrease certain characteristics. The CRISPR-CAS9 system has the ability to either upregulate or downregulate genes. The dCas9 proteins are a component of the CRISPR-CAS9 system and these proteins can repress certain areas of a plant gene. This happens when dCAS9 binds to repressor domains, and in the case of the plants, deactivation of a regulatory gene such as AtCSTF64, does occur.
+Bacteria are another focus of the usage of dCas9 proteins as well. Since eukaryotes have a larger DNA makeup and genome; the much smaller bacteria are easy to manipulate. As a result, eukaryotes use dCas9 to inhibit RNA polymerase from continuing the process of transcription of genetic material.
+
+
+== Structural and biochemical studies ==
+
+
+=== Crystal structure ===
+
+Cas9 features a bi-lobed architecture with the guide RNA nestled between the alpha-helical lobe (blue) and the nuclease lobe (cyan, orange, and gray). These two lobes are connected through a single bridge helix. There are two nuclease domains located in the multi-domain nuclease lobe, the RuvC (gray) which cleaves the non-target DNA strand, and the HNH nuclease domain (cyan) that cleaves the target strand of DNA. The RuvC domain is encoded by sequentially disparate sites that interact in the tertiary structure to form the RuvC cleavage domain (See right figure).
+
+A key feature of the target DNA is that it must contain a protospacer adjacent motif (PAM) consisting of the three-nucleotide sequence- NGG. This PAM is recognized by the PAM-interacting domain (PI domain, orange) located near the C-terminal end of Cas9. Cas9 undergoes distinct conformational changes between the apo (apoenzyme), guide RNA bound, and guide RNA:DNA bound states.
+Cas9 recognizes the stem-loop architecture inherent in the CRISPR locus, which mediates the maturation of crRNA-tracrRNA ribonucleoprotein complex. Cas9 in complex with CRISPR RNA (crRNA) and trans-activating crRNA (tracrRNA) further recognizes and degrades the target dsDNA. In the co-crystal structure shown here, the crRNA-tracrRNA complex is replaced by a chimeric single-guide RNA (sgRNA, in red) which has been proved to have the same function as the natural RNA complex. The sgRNA base paired with target ssDNA is anchored by Cas9 as a T-shaped architecture. This crystal structure of the DNA-bound Cas9 enzyme reveals distinct conformational changes in the alpha-helical lobe with respect to the nuclease lobe, as well as the location of the HNH domain. The protein consists of a recognition lobe (REC) and a nuclease lobe (NUC). All regions except the HNH form tight interactions with each other and sgRNA-ssDNA complex, while the HNH domain forms few contacts with the rest of the protein. In another conformation of Cas9 complex observed in the crystal, the HNH domain is not visible. These structures suggest the conformational flexibility of HNH domain.
+To date, at least three crystal structures have been studied and published. One representing a conformation of Cas9 in the apo state, and two representing Cas9 in the DNA bound state.
+
+
+=== Interactions with sgRNA ===
+
+In sgRNA-Cas9 complex, based on the crystal structure, REC1, BH and PI domains have important contacts with backbone or bases in both repeat and spacer region. Several Cas9 mutants including REC1 or REC2 domains deletion and residues mutations in BH have been tested. REC1 and BH related mutants show lower or none activity compared with wild type, which indicate these two domains are crucial for the sgRNA recognition at repeat sequence and stabilization of the whole complex. Although the interactions between spacer sequence and Cas9 as well as PI domain and repeat region need further studies, the co-crystal demonstrates clear interface between Cas9 and sgRNA.
+
+
+=== DNA cleavage ===
+
+Previous sequence analysis and biochemical studies have posited that Cas9 contains two nuclease domains: an McrA-like HNH nuclease domain and a RuvC-like nuclease domain. These HNH and RuvC-like nuclease domains are responsible for cleavage of the complementary/target and non-complementary/non-target DNA strands, respectively. Despite low sequence similarity, the sequence similar to RNase H has a RuvC fold (one member of RNase H family) and the HNH region folds as T4 Endo VII (one member of HNH endonuclease family).
+Wild-type S. pyogenes Cas9 requires magnesium (Mg2+) cofactors for the RNA-mediated DNA cleavage; however, Cas9 has been shown to exhibit varying levels of activity in the presence of other divalent metal ions. For instance, Cas9 in the presence of manganese (Mn2+) has been shown to be capable of RNA-independent DNA cleavage. The kinetics of DNA cleavage by Cas9 have been of great interest to the scientific community, as this data provides insight into the intricacies of the reaction. While the cleavage of DNA by RNA-bound Cas9 has been shown to be relatively rapid (k ≥ 700 s−1), the release of the cleavage products is very slow (t1/2 = ln(2)/k ≈ 43–91 h), essentially rendering Cas9 a single-turnover enzyme. Additional studies regarding the kinetics of Cas9 have shown engineered Cas9 to be effective in reducing off-target effects by modifying the rate of the reaction.
+The cleavage efficiency of Cas9 depends on numerous factors. A key requirement is the presence of a valid PAM at the non-target strand 3 nucleotides downstream from the cleavage site. The canonical PAM sequence for S. Pyogenes Cas9 is NGG, but alternative motifs are tolerated with lower cleavage activity. The most efficient alternative PAM motifs for the wild-type S. Pyogenes Cas9 are NAG and NGA. The sequence composition at the target DNA site complementary to the 20 nucleotide spacer region of the gRNA also affects cleavage efficiency. The most relevant nucleotide composition properties that impact efficiency are those in the PAM-proximal region. Free energy changes of nucleic acids are also highly relevant in defining cleavage activity.  In addition to efficiency, the nucleotide composition of the five nucleotides closest to the PAM in the target sequence also affects the scission profile, influencing whether DNA cleavage is blunt or staggered. Guide RNAs that bind to the DNA forming a duplex that falls into a restricted range of binding free energy changes that excludes extremely weak or stable bindings generally perform efficiently. Stable guide RNA folding conformations can also impair cleavage.
+
+
+=== DNA cleavage patterns ===
+The Cas9 nuclease contains two nuclease domains, HNH and RuvC, responsible for cleaving the target strand (TS) and nontarget strand (NTS), respectively. The seminal structural characterization of the nuclease demonstrated that the HNH domain precisely cleaves between the positions 18 and 17 (18|17) of the protospacer, while the RuvC cuts between the same bases and at additional downstream positions.
+Using molecular dynamics simulation, a study reported that cleavage of the NTS between 17|16 of the target sequence was more energetically favored than 18|17, generating 1 nucleotide 5' ssDNA overhangs. Notably, the authors demonstrated that the 5' overhangs are filled in, and the product of DNA repair are templated insertions, where the 5' overhang is used as a template by Pol4 for the repair reaction. The association between staggered cleavage and precise templated insertions was supported by additional studies in human cells.
+Recently, a high-throughput investigation of Cas9 scission profile revealed that ~85% of on-target cleavage is blunt, whereas ~15% had a 1 nucleotide 5' overhang. Off-targets had a higher staggered cleavage rate compared to on-target sites, with approximately 1/3 of off-targets displaying 5' overhangs from 1 to 3 nucleotides. The scission profile analysis revealed that sequence patterns in the target sequence favor the formation of blunt or staggered DNA cuts, and staggered cleavage favored the formation of predictable indels.
+
+
+=== Problems bacteria pose to Cas9 editing ===
+Most archaea and bacteria stubbornly refuse to allow a Cas9 to edit their genome. This is because they can attach foreign DNA, that does not affect them, into their genome. Another way that these cells defy Cas9 is by process of restriction modification (RM) system. When a bacteriophage enters a bacteria or archaea cell it is targeted by the RM system. The RM system then cuts the bacteriophages DNA into separate pieces by restriction enzymes and uses endonucleases to further destroy the strands of DNA. This poses a problem to Cas9 editing because the RM system also targets the foreign genes added by the Cas9 process.
+
+
+== Applications of Cas9 to transcription tuning ==
+
+
+=== Interference of transcription by dCas9 ===
+Due to the unique ability of Cas9 to bind to essentially any complement sequence in any genome, researchers wanted to use this enzyme to repress transcription of various genomic loci. To accomplish this, the two crucial catalytic residues of the RuvC and HNH domain can be mutated to alanine abolishing all endonuclease activity of Cas9. The resulting protein coined 'dead' Cas9 or 'dCas9' for short, can still tightly bind to dsDNA. This catalytically inactive Cas9 variant has been used for both mechanistic studies into Cas9 DNA interrogative binding and as a general programmable DNA binding RNA-Protein complex.
+The interaction of dCas9 with target dsDNA is so tight that high molarity urea protein denaturant can not fully dissociate the dCas9 RNA-protein complex from dsDNA target. dCas9 has been targeted with engineered single guide RNAs to transcription initiation sites of any loci where dCas9 can compete with RNA polymerase at promoters to halt transcription. Also, dCas9 can be targeted to the coding region of loci such that inhibition of RNA Polymerase occurs during the elongation phase of transcription. In Eukaryotes, silencing of gene expression can be extended by targeting dCas9 to enhancer sequences, where dCas9 can block assembly of transcription factors leading to silencing of specific gene expression. Moreover, the guide RNAs provided to dCas9 can be designed to include specific mismatches to its complementary cognate sequence that will quantitatively weaken the interaction of dCas9 for its programmed cognate sequence allowing a researcher to tune the extent of gene silencing applied to a gene of interest.
+This technology is similar in principle to RNAi such that gene expression is being modulated at the RNA level. However, the dCas9 approach has gained much traction as there exist less off-target effects and in general larger and more reproducible silencing effects through the use of dCas9 compared to RNAi screens. Furthermore, because the dCas9 approach to gene silencing can be quantitatively controlled, a researcher can now precisely control the extent to which a gene of interest is repressed allowing more questions about gene regulation and gene stoichiometry to be answered.
+Beyond direct binding of dCas9 to transcriptionally sensitive positions of loci, dCas9 can be fused to a variety of modulatory protein domains to carry out a myriad of functions. Recently, dCas9 has been fused to chromatin remodeling proteins (HDACs/HATs) to reorganize the chromatin structure around various loci. This is important in targeting various eukaryotic genes of interest as heterochromatin structures hinder Cas9 binding. Furthermore, because Cas9 can react to heterochromatin, it is theorized that this enzyme can be further applied to studying the chromatin structure of various loci. Additionally, dCas9 has been employed in genome wide screens of gene repression. By employing large libraries of guide RNAs capable of targeting thousands of genes, genome wide genetic screens using dCas9 have been conducted.
+Another method for silencing transcription with Cas9 is to directly cleave mRNA products with the catalytically active Cas9 enzyme. This approach is made possible by hybridizing ssDNA with a PAM complement sequence to ssRNA allowing for a dsDNA-RNA PAM site for Cas9 binding. This technology makes available the ability to isolate endogenous RNA transcripts in cells without the need to induce chemical modifications to RNA or RNA tagging methods.
+
+
+=== Transcription activation by dCas9 fusion proteins ===
+In contrast to silencing genes, dCas9 can also be used to activate genes when fused to transcription activating factors. These factors include subunits of bacterial RNA Polymerase II and traditional transcription factors in eukaryotes. Recently, genome-wide screens of transcription activation have also been accomplished using dCas9 fusions named 'CRISPRa' for activation.
+
+
+== See also ==
+
+DCas9 activation system
+CRISPR
+CRISPR gene editing
+Genome editing
+Zinc finger nuclease
+Transcription activator-like effector nuclease
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Overview of all the structural information available in the PDB for UniProt: Q99ZW2 (Streptococcus pyogenes CRISPR-associated endonuclease Cas9/Csn1) at the PDBe-KB.
