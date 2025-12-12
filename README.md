@@ -277,7 +277,8 @@ Question ID,Fold,Answer,Category,Text
 
 ## HuggingFace dataset view 
 
-![alt text](<../Screenshot 2025-12-01 221843.png>)
+<img width="1887" height="903" alt="Screenshot 2025-12-01 221843" src="https://github.com/user-attachments/assets/403570b6-6bc8-46c7-b8b8-ea484b229a26" />
+
 
 ---
 
@@ -422,7 +423,6 @@ The converter outputs **one JSON file and one QANTA CSV file per packet/round**,
 
 ## 🔗 Links
 
-- **GitHub:** https://github.com/Hindolch/QANTA-PIPELINE-UMD
 - **Hugging Face:** https://huggingface.co/datasets/kenzi123/UMD-QANTA-PIPELINE
 - **Original QANTA:** https://people.cs.umass.edu/~miyyer/qblearn/index.html
 
